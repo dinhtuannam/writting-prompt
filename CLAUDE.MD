@@ -23,7 +23,7 @@ Thay `<story>` bằng thư mục dự án đang thao tác (vd `story-1`):
 6. `<story>/summaries/chapter-summaries.md` — 2-3 mục gần nhất
 7. `<story>/style/style-guide.md`
 
-Nếu `<story>/lore/` còn trống → đây là dự án mới, cần chạy `/expand-lore` trước khi viết chương đầu tiên.
+Nếu `<story>/lore/` còn trống → đây là dự án mới. Đọc `<story>/lore/raw-idea.md` trước: nếu đã có ý tưởng raw, chạy `/expand-lore`; nếu file này cũng trống, hỏi người dùng ý tưởng raw trước khi làm gì khác.
 
 ## Quy tắc cập nhật (BẮT BUỘC sau khi 1 chương được người dùng duyệt)
 1. Cập nhật `<story>/STATE.md`
@@ -31,6 +31,7 @@ Nếu `<story>/lore/` còn trống → đây là dự án mới, cần chạy `/
 3. Thêm mục tóm tắt mới vào `<story>/summaries/chapter-summaries.md`
 4. Cập nhật `<story>/plot/threads.md` (mở thread mới nếu chương vừa viết tạo ra, đóng thread nếu đã giải quyết)
 5. Nếu số chương vừa hoàn thành chia hết cho 5, viết thêm 1 mục vào `<story>/summaries/arc-summaries.md`
+6. Nếu chương vừa viết giới thiệu nhân vật/phe phái/hệ thống/địa danh MỚI chưa từng có trong lore (AI tự sáng tạo thêm để phục vụ mạch truyện), phải tạo ngay hồ sơ tương ứng: nhân vật mới → file riêng trong `<story>/characters/` dựa trên `_template.md` + thêm dòng vào `_index.md`; phe phái/hệ thống/địa danh mới → thêm dòng vào `<story>/lore/factions.md` / `systems.md` / `geography.md`. Không được để thông tin mới chỉ nằm trong văn xuôi chương — nếu không ghi lại, AI sẽ quên ở các chương sau.
 
 Không bước nào ở trên được bỏ qua, kể cả khi chương "có vẻ không thay đổi gì nhiều".
 
@@ -41,7 +42,7 @@ Mặc định **1 chương / lần gọi** `/next-chapter`. Lý do: mỗi chươ
 | Thư mục/file | Vai trò |
 |---|---|
 | `STATE.md` | Trạng thái truyện hiện tại — nguồn sự thật duy nhất |
-| `lore/` | Thế giới, hệ thống, phe phái, địa lý, lịch sử |
+| `lore/` | Thế giới, hệ thống, phe phái, địa lý, lịch sử, ý tưởng gốc (`raw-idea.md`) |
 | `characters/` | Hồ sơ nhân vật + roster (`_index.md`) |
 | `timeline/` | Nhật ký sự kiện theo thời gian |
 | `plot/` | Outline tổng thể + tracker tuyến truyện đang mở |

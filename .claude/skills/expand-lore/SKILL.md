@@ -9,7 +9,7 @@ description: Mở rộng một ý tưởng raw của người dùng thành lore 
 Nếu người dùng chỉ định tên story trong lệnh (vd `/expand-lore story-2`), dùng story đó. Nếu không, đọc `ACTIVE-STORY.md` ở gốc workspace. Gọi thư mục này là `<story>` cho các bước sau.
 
 ## Bước 1 — Nhận ý tưởng raw
-Đọc ý tưởng raw người dùng cung cấp trong tin nhắn hiện tại (thể loại, nhân vật chính, bối cảnh sơ bộ, hoặc chỉ một câu ý tưởng ngắn).
+Đọc `<story>/lore/raw-idea.md`. Nếu file đã có nội dung thực (khác trạng thái trống mặc định), dùng nội dung đó làm ý tưởng raw. Nếu file còn trống, hỏi người dùng ý tưởng raw ngay trong hội thoại (thể loại, nhân vật chính, bối cảnh sơ bộ, hoặc chỉ một câu ý tưởng ngắn), sau đó ghi NGUYÊN VĂN câu trả lời của người dùng vào `<story>/lore/raw-idea.md` trước khi sang Bước 2.
 
 ## Bước 2 — Đọc lore hiện có để không mâu thuẫn
 Đọc toàn bộ `<story>/lore/world-overview.md`, `<story>/lore/systems.md`, `<story>/lore/factions.md`, `<story>/lore/geography.md`, `<story>/lore/history.md` nếu đã có nội dung thực (khác "(chưa xác định)"/"(chưa có)").
