@@ -4,3 +4,4 @@
 
 | Chương | Thời điểm trong truyện | Sự kiện | Nhân vật liên quan | Hệ quả |
 |---|---|---|---|---|
+| 1 | Đêm, đầu Chu Kỳ mới | Trong phiên gác đêm, Lang Sương tấn công thôn Bạch Liễu; Kael đẩy Bram thoát nạn và Dấu Ấn Lười Biếng của cậu thức tỉnh, đẩy lui con thú | Kael, Bram, Elin, bà Sela, Ordan | Bà Sela xác nhận Kael là Selector trước cả làng; Kael nghe Lời Thì Thầm lần đầu; dân làng hoảng sợ/kính nể lẫn lộn |
