@@ -171,6 +171,160 @@ function debounce(fn, delay) {
   };
 }
 
+// ===== Routing and DOM rendering (impure) =====
+
+let currentScrollHandler = null;
+
+function getAppEl() {
+  return document.getElementById('app');
+}
+
+function clearScrollHandler() {
+  if (currentScrollHandler) {
+    window.removeEventListener('scroll', currentScrollHandler);
+    currentScrollHandler = null;
+  }
+}
+
+async function render() {
+  clearScrollHandler();
+  const hash = window.location.hash.replace(/^#\/?/, '');
+  const parts = hash.split('/').filter(Boolean);
+  try {
+    if (parts.length === 0) {
+      await renderStoryList();
+    } else if (parts.length === 1) {
+      await renderChapterList(parts[0]);
+    } else {
+      await renderReader(parts[0], parts[1]);
+    }
+  } catch (err) {
+    renderError(err);
+  }
+}
+
+function renderError(err) {
+  getAppEl().innerHTML = `
+    <a href="#/" class="back-link">← Thư viện truyện</a>
+    <div class="error">
+      <p>${escapeHtml(err.message || 'Đã có lỗi xảy ra.')}</p>
+      <button id="retry-btn">Thử lại</button>
+    </div>
+  `;
+  document.getElementById('retry-btn').addEventListener('click', render);
+}
+
+async function renderStoryList() {
+  getAppEl().innerHTML = '<p class="loading">Đang tải danh sách truyện...</p>';
+  const tree = await fetchTree(false);
+  const storyIds = parseStoriesFromTree(tree);
+  if (storyIds.length === 0) {
+    getAppEl().innerHTML = '<p>Chưa có truyện nào.</p>';
+    return;
+  }
+  const items = await Promise.all(
+    storyIds.map(async (id) => {
+      let title = id;
+      let description = '';
+      try {
+        const raw = await fetchRaw(`${id}/lore/world-overview.md`);
+        const parsed = parseWorldOverview(raw);
+        if (parsed.title) title = parsed.title;
+        if (parsed.description) description = parsed.description;
+      } catch (e) {
+        // lore chưa có nội dung hoặc chưa tải được — dùng id làm tên tạm.
+      }
+      return { id, title, description };
+    })
+  );
+  getAppEl().innerHTML = `
+    <header class="page-header">
+      <h1>Thư viện truyện</h1>
+      <button id="refresh-btn">Làm mới</button>
+    </header>
+    <ul class="story-list">
+      ${items
+        .map(
+          (item) => `
+        <li>
+          <a href="#/${item.id}">
+            <span class="story-title">${escapeHtml(item.title)}</span>
+            ${item.description ? `<span class="story-desc">${escapeHtml(item.description)}</span>` : ''}
+          </a>
+        </li>
+      `
+        )
+        .join('')}
+    </ul>
+  `;
+  document.getElementById('refresh-btn').addEventListener('click', async () => {
+    await fetchTree(true);
+    render();
+  });
+}
+
+async function renderChapterList(storyId) {
+  getAppEl().innerHTML = '<p class="loading">Đang tải danh sách chương...</p>';
+  const tree = await fetchTree(false);
+  const chapters = parseChaptersFromTree(tree, storyId);
+  const backLink = '<a href="#/" class="back-link">← Thư viện truyện</a>';
+  if (chapters.length === 0) {
+    getAppEl().innerHTML = `${backLink}<p>Chưa có chương nào.</p>`;
+    return;
+  }
+  getAppEl().innerHTML = `
+    ${backLink}
+    <h1>${escapeHtml(storyId)}</h1>
+    <ul class="chapter-list">
+      ${chapters
+        .map((ch) => `<li><a href="#/${storyId}/${ch.stem}">Chương ${ch.number}</a></li>`)
+        .join('')}
+    </ul>
+  `;
+}
+
+async function renderReader(storyId, chapterStem) {
+  getAppEl().innerHTML = '<p class="loading">Đang tải chương...</p>';
+  const tree = await fetchTree(false);
+  const chapters = parseChaptersFromTree(tree, storyId);
+  const index = chapters.findIndex((ch) => ch.stem === chapterStem);
+  const raw = await fetchRaw(`${storyId}/chapters/${chapterStem}.md`);
+  const html = renderMarkdownToHtml(raw);
+  const prev = index > 0 ? chapters[index - 1] : null;
+  const next = index >= 0 && index < chapters.length - 1 ? chapters[index + 1] : null;
+  const nav = `
+    <nav class="chapter-nav">
+      ${prev ? `<a href="#/${storyId}/${prev.stem}">← Chương ${prev.number}</a>` : '<span></span>'}
+      <a href="#/${storyId}" class="back-link">Danh sách chương</a>
+      ${next ? `<a href="#/${storyId}/${next.stem}">Chương ${next.number} →</a>` : '<span></span>'}
+    </nav>
+  `;
+  getAppEl().innerHTML = `
+    <div class="reader-controls">
+      <button id="font-smaller">A-</button>
+      <button id="font-larger">A+</button>
+    </div>
+    ${nav}
+    <article class="chapter-content">${html}</article>
+    ${nav}
+  `;
+  document.getElementById('font-smaller').addEventListener('click', () => setFontSize(getFontSize() - 2));
+  document.getElementById('font-larger').addEventListener('click', () => setFontSize(getFontSize() + 2));
+  restoreProgress(storyId, chapterStem);
+  currentScrollHandler = debounce(() => saveProgress(storyId, chapterStem), 300);
+  window.addEventListener('scroll', currentScrollHandler);
+}
+
+function init() {
+  setFontSize(getFontSize());
+  window.addEventListener('hashchange', render);
+  render();
+}
+
+if (typeof window !== 'undefined') {
+  window.addEventListener('DOMContentLoaded', init);
+}
+
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = {
     parseStoriesFromTree,
