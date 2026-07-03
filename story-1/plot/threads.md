@@ -4,6 +4,7 @@
 
 | Thread | Mở ở chương | Trạng thái | Dự kiến trả (chương) | Ghi chú |
 |---|---|---|---|---|
-| Phản ứng của thôn Bạch Liễu và nguy cơ tin tức lan tới Giáo Hội | 1 | Mở | ~3-5 | Cả làng đã chứng kiến Kael awaken; Giáo Hội Ánh Sáng Vĩnh Cửu có Ủy Ban Giám Sát Dấu Ấn chuyên truy tìm Selector mới |
+| Hạn 3 ngày của Ordan — Kael phải quyết định đi hay ở | 2 | Mở | ~3-4 | Nếu ở lại, Ordan sẽ buộc phải báo Kael lên Ủy Ban Giám Sát Dấu Ấn |
+| Phản ứng của thôn Bạch Liễu và nguy cơ tin tức lan tới Giáo Hội | 1 | Mở | ~3-6 | Cả làng đã chứng kiến Kael awaken; Giáo Hội Ánh Sáng Vĩnh Cửu có Ủy Ban Giám Sát Dấu Ấn chuyên truy tìm Selector mới |
 | Bản chất thật của Lời Thì Thầm | 1 | Mở | (chưa xác định — bí ẩn dài hơi) | Lần đầu xuất hiện: "Cuối cùng con cũng tỉnh rồi" |
 | Cái chết/mất tích của cha mẹ Kael | 1 | Mở | (chưa xác định) | Xe hàng vỡ nát, dấu vuốt hằn sâu, gần rìa Hoang Nguyên Xám — chưa rõ có phải Lang Sương hay thứ khác gây ra |

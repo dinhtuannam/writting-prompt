@@ -5,3 +5,4 @@
 | Chương | Thời điểm trong truyện | Sự kiện | Nhân vật liên quan | Hệ quả |
 |---|---|---|---|---|
 | 1 | Đêm, đầu Chu Kỳ mới | Trong phiên gác đêm, Lang Sương tấn công thôn Bạch Liễu; Kael đẩy Bram thoát nạn và Dấu Ấn Lười Biếng của cậu thức tỉnh, đẩy lui con thú | Kael, Bram, Elin, bà Sela, Ordan | Bà Sela xác nhận Kael là Selector trước cả làng; Kael nghe Lời Thì Thầm lần đầu; dân làng hoảng sợ/kính nể lẫn lộn |
+| 2 | Ngày hôm sau | Ordan cho Kael hạn 3 ngày để tự quyết định trước khi luật buộc phải báo lên Ủy Ban Giám Sát Dấu Ấn; bà Sela kể lại quá khứ từng thấy một Selector Nhẫn Nại và nhắc lại huyền thoại Bạo Chúa Kiêu Ngạo/Vị Thánh Từ Ái | Kael, Elin, Ordan, bà Sela | Kael nghe Lời Thì Thầm lần 2; bắt đầu cân nhắc rời làng để bảo vệ Elin và Bạch Liễu khỏi sự chú ý của Giáo Hội |
