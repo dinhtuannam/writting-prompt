@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 9
+- **Chương hiện tại đã viết xong:** 10
 - **Arc hiện tại:** Arc 1: Thức Tỉnh (xem `plot/outline.md`)
-- **Ngày/thời điểm trong truyện:** Buổi trưa ngày thứ hai tại Cảng Thị Halvern
+- **Ngày/thời điểm trong truyện:** Đêm ngày thứ hai tại Cảng Thị Halvern
 - **POV hiện tại:** Kael (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Kael, Elin, Ryn (Toran đang nghỉ ở quán trọ)
-- **Địa điểm hiện tại:** Khu chợ gần bến tàu, Cảng Thị Halvern
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Ryn cho biết đoàn tàu Giáo Hội tới vì Thẩm Sát Viên Corin của Ủy Ban Giám Sát Dấu Ấn giám sát vận chuyển cổ vật Aurum — nhưng cũng nghe đồn ông ta để mắt tới dấu hiệu Selector trong vùng. Tại khu chợ, Kael công khai can thiệp để cứu một cậu bé đánh giày vô tội suýt bị vu oan là Selector vì lòng tham của một thương nhân; Ryn giúp xác minh. Một người áo xám bí ẩn đã quan sát toàn bộ sự việc và ghi chú lại trước khi biến mất về phía bến tàu của Corin
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Hành động can thiệp công khai của Kael đã lọt vào mắt một người có vẻ liên quan tới Thẩm Sát Viên Corin — nguy cơ bị chú ý giờ đã hiện hữu ngay tại Halvern
-- **Mục tiêu ngắn hạn của nhân vật chính:** Tránh để hành động vừa rồi kéo sự chú ý của Corin về phía mình, trong khi vẫn tìm hiểu thêm về bí ẩn Đế Chế Aurum qua Ryn
+- **Nhân vật đang có mặt tại hiện trường:** Kael, Elin, Corin (vừa rời đi)
+- **Địa điểm hiện tại:** Phòng trọ của Kael và Elin, Cảng Thị Halvern
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Thẩm Sát Viên Corin đích thân tìm đến, không dùng vũ lực, đưa ra một lựa chọn: Kael tự nguyện về Thánh Đô Lumis để được "đăng ký giám sát" (không phải tù đày) và những người đã giúp cậu (Elin, Toran, Ryn) sẽ không bị liên lụy; hoặc tiếp tục chạy trốn và khiến họ bị buộc tội che giấu Selector. Corin sẽ quay lại lúc bình minh để nghe câu trả lời
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Kael phải quyết định trước bình minh: hy sinh tự do của bản thân để bảo vệ những người mình yêu thương, hay tiếp tục chạy trốn và đặt họ vào vòng nguy hiểm pháp lý. Lời Thì Thầm đặt câu hỏi: đây có phải lần đầu tiên cậu phải chọn giữa bản thân và người mình yêu thương?
+- **Mục tiêu ngắn hạn của nhân vật chính:** Quyết định trả lời Corin thế nào trước bình minh — không có lựa chọn nào là dễ dàng hay rõ ràng đúng/sai
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 (chưa có ghi chú — sẽ được AI tự cập nhật sau mỗi chương)

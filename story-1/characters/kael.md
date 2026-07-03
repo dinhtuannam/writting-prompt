@@ -19,3 +19,4 @@
 | 4-6 | Trên đường tới Vareth cùng Toran; biết Ủy Ban Giám Sát Dấu Ấn truy tìm mình; hiểu thêm quy luật kích hoạt của Dấu Ấn |
 | 7 | Đánh bại thợ săn tiền thưởng Draeth để bảo vệ Toran; Dấu Ấn lộ thêm biểu hiện mới (lớp vảy đen, mắt thú hé mở) |
 | 8-9 | Tới Halvern; gặp Ryn; chủ động can thiệp cứu một cậu bé bị vu oan là Selector tại chợ — dấu mốc rõ rệt cho thấy cậu không còn là người "quay đi" như ba năm trước, dù hành động đó có thể đã kéo sự chú ý của Thẩm Sát Viên Corin |
+| 10 | Đối mặt trực tiếp với Thẩm Sát Viên Corin; nhận tối hậu thư phải chọn giữa tự do bản thân và sự an toàn của Elin/Toran/Ryn trước bình minh |
