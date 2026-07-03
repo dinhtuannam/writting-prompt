@@ -80,6 +80,56 @@ function clamp(value, min, max) {
   return Math.min(max, Math.max(min, value));
 }
 
+// ===== GitHub fetch + cache (impure) =====
+
+const CACHE_KEY = 'reader:cache:tree';
+const CACHE_TTL_MS = 10 * 60 * 1000;
+
+function readCache() {
+  try {
+    const raw = localStorage.getItem(CACHE_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    if (Date.now() - parsed.timestamp > CACHE_TTL_MS) return null;
+    return parsed.tree;
+  } catch (e) {
+    return null;
+  }
+}
+
+function writeCache(tree) {
+  try {
+    localStorage.setItem(CACHE_KEY, JSON.stringify({ timestamp: Date.now(), tree }));
+  } catch (e) {
+    // localStorage may be unavailable (e.g. private browsing); ignore.
+  }
+}
+
+async function fetchTree(forceRefresh) {
+  if (!forceRefresh) {
+    const cached = readCache();
+    if (cached) return cached;
+  }
+  const url = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/git/trees/${GITHUB_BRANCH}?recursive=1`;
+  const res = await fetch(url);
+  if (!res.ok) {
+    throw new Error('Không lấy được danh sách truyện từ GitHub (mã lỗi ' + res.status + ').');
+  }
+  const data = await res.json();
+  const tree = data.tree || [];
+  writeCache(tree);
+  return tree;
+}
+
+async function fetchRaw(path) {
+  const url = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/${path}`;
+  const res = await fetch(url);
+  if (!res.ok) {
+    throw new Error('Không tải được nội dung: ' + path);
+  }
+  return res.text();
+}
+
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = {
     parseStoriesFromTree,
