@@ -13,6 +13,7 @@
 | Kỵ sĩ đơn độc bám theo đoàn xe trong vùng đất trung lập | 6 | Đóng (Chương 7) | — | Xác định là thợ săn tiền thưởng Draeth |
 | Draeth sẽ quay lại trả thù/săn thưởng | 7 | Mở | ~9-12 | Bị đánh bại và bị thương ở biên giới Vareth nhưng thề sẽ quay lại, có thể không một mình |
 | Bí ẩn Đế Chế Aurum và nguồn gốc thật của Chu Kỳ/Dấu Ấn | 8 | Mở (dài hơi) | (xuyên suốt series) | Ryn xác nhận giả thuyết đã có trong `lore/history.md`: người Aurum có thể biết nguồn gốc thật của Chu Kỳ/Dấu Ấn |
-| Đoàn tàu Giáo Hội cập bến Halvern ngay đêm đầu tiên | 8 | Mở | ~9-10 | Trùng hợp đáng ngại — chưa rõ có phải đang truy tìm Kael hay chỉ là công việc thường lệ của Giáo Hội tại cảng thị |
+| Đoàn tàu Giáo Hội cập bến Halvern ngay đêm đầu tiên | 8 | Đóng một phần (Chương 9) | — | Xác định lý do chính thức: Thẩm Sát Viên Corin giám sát vận chuyển cổ vật Aurum; nhưng xem thread mới về việc ông ta cũng để mắt tới Selector |
+| Thẩm Sát Viên Corin và người áo xám bí ẩn đã chú ý tới Kael | 9 | Mở | ~10-12 | Kael công khai can thiệp cứu một cậu bé bị vu oan tại chợ; một người liên quan tới Corin đã quan sát và ghi chú lại toàn bộ sự việc |
 | Bản chất thật của Lời Thì Thầm | 1 | Mở | (chưa xác định — bí ẩn dài hơi) | Lần đầu xuất hiện: "Cuối cùng con cũng tỉnh rồi" |
 | Cái chết/mất tích của cha mẹ Kael | 1 | Mở | (chưa xác định) | Xe hàng vỡ nát, dấu vuốt hằn sâu, gần rìa Hoang Nguyên Xám — chưa rõ có phải Lang Sương hay thứ khác gây ra |

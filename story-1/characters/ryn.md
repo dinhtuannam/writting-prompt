@@ -9,9 +9,10 @@
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Cô dường như đã đoán ra Kael là Selector chỉ qua quan sát — chưa rõ cô biết/nghi ngờ đến mức nào, hoặc ý đồ thật sự khi chủ động kể chuyện Aurum cho một người lạ.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói nhanh, hào hứng khi nhắc tới khảo cổ, có phần đường đột.
 - **Trạng thái hiện tại:** Còn sống, đang ở Halvern chờ thuyền.
-- **Xuất hiện lần cuối:** Chương 8
+- **Xuất hiện lần cuối:** Chương 9
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 8 | Gặp Kael tại quán trọ; kể giả thuyết về liên hệ giữa Đế Chế Aurum và nguồn gốc Chu Kỳ/Dấu Ấn Selector |
+| 9 | Tiết lộ danh tính Thẩm Sát Viên Corin; dùng uy tín Hội Khảo Cổ Tàn Nguyệt giúp giải oan cho cậu bé đánh giày tại chợ |
