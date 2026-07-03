@@ -8,11 +8,12 @@
 - **Mối quan hệ với nhân vật khác:** Cho Kael và Elin đi nhờ xe đổi lại việc phụ trông la ban đêm.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** (Đã lộ ở Chương 5) Ông biết về Dấu Ấn của Kael từ đêm đầu tiên, do thấy lộ ra khi Kael ngủ cạnh lửa trại.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói chuyện phiếm, thoải mái, nhưng thỉnh thoảng buông một câu cho thấy ông quan sát kỹ hơn vẻ ngoài thể hiện.
-- **Trạng thái hiện tại:** Còn sống, đang đồng hành cùng Kael và Elin trên đường tới Vareth.
-- **Xuất hiện lần cuối:** Chương 5
+- **Trạng thái hiện tại:** Còn sống, bị thương nhẹ ở vai sau trận đánh với Draeth, đang cùng Kael và Elin vào lãnh thổ Vareth.
+- **Xuất hiện lần cuối:** Chương 7
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 4 | Gặp Kael và Elin trên đường, cho đi nhờ xe; kể tin đồn về Selector Từ Ái và việc Ủy Ban Giám Sát Dấu Ấn truy tìm Selector mới |
 | 5 | Nói dối bảo vệ Kael tại trạm kiểm soát sông Ilyre; thừa nhận đã biết về Dấu Ấn từ trước; kể lại chuyện đứa cháu đã mất khiến ông không tin giáo lý Giáo Hội về Dấu Ấn |
+| 7 | Bị Draeth (người quen biết từ trước) tấn công và làm bị thương tại biên giới Vareth; được Kael bảo vệ |

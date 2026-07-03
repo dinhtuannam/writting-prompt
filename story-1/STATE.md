@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 6
+- **Chương hiện tại đã viết xong:** 7
 - **Arc hiện tại:** Arc 1: Thức Tỉnh (xem `plot/outline.md`)
-- **Ngày/thời điểm trong truyện:** Ngày thứ ba trên đường rời Bạch Liễu, đang băng qua vùng đất trung lập
+- **Ngày/thời điểm trong truyện:** Ngày thứ ba trên đường, ngay trước biên giới Vareth
 - **POV hiện tại:** Kael (ngôi thứ 3 giới hạn)
 - **Nhân vật đang có mặt tại hiện trường:** Kael, Elin, Toran
-- **Địa điểm hiện tại:** Trên đường xuyên vùng đất trung lập, hướng tới Liên Minh Thương Cảng Vareth
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Kael hiểu thêm một quy luật về Dấu Ấn qua Lời Thì Thầm: nó chỉ phản ứng khi cậu cần bảo vệ điều gì đó hơn cả bản thân mình, không thể triệu hồi theo ý muốn để tự vệ đơn thuần. Một kỵ sĩ đơn độc đã bám theo đoàn xe từ sáng, giữ khoảng cách cố định
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Người cưỡi ngựa bí ẩn vẫn bám theo phía sau, không đuổi kịp cũng không bỏ xa — không ai trong đoàn tin đó chỉ là một lữ khách tình cờ
-- **Mục tiêu ngắn hạn của nhân vật chính:** Đến Vareth an toàn cùng Elin và Toran, xác định xem kẻ bám theo có phải mối đe dọa thực sự không
+- **Địa điểm hiện tại:** Cây cầu đá biên giới, ngay trước lãnh thổ Liên Minh Thương Cảng Vareth
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Thợ săn tiền thưởng Draeth phục kích đoàn xe vì phần thưởng 50 đồng vàng của Giáo Hội. Kael dùng Dấu Ấn để bảo vệ Toran, lần đầu thấy lớp vảy đen phủ lên da mình; Elin góp phần quyết định bằng một nắm cát ném vào mắt Draeth. Draeth bị đánh bại nhưng chạy thoát, thề sẽ quay lại
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Draeth đã chạy thoát và thề sẽ quay lại, có thể không chỉ một mình; Dấu Ấn của Kael dường như đang "tỉnh" dần hơn (con thú không còn ngủ sâu như trước)
+- **Mục tiêu ngắn hạn của nhân vật chính:** Vào được lãnh thổ Vareth an toàn, đề phòng Draeth quay lại trả thù
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 (chưa có ghi chú — sẽ được AI tự cập nhật sau mỗi chương)

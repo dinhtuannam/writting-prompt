@@ -8,5 +8,6 @@
 | Ordan | Phụ (trưởng thôn) | Còn sống | `ordan.md` |
 | Bram | Phụ (bạn canh gác) | Còn sống | `bram.md` |
 | Toran | Phụ (thương nhân đường dài) | Còn sống | `toran.md` |
+| Draeth | Phản diện phụ (thợ săn tiền thưởng) | Còn sống, bị thương, bỏ chạy | `draeth.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).
