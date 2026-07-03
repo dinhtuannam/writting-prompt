@@ -130,6 +130,47 @@ async function fetchRaw(path) {
   return res.text();
 }
 
+// ===== Reading UX helpers (impure) =====
+
+const FONT_SIZE_KEY = 'reader:fontSize';
+const FONT_SIZE_MIN = 14;
+const FONT_SIZE_MAX = 28;
+const FONT_SIZE_DEFAULT = 18;
+
+function getFontSize() {
+  const raw = localStorage.getItem(FONT_SIZE_KEY);
+  const parsed = raw ? parseInt(raw, 10) : NaN;
+  return isNaN(parsed) ? FONT_SIZE_DEFAULT : clamp(parsed, FONT_SIZE_MIN, FONT_SIZE_MAX);
+}
+
+function setFontSize(size) {
+  const clamped = clamp(size, FONT_SIZE_MIN, FONT_SIZE_MAX);
+  localStorage.setItem(FONT_SIZE_KEY, String(clamped));
+  document.documentElement.style.setProperty('--reading-font-size', clamped + 'px');
+}
+
+function progressKey(storyId, chapterStem) {
+  return `reader:progress:${storyId}:${chapterStem}`;
+}
+
+function saveProgress(storyId, chapterStem) {
+  localStorage.setItem(progressKey(storyId, chapterStem), String(window.scrollY));
+}
+
+function restoreProgress(storyId, chapterStem) {
+  const raw = localStorage.getItem(progressKey(storyId, chapterStem));
+  const y = raw ? parseInt(raw, 10) : NaN;
+  if (!isNaN(y)) window.scrollTo(0, y);
+}
+
+function debounce(fn, delay) {
+  let timer = null;
+  return (...args) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => fn(...args), delay);
+  };
+}
+
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = {
     parseStoriesFromTree,
