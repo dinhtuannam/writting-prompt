@@ -10,5 +10,6 @@
 | Ủy Ban Giám Sát Dấu Ấn đã cử người truy tìm Kael | 4 | Mở, leo thang (Chương 5) | ~7-10 | Xác nhận có lệnh truy tìm đích danh đặc điểm của Kael tại trạm kiểm soát sông Ilyre; thoát được lần đầu nhưng nguy cơ còn đó |
 | Danh tính và số phận của các Selector khác trong Chu Kỳ này | 4 | Mở | (dài hơi — xuyên suốt series) | Đã biết có ít nhất 1 Selector khác: một cô gái quý tộc mang Dấu Ấn Từ Ái, được Giáo Hội đón về Thánh Đô Lumis |
 | Vì sao Toran cố tình không hỏi tên/chuyện riêng của Kael và Elin | 4 | Đóng (Chương 5) | — | Toran thừa nhận đã thấy Dấu Ấn từ đêm đầu; bảo vệ Kael vì ký ức về đứa cháu đã mất, không tin giáo lý Giáo Hội |
+| Kỵ sĩ đơn độc bám theo đoàn xe trong vùng đất trung lập | 6 | Mở | ~7 | Giữ khoảng cách cố định suốt từ sáng; danh tính và ý đồ chưa rõ — có thể là thợ săn tiền thưởng hoặc người của Ủy Ban Giám Sát Dấu Ấn |
 | Bản chất thật của Lời Thì Thầm | 1 | Mở | (chưa xác định — bí ẩn dài hơi) | Lần đầu xuất hiện: "Cuối cùng con cũng tỉnh rồi" |
 | Cái chết/mất tích của cha mẹ Kael | 1 | Mở | (chưa xác định) | Xe hàng vỡ nát, dấu vuốt hằn sâu, gần rìa Hoang Nguyên Xám — chưa rõ có phải Lang Sương hay thứ khác gây ra |
