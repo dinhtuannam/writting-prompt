@@ -12,3 +12,4 @@
 | Thôn Bạch Liễu | Ngôi làng nhỏ ở rìa phía tây Vương Triều Elyndor, giáp ranh Hoang Nguyên Xám | Quê nhà của Kael; nơi Dấu Ấn Selector của Kael thức tỉnh (Chương 1) |
 | Thị Trấn Rowan | Thị trấn gần Thôn Bạch Liễu nhất có một nhà thờ nhỏ của Giáo Hội Ánh Sáng Vĩnh Cửu | Nơi có khả năng tin tức về Kael sẽ được báo lên nếu Ordan buộc phải báo cáo (Chương 2); Kael chủ động tránh nơi này (Chương 4) |
 | Sông Ilyre | Con sông rộng chia cắt lãnh thổ Vương Triều Elyndor với vùng đất trung lập dẫn tới Liên Minh Thương Cảng Vareth; có bến phà và trạm kiểm soát của Giáo Hội | Nơi Kael suýt bị Ủy Ban Giám Sát Dấu Ấn phát hiện (Chương 5) |
+| Cảng Thị Halvern | Thành phố cảng lớn thuộc Liên Minh Thương Cảng Vareth, đông đúc, thế tục, không ai xét hỏi người lạ | Nơi trú ẩn tạm thời của Kael, Elin và Toran; nơi gặp Ryn (Chương 8) |

@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 7
+- **Chương hiện tại đã viết xong:** 8
 - **Arc hiện tại:** Arc 1: Thức Tỉnh (xem `plot/outline.md`)
-- **Ngày/thời điểm trong truyện:** Ngày thứ ba trên đường, ngay trước biên giới Vareth
+- **Ngày/thời điểm trong truyện:** Đêm đầu tiên tại Cảng Thị Halvern
 - **POV hiện tại:** Kael (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Kael, Elin, Toran
-- **Địa điểm hiện tại:** Cây cầu đá biên giới, ngay trước lãnh thổ Liên Minh Thương Cảng Vareth
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Thợ săn tiền thưởng Draeth phục kích đoàn xe vì phần thưởng 50 đồng vàng của Giáo Hội. Kael dùng Dấu Ấn để bảo vệ Toran, lần đầu thấy lớp vảy đen phủ lên da mình; Elin góp phần quyết định bằng một nắm cát ném vào mắt Draeth. Draeth bị đánh bại nhưng chạy thoát, thề sẽ quay lại
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Draeth đã chạy thoát và thề sẽ quay lại, có thể không chỉ một mình; Dấu Ấn của Kael dường như đang "tỉnh" dần hơn (con thú không còn ngủ sâu như trước)
-- **Mục tiêu ngắn hạn của nhân vật chính:** Vào được lãnh thổ Vareth an toàn, đề phòng Draeth quay lại trả thù
+- **Nhân vật đang có mặt tại hiện trường:** Kael, Elin, Toran, Ryn
+- **Địa điểm hiện tại:** Một quán trọ gần bến cảng, Cảng Thị Halvern (Liên Minh Thương Cảng Vareth)
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Nhóm đã tới Halvern an toàn. Kael gặp Ryn, một scout của Hội Khảo Cổ Tàn Nguyệt, người hé lộ giả thuyết rằng Đế Chế Aurum cổ đại biết nhiều về nguồn gốc thật của Chu Kỳ/Dấu Ấn hơn ai hết. Đêm đó, chuông báo hiệu một đoàn tàu của Giáo Hội vừa cập bến Halvern
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Một đoàn tàu của Giáo Hội vừa cập bến Halvern ngay đêm đầu tiên họ tới — trùng hợp đáng ngại, chưa rõ có liên quan đến việc truy tìm Kael hay không
+- **Mục tiêu ngắn hạn của nhân vật chính:** Tìm hiểu xem đoàn tàu Giáo Hội có phải đang truy tìm mình không, trong khi cân nhắc có nên tin tưởng Ryn và Hội Khảo Cổ Tàn Nguyệt hay không
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 (chưa có ghi chú — sẽ được AI tự cập nhật sau mỗi chương)

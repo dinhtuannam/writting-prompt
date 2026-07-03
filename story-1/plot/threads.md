@@ -12,5 +12,7 @@
 | Vì sao Toran cố tình không hỏi tên/chuyện riêng của Kael và Elin | 4 | Đóng (Chương 5) | — | Toran thừa nhận đã thấy Dấu Ấn từ đêm đầu; bảo vệ Kael vì ký ức về đứa cháu đã mất, không tin giáo lý Giáo Hội |
 | Kỵ sĩ đơn độc bám theo đoàn xe trong vùng đất trung lập | 6 | Đóng (Chương 7) | — | Xác định là thợ săn tiền thưởng Draeth |
 | Draeth sẽ quay lại trả thù/săn thưởng | 7 | Mở | ~9-12 | Bị đánh bại và bị thương ở biên giới Vareth nhưng thề sẽ quay lại, có thể không một mình |
+| Bí ẩn Đế Chế Aurum và nguồn gốc thật của Chu Kỳ/Dấu Ấn | 8 | Mở (dài hơi) | (xuyên suốt series) | Ryn xác nhận giả thuyết đã có trong `lore/history.md`: người Aurum có thể biết nguồn gốc thật của Chu Kỳ/Dấu Ấn |
+| Đoàn tàu Giáo Hội cập bến Halvern ngay đêm đầu tiên | 8 | Mở | ~9-10 | Trùng hợp đáng ngại — chưa rõ có phải đang truy tìm Kael hay chỉ là công việc thường lệ của Giáo Hội tại cảng thị |
 | Bản chất thật của Lời Thì Thầm | 1 | Mở | (chưa xác định — bí ẩn dài hơi) | Lần đầu xuất hiện: "Cuối cùng con cũng tỉnh rồi" |
 | Cái chết/mất tích của cha mẹ Kael | 1 | Mở | (chưa xác định) | Xe hàng vỡ nát, dấu vuốt hằn sâu, gần rìa Hoang Nguyên Xám — chưa rõ có phải Lang Sương hay thứ khác gây ra |
