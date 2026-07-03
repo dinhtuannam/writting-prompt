@@ -110,8 +110,7 @@ async function fetchTree(forceRefresh) {
     const cached = readCache();
     if (cached) return cached;
   }
-  const url = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/git/trees/${GITHUB_BRANCH}?recursive=1`;
-  const res = await fetch(url);
+  const res = await fetch('/api/tree');
   if (!res.ok) {
     throw new Error('Không lấy được danh sách truyện từ GitHub (mã lỗi ' + res.status + ').');
   }
