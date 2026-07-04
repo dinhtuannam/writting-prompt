@@ -10,8 +10,8 @@
 - **Mối quan hệ với nhân vật khác:** Chồng của Maren, cha của Ronan. Cựu thuộc hạ của Lãnh Chúa Arik.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Lý do thật ông xin rời quân ngũ — để bảo vệ Ronan — chưa được nói ra với Arik hay bất kỳ ai ngoài gia đình.
 - **Giọng nói / cách nói chuyện đặc trưng:** Giọng trầm, rắn rỏi, quen chỉ huy nhưng kiệm lời.
-- **Trạng thái hiện tại:** Đang làm nhiệm vụ cận vệ tại Grimhold, lưng vẫn còn quấn băng dưới giáp nhưng vẫn đứng thẳng, cảnh giác như một người lính kỳ cựu. Chưa biết con trai đã nhìn thấy mình từ xa.
-- **Xuất hiện lần cuối:** Chương 5 (thấy từ xa, không có tương tác trực tiếp)
+- **Trạng thái hiện tại:** Bị sung vào đội tuần tra cử đi gia cố các làng dọc sông Kelt sau vụ tấn công bí ẩn — xếp vào nhóm lính đi đầu (lính bị kỷ luật, dễ bị hy sinh trước tiên nếu có phục kích). Xuất phát lúc bình minh Chương 6, trao đổi ánh mắt và hai từ không thành tiếng ("Sống tốt") với Ronan trước khi rời cổng.
+- **Xuất hiện lần cuối:** Chương 6
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -20,3 +20,4 @@
 | 2 | Được Lãnh Chúa Arik nhắc tới: đã bị bắt giữ cùng Maren, bị tuyên án 100 roi và ép quay lại phục vụ trong đội cận vệ của Arik cho đến ngày chết |
 | 3 | Chịu đủ 100 roi trước mặt Ronan, im lặng chịu đựng không kêu la; bị dẫn đi bắt đầu nhiệm vụ cận vệ ngay chiều hôm đó mà không được từ biệt con trai |
 | 5 | Ronan thoáng thấy ông đứng gác trong sân trong từ cửa sổ Đại Sảnh trong lúc bữa tiệc diễn ra — một khoảnh khắc nhìn thấy nhưng không thể gọi tên hay tiếp cận |
+| 6 | Bị xướng tên vào đội tuần tra biên giới cử đi sau vụ ba làng bị đốt; xếp vào nhóm lính đi đầu dễ bị hy sinh; trao ánh mắt và hai từ không thành tiếng với Ronan trước khi hàng quân rời Grimhold lúc bình minh |

@@ -7,10 +7,10 @@
 | Ronan | Nhân vật chính | Leviathan (giấu kín 16 năm, nay đã lộ) | Hiện Thân (đột phá qua trận sói ở Chương 1 — chưa phát hiện Blessing nào) | Bị giam, bị cưỡng ép dùng thuốc an thần | `ronan.md` |
 | Rodrick | Phụ (cha) | Gấu | Hiện Thân (cựu chiến binh, chưa thể hiện Blessing cụ thể trên trang truyện) | Bị bắt giữ, chờ thụ án | `rodrick.md` |
 | Maren | Phụ (mẹ) | Bồ Câu | Thức Tỉnh (chưa có màn chứng minh dưới áp lực sinh tử trên trang truyện) | Bị bắt giữ, chờ thụ án | `maren.md` |
-| Lãnh Chúa Arik | Phản diện chính | **(chưa tiết lộ — cần giải quyết sớm, đã quá 3 chương)** | **(chưa xác định — phụ thuộc vào Dấu Ấn, cần giải quyết cùng lúc)** | Còn sống | `arik.md` |
+| Lãnh Chúa Arik | Phản diện chính | Sói Đầu Đàn (Ấn Lớn) — lộ Chương 6 | Thú Quân (Tầng 4) — Monarch Aura áp chế cả phòng, Chương 6 | Còn sống | `arik.md` |
 | Freya | Nữ chính (con gái Arik) | Rồng | Phàm Thể (chưa có khoảnh khắc chân thực với bản chất riêng — vụ sói là khoảnh khắc của Ronan, không phải của cô) | Còn sống, là chủ nhân của Ronan | `freya.md` |
 | Ordell | Phụ (thợ rèn nghi thức, Hội Rèn Kiềm Ấn) | Cú | Thức Tỉnh (chuyên môn cao nhưng không phải chiến binh) | Còn sống | `ordell.md` |
-| Gerta | Phụ (Quản Thú của Grimhold) | **(chưa tiết lộ — cố tình không lộ ra ngoài, cần xác nhận trong 1-2 chương tới)** | **(chưa xác định — phụ thuộc vào Dấu Ấn)** | Còn sống | `gerta.md` |
+| Gerta | Phụ (Quản Thú của Grimhold) | **(chưa gọi tên — manh mối vật lý ở Ch6, PHẢI gọi tên trong 1-2 chương tới)** | **(chưa xác định — phụ thuộc vào Dấu Ấn)** | Còn sống | `gerta.md` |
 | Cade | Phụ (dã thú kỳ cựu) | Hổ | Hiện Thân (đạt được trước khi bị bắt; 12 năm bị Khế Ước kìm hãm khiến tiến trình gần như đóng băng, có dấu hiệu suy thoái) | Còn sống | `cade.md` |
 | Cassius | Phản diện tiềm năng (con trai Arik) | Sư Tử | Thức Tỉnh (tự tin thái quá so với thực lực — chưa từng chứng minh bản thân dưới áp lực sinh tử thật sự) | Còn sống | `cassius.md` |
 

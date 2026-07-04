@@ -16,4 +16,9 @@
 | Quá khứ thật của Cade — Ấn Hổ "thức tỉnh" quá mạnh giết nhầm đồng đội | 4 | Mở | (chưa xác định) | Mới chỉ biết qua lời kể ngắn gọn của Gerta; chi tiết thật chưa rõ |
 | Quan hệ căng thẳng giữa Cassius và Freya về cách đối xử với Ronan | 5 | Mở | (dài hơi) | Cassius thích sỉ nhục Ronan để phô diễn quyền lực; Freya rõ ràng khó chịu nhưng chưa dám phản kháng công khai |
 | Liệu Freya sẽ tiếp tục nhượng bộ áp lực từ Cassius/gia tộc hay dần đứng về phía Ronan | 5 | Mở | (dài hơi) | Cô đã cho thấy sự xấu hổ thật sự, nhưng vẫn tuân theo áp lực gia đình khi bị dồn ép |
-| Ronan có thể chạm tới hoặc liên lạc với Rodrick/Maren tại Grimhold không | 5 | Mở | (dài hơi) | Mới chỉ nhìn thấy Rodrick từ xa qua cửa sổ, không thể tiếp cận |
+| Ronan có thể chạm tới hoặc liên lạc với Rodrick/Maren tại Grimhold không | 5 | Mở — leo thang (Chương 6) | (dài hơi) | Chỉ trao đổi được ánh mắt và hai từ không thành tiếng trước khi Rodrick bị cử đi tuần tra biên giới nguy hiểm |
+| Dấu Ấn thật của Lãnh Chúa Arik là gì | 2 | Đóng (Chương 6) | — | Sói Đầu Đàn, Tầng 4 (Thú Quân) — lộ qua Monarch Aura áp chế cả phòng trong họp quân sự khẩn cấp |
+| Dấu Ấn thật của Gerta là gì | 4 | Mở — có manh mối cụ thể (Chương 6) | 7-8 | Vô thức làm lõm thanh chắn cửa gỗ khi căng thẳng — ngụ ý Ấn Lớn với sức mạnh thể chất, giấu có chủ đích. PHẢI gọi tên trong 1-2 chương tới |
+| "Bọn Vô Chủ" tấn công ba làng dọc sông Kelt là ai, mục đích thật sự là gì | 6 | Mở | (dài hơi) | Có kỷ luật, không cờ hiệu, có ít nhất 2 người mang Ấn hạng cao ra tay; Arik gọi đây là một "câu hỏi thăm dò" chứ không phải xâm lược thật |
+| Liệu Rodrick có sống sót qua đợt tuần tra biên giới không | 6 | Mở — treo lơ lửng, nguy cấp | 7-8 | Bị xếp vào nhóm lính đi đầu dễ hy sinh nhất; trao lời tạm biệt không thành tiếng với Ronan trước khi lên đường |
+| Ronan có thể khai thác thêm giới hạn lỏng lẻo của Vòng Kiềm Ấn không | 4 | Mở — tiến triển nhẹ (Chương 6) | (dài hơi) | Tự thử nghiệm thành công: giới hạn tới trễ hơn một phần nhịp khi Gerta mất tập trung, chưa nói với ai kể cả Cade |
