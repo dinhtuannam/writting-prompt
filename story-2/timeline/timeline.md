@@ -5,3 +5,4 @@
 | Chương | Thời điểm trong truyện | Sự kiện | Nhân vật liên quan | Hệ quả |
 |---|---|---|---|---|
 | 1 | Chiều/tối, hiện tại | Ronan nghe tiếng kêu cứu trong Hắc Mộc Lâm, lao tới cứu một cô gái quý tộc khỏi con sói trắng khổng lồ đã giết hộ vệ của cô; giết được sói nhưng bị cắn trọng thương ở hông rồi bất tỉnh | Ronan, cô gái quý tộc Gia Tộc Voss (chưa rõ tên) | Ronan bị thương nặng, có nguy cơ lộ Dấu Ấn Leviathan; cô gái chạy đi gọi người giúp |
+| 2 | Đêm cùng ngày | Bastian và Maren tìm thấy Ronan bất tỉnh, phát hiện Dấu Ấn thật lộ ra qua vết thương và kịp che lại trước khi lính của Gia Tộc Voss tới; cô gái tự giới thiệu là Seris Voss, hứa báo cha đến cảm ơn | Ronan, Bastian, Maren, Seris Voss | Bí mật của Ronan được giữ kín trong gang tấc; Bá Tước Voss sắp chú ý tới gia đình; Dấu Ấn của Ronan bắt đầu "cựa mình" |
