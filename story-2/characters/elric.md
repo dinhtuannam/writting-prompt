@@ -8,11 +8,12 @@
 - **Mối quan hệ với nhân vật khác:** Được Tobias (đồng nghiệp tại Học Viện) giới thiệu gặp gia đình Ronan. Có vẻ ngay từ đầu đã nghi ngờ đúng bản chất câu hỏi của Ronan, dù không nói thẳng ra.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** (Đã lộ ở Chương 28) 30 năm trước, khi còn là tập sự trẻ, ông được Hội Đồng giao nhiệm vụ tiêu hủy mọi ghi chép về Sarai (Leviathan thứ 3) nhưng chỉ đủ can đảm cứu lại một mảnh; người bạn Rowan xin ông giúp/đi cùng tìm sự thật ở phương bắc, ông từ chối vì sợ hãi cho sự nghiệp của mình, và Rowan không bao giờ trở về. Vẫn chưa biết ông có đọc toàn bộ ghi chép gốc trước khi tiêu hủy hay không.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ngắn gọn, chính xác, giọng khô khốc như giấy cũ. Hiếm khi giải thích quá mức cần thiết.
-- **Trạng thái hiện tại:** Còn sống, đã trao mảnh ghi chép về Sarai cho gia đình Ronan; đang đối mặt nguy cơ bị Cassian phát hiện đã lấy tài liệu khỏi kho niêm phong.
-- **Xuất hiện lần cuối:** Chương 28
+- **Trạng thái hiện tại:** Còn sống (tính đến lần cuối được thấy); đã đối chất trực tiếp với Cassian, nhận trách nhiệm và nói dối rằng đã đốt tấm da thuộc để bảo vệ gia đình Ronan. Số phận sau đó chưa rõ — gia đình rời đi trước khi biết kết quả.
+- **Xuất hiện lần cuối:** Chương 29
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 25 | Được Tobias giới thiệu với gia đình Ronan tại Tháp Sử Liệu; nhận ra câu hỏi của Ronan về Leviathan không đơn thuần tò mò; xác nhận có ghi chép về Leviathan thứ 3 nhưng từ chối tiết lộ ngay; cảnh báo phe phái nội bộ nguy hiểm; hứa tự tìm lại ghi chép trong vài ngày; hé lộ bí ẩn về một "món nợ" cá nhân chưa trả |
 | 28 | Triệu tập gia đình bí mật, tiết lộ toàn bộ câu chuyện Sarai và Bộ Lạc Sói Xám; kể lại quá khứ với Rowan; trao tấm da thuộc cho Ronan; cảnh báo nguy cơ từ Cassian đang tăng cao |
+| 29 | Đối chất trực tiếp với Cassian, thừa nhận đã giữ lại tài liệu 30 năm trước nhưng nói dối rằng vừa đốt nó; ngụ ý khéo léo để gia đình rời đi ngay; hoàn thành món nợ với Rowan bằng hành động can đảm ông chưa từng có |

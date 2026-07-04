@@ -8,10 +8,11 @@
 - **Mối quan hệ với nhân vật khác:** Tập sự dưới quyền Elric hai năm. Gặp Ronan tình cờ tại Thư Viện Chính, nhanh chóng trở thành bạn.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** (chưa có)
 - **Giọng nói / cách nói chuyện đặc trưng:** Thẳng thắn, hay tự nhận xét về chính lời mình vừa nói, ấm áp nhưng không xâm phạm ranh giới người khác.
-- **Trạng thái hiện tại:** Còn sống, không biết gì về bí mật thật của Ronan.
-- **Xuất hiện lần cuối:** Chương 26
+- **Trạng thái hiện tại:** Còn sống, không biết gì về bí mật thật của Ronan; nhận ra cậu đang giấu điều gì đó lớn khi cậu rời đi đột ngột nhưng chọn không gặng hỏi.
+- **Xuất hiện lần cuối:** Chương 29
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 26 | Gặp Ronan tại Thư Viện Chính, dẫn cậu tham quan; mời cậu tới buổi đọc sách mở; cảnh báo về Trưởng Lão Cassian mà không biết mức độ quan trọng của lời cảnh báo đó |
+| 29 | Phát hiện gia đình Ronan rời Học Viện giữa đêm; không gặng hỏi dù nhận ra có chuyện lớn; tặng Ronan cuốn sổ tay của mình như một lời hứa ngầm sẽ gặp lại |

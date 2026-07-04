@@ -26,15 +26,17 @@
 | Trát triệu tập tới Ravensmoor — trình diện hay bỏ trốn | 21 | Đóng (Chương 22) | — | Gia đình chọn bỏ trốn ngay, hướng tới Học Viện Bách Thú |
 | Hành trình tới Học Viện Bách Thú, né tránh Đoàn Kỵ Sĩ Bình Minh | 22 | Đóng (Chương 24) | — | Đã tới nơi an toàn, không gặp thêm trở ngại nhờ đi cùng Tobias |
 | Chính trị nội bộ Học Viện Bách Thú — không phải ai cũng đáng tin | 24 | Đóng một phần (Chương 25) | — | Elric xác nhận cụ thể: có phe học giả cấp cao sẵn sàng báo Đoàn Kỵ Sĩ nếu nghe câu hỏi sai chỗ; xem thread mới về nguy cơ bị phát hiện trong Học Viện |
-| Nguy cơ gia đình bị phe thân Đoàn Kỵ Sĩ trong Học Viện phát hiện | 25 | Mở | (chưa xác định) | Elric dặn không được hỏi ai khác về Leviathan thứ 3; chưa rõ danh tính cụ thể của phe nguy hiểm này |
+| Nguy cơ gia đình bị phe thân Đoàn Kỵ Sĩ trong Học Viện phát hiện | 25 | Đóng (Chương 29) | — | Cassian phát hiện niêm phong bị phá nhưng Elric nhận hết trách nhiệm và nói dối đã tiêu hủy tài liệu; gia đình rời đi an toàn trước khi bị liên đới trực tiếp |
 | Tìm sử liệu về Leviathan thứ 3 (không trở thành đại họa) tại Học Viện Bách Thú | 22 | Đóng (Chương 28) | — | Elric tiết lộ đầy đủ câu chuyện Sarai đã biết được; xem thread mới về đoạn kết bị thất lạc |
 | Nội dung thật của ghi chép Leviathan thứ 3 mà Elric sẽ tìm lại | 25 | Đóng (Chương 28) | — | Sarai — sinh ~350 năm trước, được Bộ Lạc Sói Xám nhận nuôi, sống 43 năm không gây đại họa; xem thread mới về đoạn kết bị xé mất |
 | Cách Sarai qua đời — trang cuối ghi chép đã bị xé mất có chủ đích | 28 | Mở — mục tiêu chính hướng đi tiếp theo | (dài hơi) | Có thể chỉ còn trong ký ức truyền miệng của Bộ Lạc Sói Xám ở Hoang Địa Phương Bắc |
 | "Món nợ" bí ẩn của Elric — ai từng hỏi ông câu hỏi này trước đây | 25 | Đóng (Chương 28) | — | Là Rowan, bạn tập sự cũ của Elric, người đã một mình lên phương bắc 30 năm trước và không bao giờ trở về; xem thread mới |
 | Số phận của Rowan — người bạn cũ của Elric đã mất tích ở phương bắc | 28 | Mở | (dài hơi) | Elric nhờ gia đình tìm hiểu giúp nếu có manh mối trên đường tới Bộ Lạc Sói Xám |
 | Trưởng Lão Cassian để ý bất thường tới khách vãng lai mới tới Học Viện | 26 | Đóng một phần (Chương 27) | — | Xác nhận: Cassian trực tiếp tiếp cận Ronan, biết về cuộc gặp với Elric; xem thread mới về hành động cụ thể tiếp theo của ông |
-| Cassian sẽ hành động thế nào để bảo vệ sự trung lập của Học Viện | 27 | Mở — nguy cơ tăng cao (Chương 28) | 29-30 | Elric cảnh báo Cassian có thể phát hiện ghi chép về Sarai đã bị lấy khỏi kho niêm phong bất cứ lúc nào |
-| Tình bạn giữa Ronan và Isolde, xây trên một bí mật cô không hề biết | 26 | Mở | (dài hơi) | Người bạn đồng trang lứa đầu tiên của Ronan ngoài gia đình và Seris; rủi ro nếu sự thật của cậu bị lộ trước mặt cô |
+| Cassian sẽ hành động thế nào để bảo vệ sự trung lập của Học Viện | 27 | Đóng một phần (Chương 29) | — | Ra lệnh kiểm tra niêm phong, đối chất trực tiếp Elric; xem thread mới về số phận Elric sau lời thú tội |
+| Số phận của Elric sau khi nhận trách nhiệm và nói dối trước Cassian | 29 | Mở | (chưa xác định) | Ông có thể mất vị trí Thủ Thư hoặc bị kỷ luật nặng hơn; gia đình rời đi mà không biết kết quả |
+| Tình bạn giữa Ronan và Isolde, xây trên một bí mật cô không hề biết | 26 | Đóng một phần (Chương 29) | — | Ronan phải rời đi đột ngột không giải thích; Isolde tặng cuốn sổ tay như lời hứa gặp lại — xem thread mới về việc giữ lời hứa đó |
+| Lời hứa quay lại trả cuốn sổ tay cho Isolde | 29 | Mở | (dài hơi) | Biểu tượng cho hy vọng Ronan sẽ có thể quay lại Học Viện một ngày nào đó |
 | Giáo Phái Vực Sâu (Yseult) vẫn theo dõi và mời gọi Ronan | 20 | Mở — mối đe dọa/cám dỗ song song | 21+ | Thông điệp trong vỏ ốc xác nhận Yseult biết về Aldous và vẫn muốn chiêu mộ Ronan; gia đình đã từ chối nhưng lời mời còn đó |
 | Dấu Ấn Leviathan của Ronan bắt đầu "cựa mình" sau trận chiến | 2 | Mở | (dài hơi) | Có thể liên quan đến cơ chế cộng hưởng cảm xúc đã ghi trong `lore/systems.md` |
 | Lời nguyền Leviathan có phải định mệnh thật hay chỉ là định kiến tự ứng nghiệm | 1 | Mở (dài hơi) | (xuyên suốt series) | Bí ẩn trung tâm — xem `lore/history.md` về manh mối Leviathan thứ 3 chưa gây họa |

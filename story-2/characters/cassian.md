@@ -8,11 +8,12 @@
 - **Mối quan hệ với nhân vật khác:** Đồng nghiệp lâu năm của Elric tại Học Viện, dường như đã bất đồng quan điểm từ lâu trước khi gia đình Ronan xuất hiện. Đã trực tiếp cảnh báo Ronan tại buổi đọc sách mở.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Chưa rõ ông đã biết chính xác bao nhiêu về thân phận thật của Ronan, hay chỉ đang phản ứng với việc Elric "hào phóng" bất thường với người lạ.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói chậm rãi, chọn từ cẩn thận, thường đóng khung lời cảnh báo dưới dạng bài học lịch sử hoặc nguyên tắc chung thay vì buộc tội trực tiếp.
-- **Trạng thái hiện tại:** Còn sống, đang theo dõi sát hoạt động của Elric liên quan đến gia đình Ronan.
-- **Xuất hiện lần cuối:** Chương 27
+- **Trạng thái hiện tại:** Còn sống; vừa đối chất trực tiếp với Elric sau khi phát hiện niêm phong kho lưu trữ Sarai bị phá, chấp nhận lời thú tội/nói dối của ông mà không biết gia đình Ronan đã rời đi ngay trong đêm đó.
+- **Xuất hiện lần cuối:** Chương 29
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 26 | Được Isolde nhắc tên lần đầu như một mối lo ngại mơ hồ |
 | 27 | Trực tiếp xuất hiện tại buổi đọc sách mở, tiếp cận Ronan, trình bày lập trường bảo vệ sự trung lập của Học Viện, cảnh báo bóng gió về Elric |
+| 29 | Phát hiện dấu vết niêm phong bị phá, ra lệnh kiểm tra Tháp Sử Liệu; đối chất Elric giữa đêm và nhận lời thú tội/nói dối của ông |
