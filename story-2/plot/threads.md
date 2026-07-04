@@ -18,6 +18,6 @@
 | Lời cảnh báo của Yseult: tình yêu chỉ trì hoãn định mệnh Leviathan | 12 | Mở — bí ẩn/nỗi sợ trung tâm | (dài hơi — có thể xuyên suốt series) | Mọi Leviathan trước Ronan từng được yêu thương trước khi hận thù chiến thắng — chưa rõ đây là sự thật hay chỉ là thao túng tâm lý của Yseult |
 | Mối liên hệ giữa bản chất Leviathan của Ronan và Vực Đá Chìm | 10 | Mở | (chưa xác định) | Ronan cảm thấy như được "chào đón"/thuộc về nơi này — chưa rõ ý nghĩa |
 | Gia đình có nên tiết lộ sự thật về Ronan cho Bá Tước Voss không | 8 | Đóng (Chương 14) | — | Chọn kể câu chuyện không đầy đủ thay vì toàn bộ sự thật; Bá Tước Voss vẫn không biết, chỉ Seris biết |
-| Đoàn Kỵ Sĩ Bình Minh có thể đã chú ý tới tin đồn về sức mạnh của Ronan | 14 | Mở — mối đe dọa mở ra Arc tiếp theo | 16+ | Bastian lo ngại việc dùng sức mạnh công khai nhiều lần gần đây đã tạo tin đồn lan xa |
+| Đoàn Kỵ Sĩ Bình Minh có thể đã chú ý tới tin đồn về sức mạnh của Ronan | 14 | Mở — leo thang (Chương 15) | 16+ | Xác nhận tin đồn về trận chiến ở Vực Đá Chìm đã lan tới tận Thánh Địa Lumengard |
 | Dấu Ấn Leviathan của Ronan bắt đầu "cựa mình" sau trận chiến | 2 | Mở | (dài hơi) | Có thể liên quan đến cơ chế cộng hưởng cảm xúc đã ghi trong `lore/systems.md` |
 | Lời nguyền Leviathan có phải định mệnh thật hay chỉ là định kiến tự ứng nghiệm | 1 | Mở (dài hơi) | (xuyên suốt series) | Bí ẩn trung tâm — xem `lore/history.md` về manh mối Leviathan thứ 3 chưa gây họa |

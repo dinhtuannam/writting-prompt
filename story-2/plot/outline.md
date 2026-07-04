@@ -11,5 +11,6 @@ Xem toàn văn tại `lore/raw-idea.md`. Tóm tắt: Dark Fantasy, nhân vật c
 ## Các arc lớn
 | Arc | Chương bắt đầu | Chương kết thúc (dự kiến) | Tóm tắt |
 |---|---|---|---|
-| Arc 1: Lời Nguyền Từ Khi Lọt Lòng | 1 | ~15 | Nhân vật chính liều mình cứu cô gái quý tộc, đối mặt hệ quả đầu tiên của việc thân phận có nguy cơ bị lộ |
+| Arc 1: Lời Nguyền Từ Khi Lọt Lòng | 1 | 15 (đã đóng) | Ronan cứu Seris Voss, thân phận suýt lộ, Giáo Phái Vực Sâu bắt cóc Seris làm đòn bẩy, gia đình giải cứu cô tại Vực Đá Chìm và đối đầu Đại Tư Tế Yseult, người gieo câu hỏi ám ảnh về tình yêu và định mệnh. Arc khép lại với gia đình tìm được sự bình yên tạm thời và một hook mới: tin đồn đã lan tới Đoàn Kỵ Sĩ Bình Minh |
+| Arc 2: Bóng Tối Giữa Hai Thế Lực | 16 | ~30-35 (dự kiến) | Đoàn Kỵ Sĩ Bình Minh (muốn tìm và vô hiệu hóa Ronan) bắt đầu chú ý và điều tra khu vực Hắc Mộc Lâm sau tin đồn từ Vực Đá Chìm. Ronan bị kẹp giữa hai thế lực đối nghịch — Đoàn Kỵ Sĩ muốn tiêu diệt, Giáo Phái Vực Sâu (vẫn âm thầm quan sát dù đã "để cậu đi") muốn chiêu mộ — trong khi cố gắng sống một cuộc đời bình thường và bảo vệ những người mình yêu thương |
 | (các arc tiếp theo) | (chưa xác định) | (chưa xác định) | Sẽ bổ sung khi câu chuyện tiến triển, theo đúng quy tắc cập nhật trong `CLAUDE.MD` |
