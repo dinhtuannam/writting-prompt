@@ -11,3 +11,20 @@
 - **Cơ chế cộng hưởng cảm xúc:** Sức mạnh và cách biểu hiện của một Thú Ấn không cố định ngay từ đầu — nó được nuôi dưỡng và định hình bởi cảm xúc mạnh nhất mà người mang trải qua trong thời gian dài. Hận thù, đau khổ kéo dài có thể khiến bản chất hung tàn nhất của một Ấn trỗi dậy; tình yêu, lòng trắc ẩn có thể định hình nó theo hướng khác — dù sức mạnh cốt lõi vẫn còn đó. Đây là lý do vì sao hai người cùng mang một loại Ấn có thể có số phận hoàn toàn khác nhau.
 - **Giới hạn / cái giá phải trả khi sử dụng:** Thú Ấn không thể thay đổi hay gỡ bỏ một khi đã hiện ra. Che giấu một Ấn huyền thoại trong thời gian dài không làm nó biến mất — sức mạnh bị dồn nén sẽ tích tụ, khiến lần biểu hiện đầy đủ đầu tiên có nguy cơ mất kiểm soát mạnh hơn nếu bị kìm nén quá lâu. Đoàn Kỵ Sĩ Bình Minh sở hữu thuật "Dò Ấn" có thể phát hiện Ấn bị che giấu trong một số điều kiện nhất định.
 - **Ai có thể dùng, ai không:** Ấn xuất hiện ngẫu nhiên khi sinh ra, không phân biệt xuất thân hay chủng tộc. Theo luật của phần lớn vương quốc (trừ Đế Quốc Long Ấn và Hoang Địa Phương Bắc), mọi Thú Ấn phải được đăng ký chính thức vào "Sổ Đăng Ký Thú Ấn" ngay khi sinh ra; Ấn huyền thoại (Rồng/Leviathan) bắt buộc phải báo cáo cho Đoàn Kỵ Sĩ Bình Minh theo một hiệp ước liên lục địa lâu đời.
+- **Loại Ấn không quyết định sức mạnh thực tế:** Loại Thú Ấn (thường/lớn/huyền thoại) chỉ quyết định tiềm năng bẩm sinh, không quyết định sức mạnh hay tài năng thực tế của một người. Một người mang Ấn Cú hay Ấn Cáo hoàn toàn có thể trở thành đại học giả lỗi lạc nhất vương quốc; một người mang Ấn thường luyện tập đủ giỏi có thể trở thành một trong những cá nhân mạnh nhất thế giới. Sức mạnh thật sự nằm ở bản thân con người — ý chí, nỗ lực, và kỹ thuật họ rèn luyện — chứ không phải ở Ấn họ mang. Đây là lý do nhân vật chính, dù mang Ấn Leviathan hiếm nhất, lại yếu hơn rất nhiều nhân vật khác trong truyện: cậu chưa từng được huấn luyện bài bản để khai thác sức mạnh của mình.
+
+## Ấn Thuật — Hệ thống kỹ năng
+
+Thú Ấn chỉ ban bản năng thô; muốn biến bản năng đó thành sức mạnh thật sự phải luyện **Ấn Thuật** — kỹ thuật khai mở và điều khiển bản năng của Ấn, được truyền dạy bởi môn phái/minh sư hoặc tự mày mò qua khổ luyện. Ấn Thuật, không phải loại Ấn, mới là thước đo thực sự cho sức mạnh của một người.
+
+**5 cấp bậc luyện Ấn Thuật** (dùng để đo sức mạnh nhân vật xuyên suốt series):
+
+| Cấp | Tên | Mô tả |
+|---|---|---|
+| 1 | Sơ Tỉnh | Cảm nhận được bản năng của Ấn nhưng chưa thể chủ động dùng — phần lớn dân thường dừng ở cấp này |
+| 2 | Dẫn Ấn | Chủ động kích hoạt năng lực cơ bản của Ấn theo ý muốn |
+| 3 | Luyện Ấn | Kiểm soát tinh vi, kết hợp được năng lực của Ấn với võ thuật/phép thuật khác |
+| 4 | Hợp Ấn | Bản năng và ý thức hợp nhất hoàn toàn — bước nhảy sức mạnh lớn, rất ít người đạt tới |
+| 5 | Việt Ấn (Vượt Ấn) | Cấp huyền thoại — sức mạnh vượt xa những gì loại Ấn "lẽ ra" cho phép; một người mang Ấn thường luyện tới cấp này có thể ngang hoặc vượt một người mang Ấn huyền thoại chưa được huấn luyện |
+
+Nhân vật chính khởi đầu ở **Sơ Tỉnh** dù mang Ấn hiếm nhất — cha mẹ chỉ dạy cậu chịu đựng và lòng nhân hậu, không dạy Ấn Thuật vì sợ việc luyện tập sẽ làm lộ diện thân phận. Hành trình trưởng thành của cậu xuyên suốt series là quá trình leo qua các cấp bậc này bằng chính nỗ lực bản thân, không phải nhờ vào Ấn.
