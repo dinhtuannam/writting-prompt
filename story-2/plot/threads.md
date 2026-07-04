@@ -15,7 +15,7 @@
 | Đại Tư Tế của Giáo Phái Vực Sâu sẽ trả đũa sau thất bại đêm tấn công | 7 | Đóng một phần (Chương 8) | — | Trả đũa bằng cách bắt cóc Seris làm đòn bẩy thay vì tấn công trực tiếp lần nữa |
 | Seris bị bắt cóc — giải cứu tại Vực Đá Chìm | 8 | Đóng (Chương 13) | — | Cả nhóm về an toàn; Seris biết bí mật của Ronan và chấp nhận nó |
 | Vì sao/làm sao Yseult biết tên Ronan và đã "chờ đợi" cậu | 11 | Đóng một phần (Chương 12) | — | Giải thích: "vực sâu ghi nhớ" mỗi khi bản năng Ronan lên tiếng — cơ chế chính xác vẫn còn mơ hồ/đáng ngờ |
-| Lời cảnh báo của Yseult: tình yêu chỉ trì hoãn định mệnh Leviathan | 12 | Mở — bí ẩn/nỗi sợ trung tâm | (dài hơi — có thể xuyên suốt series) | Mọi Leviathan trước Ronan từng được yêu thương trước khi hận thù chiến thắng — chưa rõ đây là sự thật hay chỉ là thao túng tâm lý của Yseult |
+| Lời cảnh báo của Yseult: tình yêu chỉ trì hoãn định mệnh Leviathan | 12 | Mở — bí ẩn/nỗi sợ trung tâm, có phản chứng mạnh (Chương 33) | (dài hơi — có thể xuyên suốt series) | Câu chuyện Sarai (43 năm không gây đại họa, chọn hy sinh vì yêu thương thay vì hủy diệt) là phản chứng mạnh mẽ, nhưng cái chết của bà cũng cho thấy cái giá có thể là tối thượng — chưa khép lại hoàn toàn câu hỏi cho riêng số phận Ronan |
 | Mối liên hệ giữa bản chất Leviathan của Ronan và Vực Đá Chìm | 10 | Mở | (chưa xác định) | Ronan cảm thấy như được "chào đón"/thuộc về nơi này — chưa rõ ý nghĩa |
 | Gia đình có nên tiết lộ sự thật về Ronan cho Bá Tước Voss không | 8 | Đóng (Chương 14) | — | Chọn kể câu chuyện không đầy đủ thay vì toàn bộ sự thật; Bá Tước Voss vẫn không biết, chỉ Seris biết |
 | Đoàn Kỵ Sĩ Bình Minh có thể đã chú ý tới tin đồn về sức mạnh của Ronan | 14 | Mở — cụ thể hóa (Chương 16) | 17-20 | Hiệp Sĩ Thẩm Vấn Aldous đã tới vùng, điều tra tới tận lâu đài Voss |
@@ -42,4 +42,4 @@
 | Lời nguyền Leviathan có phải định mệnh thật hay chỉ là định kiến tự ứng nghiệm | 1 | Mở (dài hơi) | (xuyên suốt series) | Bí ẩn trung tâm — xem `lore/history.md` về manh mối Leviathan thứ 3 chưa gây họa |
 | Gia đình bước vào Hoang Địa Phương Bắc, gặp người lạ dẫn đường | 30 | Đóng (Chương 31) | — | Người lạ tên Kael, người canh giữ rìa đất của chính Bộ Lạc Sói Xám; đã dẫn gia đình tới tận khu định cư |
 | Hội đồng trưởng lão Bộ Lạc Sói Xám có đồng ý kể câu chuyện Sarai không | 31 | Đóng một phần (Chương 32) | 33 | Brenna quyết định khuyên hội đồng đồng ý; kể chuyện dự kiến diễn ra công khai tối chương 33 |
-| Cách Sarai qua đời — Brenna xác nhận bà biết nhưng chưa kể | 32 | Mở — sắp được giải đáp | 33 | Sẽ được kể công khai dưới ánh lửa trước cả bộ lạc |
+| Cách Sarai qua đời — Brenna xác nhận bà biết nhưng chưa kể | 32 | Đóng (Chương 33) | — | Sarai hy sinh mạng sống để chuyển hướng lũ băng tan từ hồ Ngàn Gương, cứu 237 người, sau 43 năm chưa từng dùng sức mạnh đầy đủ |

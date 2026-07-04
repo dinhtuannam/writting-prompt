@@ -8,8 +8,8 @@
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Bastian và Maren. Vừa cứu một cô gái quý tộc Gia Tộc Voss (chưa rõ tên) khỏi sói trắng ở Chương 1.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan — chỉ cha mẹ cậu biết. Bản chất thật của cơ chế cộng hưởng cảm xúc sẽ ảnh hưởng thế nào đến sức mạnh của cậu vẫn chưa được khám phá.
 - **Giọng nói / cách nói chuyện đặc trưng:** Ít nói về bản thân, có xu hướng hành động trước khi suy nghĩ thấu đáo khi thấy người khác gặp nguy hiểm.
-- **Trạng thái hiện tại:** Cấp **Dẫn Ấn**; bị kẹp giữa hai thế lực đối nghịch — Đoàn Kỵ Sĩ Bình Minh (Aldous) muốn xóa bỏ cậu, Giáo Phái Vực Sâu (Yseult) vẫn muốn chiêu mộ cậu.
-- **Xuất hiện lần cuối:** Chương 20
+- **Trạng thái hiện tại:** Cấp **Dẫn Ấn**; đang ở cùng Bộ Lạc Sói Xám tại Hoang Địa Phương Bắc, nơi đầu tiên cậu được nhìn nhận mà không bị phán xét vì bản chất Leviathan của mình. Vừa được nghe câu chuyện đầy đủ về Sarai và mang theo trách nhiệm "kể lại" nó theo cách riêng của cậu.
+- **Xuất hiện lần cuối:** Chương 33
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -28,3 +28,9 @@
 | 16-18 | Đoàn Kỵ Sĩ Bình Minh (Hiệp Sĩ Aldous) bắt đầu điều tra; bị thẩm vấn tại nhà, giữ vững câu chuyện một phần thật |
 | 19 | Qua bài kiểm tra Gương Dò Ấn bằng cách ru ngủ bản năng của mình; kết quả mờ nhạt khiến Aldous chưa kết luận được |
 | 20 | Nhận thông điệp mời gọi từ Yseult qua vỏ ốc; từ chối cùng gia đình nhưng nhận ra mình bị kẹp giữa 2 thế lực đối nghịch |
+| 21-22 | Nhận trát triệu tập của Đoàn Kỵ Sĩ tới Ravensmoor; gia đình chọn bỏ trốn ngay, hướng tới Học Viện Bách Thú |
+| 23-24 | Hành trình ẩn danh, suýt bị tuần tra phát hiện; gặp Tobias, tới nơi Học Viện Bách Thú |
+| 25-27 | Vào Học Viện, gặp Elric và Isolde; đối mặt Trưởng Lão Cassian tại buổi đọc sách mở |
+| 28-29 | Biết được câu chuyện Sarai qua Elric; buộc rời Học Viện gấp trong đêm khi Cassian phát hiện; Isolde tặng cuốn sổ tay |
+| 30-31 | Vào Hoang Địa Phương Bắc, gặp Kael; tới khu định cư Bộ Lạc Sói Xám, gặp Tộc Trưởng Hilda |
+| 32-33 | Được Brenna đánh giá và chấp nhận; nghe câu chuyện đầy đủ về sự hy sinh của Sarai trong Đêm Nước Rút — cộng hưởng sâu sắc với bản chất chính mình |
