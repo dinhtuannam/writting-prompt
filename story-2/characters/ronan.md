@@ -7,10 +7,10 @@
 - **Tính cách:** Được nuôi dạy bằng tình yêu thương, từng tin rằng không ai sinh ra đã là kẻ phản diện. Sau phán quyết của Lãnh Chúa Arik, một sự kiêu hãnh lạnh lùng và ý chí trả đũa bắt đầu kết tinh bên dưới lớp vỏ đó — nhưng cậu tự đặt ra một lằn ranh: sẽ không trở thành kẻ phản diện của chính câu chuyện đời mình, dù sẵn sàng "nghiền nát" bất kỳ kẻ thù hay "anh hùng" nào tìm tới.
 - **Động cơ / mục tiêu:** (trước Chương 1) Giữ bí mật về Ấn Leviathan để bảo vệ bản thân và cha mẹ. (Từ Chương 2) Sống sót qua cuộc đời làm dã thú, âm thầm tích lũy sức mạnh, chờ ngày chứng minh mình vượt xa mọi thứ thế giới này tưởng tượng về cậu.
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick và Maren — giờ đây bị chia cắt khỏi cả hai bởi phán quyết của Arik. Vừa cứu Freya (con gái Arik, mang Ấn Rồng) khỏi sói trắng khổng lồ ở Chương 1; sắp trở thành dã thú ràng buộc với cô qua Khế Ước Dã Thú.
-- **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan — nay đã bị phát hiện và ghi nhận chính thức bởi Lãnh Chúa Arik. Chương 14: Ashara (thủ lĩnh Vô Chủ, Ấn Phượng Hoàng) phản ứng với sự kinh ngạc khi thấy Ấn của cậu, thốt lên "một Leviathan khác... sau ngần ấy năm" — ngụ ý tồn tại (hoặc từng tồn tại) một Leviathan khác mà bà biết tới, thông tin chưa từng xuất hiện ở bất kỳ đâu khác trong lore.
+- **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan — nay đã bị phát hiện và ghi nhận chính thức bởi Lãnh Chúa Arik. Chương 23: biết toàn bộ câu chuyện về Lyra (chị gái Ashara) và con trai Leviathan thất lạc 41 năm trước — số phận thật của người đó (còn sống/đã chết) vẫn là bí ẩn hoàn toàn mở, Ronan giờ có trách nhiệm báo tin nếu tìm thấy manh mối.
 - **Giọng nói / cách nói chuyện đặc trưng:** Ít nói về bản thân, có xu hướng hành động trước khi suy nghĩ thấu đáo khi thấy người khác gặp nguy hiểm. Nội tâm giờ đây mang thêm một giọng điệu mới: tính toán, kiêu hãnh, đầy kiềm nén.
-- **Trạng thái hiện tại:** Tiếp cận trại Vô Chủ một mình, không vũ khí, tay giơ cao — được Thane (phó chỉ huy) dẫn vào gặp Ashara theo lệnh bà để lại từ trước. Biết đội mình đang bị Cassius bí mật theo dõi.
-- **Xuất hiện lần cuối:** Chương 22
+- **Trạng thái hiện tại:** Đạt được thỏa thuận với Ashara (di dời đổi lấy liên lạc bí mật); mang về một câu chuyện sâu sắc về mất mát và hy vọng có thể định hình cách cậu nhìn nhận chính bản chất "tai họa" bị gán cho Leviathan.
+- **Xuất hiện lần cuối:** Chương 23
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
