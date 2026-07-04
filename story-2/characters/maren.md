@@ -8,10 +8,12 @@
 - **Mối quan hệ với nhân vật khác:** Vợ của Bastian, mẹ của Ronan.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** (chưa có)
 - **Giọng nói / cách nói chuyện đặc trưng:** Dịu dàng, hay bênh vực Ronan trước sự nghiêm khắc của Bastian.
-- **Trạng thái hiện tại:** Còn sống, mang Dấu Ấn Bồ Câu.
-- **Xuất hiện lần cuối:** Chương 1
+- **Trạng thái hiện tại:** Còn sống, mang Dấu Ấn Bồ Câu; chuẩn bị cùng chồng con lên đường tới Vực Đá Chìm.
+- **Xuất hiện lần cuối:** Chương 9
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 1 | Bênh vực Ronan trước Bastian; được giới thiệu là thầy thuốc mang Ấn Bồ Câu, dạy Ronan lòng nhân hậu |
+| 2 | Che giấu thành công Dấu Ấn thật của Ronan lộ ra qua vết thương |
+| 9 | Nhất quyết đòi đi cùng chuyến giải cứu Seris thay vì ở nhà một mình |
