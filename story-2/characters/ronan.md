@@ -8,8 +8,8 @@
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Bastian và Maren. Vừa cứu một cô gái quý tộc Gia Tộc Voss (chưa rõ tên) khỏi sói trắng ở Chương 1.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan — chỉ cha mẹ cậu biết. Bản chất thật của cơ chế cộng hưởng cảm xúc sẽ ảnh hưởng thế nào đến sức mạnh của cậu vẫn chưa được khám phá.
 - **Giọng nói / cách nói chuyện đặc trưng:** Ít nói về bản thân, có xu hướng hành động trước khi suy nghĩ thấu đáo khi thấy người khác gặp nguy hiểm.
-- **Trạng thái hiện tại:** Cấp **Dẫn Ấn**; vừa qua bài kiểm tra Gương Dò Ấn của Aldous bằng cách chủ động ru ngủ bản năng mình — một ứng dụng mới, kiệt sức của Ấn Thuật; đang bị Đoàn Kỵ Sĩ Bình Minh nghi ngờ nhưng chưa có bằng chứng xác thực.
-- **Xuất hiện lần cuối:** Chương 19
+- **Trạng thái hiện tại:** Cấp **Dẫn Ấn**; bị kẹp giữa hai thế lực đối nghịch — Đoàn Kỵ Sĩ Bình Minh (Aldous) muốn xóa bỏ cậu, Giáo Phái Vực Sâu (Yseult) vẫn muốn chiêu mộ cậu.
+- **Xuất hiện lần cuối:** Chương 20
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -27,3 +27,4 @@
 | 14-15 | Trở về, dùng câu chuyện không đầy đủ với Bá Tước Voss; nhận kiếm gia truyền từ Bastian; tìm được bình yên tạm thời với bản chất Leviathan của mình |
 | 16-18 | Đoàn Kỵ Sĩ Bình Minh (Hiệp Sĩ Aldous) bắt đầu điều tra; bị thẩm vấn tại nhà, giữ vững câu chuyện một phần thật |
 | 19 | Qua bài kiểm tra Gương Dò Ấn bằng cách ru ngủ bản năng của mình; kết quả mờ nhạt khiến Aldous chưa kết luận được |
+| 20 | Nhận thông điệp mời gọi từ Yseult qua vỏ ốc; từ chối cùng gia đình nhưng nhận ra mình bị kẹp giữa 2 thế lực đối nghịch |
