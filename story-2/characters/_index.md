@@ -12,7 +12,8 @@
 | Ordell | Phụ (thợ rèn nghi thức, Hội Rèn Kiềm Ấn) | Cú | Thức Tỉnh (chuyên môn cao nhưng không phải chiến binh) | Còn sống | `ordell.md` |
 | Gerta | Phụ (Quản Thú của Grimhold) | Voi (Ấn Lớn) — lộ Chương 8, giấu kín có chủ đích nhiều năm | Chưa xác định con số cụ thể, nhưng đã chứng minh chân thực dưới cảm xúc thật (ít nhất Hiện Thân) | Còn sống | `gerta.md` |
 | Cade | Phụ (dã thú kỳ cựu) | Hổ | Hiện Thân (đạt được trước khi bị bắt; 12 năm bị Khế Ước kìm hãm khiến tiến trình gần như đóng băng, có dấu hiệu suy thoái) | Còn sống | `cade.md` |
-| Cassius | Phản diện tiềm năng (con trai Arik) | Sư Tử | Thức Tỉnh (tự tin thái quá so với thực lực — chưa từng chứng minh bản thân dưới áp lực sinh tử thật sự) | Còn sống | `cassius.md` |
+| Cassius | Phản diện tiềm năng (con trai Arik) | Sư Tử | Thức Tỉnh (tự tin thái quá so với thực lực — chưa từng chứng minh bản thân dưới áp lực sinh tử thật sự) | Còn sống, dẫn đầu đội viễn chinh truy quét Bọn Vô Chủ | `cassius.md` |
 | Lãnh Chúa Devric | Phản diện tiềm năng (đồng minh chính trị của Arik) | (chưa tiết lộ — chưa xuất hiện trực tiếp) | (chưa xác định) | Còn sống | `devric.md` |
+| Marek | Phụ (dã thú tại Grimhold) | Sói (chưa mô tả năng lực) | (chưa xác định — chưa xuất hiện trực tiếp) | Còn sống, trong đội viễn chinh | `marek.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`) — file đó cũng phải có cả hai trường Dấu Ấn và Tầng Cộng Hưởng.

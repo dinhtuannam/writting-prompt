@@ -10,8 +10,8 @@
 - **Mối quan hệ với nhân vật khác:** Dã thú kỳ cựu nhất tại Grimhold dưới quyền quản lý của Gerta; được giao nhiệm vụ huấn luyện Ronan.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Biết về những khoảnh khắc Vòng Kiềm Ấn "lỏng đi" khi chủ nhân không chú tâm, nhưng chưa từng dám thử tận dụng chúng. Chương 11 hé lộ lý do sâu xa hơn về sự cam chịu của ông: trước khi bị bắt, ông từng có cơ hội gia nhập một trong những nhóm Vô Chủ sống ẩn dật ngoài luật lệ, nhưng chọn ở lại trung thành với gia tộc cũ — gia tộc đó sau này bán khế ước của ông cho Arik ngay khi ông trở thành gánh nặng. Đây là nguồn gốc thật của nỗi cay đắng/cam chịu ông mang suốt 12 năm.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói chậm, thực tế, đôi khi cay đắng; đếm thời gian bị giam cầm chính xác tới từng ngày dù nói mình "không còn đếm nữa".
-- **Trạng thái hiện tại:** Còn sống, đã là dã thú của gia tộc Arik hơn 12 năm; vừa tiết lộ thêm về quá khứ và về sự tồn tại của Bọn Vô Chủ cho Ronan.
-- **Xuất hiện lần cuối:** Chương 11
+- **Trạng thái hiện tại:** Còn sống; được đưa vào đội viễn chinh truy quét Bọn Vô Chủ vì kinh nghiệm chiến đấu thật sự vẫn còn giá trị; trao Ronan một thanh kiếm thật và khuyên cậu nắm lấy cơ hội đối thoại với Vô Chủ nếu có thể, thay vì chỉ chiến đấu.
+- **Xuất hiện lần cuối:** Chương 12
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
