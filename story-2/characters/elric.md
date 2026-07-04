@@ -6,12 +6,13 @@
 - **Động cơ / mục tiêu:** Bảo vệ những tri thức nguy hiểm khỏi rơi vào tay sai; đồng thời tìm cách "trả một món nợ" cũ bằng cách giúp Ronan điều mà ông từng không đủ can đảm làm cho một người khác.
 - **Arc phát triển dự kiến:** Nguồn thông tin và manh mối trung tâm cho hành trình tìm ghi chép Leviathan thứ 3 của Ronan; nhiều khả năng liên quan trực tiếp đến một bí mật quá khứ chưa tiết lộ của chính ông.
 - **Mối quan hệ với nhân vật khác:** Được Tobias (đồng nghiệp tại Học Viện) giới thiệu gặp gia đình Ronan. Có vẻ ngay từ đầu đã nghi ngờ đúng bản chất câu hỏi của Ronan, dù không nói thẳng ra.
-- **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Từng có người khác hỏi ông chính câu hỏi về Leviathan thứ 3 trong quá khứ, và ông đã không đủ can đảm tìm câu trả lời cho họ — danh tính người đó và hậu quả của sự im lặng ấy chưa được tiết lộ. Có khả năng ông đã đọc qua ghi chép về Leviathan thứ 3 từ lâu chứ không phải "tìm lại" hoàn toàn từ đầu.
+- **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** (Đã lộ ở Chương 28) 30 năm trước, khi còn là tập sự trẻ, ông được Hội Đồng giao nhiệm vụ tiêu hủy mọi ghi chép về Sarai (Leviathan thứ 3) nhưng chỉ đủ can đảm cứu lại một mảnh; người bạn Rowan xin ông giúp/đi cùng tìm sự thật ở phương bắc, ông từ chối vì sợ hãi cho sự nghiệp của mình, và Rowan không bao giờ trở về. Vẫn chưa biết ông có đọc toàn bộ ghi chép gốc trước khi tiêu hủy hay không.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ngắn gọn, chính xác, giọng khô khốc như giấy cũ. Hiếm khi giải thích quá mức cần thiết.
-- **Trạng thái hiện tại:** Còn sống, đang tự mình tìm lại ghi chép về Leviathan thứ 3 theo lời hứa với gia đình Ronan.
-- **Xuất hiện lần cuối:** Chương 25
+- **Trạng thái hiện tại:** Còn sống, đã trao mảnh ghi chép về Sarai cho gia đình Ronan; đang đối mặt nguy cơ bị Cassian phát hiện đã lấy tài liệu khỏi kho niêm phong.
+- **Xuất hiện lần cuối:** Chương 28
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 25 | Được Tobias giới thiệu với gia đình Ronan tại Tháp Sử Liệu; nhận ra câu hỏi của Ronan về Leviathan không đơn thuần tò mò; xác nhận có ghi chép về Leviathan thứ 3 nhưng từ chối tiết lộ ngay; cảnh báo phe phái nội bộ nguy hiểm; hứa tự tìm lại ghi chép trong vài ngày; hé lộ bí ẩn về một "món nợ" cá nhân chưa trả |
+| 28 | Triệu tập gia đình bí mật, tiết lộ toàn bộ câu chuyện Sarai và Bộ Lạc Sói Xám; kể lại quá khứ với Rowan; trao tấm da thuộc cho Ronan; cảnh báo nguy cơ từ Cassian đang tăng cao |

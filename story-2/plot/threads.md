@@ -27,11 +27,13 @@
 | Hành trình tới Học Viện Bách Thú, né tránh Đoàn Kỵ Sĩ Bình Minh | 22 | Đóng (Chương 24) | — | Đã tới nơi an toàn, không gặp thêm trở ngại nhờ đi cùng Tobias |
 | Chính trị nội bộ Học Viện Bách Thú — không phải ai cũng đáng tin | 24 | Đóng một phần (Chương 25) | — | Elric xác nhận cụ thể: có phe học giả cấp cao sẵn sàng báo Đoàn Kỵ Sĩ nếu nghe câu hỏi sai chỗ; xem thread mới về nguy cơ bị phát hiện trong Học Viện |
 | Nguy cơ gia đình bị phe thân Đoàn Kỵ Sĩ trong Học Viện phát hiện | 25 | Mở | (chưa xác định) | Elric dặn không được hỏi ai khác về Leviathan thứ 3; chưa rõ danh tính cụ thể của phe nguy hiểm này |
-| Tìm sử liệu về Leviathan thứ 3 (không trở thành đại họa) tại Học Viện Bách Thú | 22 | Đóng một phần (Chương 25) | 26+ | Elric xác nhận ghi chép có tồn tại, đồng ý tự đi tìm lại trong vài ngày; xem thread mới về nội dung ghi chép khi Elric quay lại |
-| Nội dung thật của ghi chép Leviathan thứ 3 mà Elric sẽ tìm lại | 25 | Mở — mục tiêu chính Arc 2 phần sau | 26-30 | Elric cần vài ngày; đây là manh mối hy vọng trung tâm của Ronan |
-| "Món nợ" bí ẩn của Elric — ai từng hỏi ông câu hỏi này trước đây | 25 | Mở | (chưa xác định) | Elric ám chỉ từng thiếu can đảm trả lời cho một người khác trong quá khứ; chưa rõ là ai |
+| Tìm sử liệu về Leviathan thứ 3 (không trở thành đại họa) tại Học Viện Bách Thú | 22 | Đóng (Chương 28) | — | Elric tiết lộ đầy đủ câu chuyện Sarai đã biết được; xem thread mới về đoạn kết bị thất lạc |
+| Nội dung thật của ghi chép Leviathan thứ 3 mà Elric sẽ tìm lại | 25 | Đóng (Chương 28) | — | Sarai — sinh ~350 năm trước, được Bộ Lạc Sói Xám nhận nuôi, sống 43 năm không gây đại họa; xem thread mới về đoạn kết bị xé mất |
+| Cách Sarai qua đời — trang cuối ghi chép đã bị xé mất có chủ đích | 28 | Mở — mục tiêu chính hướng đi tiếp theo | (dài hơi) | Có thể chỉ còn trong ký ức truyền miệng của Bộ Lạc Sói Xám ở Hoang Địa Phương Bắc |
+| "Món nợ" bí ẩn của Elric — ai từng hỏi ông câu hỏi này trước đây | 25 | Đóng (Chương 28) | — | Là Rowan, bạn tập sự cũ của Elric, người đã một mình lên phương bắc 30 năm trước và không bao giờ trở về; xem thread mới |
+| Số phận của Rowan — người bạn cũ của Elric đã mất tích ở phương bắc | 28 | Mở | (dài hơi) | Elric nhờ gia đình tìm hiểu giúp nếu có manh mối trên đường tới Bộ Lạc Sói Xám |
 | Trưởng Lão Cassian để ý bất thường tới khách vãng lai mới tới Học Viện | 26 | Đóng một phần (Chương 27) | — | Xác nhận: Cassian trực tiếp tiếp cận Ronan, biết về cuộc gặp với Elric; xem thread mới về hành động cụ thể tiếp theo của ông |
-| Cassian sẽ hành động thế nào để bảo vệ sự trung lập của Học Viện | 27 | Mở | 28-30 | Ông tin sự chia sẻ tri thức của Elric đe dọa quan hệ với Lumengard; chưa rõ ông sẽ dùng biện pháp gì |
+| Cassian sẽ hành động thế nào để bảo vệ sự trung lập của Học Viện | 27 | Mở — nguy cơ tăng cao (Chương 28) | 29-30 | Elric cảnh báo Cassian có thể phát hiện ghi chép về Sarai đã bị lấy khỏi kho niêm phong bất cứ lúc nào |
 | Tình bạn giữa Ronan và Isolde, xây trên một bí mật cô không hề biết | 26 | Mở | (dài hơi) | Người bạn đồng trang lứa đầu tiên của Ronan ngoài gia đình và Seris; rủi ro nếu sự thật của cậu bị lộ trước mặt cô |
 | Giáo Phái Vực Sâu (Yseult) vẫn theo dõi và mời gọi Ronan | 20 | Mở — mối đe dọa/cám dỗ song song | 21+ | Thông điệp trong vỏ ốc xác nhận Yseult biết về Aldous và vẫn muốn chiêu mộ Ronan; gia đình đã từ chối nhưng lời mời còn đó |
 | Dấu Ấn Leviathan của Ronan bắt đầu "cựa mình" sau trận chiến | 2 | Mở | (dài hơi) | Có thể liên quan đến cơ chế cộng hưởng cảm xúc đã ghi trong `lore/systems.md` |
