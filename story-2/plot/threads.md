@@ -40,5 +40,5 @@
 | Giáo Phái Vực Sâu (Yseult) vẫn theo dõi và mời gọi Ronan | 20 | Mở — mối đe dọa/cám dỗ song song | 21+ | Thông điệp trong vỏ ốc xác nhận Yseult biết về Aldous và vẫn muốn chiêu mộ Ronan; gia đình đã từ chối nhưng lời mời còn đó |
 | Dấu Ấn Leviathan của Ronan bắt đầu "cựa mình" sau trận chiến | 2 | Mở | (dài hơi) | Có thể liên quan đến cơ chế cộng hưởng cảm xúc đã ghi trong `lore/systems.md` |
 | Lời nguyền Leviathan có phải định mệnh thật hay chỉ là định kiến tự ứng nghiệm | 1 | Mở (dài hơi) | (xuyên suốt series) | Bí ẩn trung tâm — xem `lore/history.md` về manh mối Leviathan thứ 3 chưa gây họa |
-| Gia đình bước vào Hoang Địa Phương Bắc, gặp người lạ dẫn đường | 30 | Mở | 31+ | Người lạ (chưa rõ tên) cảm nhận được bản chất Leviathan của Ronan nhưng không phán xét; cảnh báo sự thật phương bắc có thể gây sốc |
-| Danh tính và ý đồ thật của người lạ phương bắc dẫn đường | 30 | Mở | 31 | Chưa rõ tên; hành động và lời nói cho thấy hiểu biết sâu về Thú Ấn và có thể liên quan tới Bộ Lạc Sói Xám |
+| Gia đình bước vào Hoang Địa Phương Bắc, gặp người lạ dẫn đường | 30 | Đóng (Chương 31) | — | Người lạ tên Kael, người canh giữ rìa đất của chính Bộ Lạc Sói Xám; đã dẫn gia đình tới tận khu định cư |
+| Hội đồng trưởng lão Bộ Lạc Sói Xám có đồng ý kể câu chuyện Sarai không | 31 | Mở | 32-33 | Hilda nhấn mạnh đây là quyết định tập thể, không phải của riêng bà |
