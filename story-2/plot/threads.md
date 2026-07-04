@@ -13,7 +13,7 @@
 | Giáo phái bí ẩn (nghi là Giáo Phái Vực Sâu) đã tìm đến gần nhà Ronan | 5 | Đóng một phần (Chương 6) | — | Xác nhận là Giáo Phái Vực Sâu, muốn chiêu mộ/kích động Ronan; xem thread mới về kế hoạch cụ thể của họ |
 | Kế hoạch của Giáo Phái Vực Sâu ("cậu ta sắp sẵn sàng") | 6 | Đóng một phần (Chương 7) | — | Hóa ra là một cuộc tiếp cận trực tiếp để "mời gọi" Ronan gặp Đại Tư Tế — thất bại; xem thread mới về đợt trả đũa tiếp theo |
 | Đại Tư Tế của Giáo Phái Vực Sâu sẽ trả đũa sau thất bại đêm tấn công | 7 | Đóng một phần (Chương 8) | — | Trả đũa bằng cách bắt cóc Seris làm đòn bẩy thay vì tấn công trực tiếp lần nữa |
-| Seris bị bắt cóc — giải cứu tại Vực Đá Chìm | 8 | Đóng phần lớn (Chương 12) | 13 | Yseult tự thả Seris; chỉ còn lại việc đưa cả nhóm rời khỏi Vực Đá Chìm an toàn |
+| Seris bị bắt cóc — giải cứu tại Vực Đá Chìm | 8 | Đóng (Chương 13) | — | Cả nhóm về an toàn; Seris biết bí mật của Ronan và chấp nhận nó |
 | Vì sao/làm sao Yseult biết tên Ronan và đã "chờ đợi" cậu | 11 | Đóng một phần (Chương 12) | — | Giải thích: "vực sâu ghi nhớ" mỗi khi bản năng Ronan lên tiếng — cơ chế chính xác vẫn còn mơ hồ/đáng ngờ |
 | Lời cảnh báo của Yseult: tình yêu chỉ trì hoãn định mệnh Leviathan | 12 | Mở — bí ẩn/nỗi sợ trung tâm | (dài hơi — có thể xuyên suốt series) | Mọi Leviathan trước Ronan từng được yêu thương trước khi hận thù chiến thắng — chưa rõ đây là sự thật hay chỉ là thao túng tâm lý của Yseult |
 | Mối liên hệ giữa bản chất Leviathan của Ronan và Vực Đá Chìm | 10 | Mở | (chưa xác định) | Ronan cảm thấy như được "chào đón"/thuộc về nơi này — chưa rõ ý nghĩa |

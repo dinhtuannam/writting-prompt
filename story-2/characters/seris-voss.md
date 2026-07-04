@@ -6,10 +6,10 @@
 - **Động cơ / mục tiêu:** Muốn đền đáp xứng đáng cho người đã cứu mạng mình.
 - **Arc phát triển dự kiến:** Cầu nối (vô tình) đưa gia đình Ronan vào tầm chú ý của giới quý tộc Thornwyn; tiềm năng trở thành đồng minh hoặc mối quan hệ phức tạp với Ronan sau này.
 - **Mối quan hệ với nhân vật khác:** Con gái của Bá Tước Voss; được Ronan cứu khỏi sói trắng ở Chương 1; hộ vệ của cô đã chết trong vụ tấn công.
-- **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Cô có nhận ra điều gì bất thường ở Ronan trong khoảnh khắc cậu bảo cô chạy đi không — chưa rõ.
+- **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** (Đã lộ ở Chương 13) Cô biết Ronan mang Ấn Leviathan sau khi nghe toàn bộ cuộc trò chuyện với Yseult, nhưng chấp nhận điều đó hoàn toàn — hiện tại chỉ cô biết, cha cô (Bá Tước Voss) vẫn chưa hay.
 - **Giọng nói / cách nói chuyện đặc trưng:** Thẳng thắn, không màu mè kiểu cách quý tộc.
-- **Trạng thái hiện tại:** Được Yseult thả tự do, kiệt sức nhưng an toàn, chuẩn bị rời Vực Đá Chìm cùng gia đình Ronan.
-- **Xuất hiện lần cuối:** Chương 12
+- **Trạng thái hiện tại:** An toàn, trên đường trở về cùng gia đình Ronan, đã biết và chấp nhận bí mật của cậu.
+- **Xuất hiện lần cuối:** Chương 13
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -21,3 +21,4 @@
 | 8 | Bị Giáo Phái Vực Sâu bắt cóc khỏi khu vườn lâu đài để làm đòn bẩy nhắm vào Ronan |
 | 11 | Được tìm thấy còn sống, bị trói giữa hội trường ngầm tại Vực Đá Chìm |
 | 12 | Được Yseult tự tay thả tự do |
+| 13 | Tiết lộ đã nghe hết cuộc trò chuyện với Yseult; khẳng định chấp nhận bí mật của Ronan hoàn toàn |

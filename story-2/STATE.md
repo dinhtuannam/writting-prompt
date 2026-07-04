@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 12
+- **Chương hiện tại đã viết xong:** 13
 - **Arc hiện tại:** Arc 1: Lời Nguyền Từ Khi Lọt Lòng (xem `plot/outline.md`)
-- **Ngày/thời điểm trong truyện:** Ngay sau Chương 11, cùng đêm tại Vực Đá Chìm
+- **Ngày/thời điểm trong truyện:** Bình minh, rời Vực Đá Chìm
 - **POV hiện tại:** Ronan (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Bastian, Maren, Seris, Yseult
-- **Địa điểm hiện tại:** Hội trường dưới lòng tòa tháp chính, Vực Đá Chìm
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Yseult giải thích cách bà biết tên Ronan (liên kết cổ xưa qua "vực sâu ghi nhớ" mỗi khi bản năng cậu lên tiếng), trình bày triết lý của giáo phái (Leviathan là món quà thanh tẩy, không phải lời nguyền), rồi bất ngờ tự tay thả Seris mà không cần chiến đấu — vì cô "chưa từng là mục tiêu thật sự", chỉ là cách để dụ Ronan đến. Trước khi họ rời đi, bà gieo một câu hỏi ám ảnh: liệu tình yêu của cha mẹ Ronan chỉ đang trì hoãn định mệnh của cậu, vì mọi Leviathan trước cậu cũng từng được yêu thương trước khi hận thù của thế giới chiến thắng
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Seris được thả tự do nhưng câu hỏi của Yseult ám ảnh Ronan — nỗi sợ rằng tình yêu của gia đình cậu có thể chỉ là tạm thời trước một kết cục không thể tránh khỏi
-- **Mục tiêu ngắn hạn của nhân vật chính:** Đưa Seris và gia đình rời khỏi Vực Đá Chìm an toàn, trong khi vật lộn với câu hỏi Yseult vừa gieo vào đầu cậu
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, Bastian, Maren, Seris
+- **Địa điểm hiện tại:** Trên đường rời khỏi Vực Đá Chìm, hướng về Hắc Mộc Lâm
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Một thành viên giáo phái cuồng tín, bất chấp lệnh của Yseult, tấn công Ronan khi rời đi. Ronan chọn bảo vệ Seris và Maren bằng tình yêu thay vì để nỗi sợ/giận dữ dẫn dắt, hạ được kẻ tấn công cùng Bastian mà không biến chất. Seris tiết lộ cô đã nghe hết cuộc trò chuyện với Yseult và không quan tâm bí mật của Ronan — cô chỉ quan tâm việc cậu đã liều mình cứu cô
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan vượt qua bài kiểm tra đầu tiên (chọn tình yêu thay vì sợ hãi), nhưng câu hỏi của Yseult vẫn còn đó — liệu đây có phải chiến thắng duy nhất cần thiết, hay chỉ là chiến thắng đầu tiên trong một cuộc chiến lâu dài
+- **Mục tiêu ngắn hạn của nhân vật chính:** Đưa mọi người về nhà an toàn và đối mặt với hậu quả xã hội/chính trị của chuyến giải cứu (đặc biệt là với Bá Tước Voss, người chưa biết sự thật)
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 (chưa có ghi chú — sẽ được AI tự cập nhật sau mỗi chương)

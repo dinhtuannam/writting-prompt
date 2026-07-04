@@ -8,8 +8,8 @@
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Bastian và Maren. Vừa cứu một cô gái quý tộc Gia Tộc Voss (chưa rõ tên) khỏi sói trắng ở Chương 1.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan — chỉ cha mẹ cậu biết. Bản chất thật của cơ chế cộng hưởng cảm xúc sẽ ảnh hưởng thế nào đến sức mạnh của cậu vẫn chưa được khám phá.
 - **Giọng nói / cách nói chuyện đặc trưng:** Ít nói về bản thân, có xu hướng hành động trước khi suy nghĩ thấu đáo khi thấy người khác gặp nguy hiểm.
-- **Trạng thái hiện tại:** Cấp **Dẫn Ấn**, vừa lần đầu dùng Ấn Thuật có chủ đích trong chiến đấu thực sự để bảo vệ cha.
-- **Xuất hiện lần cuối:** Chương 7
+- **Trạng thái hiện tại:** Cấp **Dẫn Ấn**; vừa vượt qua bài kiểm tra tâm lý đầu tiên của Yseult (chọn bảo vệ người thân bằng tình yêu thay vì hành động từ sợ hãi/giận dữ); Seris đã biết bí mật của cậu và chấp nhận nó.
+- **Xuất hiện lần cuối:** Chương 13
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -21,3 +21,6 @@
 | 5 | Tiếp tục luyện tập, kiểm soát tốt hơn; gặp lại Seris; cùng Bastian phát hiện dấu hiệu giáo phái nguy hiểm gần nhà |
 | 6 | Cùng gia đình xác nhận mối đe dọa từ Giáo Phái Vực Sâu |
 | 7 | Đối mặt trực tiếp 3 thành viên giáo phái đêm khuya; dùng Ấn Thuật chiến đấu lần đầu để cứu Bastian |
+| 8-9 | Đối mặt tin Seris bị bắt cóc; quyết định giải cứu; biết sự thật về lý do gia đình được ban đất |
+| 10-11 | Hành trình và xâm nhập Vực Đá Chìm; đối mặt trực tiếp Yseult |
+| 12-13 | Nghe triết lý và câu hỏi ám ảnh của Yseult; vượt qua bài kiểm tra đầu tiên bằng cách chọn tình yêu; Seris biết và chấp nhận bí mật của cậu |
