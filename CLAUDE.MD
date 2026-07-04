@@ -8,7 +8,7 @@
 | Thư mục | Trạng thái | Ghi chú |
 |---|---|---|
 | `story-1/` | Đang phát triển | Dự án đầu tiên |
-| `story-2/` | Chưa khởi tạo | Chạy `/new-story story-2` khi bắt đầu |
+| `story-2/` | Đang phát triển | Dark Fantasy, hệ thống Thú Ấn |
 
 ## Dự án đang active
 Xem `ACTIVE-STORY.md`. Mọi lệnh `/next-chapter` và `/expand-lore` mặc định thao tác trên dự án active này, trừ khi người dùng chỉ định rõ thư mục khác (vd `/next-chapter story-2`).
