@@ -30,7 +30,8 @@
 | Tìm sử liệu về Leviathan thứ 3 (không trở thành đại họa) tại Học Viện Bách Thú | 22 | Đóng một phần (Chương 25) | 26+ | Elric xác nhận ghi chép có tồn tại, đồng ý tự đi tìm lại trong vài ngày; xem thread mới về nội dung ghi chép khi Elric quay lại |
 | Nội dung thật của ghi chép Leviathan thứ 3 mà Elric sẽ tìm lại | 25 | Mở — mục tiêu chính Arc 2 phần sau | 26-30 | Elric cần vài ngày; đây là manh mối hy vọng trung tâm của Ronan |
 | "Món nợ" bí ẩn của Elric — ai từng hỏi ông câu hỏi này trước đây | 25 | Mở | (chưa xác định) | Elric ám chỉ từng thiếu can đảm trả lời cho một người khác trong quá khứ; chưa rõ là ai |
-| Trưởng Lão Cassian để ý bất thường tới khách vãng lai mới tới Học Viện | 26 | Mở | 27+ | Isolde cảnh báo Ronan; có thể chính là gương mặt cụ thể của phe phái nội bộ mà Elric/Tobias đã cảnh báo |
+| Trưởng Lão Cassian để ý bất thường tới khách vãng lai mới tới Học Viện | 26 | Đóng một phần (Chương 27) | — | Xác nhận: Cassian trực tiếp tiếp cận Ronan, biết về cuộc gặp với Elric; xem thread mới về hành động cụ thể tiếp theo của ông |
+| Cassian sẽ hành động thế nào để bảo vệ sự trung lập của Học Viện | 27 | Mở | 28-30 | Ông tin sự chia sẻ tri thức của Elric đe dọa quan hệ với Lumengard; chưa rõ ông sẽ dùng biện pháp gì |
 | Tình bạn giữa Ronan và Isolde, xây trên một bí mật cô không hề biết | 26 | Mở | (dài hơi) | Người bạn đồng trang lứa đầu tiên của Ronan ngoài gia đình và Seris; rủi ro nếu sự thật của cậu bị lộ trước mặt cô |
 | Giáo Phái Vực Sâu (Yseult) vẫn theo dõi và mời gọi Ronan | 20 | Mở — mối đe dọa/cám dỗ song song | 21+ | Thông điệp trong vỏ ốc xác nhận Yseult biết về Aldous và vẫn muốn chiêu mộ Ronan; gia đình đã từ chối nhưng lời mời còn đó |
 | Dấu Ấn Leviathan của Ronan bắt đầu "cựa mình" sau trận chiến | 2 | Mở | (dài hơi) | Có thể liên quan đến cơ chế cộng hưởng cảm xúc đã ghi trong `lore/systems.md` |
