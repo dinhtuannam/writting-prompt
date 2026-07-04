@@ -22,7 +22,8 @@
 | Seris có thể vô tình để lộ bí mật khi bị Aldous thẩm vấn | 16 | Đóng (Chương 17) | — | Cô giữ vững câu chuyện đã thống nhất thành công |
 | Aldous nghi ngờ gia đình sống biệt lập gần vùng hoang địa (ngụ ý nhà Ronan) | 17 | Đóng một phần (Chương 18) | — | Ông đã trực tiếp thẩm vấn gia đình tại nhà; xem thread mới về bước tiếp theo của ông |
 | Aldous vẫn nghi ngờ gia đình Ronan dù chưa có bằng chứng | 18 | Đóng một phần (Chương 19) | — | Đã dùng Gương Dò Ấn nhưng kết quả mờ nhạt, không kết luận được; xem thread mới |
-| Aldous sẽ quay lại với câu trả lời rõ ràng hơn sau khi tham khảo Lumengard | 19 | Mở — mối đe dọa chưa giải quyết, ưu tiên cao nhất | 21+ | Kết quả Dò Ấn mờ nhạt bất thường có thể khiến các trưởng lão Lumengard tò mò hơn là yên tâm |
+| Aldous sẽ quay lại với câu trả lời rõ ràng hơn sau khi tham khảo Lumengard | 19 | Đóng (Chương 21) | — | Trả lời là trát triệu tập chính thức tới hội đồng 3 trưởng lão tại Ravensmoor |
+| Trát triệu tập tới Ravensmoor — trình diện hay bỏ trốn | 21 | Mở — quyết định trung tâm, hạn 10 ngày | 22-23 | Trình diện chắc chắn bị phát hiện; bỏ trốn sẽ khiến gia đình thành kẻ chạy trốn khỏi Đoàn Kỵ Sĩ Bình Minh |
 | Giáo Phái Vực Sâu (Yseult) vẫn theo dõi và mời gọi Ronan | 20 | Mở — mối đe dọa/cám dỗ song song | 21+ | Thông điệp trong vỏ ốc xác nhận Yseult biết về Aldous và vẫn muốn chiêu mộ Ronan; gia đình đã từ chối nhưng lời mời còn đó |
 | Dấu Ấn Leviathan của Ronan bắt đầu "cựa mình" sau trận chiến | 2 | Mở | (dài hơi) | Có thể liên quan đến cơ chế cộng hưởng cảm xúc đã ghi trong `lore/systems.md` |
 | Lời nguyền Leviathan có phải định mệnh thật hay chỉ là định kiến tự ứng nghiệm | 1 | Mở (dài hơi) | (xuyên suốt series) | Bí ẩn trung tâm — xem `lore/history.md` về manh mối Leviathan thứ 3 chưa gây họa |

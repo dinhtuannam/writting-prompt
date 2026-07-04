@@ -10,3 +10,4 @@
 | Đế Quốc Long Ấn | Lãnh thổ đế chế phương đông nam do Hoàng Đế mang Ấn Rồng cai trị | Đối trọng văn hóa/chính trị với phương Tây |
 | Hoang Địa Phương Bắc | Vùng biên lạnh giá ngoài tầm kiểm soát vương quốc, nơi các bộ lạc giữ tín ngưỡng cổ xưa về Thú Ấn sinh sống | Nơi có thể mang đến góc nhìn khác về Ấn Leviathan cho nhân vật chính |
 | Vực Đá Chìm | Tàn tích ven biển của Đế Chế Uyên Nguyên, chìm dưới nước sau thảm họa "Đại Hồng Thủy"; nơi Giáo Phái Vực Sâu ẩn náu | Gắn liền với nguồn gốc lời nguyền Leviathan và Giáo Phái Vực Sâu |
+| Ravensmoor | Thị trấn có trạm gác của Đoàn Kỵ Sĩ Bình Minh, cách Hắc Mộc Lâm ba ngày đường | Nơi gia đình Ronan bị triệu tập để thẩm định trước hội đồng ba trưởng lão |
