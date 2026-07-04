@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 4
+- **Chương hiện tại đã viết xong:** 5
 - **Arc hiện tại:** Arc 1: Tội Lỗi Của Việc Được Sinh Ra (xem `plot/outline.md`)
-- **Ngày/thời điểm trong truyện:** Sáng ngày thứ 2 tại Grimhold
+- **Ngày/thời điểm trong truyện:** Tối ngày thứ 3 tại Grimhold (ngày thứ 4 kể từ vụ sói)
 - **POV hiện tại:** Ronan (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Cade (Gerta vừa rời đi)
-- **Địa điểm hiện tại:** Khoảng sân trong nhỏ khu gia nhân, Pháo Đài Grimhold
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Gerta (Quản Thú của Grimhold) đánh thức Ronan, phổ biến quy tắc cơ bản của một dã thú, rồi giới thiệu cậu với Cade — một dã thú kỳ cựu mang Ấn Hổ, đã bị ràng buộc 12 năm sau khi Ấn của ông "thức tỉnh" quá mạnh giết nhầm đồng đội. Cade cảnh báo Ronan rằng Vòng Kiềm Ấn phá vỡ ý chí bằng thời gian, không phải đau đớn — nhưng cũng hé lộ bí mật rằng vòng cổ đôi khi "lỏng đi" khi chủ nhân không chú tâm, dù ông chưa từng dám thử tận dụng. Cade bắt đầu dạy Ronan kiếm thuật
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan giờ biết mình không phải dã thú duy nhất, và rằng có thể có những kẽ hở thật sự trong sự ràng buộc tưởng như tuyệt đối này — nhưng chưa biết cách tìm ra chúng
-- **Mục tiêu ngắn hạn của nhân vật chính:** Học cách sinh tồn và huấn luyện dưới quyền Cade/Gerta trong khi âm thầm quan sát tìm kẽ hở của Vòng Kiềm Ấn
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, Freya, Lãnh Chúa Arik, Cassius, các vị khách quý tộc (Rodrick nhìn thấy từ xa)
+- **Địa điểm hiện tại:** Đại Sảnh, Pháo Đài Grimhold — bữa tiệc tiếp khách
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Freya triệu tập Ronan tới buổi tiệc đầu tiên trước khách khứa của gia tộc. Cassius, con trai Arik mang Ấn Sư Tử, công khai thử ra lệnh cho Ronan quỳ xuống để phô diễn quyền lực gia tộc — vòng cổ không phục tùng vì Cassius không phải chủ nhân thật. Cassius ép Freya phải tự ra lệnh; cô miễn cưỡng làm vậy trước khi ra lệnh Ronan đứng dậy ngay sau đó. Ronan đứng làm "đồ trang trí" suốt bữa tiệc, quan sát nhiều vị khách mang Ấn khác nhau, và thoáng thấy Rodrick đứng gác từ xa qua cửa sổ mà không thể tiếp cận
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan nhận ra chế độ dã thú không phải sự tàn nhẫn cá biệt mà là cả một trật tự xã hội được chấp nhận rộng rãi; cơn kiêu hãnh và ý chí trả đũa của cậu càng được củng cố khi nhìn thấy cha từ xa mà không thể chạm tới
+- **Mục tiêu ngắn hạn của nhân vật chính:** Tồn tại qua những buổi trình diện nhục nhã trong khi âm thầm tích lũy sức mạnh, quan sát, và chờ đợi thời cơ
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 (chưa có ghi chú — sẽ được AI tự cập nhật sau mỗi chương)

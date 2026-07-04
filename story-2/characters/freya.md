@@ -8,8 +8,8 @@
 - **Mối quan hệ với nhân vật khác:** Con gái Lãnh Chúa Arik. Được Ronan cứu khỏi sói trắng ở Chương 1. Nay là chủ nhân hợp pháp của cậu qua Khế Ước Dã Thú, dù bản thân cô có vẻ không thoải mái với vai trò đó.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Cô có thực sự tin vào việc "phải" giết Ronan một ngày nào đó nếu cần, hay đây là một phần lời tuyên bố của cha cô mà cô chưa từng chấp nhận, vẫn là câu hỏi ngỏ.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít nhưng thẳng thắn, không né tránh sự thật khó chịu ngay cả khi im lặng sẽ dễ dàng hơn.
-- **Trạng thái hiện tại:** Còn sống; vừa hoàn thành nghi thức neo giữ Khế Ước Dã Thú, chính thức trở thành chủ nhân của Ronan.
-- **Xuất hiện lần cuối:** Chương 3
+- **Trạng thái hiện tại:** Chủ nhân của Ronan; vừa bị anh trai Cassius công khai ép phải ra lệnh cho Ronan quỳ xuống trước mặt khách khứa, để lộ rõ sự xấu hổ và bất lực của chính cô trong nội bộ gia tộc.
+- **Xuất hiện lần cuối:** Chương 5
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -17,3 +17,4 @@
 | 1 | Bị sói trắng khổng lồ dồn vào góc sau khi hộ vệ bị giết; được Ronan cứu; chạy đi gọi người giúp |
 | 2 | Được Lãnh Chúa Arik nhắc tới (không xuất hiện trực tiếp): mang Ấn Rồng, sẽ trở thành chủ nhân của Ronan qua Khế Ước Dã Thú |
 | 3 | Xuất hiện trực tiếp lần đầu kể từ khu rừng; xin lỗi Ronan riêng tư, thừa nhận không ngăn được phán quyết của cha; đặt tay neo giữ nghi thức Khế Ước Dã Thú, chính thức trở thành chủ nhân của cậu |
+| 5 | Bị Cassius công khai gây áp lực buộc phải ra lệnh cho Ronan quỳ xuống trước khách khứa; miễn cưỡng làm vậy nhưng ngay lập tức ra lệnh cậu đứng dậy; lộ rõ sự xấu hổ/bất lực trước hành vi của anh trai |

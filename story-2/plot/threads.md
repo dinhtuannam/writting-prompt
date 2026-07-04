@@ -14,3 +14,6 @@
 | Ordell có biết những kẽ hở thật của Vòng Kiềm Ấn không | 3 | Mở | (chưa xác định) | Ông tỏ ra hiểu biết sâu và chú ý bất thường tới phản ứng của Ronan |
 | Liệu Cade còn đủ ý chí để thực sự giúp Ronan hay chỉ đang hồi tưởng vô vọng | 4 | Mở | (dài hơi) | Ông tự hỏi liệu mình "còn khả năng" giúp đỡ ai đó không, sau nhiều năm cam chịu |
 | Quá khứ thật của Cade — Ấn Hổ "thức tỉnh" quá mạnh giết nhầm đồng đội | 4 | Mở | (chưa xác định) | Mới chỉ biết qua lời kể ngắn gọn của Gerta; chi tiết thật chưa rõ |
+| Quan hệ căng thẳng giữa Cassius và Freya về cách đối xử với Ronan | 5 | Mở | (dài hơi) | Cassius thích sỉ nhục Ronan để phô diễn quyền lực; Freya rõ ràng khó chịu nhưng chưa dám phản kháng công khai |
+| Liệu Freya sẽ tiếp tục nhượng bộ áp lực từ Cassius/gia tộc hay dần đứng về phía Ronan | 5 | Mở | (dài hơi) | Cô đã cho thấy sự xấu hổ thật sự, nhưng vẫn tuân theo áp lực gia đình khi bị dồn ép |
+| Ronan có thể chạm tới hoặc liên lạc với Rodrick/Maren tại Grimhold không | 5 | Mở | (dài hơi) | Mới chỉ nhìn thấy Rodrick từ xa qua cửa sổ, không thể tiếp cận |
