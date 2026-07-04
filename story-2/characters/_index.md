@@ -1,17 +1,17 @@
 # Danh Sách Nhân Vật
 
-> ⚠️ DẤU ẤN LÀ CORE BUILDING CỦA TOÀN BỘ SERIES. Cột "Dấu Ấn" dưới đây PHẢI được điền cho mọi nhân vật xuất hiện quá 1 lần — nếu chưa tiết lộ, ghi rõ lý do ("chưa tiết lộ — bí ẩn có chủ đích" hoặc "chưa tiết lộ — chưa tới lúc") thay vì để trống. Trước khi hoàn thành BẤT KỲ chương nào, rà lại bảng này: nhân vật nào có tên xuất hiện trong chương vừa viết mà cột Dấu Ấn còn trống hoặc ghi "chưa tiết lộ" quá 2 chương liên tiếp thì PHẢI chủ động đưa vào chương tiếp theo (tiết lộ thật, tiết lộ sai/gây hiểu lầm, đồn đoán, hoặc xác nhận đó là một bí ẩn có chủ đích) — không được im lặng bỏ qua.
+> ⚠️ HAI CORE BUILDING CỦA TOÀN BỘ SERIES: **Dấu Ấn** (loại linh thú, độ hiếm) và **Tầng Cộng Hưởng** (Phàm Thể/Thức Tỉnh/Hiện Thân/Thú Quân/Thú Thần — sức mạnh thực tế, xem `lore/systems.md`). Đây là HAI TRỤC ĐỘC LẬP — không được nhầm lẫn hay bỏ trống. Mọi nhân vật xuất hiện quá 1 lần PHẢI có cả hai cột dưới đây được điền; nếu chưa tiết lộ, ghi rõ lý do ("chưa tiết lộ — bí ẩn có chủ đích" / "chưa tiết lộ — chưa tới lúc") thay vì để trống. Trước khi hoàn thành BẤT KỲ chương nào, rà lại bảng này — nhân vật nào có cột còn trống hoặc "chưa tiết lộ" quá 2 chương liên tiếp kể từ lần xuất hiện gần nhất thì chương tiếp theo PHẢI chủ động giải quyết (tiết lộ, gây hiểu lầm, đồn đoán, hoặc xác nhận rõ đây là bí ẩn có chủ đích) — không được im lặng bỏ qua.
 
-| Tên | Vai trò | Dấu Ấn | Trạng thái | File chi tiết |
-|---|---|---|---|---|
-| Ronan | Nhân vật chính | Leviathan (giấu kín 16 năm, nay đã lộ) | Bị giam, bị cưỡng ép dùng thuốc an thần | `ronan.md` |
-| Rodrick | Phụ (cha) | Gấu | Bị bắt giữ, chờ thụ án | `rodrick.md` |
-| Maren | Phụ (mẹ) | Bồ Câu | Bị bắt giữ, chờ thụ án | `maren.md` |
-| Lãnh Chúa Arik | Phản diện chính | **(chưa tiết lộ — cần giải quyết sớm, đã quá 3 chương)** | Còn sống | `arik.md` |
-| Freya | Nữ chính (con gái Arik) | Rồng | Còn sống, là chủ nhân của Ronan | `freya.md` |
-| Ordell | Phụ (thợ rèn nghi thức, Hội Rèn Kiềm Ấn) | Cú | Còn sống | `ordell.md` |
-| Gerta | Phụ (Quản Thú của Grimhold) | **(chưa tiết lộ — cố tình không lộ ra ngoài, có thể là bí ẩn có chủ đích, cần xác nhận trong 1-2 chương tới)** | Còn sống | `gerta.md` |
-| Cade | Phụ (dã thú kỳ cựu) | Hổ | Còn sống | `cade.md` |
-| Cassius | Phản diện tiềm năng (con trai Arik) | Sư Tử | Còn sống | `cassius.md` |
+| Tên | Vai trò | Dấu Ấn | Tầng Cộng Hưởng | Trạng thái | File chi tiết |
+|---|---|---|---|---|---|
+| Ronan | Nhân vật chính | Leviathan (giấu kín 16 năm, nay đã lộ) | Hiện Thân (đột phá qua trận sói ở Chương 1 — chưa phát hiện Blessing nào) | Bị giam, bị cưỡng ép dùng thuốc an thần | `ronan.md` |
+| Rodrick | Phụ (cha) | Gấu | Hiện Thân (cựu chiến binh, chưa thể hiện Blessing cụ thể trên trang truyện) | Bị bắt giữ, chờ thụ án | `rodrick.md` |
+| Maren | Phụ (mẹ) | Bồ Câu | Thức Tỉnh (chưa có màn chứng minh dưới áp lực sinh tử trên trang truyện) | Bị bắt giữ, chờ thụ án | `maren.md` |
+| Lãnh Chúa Arik | Phản diện chính | **(chưa tiết lộ — cần giải quyết sớm, đã quá 3 chương)** | **(chưa xác định — phụ thuộc vào Dấu Ấn, cần giải quyết cùng lúc)** | Còn sống | `arik.md` |
+| Freya | Nữ chính (con gái Arik) | Rồng | Phàm Thể (chưa có khoảnh khắc chân thực với bản chất riêng — vụ sói là khoảnh khắc của Ronan, không phải của cô) | Còn sống, là chủ nhân của Ronan | `freya.md` |
+| Ordell | Phụ (thợ rèn nghi thức, Hội Rèn Kiềm Ấn) | Cú | Thức Tỉnh (chuyên môn cao nhưng không phải chiến binh) | Còn sống | `ordell.md` |
+| Gerta | Phụ (Quản Thú của Grimhold) | **(chưa tiết lộ — cố tình không lộ ra ngoài, cần xác nhận trong 1-2 chương tới)** | **(chưa xác định — phụ thuộc vào Dấu Ấn)** | Còn sống | `gerta.md` |
+| Cade | Phụ (dã thú kỳ cựu) | Hổ | Hiện Thân (đạt được trước khi bị bắt; 12 năm bị Khế Ước kìm hãm khiến tiến trình gần như đóng băng, có dấu hiệu suy thoái) | Còn sống | `cade.md` |
+| Cassius | Phản diện tiềm năng (con trai Arik) | Sư Tử | Thức Tỉnh (tự tin thái quá so với thực lực — chưa từng chứng minh bản thân dưới áp lực sinh tử thật sự) | Còn sống | `cassius.md` |
 
-> Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`) — file đó cũng phải có trường Dấu Ấn tương ứng.
+> Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`) — file đó cũng phải có cả hai trường Dấu Ấn và Tầng Cộng Hưởng.

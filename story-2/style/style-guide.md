@@ -10,6 +10,17 @@ Dấu Ấn (Thú Ấn) không phải chi tiết trang trí — đó là ĐỘNG 
 3. Chủ động dùng Dấu Ấn như một công cụ xây dựng cảnh: mô tả năng lực cụ thể đi kèm khi giới thiệu, để nhân vật khác phản ứng/e dè/khinh thường dựa trên Ấn nhìn thấy, dùng nó để tạo bất ngờ trong chiến đấu hoặc chính trị — không chỉ nêu tên Ấn một lần trong phần "Ngoại hình" rồi không nhắc lại.
 4. Bất kỳ đám đông/bối cảnh xã hội nào (buổi tiệc, đội quân, phiên chợ...) đều nên có ít nhất một vài chi tiết Ấn của người xung quanh, kể cả nhân vật phụ không tên — đây là cách rẻ nhất để giữ hệ thống luôn "sống" trong mắt độc giả.
 
+## ⚠️ QUY TẮC TỐI THƯỢNG THỨ HAI: TẦNG CỘNG HƯỞNG LÀ THƯỚC ĐO SỨC MẠNH THỰC SỰ
+
+Ngang hàng quan trọng với Dấu Ấn. Xem toàn bộ cơ chế tại `lore/systems.md` — 5 tầng (Phàm Thể/Thức Tỉnh/Hiện Thân/Thú Quân/Thú Thần), Hồn Thú, Blessing, Monarch Aura, và Điều Kiện Đột Phá. Đây là trục ĐỘC LẬP với Dấu Ấn: Dấu Ấn quyết định BẠN LÀ CON GÌ, Tầng Cộng Hưởng quyết định BẠN MẠNH TỚI ĐÂU — không được lẫn lộn hai thứ này khi viết, và không được để một nhân vật "mạnh" chỉ vì mang Ấn hiếm mà không có Tầng tương xứng.
+
+**Cách thực thi, bắt buộc trước khi coi một chương là hoàn thành:**
+1. Rà lại cột "Tầng Cộng Hưởng" trong `characters/_index.md` — áp dụng đúng quy tắc như cột Dấu Ấn (không để trống quá 2 chương, phải chủ động giải quyết).
+2. Bất kỳ cảnh nào một nhân vật thể hiện sức mạnh thật (chiến đấu, Blessing, uy áp...) PHẢI có thể truy ngược về đúng Tầng và Blessing cụ thể của họ — không viết chung chung kiểu "cậu cảm thấy mạnh mẽ hơn bao giờ hết" mà không gắn với cơ chế cụ thể nào.
+3. Đột phá Tầng (khi xảy ra) phải bám đúng Điều Kiện Đột Phá đã quy định (chân thực dưới áp lực/quy mô tăng dần) — KHÔNG dùng "luyện tập chăm chỉ" hay "cảm xúc dâng trào" như lý do trực tiếp cho việc đột phá; cảm xúc chỉ quyết định màu sắc/hướng biểu hiện, không phải việc có đột phá hay không.
+4. Khi một đột phá xảy ra trên trang truyện, đó là sự kiện lớn — PHẢI được ghi vào `timeline/timeline.md` và cập nhật ngay trong file nhân vật tương ứng, không để nó trôi qua như một chi tiết nhỏ.
+5. Nhắc lại: Khế Ước Dã Thú hoạt động bằng cách chặn quyền truy cập Hồn Thú — không phải xóa bỏ nó. Một dã thú bị giam cầm vẫn có thể âm thầm tích lũy điều kiện đột phá (chân thực trong bí mật) dù không thể trưng ra sức mạnh công khai; đây là nguồn kịch tính dài hạn cần khai thác, không phải một chi tiết chết.
+
 - **Thể loại:** Dark Fantasy, cảm hứng châu Âu trung cổ
 - **Ngôi kể (POV):** Ngôi thứ 3 giới hạn — theo sát nhân vật chính (Ronan) mỗi chương, nhưng thế giới vẫn vận hành ngoài tầm nhìn của cậu. Đoạn hồi tưởng ngôi thứ nhất trong `lore/raw-idea.md` được giữ lại như phần mở đầu mang tính hồi tưởng của Chương 1 (prologue), sau đó chuyển hẳn sang ngôi thứ 3 cho phần thân chương và toàn bộ các chương sau.
 - **Thì:** Quá khứ

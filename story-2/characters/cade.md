@@ -2,6 +2,7 @@
 
 - **Vai trò trong truyện:** Phụ (dã thú kỳ cựu tại Grimhold, mang Ấn Hổ — tấm gương cảnh báo và mầm mống hy vọng cho Ronan)
 - **Dấu Ấn:** Hổ — sức mạnh và tốc độ chiến đấu vượt trội, từng "thức tỉnh" quá mạnh trong trận chiến khiến ông mất kiểm soát và giết nhầm đồng đội — lý do ông bị bán làm dã thú.
+- **Tầng Cộng Hưởng:** Hiện Thân (Tầng 3) — đạt được trước khi bị bắt (sự kiện "thức tỉnh quá mạnh" khớp với việc có Blessing thật đã hình thành). 12 năm bị Khế Ước Dã Thú kìm hãm quyền truy cập Hồn Thú và buộc phục tùng trái bản chất khiến tiến trình gần như đóng băng — có dấu hiệu SUY THOÁI (ánh mắt trống rỗng là hệ quả cơ chế, không chỉ là tính cách). Đây là tấm gương cảnh báo trực tiếp cho số phận Ronan nếu để bản thân bị bào mòn tương tự.
 - **Ngoại hình:** Dấu Ấn Hổ khổng lồ chạy dọc từ vai xuống cổ tay, đường vằn đen cam. Ánh mắt trống rỗng một cách kỳ lạ, như một căn nhà đã bị dọn sạch từ lâu.
 - **Tính cách:** Phẳng lặng, cam chịu bề ngoài, nhưng vẫn còn le lói một tia tiếc nuối/hy vọng bị chôn vùi rất sâu. Cẩn trọng, ít nói, quan sát kỹ trước khi hé lộ bất kỳ điều gì.
 - **Động cơ / mục tiêu:** Sinh tồn qua từng ngày; có lẽ, một phần rất nhỏ và mới le lói trở lại, muốn giúp Ronan không đi vào vết xe đổ của chính mình.

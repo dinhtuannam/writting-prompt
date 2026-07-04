@@ -2,6 +2,7 @@
 
 - **Vai trò trong truyện:** Phản diện chính / thế lực áp bức (Lãnh Chúa trấn giữ Pháo Đài Grimhold)
 - **Dấu Ấn:** (chưa tiết lộ — ĐÃ QUÁ HẠN 3 CHƯƠNG, cần giải quyết sớm trong chương tới. Gợi ý phát triển: có thể ông cố tình không phô bày Ấn của mình trước mặt ai, trái ngược hẳn với Cassius — một sự tương phản có thể mang ý nghĩa chủ đề, hoặc ông mang một Ấn Lớn nhưng không huyền thoại, khiến nỗi ám ảnh kiểm soát người mang Ấn huyền thoại của ông mang màu sắc ghen tị/bất an quyền lực)
+- **Tầng Cộng Hưởng:** (chưa xác định — phụ thuộc vào Dấu Ấn của ông, giải quyết cùng lúc. Gợi ý: là lãnh chúa quyền lực thực thi phán quyết lạnh lùng/có hệ thống trong Chương 2, khả năng cao ông đã đạt Hiện Thân hoặc Thú Quân — nhưng cũng có thể thú vị hơn nếu ông chỉ ở Thức Tỉnh, quyền lực thật của ông đến từ chính trị/quân đội chứ không phải sức mạnh cá nhân, giải thích một phần nỗi ám ảnh kiểm soát người mạnh hơn mình)
 - **Ngoại hình:** Cao lớn, áo choàng sẫm màu phủ qua giáp nhẹ, tóc điểm bạc cắt gọn theo kiểu quân đội, ánh mắt lạnh như thép.
 - **Tính cách:** Lạnh lùng, thực dụng, ra quyết định như một phép tính lời-lỗi hơn là cảm xúc. Không tàn ác một cách ngẫu hứng — mọi hình phạt ông đưa ra đều được bọc trong lớp vỏ "luật lệ" và "danh dự", khiến sự tàn nhẫn của ông càng đáng sợ hơn vì nó có hệ thống, không phải bộc phát.
 - **Động cơ / mục tiêu:** Bảo vệ lãnh địa và duy trì trật tự theo đúng luật Khế Ước Dã Thú của vương quốc Wyrmreach; xem việc kiểm soát một Dấu Ấn Leviathan là trách nhiệm không thể trốn tránh, bất kể cái giá đạo đức.

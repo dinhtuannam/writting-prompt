@@ -2,6 +2,7 @@
 
 - **Vai trò trong truyện:** Phụ (Quản Thú của Pháo Đài Grimhold — quản lý mọi dã thú bị ràng buộc tại lãnh địa)
 - **Dấu Ấn:** (chưa tiết lộ — cố tình không để lộ ra ngoài; Ronan từng để ý "không có Dấu Ấn nào lộ ra trên da bà mà cậu có thể thấy" ở Chương 4, ngụ ý bà che giấu có chủ đích. Cần xác nhận/gợi ý rõ hơn trong 1-2 chương tới)
+- **Tầng Cộng Hưởng:** (chưa xác định — phụ thuộc vào Dấu Ấn của bà. Gợi ý: dáng vẻ chắc nịch cựu chiến binh + vai trò quản lý dã thú nhiều năm gợi ý ít nhất Hiện Thân, nhưng việc bà giấu kín Ấn tuyệt đối có thể liên quan tới việc bà KHÔNG muốn ai biết Tầng thật của mình — một bí ẩn kép đáng khai thác)
 - **Ngoại hình:** Trung niên, vóc dáng chắc nịch của một cựu chiến binh, một vết sẹo dài từ thái dương xuống quai hàm.
 - **Tính cách:** Lạnh lùng, thực dụng, không thù ghét dã thú nhưng cũng không thương xót họ — coi việc quản lý họ như một công việc chuyên môn. Trung thành với Lãnh Chúa Arik hơn vẻ ngoài thể hiện.
 - **Động cơ / mục tiêu:** Đảm bảo mọi dã thú tại Grimhold tuân thủ quy tắc và không gây rắc rối cho gia tộc.

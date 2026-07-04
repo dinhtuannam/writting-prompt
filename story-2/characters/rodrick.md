@@ -2,6 +2,7 @@
 
 - **Vai trò trong truyện:** Phụ (cha của Ronan)
 - **Dấu Ấn:** Gấu — sức mạnh và sức chịu đựng thể chất vượt trội, phù hợp với vai trò cựu chiến binh.
+- **Tầng Cộng Hưởng:** Hiện Thân (Tầng 3) — suy luận từ hồ sơ chiến công và quyết định rời quân ngũ để bảo vệ con (một lựa chọn chân thực, trả giá thật). Blessing cụ thể chưa thể hiện trên trang truyện, cần khai thác khi có cảnh chiến đấu của ông.
 - **Ngoại hình:** Cựu chiến binh, dáng người rắn rỏi dày dạn trận mạc.
 - **Tính cách:** Nghiêm khắc, kỷ luật, dạy con bằng chính cách sống hơn là lời nói — dậy trước bình minh, làm việc tới kiệt sức, không than vãn.
 - **Động cơ / mục tiêu:** Bảo vệ bí mật và sự an toàn của con trai bằng mọi giá; đã đánh đổi cả sự nghiệp trong quân đội Lãnh Chúa Arik để lui về ẩn dật.

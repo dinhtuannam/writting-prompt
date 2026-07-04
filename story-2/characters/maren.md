@@ -2,6 +2,7 @@
 
 - **Vai trò trong truyện:** Phụ (mẹ của Ronan)
 - **Dấu Ấn:** Bồ Câu — trực giác chữa lành và một sự bình thản trấn an người khác, phù hợp với vai trò thầy thuốc.
+- **Tầng Cộng Hưởng:** Thức Tỉnh (Tầng 2) — cả đời sống chân thực với bản chất Bồ Câu của mình (chọn nuôi Ronan thay vì bỏ mặc là một hành động chân thực, dù rủi ro thấp hơn "sinh tử tức thời"). Chưa có cảnh chứng minh dưới áp lực sinh tử thật sự trên trang truyện để đột phá lên Hiện Thân.
 - **Ngoại hình:** Thầy thuốc, tay quen với thảo dược.
 - **Tính cách:** Nhân hậu, kiên định; chọn nuôi dưỡng con trai bằng tình yêu thay vì bỏ mặc số phận đã định sẵn cho cậu.
 - **Động cơ / mục tiêu:** Bảo vệ con trai; đã cùng Rodrick đánh cược cả cuộc đời để nuôi Ronan thay vì bỏ mặc cậu chết giữa mùa đông năm xưa.
