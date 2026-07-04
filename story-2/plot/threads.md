@@ -41,4 +41,5 @@
 | Dấu Ấn Leviathan của Ronan bắt đầu "cựa mình" sau trận chiến | 2 | Mở | (dài hơi) | Có thể liên quan đến cơ chế cộng hưởng cảm xúc đã ghi trong `lore/systems.md` |
 | Lời nguyền Leviathan có phải định mệnh thật hay chỉ là định kiến tự ứng nghiệm | 1 | Mở (dài hơi) | (xuyên suốt series) | Bí ẩn trung tâm — xem `lore/history.md` về manh mối Leviathan thứ 3 chưa gây họa |
 | Gia đình bước vào Hoang Địa Phương Bắc, gặp người lạ dẫn đường | 30 | Đóng (Chương 31) | — | Người lạ tên Kael, người canh giữ rìa đất của chính Bộ Lạc Sói Xám; đã dẫn gia đình tới tận khu định cư |
-| Hội đồng trưởng lão Bộ Lạc Sói Xám có đồng ý kể câu chuyện Sarai không | 31 | Mở | 32-33 | Hilda nhấn mạnh đây là quyết định tập thể, không phải của riêng bà |
+| Hội đồng trưởng lão Bộ Lạc Sói Xám có đồng ý kể câu chuyện Sarai không | 31 | Đóng một phần (Chương 32) | 33 | Brenna quyết định khuyên hội đồng đồng ý; kể chuyện dự kiến diễn ra công khai tối chương 33 |
+| Cách Sarai qua đời — Brenna xác nhận bà biết nhưng chưa kể | 32 | Mở — sắp được giải đáp | 33 | Sẽ được kể công khai dưới ánh lửa trước cả bộ lạc |

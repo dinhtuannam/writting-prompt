@@ -17,5 +17,6 @@
 | Rowan | Phụ (vắng mặt, bạn cũ của Elric) | Mất tích | `rowan.md` |
 | Kael | Phụ (người canh giữ rìa đất, Bộ Lạc Sói Xám) | Còn sống | `kael.md` |
 | Hilda | Phụ (Tộc Trưởng Bộ Lạc Sói Xám) | Còn sống | `hilda.md` |
+| Brenna | Phụ (Người Giữ Ký Ức, Bộ Lạc Sói Xám) | Còn sống | `brenna.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).
