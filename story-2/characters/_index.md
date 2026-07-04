@@ -16,5 +16,7 @@
 | Lãnh Chúa Devric | Phản diện tiềm năng (đồng minh chính trị của Arik) | (chưa tiết lộ — chưa xuất hiện trực tiếp) | (chưa xác định) | Còn sống | `devric.md` |
 | Marek | Phụ (dã thú tại Grimhold) | Sói — Blessing thính giác phi thường | Ít nhất Thức Tỉnh (Tầng 2) | Còn sống, trong đội viễn chinh | `marek.md` |
 | Ashara | Phản diện phức tạp (thủ lĩnh Vô Chủ, núi Kestrel) | Phượng Hoàng (Ấn huyền thoại thứ 3) — lộ Chương 14 | Ít nhất Hiện Thân, khả năng Thú Quân | Bị thương, đang rút lui | `ashara.md` |
+| Fenn | Phụ (lính gác, nội gián thật sự) | (chưa tiết lộ — không trọng tâm) | (chưa xác định) | **Đã mất (Chương 18)** — hành quyết | `fenn.md` |
+| Wren | Phụ (gia nhân) | (chưa tiết lộ — không trọng tâm) | (chưa xác định) | Còn sống | `wren.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`) — file đó cũng phải có cả hai trường Dấu Ấn và Tầng Cộng Hưởng.
