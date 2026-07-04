@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 1
+- **Chương hiện tại đã viết xong:** 2
 - **Arc hiện tại:** Arc 1: Tội Lỗi Của Việc Được Sinh Ra (xem `plot/outline.md`)
-- **Ngày/thời điểm trong truyện:** Chiều/tối, hiện tại
+- **Ngày/thời điểm trong truyện:** Ngay sau khi tỉnh dậy, cùng ngày/hôm sau vụ sói
 - **POV hiện tại:** Ronan (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan (bất tỉnh), cô gái quý tộc chưa rõ tên (thực chất là Freya, mang Ấn Rồng — người đọc/nhân vật chưa biết tên)
-- **Địa điểm hiện tại:** Một khoảng trống trong Hắc Mộc Lâm, nơi vừa xảy ra trận chiến với sói trắng
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Ronan lao tới cứu một cô gái quý tộc bị sói trắng khổng lồ dồn vào góc, giết được sói bằng dao săn nhưng bị cắn trọng thương đúng vị trí Dấu Ấn Leviathan thật đang bị che giấu. Cậu bảo cô chạy đi gọi người giúp rồi bất tỉnh. Trong lúc lơ mơ, cậu nghe tiếng vó ngựa, tiếng hô hoán, tiếng một giọng nữ trẻ trước khi chìm hẳn vào bóng tối
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Liệu Dấu Ấn thật của Ronan có bị những người tới cứu phát hiện qua vết thương hay không
-- **Mục tiêu ngắn hạn của nhân vật chính:** (bất tỉnh — chưa có mục tiêu chủ động, sẽ đối mặt hậu quả khi tỉnh dậy)
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, Lãnh Chúa Arik (đã rời đi), lính canh
+- **Địa điểm hiện tại:** Phòng giam tại Pháo Đài Grimhold
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Ronan tỉnh dậy trong phòng giam, Dấu Ấn Leviathan thật đã bị phát hiện. Lãnh Chúa Arik đích thân tuyên án: Rodrick và Maren (đã bị bắt giữ) sẽ chịu 100 roi, Rodrick bị ép quay lại quân đội Arik cho đến chết, Maren bị ép phục vụ y thuật; Ronan bị ràng buộc vĩnh viễn làm dã thú của Freya qua luật Khế Ước Dã Thú, định sẵn sẽ bị chính cô giết nếu cậu "hóa quái vật". Ronan phản kháng dữ dội, bị cưỡng ép dùng thuốc an thần, và trong cơn mơ màng, một sự kiêu hãnh lạnh lùng bắt đầu kết tinh thay cho niềm tin ngây thơ vào tình yêu
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan đã âm thầm thề sẽ trở thành "con thú vượt xa mọi tưởng tượng" của họ — nhưng chưa biết hình phạt cụ thể (100 roi, nghi thức Khế Ước Dã Thú) sẽ diễn ra như thế nào
+- **Mục tiêu ngắn hạn của nhân vật chính:** Sống sót qua nghi thức và hình phạt sắp tới; bắt đầu kiềm nén cảm xúc thật để tồn tại trong vai trò dã thú
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 (chưa có ghi chú — sẽ được AI tự cập nhật sau mỗi chương)

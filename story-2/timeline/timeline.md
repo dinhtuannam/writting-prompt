@@ -5,3 +5,4 @@
 | Chương | Thời điểm trong truyện | Sự kiện | Nhân vật liên quan | Hệ quả |
 |---|---|---|---|---|
 | 1 | Chiều/tối, hiện tại | Ronan nghe tiếng kêu cứu trong Hắc Mộc Lâm, lao tới cứu một cô gái quý tộc (Freya, mang Ấn Rồng, chưa lộ tên) khỏi sói trắng khổng lồ đã giết hộ vệ của cô; giết được sói nhưng bị cắn trọng thương đúng vị trí Dấu Ấn Leviathan thật rồi bất tỉnh | Ronan, cô gái quý tộc (Freya) | Dấu Ấn thật của Ronan có nguy cơ bị phát hiện qua vết thương; cô gái chạy đi gọi người giúp |
+| 2 | Ngay sau đó | Ronan tỉnh dậy bị giam tại Pháo Đài Grimhold, Dấu Ấn thật đã lộ; Lãnh Chúa Arik tuyên án: Rodrick và Maren (đã bị bắt) chịu 100 roi và bị ép phục dịch trọn đời, Ronan bị ràng buộc làm dã thú của Freya qua Khế Ước Dã Thú, định sẵn bị cô giết nếu "hóa quái vật" | Ronan, Lãnh Chúa Arik, Rodrick (nhắc tới), Maren (nhắc tới), Freya (nhắc tới) | Gia đình Ronan chính thức bị chia cắt; Ronan bắt đầu chuyển biến tâm lý sang kiêu hãnh và ý chí trả đũa kiềm nén |
