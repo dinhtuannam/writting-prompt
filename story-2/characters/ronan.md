@@ -9,8 +9,8 @@
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick và Maren — giờ đây bị chia cắt khỏi cả hai bởi phán quyết của Arik. Vừa cứu Freya (con gái Arik, mang Ấn Rồng) khỏi sói trắng khổng lồ ở Chương 1; sắp trở thành dã thú ràng buộc với cô qua Khế Ước Dã Thú.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan — nay đã bị phát hiện và ghi nhận chính thức bởi Lãnh Chúa Arik. Chương 14: Ashara (thủ lĩnh Vô Chủ, Ấn Phượng Hoàng) phản ứng với sự kinh ngạc khi thấy Ấn của cậu, thốt lên "một Leviathan khác... sau ngần ấy năm" — ngụ ý tồn tại (hoặc từng tồn tại) một Leviathan khác mà bà biết tới, thông tin chưa từng xuất hiện ở bất kỳ đâu khác trong lore.
 - **Giọng nói / cách nói chuyện đặc trưng:** Ít nói về bản thân, có xu hướng hành động trước khi suy nghĩ thấu đáo khi thấy người khác gặp nguy hiểm. Nội tâm giờ đây mang thêm một giọng điệu mới: tính toán, kiêu hãnh, đầy kiềm nén.
-- **Trạng thái hiện tại:** Vừa chiến đấu thật lần đầu tiên chống lại Bọn Vô Chủ, dùng Blessing 2 để vô hiệu hóa thay vì giết khi có thể; chấn động bởi lời của Ashara về "một Leviathan khác" — một bí ẩn hoàn toàn mới về nguồn gốc/lịch sử Ấn của chính mình.
-- **Xuất hiện lần cuối:** Chương 14
+- **Trạng thái hiện tại:** Tìm thấy manh mối lịch sử (ghi chép 40 năm trước về một đứa trẻ Leviathan sinh ra ở làng phía nam, làng bị thiêu rụi bí ẩn trước khi triều đình điều tra) khớp với lá thư tìm thấy ở Chương 15. Nghi vấn về Ordell vẫn treo, chưa có kết luận sau thẩm vấn. Nhận ra Cassius đang trở nên bất an, có thể nguy hiểm theo cách mới.
+- **Xuất hiện lần cuối:** Chương 16
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
