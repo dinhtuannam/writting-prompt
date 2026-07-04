@@ -19,5 +19,6 @@
 | Fenn | Phụ (lính gác, nội gián thật sự) | (chưa tiết lộ — không trọng tâm) | (chưa xác định) | **Đã mất (Chương 18)** — hành quyết | `fenn.md` |
 | Wren | Phụ (gia nhân) | (chưa tiết lộ — không trọng tâm) | (chưa xác định) | Còn sống | `wren.md` |
 | Thane | Phụ (phó chỉ huy Vô Chủ của Ashara) | Chim Ưng | Chưa xác định, ít nhất Hiện Thân | Còn sống | `thane.md` |
+| Aldric | Phụ (lính trẻ, gián điệp của Cassius) | (chưa tiết lộ — không trọng tâm) | (chưa xác định) | Còn sống | `aldric.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`) — file đó cũng phải có cả hai trường Dấu Ấn và Tầng Cộng Hưởng.

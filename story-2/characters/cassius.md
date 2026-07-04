@@ -10,8 +10,8 @@
 - **Mối quan hệ với nhân vật khác:** Con trai Arik, anh trai Freya. Công khai thích thú khi thấy Ronan bị buộc phục tùng, tạo áp lực buộc Freya phải "ra lệnh" trước mặt khách.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** (chưa có)
 - **Giọng nói / cách nói chuyện đặc trưng:** Giọng vang, thích nói trước đám đông, hay dùng câu hỏi tu từ để khiêu khích.
-- **Trạng thái hiện tại:** (Suy đoán, chưa xác nhận trực tiếp trên trang truyện) Bí mật cử người theo dõi nhiệm vụ của Freya tại núi Kestrel — Marek phát hiện dấu vết một người theo dõi phù hợp với động cơ của anh ta.
-- **Xuất hiện lần cuối:** Chương 22 (gián tiếp, qua suy đoán của Ronan/Freya)
+- **Trạng thái hiện tại:** XÁC NHẬN đã cử Aldric bí mật theo dõi nhiệm vụ của Freya — âm mưu thất bại khi Aldric báo cáo trung thực có lợi cho Freya. Vừa chứng kiến Arik công khai khen ngợi Freya và giữ nguyên thỏa thuận hoãn hôn nhân; rời phòng với ánh mắt lạnh lùng, tính toán — dấu hiệu cảnh báo cho một kế hoạch nguy hiểm hơn sắp tới.
+- **Xuất hiện lần cuối:** Chương 24
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -23,3 +23,4 @@
 | 16 | Tránh mặt Freya hoàn toàn; Ronan bắt gặp anh ta một mình trên tường thành với biểu cảm sợ hãi thầm kín chưa từng thấy trước đây |
 | 19 | Tiết lộ cho Freya (trước mặt Ronan) tin tức về cuộc hôn nhân sắp đặt với gia tộc Devric, tận hưởng phản ứng đau đớn của cô như một cách khẳng định lại quyền lực đang mất dần |
 | 22 | (Suy đoán) Có thể là người bí mật theo dõi nhiệm vụ của Freya tại núi Kestrel — chưa xác nhận trực tiếp |
+| 24 | Xác nhận đã cử Aldric theo dõi; âm mưu thất bại khi Aldric báo cáo trung thực; bị Arik ngắt lời và không được tin tưởng hơn Freya; rời đi với ánh mắt lạnh lùng, tính toán một kế hoạch mới |
