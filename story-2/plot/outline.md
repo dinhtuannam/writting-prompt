@@ -1,7 +1,7 @@
 # Outline Tổng Thể
 
 ## Ý tưởng gốc (raw idea từ người dùng)
-Xem toàn văn tại `lore/raw-idea.md`. Tóm tắt: Dark Fantasy, kể theo ngôi thứ nhất bởi một nhân vật chính không được đặt tên (chủ ý ẩn danh), mang Ấn Leviathan — Ấn huyền thoại hiếm nhất, bị nguyền là định sẵn trở thành đại họa thế giới. Cha mẹ giấu kín sự thật này, nuôi cậu lớn lên trong rừng sâu bằng tình yêu thương. Câu chuyện mở đầu bằng việc cậu (16 tuổi) liều mình cứu một cô gái quý tộc khỏi một con sói trắng khổng lồ, đánh đổi bằng vết thương nặng và nguy cơ lộ diện thân phận. Giọng kể có tính hồi tưởng từ tương lai ("điều cậu bé ngày ấy chưa từng biết..."), báo trước rằng hận thù dễ gieo mầm hơn tình yêu.
+Xem toàn văn tại `lore/raw-idea.md`. Tóm tắt: Dark Fantasy, nhân vật chính Ronan mang Ấn Leviathan — Ấn huyền thoại hiếm nhất, bị nguyền là định sẵn trở thành đại họa thế giới. Cha (Bastian) mẹ (Maren) giấu kín sự thật này, nuôi cậu lớn lên trong rừng sâu bằng tình yêu thương. Câu chuyện mở đầu bằng việc cậu (16 tuổi) liều mình cứu một cô gái quý tộc khỏi một con sói trắng khổng lồ, đánh đổi bằng vết thương nặng và nguy cơ lộ diện thân phận. Chương 1 mở đầu bằng đoạn hồi tưởng ngôi thứ nhất (nguyên văn từ raw-idea.md) làm prologue, báo trước rằng hận thù dễ gieo mầm hơn tình yêu, sau đó chuyển sang ngôi thứ 3 giới hạn cho toàn bộ phần còn lại của series.
 
 ## Cấu trúc Act
 - **Act 1:** Thiết lập thế giới Thú Ấn và bí mật của nhân vật chính; sự kiện cứu cô gái quý tộc Gia Tộc Voss khỏi sói trắng và hệ quả trực tiếp — nguy cơ thân phận bị lộ, sự chú ý không mong muốn từ giới quý tộc Thornwyn.
