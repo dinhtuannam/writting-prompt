@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 12
+- **Chương hiện tại đã viết xong:** 14
 - **Arc hiện tại:** Arc 2 (chưa đặt tên chính thức) — mở đầu ở Chương 11, xem `plot/outline.md`
-- **Ngày/thời điểm trong truyện:** Bình minh, ngày đội viễn chinh xuất phát (khoảng 3.5 tuần kể từ vụ sói ở Chương 1)
+- **Ngày/thời điểm trong truyện:** Giữa trận chiến, ngay sau khi Ashara bị đâm lén và rút lui
 - **POV hiện tại:** Ronan (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Freya, Cassius, Cade, Marek, 20 lính tinh nhuệ
-- **Địa điểm hiện tại:** Trên đường tiến về phía những ngọn núi xa xăm, rời khỏi Pháo Đài Grimhold
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Đội viễn chinh (Cassius dẫn đầu, Freya tình nguyện đi cùng, Ronan + Cade + Marek là 3 dã thú tham gia) vừa xuất phát để truy quét nơi trú ẩn nghi ngờ của Bọn Vô Chủ. Ordell đã ngầm tiết lộ Vòng Kiềm Ấn suy yếu theo khoảng cách/thời gian. Cade khuyên Ronan tìm cơ hội đối thoại nếu gặp Vô Chủ.
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan lần đầu rời Grimhold, cảm giác đang tiến về một điều chưa biết — không rõ chuyến đi sẽ mang lại cái chết, phản bội, hay câu trả lời cậu khao khát
-- **Mục tiêu ngắn hạn của nhân vật chính:** Sống sót qua hành trình, tìm cơ hội thử nghiệm giới hạn Vòng Kiềm Ấn (đặc biệt khi khoảng cách với Freya tăng), và chuẩn bị tinh thần cho khả năng đối mặt trực tiếp với Bọn Vô Chủ
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, Freya, Cassius, quân Grimhold, Vô Chủ đang rút lui
+- **Địa điểm hiện tại:** Trại Vô Chủ, thung lũng dưới chân núi Kestrel
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Trận chiến chưa kết thúc. Ashara (Ấn Phượng Hoàng, thủ lĩnh) vừa bị Cassius đâm lén ngay khi bà kinh ngạc nhận ra Ấn Leviathan của Ronan, nhắc tới "một Leviathan khác". Freya vừa đột phá Tầng 2. Ronan chấn động vì bí ẩn mới, chưa kịp xử lý gì thêm.
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Trận chiến vẫn tiếp diễn; số phận Ashara và nhóm Vô Chủ, cũng như cơ hội biết thêm về "Leviathan khác", đang treo lơ lửng
+- **Mục tiêu ngắn hạn của nhân vật chính:** Tìm cách kết thúc trận chiến mà không để mất cơ hội duy nhất tiếp cận sự thật về nguồn gốc Leviathan qua Ashara
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - ⚠️ NHẮC THƯỜNG TRỰC #1 — DẤU ẤN: Arik, Gerta đã giải quyết. Nhân vật mới Marek (Chương 12) — Ấn Sói đã đặt tên nhưng CHƯA mô tả năng lực cụ thể, mới chỉ được nhắc tên — cần giải quyết trong 1-2 chương khi anh ta xuất hiện trực tiếp. Lãnh Chúa Devric vẫn để ngỏ hợp lệ.

@@ -14,6 +14,7 @@
 | Cade | Phụ (dã thú kỳ cựu) | Hổ | Hiện Thân (đạt được trước khi bị bắt; 12 năm bị Khế Ước kìm hãm khiến tiến trình gần như đóng băng, có dấu hiệu suy thoái) | Còn sống | `cade.md` |
 | Cassius | Phản diện tiềm năng (con trai Arik) | Sư Tử | Thức Tỉnh (tự tin thái quá so với thực lực — chưa từng chứng minh bản thân dưới áp lực sinh tử thật sự) | Còn sống, dẫn đầu đội viễn chinh truy quét Bọn Vô Chủ | `cassius.md` |
 | Lãnh Chúa Devric | Phản diện tiềm năng (đồng minh chính trị của Arik) | (chưa tiết lộ — chưa xuất hiện trực tiếp) | (chưa xác định) | Còn sống | `devric.md` |
-| Marek | Phụ (dã thú tại Grimhold) | Sói (chưa mô tả năng lực) | (chưa xác định — chưa xuất hiện trực tiếp) | Còn sống, trong đội viễn chinh | `marek.md` |
+| Marek | Phụ (dã thú tại Grimhold) | Sói — Blessing thính giác phi thường | Ít nhất Thức Tỉnh (Tầng 2) | Còn sống, trong đội viễn chinh | `marek.md` |
+| Ashara | Phản diện phức tạp (thủ lĩnh Vô Chủ, núi Kestrel) | Phượng Hoàng (Ấn huyền thoại thứ 3) — lộ Chương 14 | Ít nhất Hiện Thân, khả năng Thú Quân | Bị thương, đang rút lui | `ashara.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`) — file đó cũng phải có cả hai trường Dấu Ấn và Tầng Cộng Hưởng.
