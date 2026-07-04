@@ -19,6 +19,7 @@
 | Mối liên hệ giữa bản chất Leviathan của Ronan và Vực Đá Chìm | 10 | Mở | (chưa xác định) | Ronan cảm thấy như được "chào đón"/thuộc về nơi này — chưa rõ ý nghĩa |
 | Gia đình có nên tiết lộ sự thật về Ronan cho Bá Tước Voss không | 8 | Đóng (Chương 14) | — | Chọn kể câu chuyện không đầy đủ thay vì toàn bộ sự thật; Bá Tước Voss vẫn không biết, chỉ Seris biết |
 | Đoàn Kỵ Sĩ Bình Minh có thể đã chú ý tới tin đồn về sức mạnh của Ronan | 14 | Mở — cụ thể hóa (Chương 16) | 17-20 | Hiệp Sĩ Thẩm Vấn Aldous đã tới vùng, điều tra tới tận lâu đài Voss |
-| Seris có thể vô tình để lộ bí mật khi bị Aldous thẩm vấn | 16 | Mở | 17-18 | Cô chưa được chuẩn bị để đối phó với một cuộc thẩm vấn chuyên nghiệp |
+| Seris có thể vô tình để lộ bí mật khi bị Aldous thẩm vấn | 16 | Đóng (Chương 17) | — | Cô giữ vững câu chuyện đã thống nhất thành công |
+| Aldous nghi ngờ gia đình sống biệt lập gần vùng hoang địa (ngụ ý nhà Ronan) | 17 | Mở — mối đe dọa trực tiếp | 18-20 | Ông ta đã hỏi cụ thể về đặc điểm này dù Seris phủ nhận biết; khả năng ông ta sẽ tới tận Hắc Mộc Lâm rất cao |
 | Dấu Ấn Leviathan của Ronan bắt đầu "cựa mình" sau trận chiến | 2 | Mở | (dài hơi) | Có thể liên quan đến cơ chế cộng hưởng cảm xúc đã ghi trong `lore/systems.md` |
 | Lời nguyền Leviathan có phải định mệnh thật hay chỉ là định kiến tự ứng nghiệm | 1 | Mở (dài hơi) | (xuyên suốt series) | Bí ẩn trung tâm — xem `lore/history.md` về manh mối Leviathan thứ 3 chưa gây họa |
