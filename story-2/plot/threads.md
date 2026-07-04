@@ -10,6 +10,7 @@
 | Lời mời học việc tại Học Viện Kiếm Thuật Hoàng Gia | 3 | Đóng (Chương 4) | — | Gia đình quyết định từ chối, viện lý do Ronan cần ở lại chăm sóc đất đai; thay vào đó Bastian tự huấn luyện Ronan |
 | Tốc độ tiến bộ Ấn Thuật bất thường của Ronan | 4 | Mở | (dài hơi) | Đạt Dẫn Ấn chỉ sau 1 đêm, so với 3 năm của Bastian — có thể liên quan đến bản chất đặc biệt của Ấn Leviathan |
 | Đợt xáo động sức mạnh trong buổi luyện tập có bị phát hiện không | 4 | Đóng một phần (Chương 5) | — | Tìm thấy dấu vết của một giáo phái (biểu tượng sóng xoáy) gần nhà — nghi ngờ mạnh là có liên quan; xem thread mới |
-| Giáo phái bí ẩn (nghi là Giáo Phái Vực Sâu) đã tìm đến gần nhà Ronan | 5 | Mở — mối đe dọa chính mở ra cho arc tiếp theo | (chưa xác định) | Biểu tượng sóng xoáy khắc trên đá gần tàn tích trại lửa có trật tự; Bastian nhận ra ngay và hoảng hốt |
+| Giáo phái bí ẩn (nghi là Giáo Phái Vực Sâu) đã tìm đến gần nhà Ronan | 5 | Đóng một phần (Chương 6) | — | Xác nhận là Giáo Phái Vực Sâu, muốn chiêu mộ/kích động Ronan; xem thread mới về kế hoạch cụ thể của họ |
+| Kế hoạch của Giáo Phái Vực Sâu ("cậu ta sắp sẵn sàng") | 6 | Mở — căng thẳng cao | 7-8 | Ba thành viên áo choàng xám xanh được Bastian trực tiếp trông thấy gần nhà; ngụ ý một hành động sắp xảy ra |
 | Dấu Ấn Leviathan của Ronan bắt đầu "cựa mình" sau trận chiến | 2 | Mở | (dài hơi) | Có thể liên quan đến cơ chế cộng hưởng cảm xúc đã ghi trong `lore/systems.md` |
 | Lời nguyền Leviathan có phải định mệnh thật hay chỉ là định kiến tự ứng nghiệm | 1 | Mở (dài hơi) | (xuyên suốt series) | Bí ẩn trung tâm — xem `lore/history.md` về manh mối Leviathan thứ 3 chưa gây họa |
