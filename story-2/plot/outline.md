@@ -1,13 +1,15 @@
 # Outline Tổng Thể
 
 ## Ý tưởng gốc (raw idea từ người dùng)
-(chưa có — điền khi người dùng cung cấp ý tưởng ban đầu, thường qua skill `/expand-lore`)
+Xem toàn văn tại `lore/raw-idea.md`. Tóm tắt: Dark Fantasy, nhân vật chính Ronan mang Ấn Leviathan — Ấn huyền thoại hiếm nhất, bị nguyền là định sẵn trở thành đại họa thế giới. Cha (Rodrick, Ấn Gấu, cựu chiến binh dưới quyền Lãnh Chúa Arik) và mẹ (Maren, Ấn Bồ Câu, thầy thuốc) giấu kín sự thật này, nuôi cậu lớn lên trong rừng sâu. Năm 16 tuổi, Ronan liều mình cứu Freya — con gái Lãnh Chúa Arik, mang Ấn Rồng — khỏi một con sói trắng khổng lồ, nhưng bị thương đúng vị trí Dấu Ấn thật, làm lộ bí mật. Thay vì được biết ơn, cậu bị bắt giữ; Arik tuyên án: cha mẹ chịu 100 roi và bị ép quay lại phục dịch, còn Ronan bị ràng buộc vĩnh viễn làm "dã thú" của Freya qua Khế Ước Dã Thú — định sẵn sẽ bị chính cô giết nếu cậu "hóa quái vật". Câu chuyện mở đầu bằng đoạn hồi tưởng ngôi thứ nhất (dựa trên nguyên văn raw-idea.md) làm prologue Chương 1, báo trước rằng hận thù dễ gieo mầm hơn tình yêu — trước khi chuyển hẳn sang ngôi thứ 3 giới hạn, theo sát một Ronan ngày càng kiêu hãnh, lạnh lùng, và nguy hiểm thật sự.
 
 ## Cấu trúc Act
-- **Act 1:** (chưa xác định)
-- **Act 2:** (chưa xác định)
-- **Act 3:** (chưa xác định)
+- **Act 1:** Thiết lập thế giới Dấu Ấn và chế độ Khế Ước Dã Thú; Ronan cứu Freya, bị phát hiện, bị xét xử, gia đình bị chia cắt bởi hình phạt, và cậu bắt đầu cuộc đời làm dã thú tại Pháo Đài Grimhold — kết thúc bằng sự biến chuyển tâm lý từ một cậu bé tin vào tình yêu sang một thiếu niên nuôi dưỡng kiêu hãnh và ý chí trả đũa trong im lặng.
+- **Act 2:** Cuộc sống của Ronan như dã thú của Freya tại Grimhold — huấn luyện, chính trị nội bộ gia tộc, những dã thú/người mang Ấn khác cậu gặp (đồng minh, đối thủ, tấm gương cảnh báo), mối quan hệ phức tạp dần hình thành với Freya (người vừa là chủ nhân vừa được định sẵn là "anh hùng" sẽ giết cậu), và hành trình âm thầm tích lũy sức mạnh, nới lỏng giới hạn của Vòng Kiềm Ấn.
+- **Act 3:** Lời tiên tri về Freya-người-sẽ-giết-Ronan bị đẩy tới cao trào; đối mặt câu hỏi cốt lõi — liệu Ronan sẽ trở thành đúng thứ thế giới đã ép cậu phải là, hay tìm ra một con đường khác mà không ai từng nghĩ tới; một quyết định mang tính bước ngoặt sẽ định hình cậu thực sự là ai, vượt ngoài cả lời nguyền lẫn lòng kiêu hãnh.
 
 ## Các arc lớn
 | Arc | Chương bắt đầu | Chương kết thúc (dự kiến) | Tóm tắt |
 |---|---|---|---|
+| Arc 1: Tội Lỗi Của Việc Được Sinh Ra | 1 | ~8-10 (dự kiến) | Ronan cứu Freya khỏi sói trắng, bị phát hiện Dấu Ấn thật, bị bắt giữ; Lãnh Chúa Arik tuyên án chia cắt gia đình và ràng buộc Ronan làm dã thú của Freya; cậu trải qua nghi thức Khế Ước Dã Thú và bắt đầu cuộc sống mới tại Pháo Đài Grimhold, mang theo một sự kiêu hãnh và giận dữ bị kìm nén mới hình thành |
+| (các arc tiếp theo) | (chưa xác định) | (chưa xác định) | Sẽ bổ sung khi câu chuyện tiến triển, theo đúng quy tắc cập nhật trong `CLAUDE.MD` |
