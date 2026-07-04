@@ -8,10 +8,11 @@
 - **Mối quan hệ với nhân vật khác:** Cha của Seris; đã tặng vàng và đề nghị Ronan một suất học việc tại Học Viện Kiếm Thuật Hoàng Gia.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Liệu ông có nghi ngờ gì về gia đình Ronan hay không — ánh mắt "sắc sảo hơn nụ cười" của ông khi quan sát Ronan gợi ý có thể có.
 - **Giọng nói / cách nói chuyện đặc trưng:** Vang, tự tin, quen ra lệnh dưới vỏ bọc lịch thiệp.
-- **Trạng thái hiện tại:** Còn sống.
-- **Xuất hiện lần cuối:** Chương 3
+- **Trạng thái hiện tại:** Còn sống, không biết sự thật về Ấn của Ronan, đã hứa bảo vệ gia đình Ronan khỏi mọi phiền nhiễu tương lai.
+- **Xuất hiện lần cuối:** Chương 14
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 3 | Đến nhà Ronan cảm ơn, tặng vàng, đề nghị suất học việc tại Học Viện Kiếm Thuật Hoàng Gia |
+| 14 | Đón nhận Seris an toàn từ tay gia đình Ronan (không biết toàn bộ sự thật); hứa bảo vệ gia đình khỏi phiền nhiễu |
