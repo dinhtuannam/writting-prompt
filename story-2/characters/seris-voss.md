@@ -8,8 +8,8 @@
 - **Mối quan hệ với nhân vật khác:** Con gái của Bá Tước Voss; được Ronan cứu khỏi sói trắng ở Chương 1; hộ vệ của cô đã chết trong vụ tấn công.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Cô có nhận ra điều gì bất thường ở Ronan trong khoảnh khắc cậu bảo cô chạy đi không — chưa rõ.
 - **Giọng nói / cách nói chuyện đặc trưng:** Thẳng thắn, không màu mè kiểu cách quý tộc.
-- **Trạng thái hiện tại:** Bị trói giữa hội trường ngầm tại Vực Đá Chìm, kiệt sức nhưng còn sống và tỉnh táo.
-- **Xuất hiện lần cuối:** Chương 11
+- **Trạng thái hiện tại:** Được Yseult thả tự do, kiệt sức nhưng an toàn, chuẩn bị rời Vực Đá Chìm cùng gia đình Ronan.
+- **Xuất hiện lần cuối:** Chương 12
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -20,3 +20,4 @@
 | 5 | Ghé thăm Ronan một mình, nhận ra cậu thay đổi nhưng không hỏi thẳng, khẳng định sẽ không phán xét dù bí mật của cậu là gì |
 | 8 | Bị Giáo Phái Vực Sâu bắt cóc khỏi khu vườn lâu đài để làm đòn bẩy nhắm vào Ronan |
 | 11 | Được tìm thấy còn sống, bị trói giữa hội trường ngầm tại Vực Đá Chìm |
+| 12 | Được Yseult tự tay thả tự do |

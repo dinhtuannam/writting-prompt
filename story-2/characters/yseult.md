@@ -6,12 +6,13 @@
 - **Động cơ / mục tiêu:** Muốn Ronan chấp nhận/hoàn thành bản chất Leviathan của mình, tin rằng đó là "Đại Thanh Tẩy" cần thiết cho thế giới.
 - **Arc phát triển dự kiến:** Đối trọng triết lý chính với Ronan xuyên suốt series — không phải kẻ ác đơn thuần mà là hiện thân của một niềm tin nguy hiểm.
 - **Mối quan hệ với nhân vật khác:** Chưa từng gặp Ronan trực tiếp trước Chương 11, nhưng biết tên cậu và đã "chờ đợi" cậu từ lâu — chưa rõ vì sao.
-- **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Làm sao bà biết tên thật của Ronan; mức độ bà đã theo dõi/biết về cuộc đời cậu từ trước.
-- **Giọng nói / cách nói chuyện đặc trưng:** Điềm tĩnh, gần như dịu dàng, nói như một người thầy hơn là một kẻ bắt cóc.
-- **Trạng thái hiện tại:** Còn sống, đang trực tiếp đối đầu với gia đình Ronan tại Vực Đá Chìm.
-- **Xuất hiện lần cuối:** Chương 11
+- **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Tuyên bố biết tên Ronan qua "vực sâu ghi nhớ" mỗi khi bản năng cậu lên tiếng — cơ chế chính xác và mức độ bà thực sự biết về cậu vẫn chưa được xác nhận hoàn toàn.
+- **Giọng nói / cách nói chuyện đặc trưng:** Điềm tĩnh, gần như dịu dàng, nói như một người thầy hơn là một kẻ bắt cóc; giỏi gieo nghi ngờ tâm lý hơn là dùng vũ lực.
+- **Trạng thái hiện tại:** Còn sống, vừa tự tay thả Seris và để gia đình Ronan rời đi tại Vực Đá Chìm.
+- **Xuất hiện lần cuối:** Chương 12
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 11 | Xuất hiện trực tiếp lần đầu tại hội trường ngầm Vực Đá Chìm, tiết lộ đã biết tên Ronan và chờ đợi cậu từ lâu |
+| 12 | Trình bày triết lý giáo phái; tự thả Seris không cần chiến đấu; gieo câu hỏi ám ảnh về tình yêu và định mệnh Leviathan trước khi để gia đình rời đi |
