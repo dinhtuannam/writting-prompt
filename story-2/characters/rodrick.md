@@ -8,11 +8,12 @@
 - **Mối quan hệ với nhân vật khác:** Chồng của Maren, cha của Ronan. Cựu thuộc hạ của Lãnh Chúa Arik.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Lý do thật ông xin rời quân ngũ — để bảo vệ Ronan — chưa được nói ra với Arik hay bất kỳ ai ngoài gia đình.
 - **Giọng nói / cách nói chuyện đặc trưng:** Giọng trầm, rắn rỏi, quen chỉ huy nhưng kiệm lời.
-- **Trạng thái hiện tại:** Bị bắt giữ tại Grimhold cùng Maren, đang chờ thụ án 100 roi, sau đó sẽ bị ép quay lại phục vụ trong đội cận vệ của Arik cho đến ngày chết. Chưa xuất hiện trực tiếp trong cảnh hiện tại.
-- **Xuất hiện lần cuối:** Chương 2 (chỉ được nhắc tới qua lời Arik, chưa xuất hiện trực tiếp)
+- **Trạng thái hiện tại:** Vừa chịu đủ 100 roi, lưng rách nát nhưng tự đứng dậy không cần đỡ; bị đưa đi bắt đầu nhiệm vụ trong đội cận vệ của Arik ngay chiều hôm đó, không được nghỉ ngơi.
+- **Xuất hiện lần cuối:** Chương 3
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 1 | Được nhắc tới qua hồi tưởng ngôi thứ nhất của Ronan: mang Ấn Gấu, cựu chiến binh dưới quyền Lãnh Chúa Arik, dạy con sự chịu đựng |
 | 2 | Được Lãnh Chúa Arik nhắc tới: đã bị bắt giữ cùng Maren, bị tuyên án 100 roi và ép quay lại phục vụ trong đội cận vệ của Arik cho đến ngày chết |
+| 3 | Chịu đủ 100 roi trước mặt Ronan, im lặng chịu đựng không kêu la; bị dẫn đi bắt đầu nhiệm vụ cận vệ ngay chiều hôm đó mà không được từ biệt con trai |
