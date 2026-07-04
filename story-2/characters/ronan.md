@@ -9,8 +9,8 @@
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick và Maren — giờ đây bị chia cắt khỏi cả hai bởi phán quyết của Arik. Vừa cứu Freya (con gái Arik, mang Ấn Rồng) khỏi sói trắng khổng lồ ở Chương 1; sắp trở thành dã thú ràng buộc với cô qua Khế Ước Dã Thú.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan — nay đã bị phát hiện và ghi nhận chính thức bởi Lãnh Chúa Arik. Chương 14: Ashara (thủ lĩnh Vô Chủ, Ấn Phượng Hoàng) phản ứng với sự kinh ngạc khi thấy Ấn của cậu, thốt lên "một Leviathan khác... sau ngần ấy năm" — ngụ ý tồn tại (hoặc từng tồn tại) một Leviathan khác mà bà biết tới, thông tin chưa từng xuất hiện ở bất kỳ đâu khác trong lore.
 - **Giọng nói / cách nói chuyện đặc trưng:** Ít nói về bản thân, có xu hướng hành động trước khi suy nghĩ thấu đáo khi thấy người khác gặp nguy hiểm. Nội tâm giờ đây mang thêm một giọng điệu mới: tính toán, kiêu hãnh, đầy kiềm nén.
-- **Trạng thái hiện tại:** Trình sự thật về Fenn lên Arik cùng Freya; buộc phải chứng kiến vụ hành quyết Fenn như một "bài học" — trải nghiệm càng củng cố sự phẫn nộ của cậu nhắm vào chính hệ thống, không phải cá nhân. Ordell được minh oan, ngỏ ý sẽ tiết lộ thêm bí mật về Vòng Kiềm Ấn trong tương lai.
-- **Xuất hiện lần cuối:** Chương 18
+- **Trạng thái hiện tại:** Khép Arc 2 với một mục đích mới, rộng hơn báo thù cá nhân — xây dựng một mạng lưới/liên minh đủ mạnh để hệ thống không thể tiếp tục nghiền nát những người như cha mẹ cậu mà không phải trả giá. Freya vừa hoãn được hôn nhân sắp đặt 1 năm, tạm thời giữ nguyên liên minh giữa hai người.
+- **Xuất hiện lần cuối:** Chương 20
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |

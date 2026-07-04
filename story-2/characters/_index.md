@@ -13,7 +13,7 @@
 | Gerta | Phụ (Quản Thú của Grimhold) | Voi (Ấn Lớn) — lộ Chương 8, giấu kín có chủ đích nhiều năm | Chưa xác định con số cụ thể, nhưng đã chứng minh chân thực dưới cảm xúc thật (ít nhất Hiện Thân) | Còn sống | `gerta.md` |
 | Cade | Phụ (dã thú kỳ cựu) | Hổ | Hiện Thân (đạt được trước khi bị bắt; 12 năm bị Khế Ước kìm hãm khiến tiến trình gần như đóng băng, có dấu hiệu suy thoái) | Còn sống | `cade.md` |
 | Cassius | Phản diện tiềm năng (con trai Arik) | Sư Tử | Thức Tỉnh (tự tin thái quá so với thực lực — chưa từng chứng minh bản thân dưới áp lực sinh tử thật sự) | Còn sống, dẫn đầu đội viễn chinh truy quét Bọn Vô Chủ | `cassius.md` |
-| Lãnh Chúa Devric | Phản diện tiềm năng (đồng minh chính trị của Arik) | (chưa tiết lộ — chưa xuất hiện trực tiếp) | (chưa xác định) | Còn sống | `devric.md` |
+| Lãnh Chúa Devric | Phản diện tiềm năng (đồng minh chính trị của Arik) | (chưa tiết lộ — chưa xuất hiện trực tiếp) | (chưa xác định) | Còn sống, con trai ông đang được thương lượng cưới Freya | `devric.md` |
 | Marek | Phụ (dã thú tại Grimhold) | Sói — Blessing thính giác phi thường | Ít nhất Thức Tỉnh (Tầng 2) | Còn sống, trong đội viễn chinh | `marek.md` |
 | Ashara | Phản diện phức tạp (thủ lĩnh Vô Chủ, núi Kestrel) | Phượng Hoàng (Ấn huyền thoại thứ 3) — lộ Chương 14 | Ít nhất Hiện Thân, khả năng Thú Quân | Bị thương, đang rút lui | `ashara.md` |
 | Fenn | Phụ (lính gác, nội gián thật sự) | (chưa tiết lộ — không trọng tâm) | (chưa xác định) | **Đã mất (Chương 18)** — hành quyết | `fenn.md` |

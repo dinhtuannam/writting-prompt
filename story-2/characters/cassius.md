@@ -10,8 +10,8 @@
 - **Mối quan hệ với nhân vật khác:** Con trai Arik, anh trai Freya. Công khai thích thú khi thấy Ronan bị buộc phục tùng, tạo áp lực buộc Freya phải "ra lệnh" trước mặt khách.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** (chưa có)
 - **Giọng nói / cách nói chuyện đặc trưng:** Giọng vang, thích nói trước đám đông, hay dùng câu hỏi tu từ để khiêu khích.
-- **Trạng thái hiện tại:** Trở nên xa cách, cáu kỉnh sau thất bại biến chiến dịch thành vinh quang và sự nghi ngờ nội bộ ngày càng lớn — lần đầu tiên bộc lộ nỗi sợ hãi thầm kín rằng danh hiệu người thừa kế không tự động khiến anh ta xứng đáng với nó.
-- **Xuất hiện lần cuối:** Chương 16
+- **Trạng thái hiện tại:** Tìm lại chút quyền lực bằng cách công khai tin tức về cuộc hôn nhân sắp đặt của Freya với gia tộc Devric trước mặt cô — một hành động ác ý có kiểm soát, phản ánh sự bất an đang gặm nhấm anh ta.
+- **Xuất hiện lần cuối:** Chương 19
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -21,3 +21,4 @@
 | 14 | Bị Ashara (Ấn Phượng Hoàng) áp đảo hoàn toàn trong chiến đấu công bằng; sống sót bằng cách đâm lén bà lúc bà mất tập trung vì nhận ra Ronan — phá hủy cơ hội đối thoại tiềm năng |
 | 15 | Tuyên bố chiến thắng, cố kể lại câu chuyện theo hướng có lợi cho mình; bị Freya công khai vạch trần hành động đâm lén trước mặt quân lính; đối mặt phát hiện về nội gián trong lãnh địa |
 | 16 | Tránh mặt Freya hoàn toàn; Ronan bắt gặp anh ta một mình trên tường thành với biểu cảm sợ hãi thầm kín chưa từng thấy trước đây |
+| 19 | Tiết lộ cho Freya (trước mặt Ronan) tin tức về cuộc hôn nhân sắp đặt với gia tộc Devric, tận hưởng phản ứng đau đớn của cô như một cách khẳng định lại quyền lực đang mất dần |

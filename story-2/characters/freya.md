@@ -10,8 +10,8 @@
 - **Mối quan hệ với nhân vật khác:** Con gái Lãnh Chúa Arik. Được Ronan cứu khỏi sói trắng ở Chương 1. Nay là chủ nhân hợp pháp của cậu qua Khế Ước Dã Thú, dù bản thân cô có vẻ không thoải mái với vai trò đó.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Cô có thực sự tin vào việc "phải" giết Ronan một ngày nào đó nếu cần, hay đây là một phần lời tuyên bố của cha cô mà cô chưa từng chấp nhận, vẫn là câu hỏi ngỏ.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít nhưng thẳng thắn, không né tránh sự thật khó chịu ngay cả khi im lặng sẽ dễ dàng hơn.
-- **Trạng thái hiện tại:** Cùng Ronan đối chất trực tiếp với Fenn (nội gián thật sự) trước khi báo cáo chính thức; đang cân nhắc cùng Ronan cách đưa sự thật ra ánh sáng mà không đơn thuần tiếp tay cho một án tử hình khác.
-- **Xuất hiện lần cuối:** Chương 17
+- **Trạng thái hiện tại:** Thương lượng thành công (chờ Arik xác nhận) để hoãn cuộc hôn nhân sắp đặt 1 năm, đổi lại việc dẫn đầu một nhiệm vụ thực sự chứng minh giá trị cho gia tộc — bước ngoặt trong quan hệ với cha, từ "đứa trẻ vâng lời" sang "người có điều gì đó để thương lượng".
+- **Xuất hiện lần cuối:** Chương 20
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -25,4 +25,6 @@
 | 10 | Ngăn Ronan trước khi cậu siết chết Joran; đứng ra chịu trách nhiệm bảo vệ cậu khỏi điều tra; đối thoại riêng tư, thừa nhận sự bất lực của chính mình trong gia tộc và hứa sẽ không đứng về phía làm cậu tổn thương thêm — khoảnh khắc có thể là đột phá Tầng Cộng Hưởng đầu tiên của cô |
 | 12 | Tình nguyện tham gia đội viễn chinh truy quét Bọn Vô Chủ để bảo vệ Ronan |
 | 14 | Chiến đấu thật lần đầu tiên; đối mặt sinh tử trực diện trước một chiến binh Vô Chủ Ấn Gấu Đen; Blessing thứ 1 (vảy rồng phòng thủ) lộ diện, xác nhận đột phá Thức Tỉnh (Tầng 2) |
+| 19 | Biết tin cha đang thương lượng gả cô cho con trai Lãnh Chúa Devric qua lời Cassius; đối mặt viễn cảnh bị đưa ra khỏi Grimhold, mất khả năng bảo vệ Ronan |
+| 20 | Đối chất trực tiếp với Arik, thương lượng hoãn hôn nhân 1 năm đổi lấy việc dẫn đầu một nhiệm vụ chứng minh giá trị bản thân — thắng lợi chính trị đầu tiên của chính cô |
 | 11 | Báo tin cha cô chuẩn bị một cuộc truy quét trả đũa nhắm vào Bọn Vô Chủ; Cassius đề xuất mang Ronan theo như "vũ khí chính trị"; thừa nhận có thể không đủ quyền lực để ngăn cản, chỉ có thể cố giảm thiểu rủi ro tệ nhất cho cậu |
