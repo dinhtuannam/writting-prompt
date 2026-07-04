@@ -8,8 +8,8 @@
 - **Mối quan hệ với nhân vật khác:** Con gái của Bá Tước Voss; được Ronan cứu khỏi sói trắng ở Chương 1; hộ vệ của cô đã chết trong vụ tấn công.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** (Đã lộ ở Chương 13) Cô biết Ronan mang Ấn Leviathan sau khi nghe toàn bộ cuộc trò chuyện với Yseult, nhưng chấp nhận điều đó hoàn toàn — hiện tại chỉ cô biết, cha cô (Bá Tước Voss) vẫn chưa hay.
 - **Giọng nói / cách nói chuyện đặc trưng:** Thẳng thắn, không màu mè kiểu cách quý tộc.
-- **Trạng thái hiện tại:** An toàn nhưng lo lắng sau khi bị Aldous thẩm vấn; đã giữ vững câu chuyện bảo vệ Ronan.
-- **Xuất hiện lần cuối:** Chương 17
+- **Trạng thái hiện tại:** An toàn tại lâu đài Voss; vừa liều lĩnh gửi cảnh báo bí mật cho gia đình Ronan về kế hoạch canh gác đường của Đoàn Kỵ Sĩ Bình Minh.
+- **Xuất hiện lần cuối:** Chương 22 (gián tiếp, qua thư)
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -23,3 +23,4 @@
 | 12 | Được Yseult tự tay thả tự do |
 | 13 | Tiết lộ đã nghe hết cuộc trò chuyện với Yseult; khẳng định chấp nhận bí mật của Ronan hoàn toàn |
 | 17 | Bị Hiệp Sĩ Aldous thẩm vấn về vụ giải cứu; giữ vững câu chuyện đã thống nhất với gia đình Ronan |
+| 22 | Gửi cảnh báo bí mật qua một cậu bé chăn cừu về kế hoạch canh gác đường của Đoàn Kỵ Sĩ Bình Minh, giúp gia đình kịp thời rời đi |
