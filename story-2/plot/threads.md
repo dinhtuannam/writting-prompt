@@ -9,6 +9,8 @@
 | Hình phạt 100 roi dành cho Rodrick và Maren sẽ diễn ra thế nào | 2 | Đóng (Chương 3) | — | Cả hai chịu đủ 100 roi trước mặt Ronan, bị dẫn đi phục dịch ngay sau đó không được từ biệt |
 | Nghi thức Khế Ước Dã Thú ràng buộc Ronan với Freya sẽ diễn ra thế nào | 2 | Đóng (Chương 3) | — | Ordell thực hiện thành công; Ronan chính thức là dã thú của Freya, mang Vòng Kiềm Ấn |
 | Freya có đồng tình với phán quyết của cha mình không | 2 | Đóng một phần (Chương 3) | (dài hơi) | Cô thừa nhận không ngăn được và xin lỗi riêng tư — nhưng chưa rõ cô sẽ hành xử ra sao với vai trò chủ nhân về lâu dài |
-| Cuộc sống mới của Ronan như dã thú tại Grimhold sẽ ra sao | 3 | Mở | 4+ | Vừa chuyển tới nơi ở mới gần khu gia nhân; chưa biết nhiệm vụ/quy tắc cụ thể của một dã thú |
-| Liệu Ronan có thể nới lỏng hoặc lách qua giới hạn của Vòng Kiềm Ấn theo thời gian | 3 | Mở | (dài hơi) | Đã được thiết lập trong `lore/systems.md` là có khả năng, với cái giá đau đớn |
+| Cuộc sống mới của Ronan như dã thú tại Grimhold sẽ ra sao | 3 | Đóng một phần (Chương 4) | — | Được Gerta phổ biến quy tắc, giao cho Cade huấn luyện kiếm thuật |
+| Liệu Ronan có thể nới lỏng hoặc lách qua giới hạn của Vòng Kiềm Ấn theo thời gian | 3 | Mở — có manh mối cụ thể (Chương 4) | (dài hơi) | Cade xác nhận vòng cổ "lỏng đi" khi chủ nhân không chú tâm, nhưng chưa từng dám thử tận dụng |
 | Ordell có biết những kẽ hở thật của Vòng Kiềm Ấn không | 3 | Mở | (chưa xác định) | Ông tỏ ra hiểu biết sâu và chú ý bất thường tới phản ứng của Ronan |
+| Liệu Cade còn đủ ý chí để thực sự giúp Ronan hay chỉ đang hồi tưởng vô vọng | 4 | Mở | (dài hơi) | Ông tự hỏi liệu mình "còn khả năng" giúp đỡ ai đó không, sau nhiều năm cam chịu |
+| Quá khứ thật của Cade — Ấn Hổ "thức tỉnh" quá mạnh giết nhầm đồng đội | 4 | Mở | (chưa xác định) | Mới chỉ biết qua lời kể ngắn gọn của Gerta; chi tiết thật chưa rõ |

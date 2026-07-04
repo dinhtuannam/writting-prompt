@@ -7,8 +7,8 @@
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick và Maren — giờ đây bị chia cắt khỏi cả hai bởi phán quyết của Arik. Vừa cứu Freya (con gái Arik, mang Ấn Rồng) khỏi sói trắng khổng lồ ở Chương 1; sắp trở thành dã thú ràng buộc với cô qua Khế Ước Dã Thú.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan — nay đã bị phát hiện và ghi nhận chính thức bởi Lãnh Chúa Arik.
 - **Giọng nói / cách nói chuyện đặc trưng:** Ít nói về bản thân, có xu hướng hành động trước khi suy nghĩ thấu đáo khi thấy người khác gặp nguy hiểm. Nội tâm giờ đây mang thêm một giọng điệu mới: tính toán, kiêu hãnh, đầy kiềm nén.
-- **Trạng thái hiện tại:** Chính thức là dã thú của Freya, mang Vòng Kiềm Ấn quanh cổ; vừa chuyển tới nơi ở mới gần khu gia nhân tại Grimhold, tách biệt hoàn toàn khỏi cha mẹ.
-- **Xuất hiện lần cuối:** Chương 3
+- **Trạng thái hiện tại:** Dã thú của Freya, đang được Cade huấn luyện kiếm thuật dưới sự quản lý của Gerta; bắt đầu âm thầm tìm hiểu về những kẽ hở có thể có của Vòng Kiềm Ấn.
+- **Xuất hiện lần cuối:** Chương 4
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -16,3 +16,4 @@
 | 1 | Cứu một cô gái quý tộc khỏi sói trắng khổng lồ; giết được sói nhưng bị cắn trọng thương đúng vị trí Dấu Ấn thật; bất tỉnh khi nghe tiếng người tới gần |
 | 2 | Tỉnh dậy bị giam tại Grimhold, Dấu Ấn thật đã bị phát hiện; nghe Lãnh Chúa Arik tuyên án chia cắt gia đình và ràng buộc cậu làm dã thú của Freya; phản kháng dữ dội, bị cưỡng ép dùng thuốc an thần; tâm lý bắt đầu chuyển hướng sang kiêu hãnh và ý chí trả đũa kiềm nén |
 | 3 | Bị buộc chứng kiến phần cuối hình phạt 100 roi của cha mẹ; không được từ biệt trước khi họ bị dẫn đi hai hướng khác nhau; trải qua nghi thức Khế Ước Dã Thú với Freya, chính thức trở thành dã thú của cô; tuyên bố thẳng với Freya rằng vòng cổ có thể ép cậu quỳ nhưng không thể ép cậu tha thứ |
+| 4 | Gặp Gerta (Quản Thú) và Cade (dã thú kỳ cựu mang Ấn Hổ); học quy tắc sinh tồn của một dã thú; biết được manh mối đầu tiên về kẽ hở của Vòng Kiềm Ấn; bắt đầu học kiếm thuật |
