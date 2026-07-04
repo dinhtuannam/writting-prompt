@@ -6,3 +6,6 @@ Format mỗi mục:
 
 ## Chương N
 <tóm tắt 150-250 từ>
+
+## Chương 1
+Mở đầu bằng đoạn hồi tưởng ngôi thứ nhất: Ronan kể lại việc mình sinh ra mang Ấn Leviathan, và cha mẹ (Bastian, Maren) đã chọn nuôi cậu thay vì bỏ mặc, nói dối cả thế giới rằng cậu chỉ mang hình xăm rắn thường. Chuyển sang hiện tại, ngôi thứ 3: Ronan, 16 tuổi, sống cùng cha mẹ trong Hắc Mộc Lâm. Bastian (Ấn Gấu, cựu hiệp sĩ) dạy cậu chịu đựng; Maren (Ấn Bồ Câu, thầy thuốc) dạy cậu lòng nhân hậu. Chiều đó, khi vào rừng kiếm thức ăn, Ronan nghe tiếng kêu cứu và tìm thấy một cô gái quý tộc (chưa rõ tên, thuộc Gia Tộc Voss) bị một con sói trắng khổng lồ dồn vào góc, hộ vệ của cô đã chết. Dù biết dính líu tới quý tộc có thể làm lộ bí mật của mình, Ronan vẫn lao vào cứu — đúng như cha mẹ cậu đã từng chọn cứu cậu. Cậu giết được sói bằng dao săn sau một trận vật lộn ác liệt, nhưng bị cắn trọng thương ở hông — đúng vị trí Dấu Ấn thật của cậu bị che giấu. Cậu chỉ kịp bảo cô gái chạy đi gọi người giúp trước khi bất tỉnh.
