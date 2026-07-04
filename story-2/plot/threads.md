@@ -24,7 +24,7 @@
 | Aldous vẫn nghi ngờ gia đình Ronan dù chưa có bằng chứng | 18 | Đóng một phần (Chương 19) | — | Đã dùng Gương Dò Ấn nhưng kết quả mờ nhạt, không kết luận được; xem thread mới |
 | Aldous sẽ quay lại với câu trả lời rõ ràng hơn sau khi tham khảo Lumengard | 19 | Đóng (Chương 21) | — | Trả lời là trát triệu tập chính thức tới hội đồng 3 trưởng lão tại Ravensmoor |
 | Trát triệu tập tới Ravensmoor — trình diện hay bỏ trốn | 21 | Đóng (Chương 22) | — | Gia đình chọn bỏ trốn ngay, hướng tới Học Viện Bách Thú |
-| Hành trình tới Học Viện Bách Thú, né tránh Đoàn Kỵ Sĩ Bình Minh | 22 | Mở | 23-25 | Đường chính sắp bị canh gác trong 5 ngày; cần tìm tuyến đường thay thế |
+| Hành trình tới Học Viện Bách Thú, né tránh Đoàn Kỵ Sĩ Bình Minh | 22 | Mở — leo thang (Chương 23) | 24-25 | Suýt bị phát hiện; cuộc truy tìm lan rộng hơn dự tính, phải đi vòng qua vùng đồi phía tây |
 | Tìm sử liệu về Leviathan thứ 3 (không trở thành đại họa) tại Học Viện Bách Thú | 22 | Mở — mục tiêu chính Arc 2 phần sau | 25+ | Hy vọng của Ronan về việc chứng minh lời nguyền không phải định mệnh tuyệt đối |
 | Giáo Phái Vực Sâu (Yseult) vẫn theo dõi và mời gọi Ronan | 20 | Mở — mối đe dọa/cám dỗ song song | 21+ | Thông điệp trong vỏ ốc xác nhận Yseult biết về Aldous và vẫn muốn chiêu mộ Ronan; gia đình đã từ chối nhưng lời mời còn đó |
 | Dấu Ấn Leviathan của Ronan bắt đầu "cựa mình" sau trận chiến | 2 | Mở | (dài hơi) | Có thể liên quan đến cơ chế cộng hưởng cảm xúc đã ghi trong `lore/systems.md` |
