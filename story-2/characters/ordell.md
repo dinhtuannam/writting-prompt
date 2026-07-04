@@ -1,6 +1,7 @@
 # Ordell
 
 - **Vai trò trong truyện:** Phụ (thợ rèn nghi thức của Hội Rèn Kiềm Ấn — người thực hiện nghi thức Khế Ước Dã Thú cho Ronan)
+- **Dấu Ấn:** Cú — quan sát tỉ mỉ, trực giác sắc bén, phù hợp với công việc rèn nghi thức đòi hỏi độ chính xác cao.
 - **Ngoại hình:** Lớn tuổi, đôi mắt sắc bén lạ thường so với dáng vẻ già nua, mang hình xăm Ấn Cú nhỏ trên cổ tay.
 - **Tính cách:** Điềm tĩnh, thực dụng, coi nghi thức ràng buộc một mạng người như một quy trình kỹ thuật hơn là một hành động đạo đức — nhưng không hoàn toàn vô cảm; tỏ ra chú ý/tò mò thực sự trước phản ứng bất thường của Ronan.
 - **Động cơ / mục tiêu:** Thực hiện đúng và chính xác các nghi thức Khế Ước Dã Thú được Hội Rèn Kiềm Ấn giao phó.

@@ -1,6 +1,7 @@
 # Lãnh Chúa Arik
 
 - **Vai trò trong truyện:** Phản diện chính / thế lực áp bức (Lãnh Chúa trấn giữ Pháo Đài Grimhold)
+- **Dấu Ấn:** (chưa tiết lộ — ĐÃ QUÁ HẠN 3 CHƯƠNG, cần giải quyết sớm trong chương tới. Gợi ý phát triển: có thể ông cố tình không phô bày Ấn của mình trước mặt ai, trái ngược hẳn với Cassius — một sự tương phản có thể mang ý nghĩa chủ đề, hoặc ông mang một Ấn Lớn nhưng không huyền thoại, khiến nỗi ám ảnh kiểm soát người mang Ấn huyền thoại của ông mang màu sắc ghen tị/bất an quyền lực)
 - **Ngoại hình:** Cao lớn, áo choàng sẫm màu phủ qua giáp nhẹ, tóc điểm bạc cắt gọn theo kiểu quân đội, ánh mắt lạnh như thép.
 - **Tính cách:** Lạnh lùng, thực dụng, ra quyết định như một phép tính lời-lỗi hơn là cảm xúc. Không tàn ác một cách ngẫu hứng — mọi hình phạt ông đưa ra đều được bọc trong lớp vỏ "luật lệ" và "danh dự", khiến sự tàn nhẫn của ông càng đáng sợ hơn vì nó có hệ thống, không phải bộc phát.
 - **Động cơ / mục tiêu:** Bảo vệ lãnh địa và duy trì trật tự theo đúng luật Khế Ước Dã Thú của vương quốc Wyrmreach; xem việc kiểm soát một Dấu Ấn Leviathan là trách nhiệm không thể trốn tránh, bất kể cái giá đạo đức.

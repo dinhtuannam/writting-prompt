@@ -1,6 +1,7 @@
 # Freya
 
 - **Vai trò trong truyện:** Nữ chính / chủ nhân bất đắc dĩ của Ronan (con gái Lãnh Chúa Arik, mang Ấn Rồng)
+- **Dấu Ấn:** Rồng — sức mạnh nguyên tố và uy áp thiên bẩm; đủ "sức chứa" tinh thần để neo giữ một Khế Ước Dã Thú. Năng lực cụ thể của cô (nguyên tố gì, biểu hiện ra sao) vẫn chưa được thể hiện trực tiếp trong truyện — cơ hội tốt để khai thác trong các chương tới.
 - **Ngoại hình:** Trạc tuổi Ronan, mặc trang phục lữ hành vải tốt không hợp để đi rừng — dấu hiệu con nhà quý tộc không quen gian khổ.
 - **Tính cách:** Day dứt và tự ý thức được sự bất công của tình huống, nhưng bị kìm hãm bởi vị trí của mình dưới quyền cha — không phản đối công khai, chỉ dám xin lỗi Ronan riêng tư. Thành thật ngay cả khi sự thật đó không có lợi cho cô ("Không, ta không ngăn cản được").
 - **Động cơ / mục tiêu:** Hiện chưa rõ cô muốn gì từ mối ràng buộc này — chỉ biết cô không chủ động tìm kiếm quyền lực này và cảm thấy gánh nặng đạo đức thật sự từ nó.

@@ -1,6 +1,7 @@
 # Maren
 
 - **Vai trò trong truyện:** Phụ (mẹ của Ronan)
+- **Dấu Ấn:** Bồ Câu — trực giác chữa lành và một sự bình thản trấn an người khác, phù hợp với vai trò thầy thuốc.
 - **Ngoại hình:** Thầy thuốc, tay quen với thảo dược.
 - **Tính cách:** Nhân hậu, kiên định; chọn nuôi dưỡng con trai bằng tình yêu thay vì bỏ mặc số phận đã định sẵn cho cậu.
 - **Động cơ / mục tiêu:** Bảo vệ con trai; đã cùng Rodrick đánh cược cả cuộc đời để nuôi Ronan thay vì bỏ mặc cậu chết giữa mùa đông năm xưa.

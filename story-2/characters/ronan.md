@@ -1,6 +1,7 @@
 # Ronan
 
 - **Vai trò trong truyện:** Nhân vật chính
+- **Dấu Ấn:** Leviathan — khống chế nước/bão tố, uy áp khiến người xung quanh bất an; hiếm hơn cả Rồng, bị nguyền là định sẵn trở thành đại họa thế giới. Giấu kín 16 năm, nay đã bị phát hiện và ghi nhận chính thức.
 - **Ngoại hình:** 16 tuổi, sống ẩn dật trong rừng nên có phần rắn rỏi hơn tuổi. Mang một hình xăm rắn giả (do cha mẹ khai báo) che giấu Dấu Ấn Leviathan thật ở hông.
 - **Tính cách:** Được nuôi dạy bằng tình yêu thương, từng tin rằng không ai sinh ra đã là kẻ phản diện. Sau phán quyết của Lãnh Chúa Arik, một sự kiêu hãnh lạnh lùng và ý chí trả đũa bắt đầu kết tinh bên dưới lớp vỏ đó — nhưng cậu tự đặt ra một lằn ranh: sẽ không trở thành kẻ phản diện của chính câu chuyện đời mình, dù sẵn sàng "nghiền nát" bất kỳ kẻ thù hay "anh hùng" nào tìm tới.
 - **Động cơ / mục tiêu:** (trước Chương 1) Giữ bí mật về Ấn Leviathan để bảo vệ bản thân và cha mẹ. (Từ Chương 2) Sống sót qua cuộc đời làm dã thú, âm thầm tích lũy sức mạnh, chờ ngày chứng minh mình vượt xa mọi thứ thế giới này tưởng tượng về cậu.

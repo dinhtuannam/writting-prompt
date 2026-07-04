@@ -13,4 +13,4 @@
 - **Mục tiêu ngắn hạn của nhân vật chính:** Tồn tại qua những buổi trình diện nhục nhã trong khi âm thầm tích lũy sức mạnh, quan sát, và chờ đợi thời cơ
 
 ## Ghi chú cho AI khi viết chương tiếp theo
-(chưa có ghi chú — sẽ được AI tự cập nhật sau mỗi chương)
+- ⚠️ NHẮC THƯỜNG TRỰC: Dấu Ấn là core building của series (xem `style/style-guide.md`, mục "Quy tắc tối thượng"). Trước khi coi bất kỳ chương nào là xong, rà lại cột Dấu Ấn trong `characters/_index.md` — hai gap đang treo: **Lãnh Chúa Arik** (chưa tiết lộ, đã quá hạn) và **Gerta** (cố tình giấu, cần xác nhận). Ưu tiên giải quyết Arik trong 1-2 chương tới. Mọi nhân vật mới có tên phải có Ấn được gợi ý/tiết lộ/giấu có chủ đích trong vòng 1-2 chương kể từ khi xuất hiện — không im lặng bỏ qua.

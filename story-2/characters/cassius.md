@@ -1,6 +1,7 @@
 # Cassius
 
 - **Vai trò trong truyện:** Phản diện tiềm năng (con trai Lãnh Chúa Arik, anh trai Freya, mang Ấn Sư Tử)
+- **Dấu Ấn:** Sư Tử — uy áp thiên bẩm và sức thuyết phục/chỉ huy tự nhiên; anh ta phô bày nó công khai như một biểu tượng địa vị thay vì che giấu, trái ngược hẳn với cách Cade hay Gerta xử lý Ấn của họ.
 - **Ngoại hình:** Thanh niên khoảng 18-19 tuổi, nụ cười tự mãn thường trực, phô bày Dấu Ấn Sư Tử trên cổ tay như một huy hiệu danh dự thay vì che giấu.
 - **Tính cách:** Kiêu ngạo, thích thể hiện quyền lực, xem dã thú như đồ vật/thú cưng để phô trương địa vị. Không tàn ác một cách sâu sắc như cha mình, mà hời hợt, thích thú với sự sỉ nhục người khác như một trò tiêu khiển.
 - **Động cơ / mục tiêu:** Khẳng định vị thế người thừa kế; thích chứng minh quyền lực của gia tộc trước mặt khách khứa, kể cả bằng cách sỉ nhục dã thú của em gái mình.

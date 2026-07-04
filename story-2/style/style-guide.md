@@ -1,5 +1,15 @@
 # Style Guide
 
+## ⚠️ QUY TẮC TỐI THƯỢNG: DẤU ẤN LÀ CORE BUILDING CỦA TOÀN BỘ SERIES
+
+Dấu Ấn (Thú Ấn) không phải chi tiết trang trí — đó là ĐỘNG CƠ TÒ MÒ chính khiến độc giả đọc tiếp. Người đọc phải liên tục tự hỏi: "nhân vật này mang Ấn gì? Nó mạnh tới đâu? Vì sao họ giấu/khoe nó?" Vi phạm quy tắc này (để một nhân vật tồn tại nhiều chương mà không ai biết/tò mò về Ấn của họ) là lỗi nghiêm trọng nhất có thể mắc phải khi viết truyện này — nghiêm trọng hơn cả lỗi văn phong.
+
+**Cách thực thi, bắt buộc trước khi coi một chương là hoàn thành:**
+1. Rà lại `characters/_index.md` — MỌI nhân vật có tên xuất hiện quá 1 lần phải có cột Dấu Ấn khác trống. Nếu còn trống hoặc ghi "chưa tiết lộ" quá 2 chương liên tiếp kể từ lần xuất hiện gần nhất, chương đang viết PHẢI chủ động giải quyết nó — bằng cách tiết lộ thật, tiết lộ sai/gây hiểu lầm, để nhân vật khác đồn đoán/hỏi thẳng, cho thấy năng lực trước khi gọi tên Ấn, hoặc xác nhận rõ ràng đây là một bí ẩn có chủ đích (và nói rõ VÌ SAO nó bí ẩn — che giấu, chưa tự biết, bị cấm tiết lộ...).
+2. Không bắt buộc chính xác 100% hay tức thời — sáng tạo tự do: rumor sai, phỏng đoán nhầm, một Ấn tưởng yếu hóa ra mạnh (hoặc ngược lại), một nhân vật cố tình nói dối về Ấn của mình... tất cả đều hợp lệ và được khuyến khích hơn là tiết lộ thẳng một câu rồi bỏ qua.
+3. Chủ động dùng Dấu Ấn như một công cụ xây dựng cảnh: mô tả năng lực cụ thể đi kèm khi giới thiệu, để nhân vật khác phản ứng/e dè/khinh thường dựa trên Ấn nhìn thấy, dùng nó để tạo bất ngờ trong chiến đấu hoặc chính trị — không chỉ nêu tên Ấn một lần trong phần "Ngoại hình" rồi không nhắc lại.
+4. Bất kỳ đám đông/bối cảnh xã hội nào (buổi tiệc, đội quân, phiên chợ...) đều nên có ít nhất một vài chi tiết Ấn của người xung quanh, kể cả nhân vật phụ không tên — đây là cách rẻ nhất để giữ hệ thống luôn "sống" trong mắt độc giả.
+
 - **Thể loại:** Dark Fantasy, cảm hứng châu Âu trung cổ
 - **Ngôi kể (POV):** Ngôi thứ 3 giới hạn — theo sát nhân vật chính (Ronan) mỗi chương, nhưng thế giới vẫn vận hành ngoài tầm nhìn của cậu. Đoạn hồi tưởng ngôi thứ nhất trong `lore/raw-idea.md` được giữ lại như phần mở đầu mang tính hồi tưởng của Chương 1 (prologue), sau đó chuyển hẳn sang ngôi thứ 3 cho phần thân chương và toàn bộ các chương sau.
 - **Thì:** Quá khứ
