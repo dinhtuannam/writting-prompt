@@ -12,5 +12,6 @@
 | Ophelia | Phản diện tiềm năng (Trưởng Lão cấp cao Đoàn Kỵ Sĩ Bình Minh) | Còn sống | `ophelia.md` |
 | Tobias | Phụ (người ghi chép Học Viện Bách Thú) | Còn sống | `tobias.md` |
 | Elric | Phụ (Thủ Thư, canh giữ Tháp Sử Liệu Học Viện Bách Thú) | Còn sống | `elric.md` |
+| Isolde | Phụ (tập sự dưới quyền Elric, bạn của Ronan) | Còn sống | `isolde.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).
