@@ -8,11 +8,12 @@
 - **Mối quan hệ với nhân vật khác:** Đã thẩm vấn Seris tại lâu đài Voss; Ronan mới chỉ thoáng thấy ông từ xa, chưa từng nói chuyện trực tiếp.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mức độ ông đã biết/nghi ngờ về Ronan — câu hỏi cụ thể về "gia đình sống biệt lập gần vùng hoang địa" cho thấy ông đã nghi ngờ đúng hướng, nhưng chưa rõ ông có bằng chứng cụ thể nào chưa.
 - **Giọng nói / cách nói chuyện đặc trưng:** Hỏi lặp lại cùng một câu theo nhiều cách khác nhau; kết thúc cuộc gặp bằng những câu nói ngầm mang tính đe dọa.
-- **Trạng thái hiện tại:** Còn sống, vừa rời lâu đài Voss, đang tiến gần hơn tới Hắc Mộc Lâm trong cuộc điều tra.
-- **Xuất hiện lần cuối:** Chương 17 (thoáng thấy từ xa; chưa đối thoại trực tiếp với Ronan)
+- **Trạng thái hiện tại:** Còn sống, vừa trực tiếp thẩm vấn gia đình Ronan tại nhà, rời đi không có bằng chứng cụ thể nhưng rõ ràng vẫn nghi ngờ.
+- **Xuất hiện lần cuối:** Chương 18
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 16 | Được nhắc tới qua tin đồn tại chợ; Bastian xác nhận danh tính và mục đích điều tra của ông |
 | 17 | Thẩm vấn Seris tại lâu đài Voss; Ronan thoáng thấy ông từ xa; hỏi cụ thể về gia đình biệt lập gần vùng hoang địa |
+| 18 | Đích thân thẩm vấn cả gia đình Ronan tại nhà; hỏi thẳng Ronan về tin đồn "sinh vật huyền thoại"; rời đi vẫn nghi ngờ |
