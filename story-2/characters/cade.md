@@ -10,8 +10,8 @@
 - **Mối quan hệ với nhân vật khác:** Dã thú kỳ cựu nhất tại Grimhold dưới quyền quản lý của Gerta; được giao nhiệm vụ huấn luyện Ronan.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Biết về những khoảnh khắc Vòng Kiềm Ấn "lỏng đi" khi chủ nhân không chú tâm, nhưng chưa từng dám thử tận dụng chúng. Chương 11 hé lộ lý do sâu xa hơn về sự cam chịu của ông: trước khi bị bắt, ông từng có cơ hội gia nhập một trong những nhóm Vô Chủ sống ẩn dật ngoài luật lệ, nhưng chọn ở lại trung thành với gia tộc cũ — gia tộc đó sau này bán khế ước của ông cho Arik ngay khi ông trở thành gánh nặng. Đây là nguồn gốc thật của nỗi cay đắng/cam chịu ông mang suốt 12 năm.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói chậm, thực tế, đôi khi cay đắng; đếm thời gian bị giam cầm chính xác tới từng ngày dù nói mình "không còn đếm nữa".
-- **Trạng thái hiện tại:** Còn sống; được đưa vào đội viễn chinh truy quét Bọn Vô Chủ vì kinh nghiệm chiến đấu thật sự vẫn còn giá trị; trao Ronan một thanh kiếm thật và khuyên cậu nắm lấy cơ hội đối thoại với Vô Chủ nếu có thể, thay vì chỉ chiến đấu.
-- **Xuất hiện lần cuối:** Chương 12
+- **Trạng thái hiện tại:** Bị Cassius chọn làm đối thủ của Ronan trong cuộc thử thách công khai (Chương 26) — một đòn tâm lý tàn nhẫn; cùng Ronan tìm ra cách "diễn" trận đấu để không ai phải chết mà vẫn không vi phạm mệnh lệnh trực tiếp nào, góp phần vào thất bại công khai của Cassius.
+- **Xuất hiện lần cuối:** Chương 26
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -20,3 +20,4 @@
 | 8 | Có mặt tại lễ tưởng niệm Rodrick; nhận ra điều bất thường khi Blessing đầu tiên của Ronan thoáng lộ diện nhưng không nói rõ |
 | 10 | Xác nhận Blessing thứ hai của Ronan là thật; thừa nhận không còn đủ khả năng dạy cậu; gợi ý mơ hồ rằng con đường tiếp theo nằm ngoài Grimhold |
 | 11 | Giải thích rõ ý nghĩa gợi ý ở Chương 10: kể về Bọn Vô Chủ — những người mang Ấn sống ngoài Khế Ước Dã Thú; tiết lộ ông từng có cơ hội gia nhập một nhóm như vậy nhưng chọn trung thành với gia tộc cũ, gia tộc sau đó đã bán đứng ông |
+| 26 | Bị Cassius chọn làm đối thủ của Ronan trong cuộc thử thách công khai; cùng Ronan "diễn" trận đấu để tránh đổ máu mà không vi phạm mệnh lệnh, góp phần vạch trần âm mưu của Cassius trước Arik |

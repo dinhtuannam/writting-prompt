@@ -2,21 +2,21 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 24
+- **Chương hiện tại đã viết xong:** 26
 - **Arc hiện tại:** Arc 3 "Lời Hứa Của Phượng Hoàng" (chưa chính thức đặt tên trong outline) — bắt đầu Chương 21
-- **Ngày/thời điểm trong truyện:** Ngay sau buổi báo cáo trước Arik
+- **Ngày/thời điểm trong truyện:** Ngay sau cuộc thử thách công khai
 - **POV hiện tại:** Ronan (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Freya
-- **Địa điểm hiện tại:** Pháo Đài Grimhold
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Nhiệm vụ thành công — Ashara di dời, thỏa thuận hoãn hôn nhân của Freya được giữ nguyên, Arik công khai khen ngợi con gái. Âm mưu gián điệp của Cassius (qua Aldric) thất bại hoàn toàn và công khai. Cassius rời phòng với ánh mắt lạnh lùng, tính toán mới.
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan cảm nhận rõ Cassius đang cân nhắc những con đường nguy hiểm hơn để khẳng định lại vị thế — một mối đe dọa âm thầm đang lớn dần, chưa bộc phát
-- **Mục tiêu ngắn hạn của nhân vật chính:** Theo dõi sát Cassius trong khi tiếp tục vun đắp liên minh (Ashara, Ordell, mạng lưới tại Grimhold) và tìm hiểu thêm về "Giải Thoát Chân Thực"
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, Freya, Cade, Cassius, Arik (tại sân đấu)
+- **Địa điểm hiện tại:** Sân đấu chính, Pháo Đài Grimhold
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Ronan và Cade vừa "diễn" trận đấu thành công, tránh đổ máu; Arik công khai bác bỏ đề xuất chuyển giao quyền chủ nhân của Cassius, khen ngợi sự đoàn kết của Ronan/Cade. Cassius đứng chết lặng trước thất bại công khai tồi tệ nhất từ trước tới nay.
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Cassius đã mất mọi con đường hợp pháp để khẳng định lại vị thế — nguy cơ rất cao anh ta sẽ chuyển sang hành động liều lĩnh, bất hợp pháp
+- **Mục tiêu ngắn hạn của nhân vật chính:** Cảnh giác trước phản ứng tuyệt vọng có thể có của Cassius; tiếp tục củng cố liên minh và tiến gần hơn tới mục tiêu dài hạn (Giải Thoát Chân Thực, Leviathan khác)
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - ⚠️ NHẮC THƯỜNG TRỰC #1 — DẤU ẤN: Tất cả nhân vật chính đã giải quyết đầy đủ. Lãnh Chúa Devric vẫn để ngỏ hợp lệ.
 - ⚠️ NHẮC THƯỜNG TRỰC #2 — TẦNG CỘNG HƯỞNG: Không có gap treo nghiêm trọng.
-- ⚠️ ARC 3 ĐANG TRIỂN KHAI, HƯỚNG TỚI CAO TRÀO: Nhiệm vụ Ashara đã khép lại thành công. Trọng tâm còn lại cho tới Chương 30 (mốc người dùng yêu cầu): (1) Cassius đang âm thầm lên kế hoạch nguy hiểm — CẦN cho nó bộc phát thành hành động cụ thể trong vài chương tới, đây là mối đe dọa cấp bách nhất hiện tại; (2) "Leviathan khác" — bí ẩn dài hạn, có thể để ngỏ qua Chương 30; (3) "Giải Thoát Chân Thực" của Ronan — cân nhắc cho cậu tiến triển cụ thể hơn (một Blessing thứ 3, hoặc bước đầu hiểu rõ hơn về "con người chân thực" của mình) hướng tới một cao trào ở Chương 30.
-- ⚠️ Chương 24 KHÔNG chia hết cho 5. Chương 25 sẽ cần cập nhật `summaries/arc-summaries.md`.
+- ⚠️ ARC 3 HƯỚNG TỚI CAO TRÀO CUỐI CÙNG (Chương 27-30, mốc người dùng yêu cầu dừng ở 30): Cassius đã mất mọi con đường hợp pháp — đây là lúc thích hợp để anh ta thực hiện một hành động liều lĩnh, bất hợp pháp (ví dụ: âm mưu ám sát, bắt cóc, phá hoại, hoặc liên minh với một thế lực bên ngoài như Devric) làm cao trào cho Chương 29-30. Chương 30 nên khép lại với một bước ngoặt lớn — có thể là một tiến triển thật sự của Ronan hướng tới "Giải Thoát Chân Thực" hoặc Blessing thứ 3, và/hoặc hậu quả dứt điểm cho Cassius.
+- ⚠️ Chương 26 KHÔNG chia hết cho 5. Chương 30 sẽ cần cập nhật `summaries/arc-summaries.md`.
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - ⚠️ NHẮC THƯỜNG TRỰC #1 — DẤU ẤN: Arik, Gerta, Ashara, Marek đã giải quyết đầy đủ. Lãnh Chúa Devric vẫn để ngỏ hợp lệ.

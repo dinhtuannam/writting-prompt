@@ -10,8 +10,8 @@
 - **Mối quan hệ với nhân vật khác:** Con trai Arik, anh trai Freya. Công khai thích thú khi thấy Ronan bị buộc phục tùng, tạo áp lực buộc Freya phải "ra lệnh" trước mặt khách.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** (chưa có)
 - **Giọng nói / cách nói chuyện đặc trưng:** Giọng vang, thích nói trước đám đông, hay dùng câu hỏi tu từ để khiêu khích.
-- **Trạng thái hiện tại:** XÁC NHẬN đã cử Aldric bí mật theo dõi nhiệm vụ của Freya — âm mưu thất bại khi Aldric báo cáo trung thực có lợi cho Freya. Vừa chứng kiến Arik công khai khen ngợi Freya và giữ nguyên thỏa thuận hoãn hôn nhân; rời phòng với ánh mắt lạnh lùng, tính toán — dấu hiệu cảnh báo cho một kế hoạch nguy hiểm hơn sắp tới.
-- **Xuất hiện lần cuối:** Chương 24
+- **Trạng thái hiện tại:** Chọn Cade làm đối thủ của Ronan trong cuộc thử thách công khai — một sự tàn nhẫn tâm lý tính toán kỹ — nhưng kế hoạch phản tác dụng hoàn toàn khi Arik công khai khen ngợi cách Ronan và Cade "vượt qua thử thách" bằng sự đoàn kết thay vì bạo lực. Chịu thất bại công khai tồi tệ nhất từ trước tới nay, đứng chết lặng trước toàn thể Grimhold.
+- **Xuất hiện lần cuối:** Chương 26
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -24,3 +24,5 @@
 | 19 | Tiết lộ cho Freya (trước mặt Ronan) tin tức về cuộc hôn nhân sắp đặt với gia tộc Devric, tận hưởng phản ứng đau đớn của cô như một cách khẳng định lại quyền lực đang mất dần |
 | 22 | (Suy đoán) Có thể là người bí mật theo dõi nhiệm vụ của Freya tại núi Kestrel — chưa xác nhận trực tiếp |
 | 24 | Xác nhận đã cử Aldric theo dõi; âm mưu thất bại khi Aldric báo cáo trung thực; bị Arik ngắt lời và không được tin tưởng hơn Freya; rời đi với ánh mắt lạnh lùng, tính toán một kế hoạch mới |
+| 25 | Đề xuất riêng với Arik chuyển giao quyền chủ nhân của Ronan sang mình, viện lý do Freya quá thiên vị; Arik đề xuất một cuộc thử thách công khai thay thế — Cassius sẽ được chọn đối thủ cho Ronan |
+| 26 | Chọn Cade làm đối thủ của Ronan — một đòn tra tấn tâm lý tính toán; kế hoạch phản tác dụng khi Arik công khai khen ngợi Ronan và Cade vì "đoàn kết" thay vì bạo lực; chịu thất bại công khai tồi tệ nhất từ trước tới nay |

@@ -10,8 +10,8 @@
 - **Mối quan hệ với nhân vật khác:** Con gái Lãnh Chúa Arik. Được Ronan cứu khỏi sói trắng ở Chương 1. Nay là chủ nhân hợp pháp của cậu qua Khế Ước Dã Thú, dù bản thân cô có vẻ không thoải mái với vai trò đó.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Cô có thực sự tin vào việc "phải" giết Ronan một ngày nào đó nếu cần, hay đây là một phần lời tuyên bố của cha cô mà cô chưa từng chấp nhận, vẫn là câu hỏi ngỏ.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít nhưng thẳng thắn, không né tránh sự thật khó chịu ngay cả khi im lặng sẽ dễ dàng hơn.
-- **Trạng thái hiện tại:** Hoàn thành nhiệm vụ thành công — thuyết phục Arik rằng việc di dời Ashara là một chiến thắng chiến lược thực sự; giữ được thỏa thuận hoãn hôn nhân 1 năm; nhận được sự đánh giá thực dụng, gần như tôn trọng từ cha lần đầu tiên.
-- **Xuất hiện lần cuối:** Chương 24
+- **Trạng thái hiện tại:** Chứng kiến Ronan vượt qua cuộc thử thách công khai mà không cần can thiệp — mối đe dọa chuyển giao quyền chủ nhân bị dập tắt hoàn toàn khi Arik công khai bác bỏ lập luận của Cassius.
+- **Xuất hiện lần cuối:** Chương 26
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |

@@ -9,8 +9,8 @@
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick và Maren — giờ đây bị chia cắt khỏi cả hai bởi phán quyết của Arik. Vừa cứu Freya (con gái Arik, mang Ấn Rồng) khỏi sói trắng khổng lồ ở Chương 1; sắp trở thành dã thú ràng buộc với cô qua Khế Ước Dã Thú.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan — nay đã bị phát hiện và ghi nhận chính thức bởi Lãnh Chúa Arik. Chương 23: biết toàn bộ câu chuyện về Lyra (chị gái Ashara) và con trai Leviathan thất lạc 41 năm trước — số phận thật của người đó (còn sống/đã chết) vẫn là bí ẩn hoàn toàn mở, Ronan giờ có trách nhiệm báo tin nếu tìm thấy manh mối.
 - **Giọng nói / cách nói chuyện đặc trưng:** Ít nói về bản thân, có xu hướng hành động trước khi suy nghĩ thấu đáo khi thấy người khác gặp nguy hiểm. Nội tâm giờ đây mang thêm một giọng điệu mới: tính toán, kiêu hãnh, đầy kiềm nén.
-- **Trạng thái hiện tại:** Trở về Grimhold an toàn cùng Freya sau nhiệm vụ thành công; nhận thấy ánh mắt lạnh lùng, tính toán mới của Cassius sau khi bị Arik công khai không tin tưởng hơn Freya — dấu hiệu cảnh báo một âm mưu nguy hiểm hơn đang hình thành.
-- **Xuất hiện lần cuối:** Chương 24
+- **Trạng thái hiện tại:** Vượt qua cuộc thử thách công khai bằng cách cùng Cade "diễn" trận đấu thay vì đổ máu thật — được Arik công khai khen ngợi vì sự đoàn kết, đánh bại hoàn toàn âm mưu của Cassius mà không cần bạo lực. Quan hệ với Freya được củng cố công khai trước toàn thể Grimhold.
+- **Xuất hiện lần cuối:** Chương 26
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
