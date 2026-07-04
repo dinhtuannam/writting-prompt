@@ -31,7 +31,8 @@
 | Nội dung thật của ghi chép Leviathan thứ 3 mà Elric sẽ tìm lại | 25 | Đóng (Chương 28) | — | Sarai — sinh ~350 năm trước, được Bộ Lạc Sói Xám nhận nuôi, sống 43 năm không gây đại họa; xem thread mới về đoạn kết bị xé mất |
 | Cách Sarai qua đời — trang cuối ghi chép đã bị xé mất có chủ đích | 28 | Mở — mục tiêu chính hướng đi tiếp theo | (dài hơi) | Có thể chỉ còn trong ký ức truyền miệng của Bộ Lạc Sói Xám ở Hoang Địa Phương Bắc |
 | "Món nợ" bí ẩn của Elric — ai từng hỏi ông câu hỏi này trước đây | 25 | Đóng (Chương 28) | — | Là Rowan, bạn tập sự cũ của Elric, người đã một mình lên phương bắc 30 năm trước và không bao giờ trở về; xem thread mới |
-| Số phận của Rowan — người bạn cũ của Elric đã mất tích ở phương bắc | 28 | Mở | (dài hơi) | Elric nhờ gia đình tìm hiểu giúp nếu có manh mối trên đường tới Bộ Lạc Sói Xám |
+| Số phận của Rowan — người bạn cũ của Elric đã mất tích ở phương bắc | 28 | Đóng (Chương 34) | — | Ông đã sống hạnh phúc với Bộ Lạc Sói Xám, kết hôn, có con cháu, qua đời thanh thản 2 năm trước; xem thread mới về việc chuyển cuốn sổ tay của ông cho Elric |
+| Mang cuốn sổ tay của Rowan về cho Elric | 34 | Mở | (dài hơi) | Ronan hứa sẽ mang về nếu có cơ hội quay lại Học Viện Bách Thú; gắn liền với thread "lời hứa với Isolde" và số phận của Elric |
 | Trưởng Lão Cassian để ý bất thường tới khách vãng lai mới tới Học Viện | 26 | Đóng một phần (Chương 27) | — | Xác nhận: Cassian trực tiếp tiếp cận Ronan, biết về cuộc gặp với Elric; xem thread mới về hành động cụ thể tiếp theo của ông |
 | Cassian sẽ hành động thế nào để bảo vệ sự trung lập của Học Viện | 27 | Đóng một phần (Chương 29) | — | Ra lệnh kiểm tra niêm phong, đối chất trực tiếp Elric; xem thread mới về số phận Elric sau lời thú tội |
 | Số phận của Elric sau khi nhận trách nhiệm và nói dối trước Cassian | 29 | Mở | (chưa xác định) | Ông có thể mất vị trí Thủ Thư hoặc bị kỷ luật nặng hơn; gia đình rời đi mà không biết kết quả |

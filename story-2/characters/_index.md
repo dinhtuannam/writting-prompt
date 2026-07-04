@@ -14,7 +14,7 @@
 | Elric | Phụ (Thủ Thư, canh giữ Tháp Sử Liệu Học Viện Bách Thú) | Còn sống | `elric.md` |
 | Isolde | Phụ (tập sự dưới quyền Elric, bạn của Ronan) | Còn sống | `isolde.md` |
 | Trưởng Lão Cassian | Phản diện tiềm năng (Hội Đồng Học Viện Bách Thú) | Còn sống | `cassian.md` |
-| Rowan | Phụ (vắng mặt, bạn cũ của Elric) | Mất tích | `rowan.md` |
+| Rowan | Phụ (vắng mặt, bạn cũ của Elric) | Đã qua đời (2 năm trước) | `rowan.md` |
 | Kael | Phụ (người canh giữ rìa đất, Bộ Lạc Sói Xám) | Còn sống | `kael.md` |
 | Hilda | Phụ (Tộc Trưởng Bộ Lạc Sói Xám) | Còn sống | `hilda.md` |
 | Brenna | Phụ (Người Giữ Ký Ức, Bộ Lạc Sói Xám) | Còn sống | `brenna.md` |
