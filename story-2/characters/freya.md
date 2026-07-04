@@ -10,8 +10,8 @@
 - **Mối quan hệ với nhân vật khác:** Con gái Lãnh Chúa Arik. Được Ronan cứu khỏi sói trắng ở Chương 1. Nay là chủ nhân hợp pháp của cậu qua Khế Ước Dã Thú, dù bản thân cô có vẻ không thoải mái với vai trò đó.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Cô có thực sự tin vào việc "phải" giết Ronan một ngày nào đó nếu cần, hay đây là một phần lời tuyên bố của cha cô mà cô chưa từng chấp nhận, vẫn là câu hỏi ngỏ.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít nhưng thẳng thắn, không né tránh sự thật khó chịu ngay cả khi im lặng sẽ dễ dàng hơn.
-- **Trạng thái hiện tại:** Chủ nhân của Ronan; vừa đứng ra chịu trách nhiệm bảo vệ cậu trước lính canh sau vụ việc ở sân tập (Chương 10); riêng tư hứa sẽ không đứng về phía làm cậu tổn thương thêm, dù không thể công khai phản bội gia tộc mình.
-- **Xuất hiện lần cuối:** Chương 10
+- **Trạng thái hiện tại:** Chủ nhân của Ronan; đang cố tìm hiểu sự thật về Bọn Vô Chủ cho cậu, đồng thời lo lắng cha mình (dưới áp lực của Cassius) có thể đưa Ronan vào cuộc truy quét trả đũa sắp tới — một tình huống cô thừa nhận có thể vượt ngoài khả năng ngăn cản của mình.
+- **Xuất hiện lần cuối:** Chương 11
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -23,3 +23,4 @@
 | 8 | Tổ chức lễ tưởng niệm nhỏ cho Rodrick và các lính tử trận; báo tin về tình hình nguy cấp của Maren tại tiền đồn; hứa sẽ thử xin cho Ronan gặp mẹ |
 | 9 | Thuyết phục cha cho phép Ronan thăm Maren; sau đó báo tin đau đớn về việc Maren bị hành quyết, khuôn mặt trắng bệch |
 | 10 | Ngăn Ronan trước khi cậu siết chết Joran; đứng ra chịu trách nhiệm bảo vệ cậu khỏi điều tra; đối thoại riêng tư, thừa nhận sự bất lực của chính mình trong gia tộc và hứa sẽ không đứng về phía làm cậu tổn thương thêm — khoảnh khắc có thể là đột phá Tầng Cộng Hưởng đầu tiên của cô |
+| 11 | Báo tin cha cô chuẩn bị một cuộc truy quét trả đũa nhắm vào Bọn Vô Chủ; Cassius đề xuất mang Ronan theo như "vũ khí chính trị"; thừa nhận có thể không đủ quyền lực để ngăn cản, chỉ có thể cố giảm thiểu rủi ro tệ nhất cho cậu |

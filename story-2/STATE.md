@@ -2,18 +2,18 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 10
-- **Arc hiện tại:** Arc 1: Tội Lỗi Của Việc Được Sinh Ra — ĐÃ KHÉP LẠI ở Chương 10. Arc 2 chưa đặt tên chính thức, xem `plot/outline.md` cần cập nhật.
-- **Ngày/thời điểm trong truyện:** Sáng hôm sau vụ việc ở sân tập (khoảng 2 tuần rưỡi kể từ vụ sói ở Chương 1)
+- **Chương hiện tại đã viết xong:** 11
+- **Arc hiện tại:** Arc 2 (chưa đặt tên chính thức) — mở đầu ở Chương 11, xem `plot/outline.md`
+- **Ngày/thời điểm trong truyện:** Đêm cùng ngày Freya báo tin về cuộc truy quét (khoảng 3 tuần kể từ vụ sói ở Chương 1)
 - **POV hiện tại:** Ronan (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Cade
-- **Địa điểm hiện tại:** Sân tập, Pháo Đài Grimhold
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Ronan vừa mồ côi cả cha lẫn mẹ. Blessing thứ 2 (Bản Năng Chiến Đấu) vừa lộ diện dưới thịnh nộ tột cùng, suýt khiến cậu giết một lính gác. Freya đã đứng ra bảo vệ cậu và bắt đầu một liên minh riêng tư, thận trọng. Cade vừa xác nhận đây là Blessing thật, thừa nhận không còn đủ khả năng dạy Ronan, và gợi ý mơ hồ rằng con đường tiếp theo có thể nằm ngoài Grimhold. Ronan nhận ra hình xăm Leviathan đã lan rộng hơn.
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Cade gợi ý "câu trả lời không nằm ở Grimhold nữa" mà không giải thích rõ — mở ra câu hỏi lớn cho Arc 2: điều/ai đó nằm ngoài Grimhold sẽ dẫn dắt Ronan tới đâu?
-- **Mục tiêu ngắn hạn của nhân vật chính:** Chủ động học cách kiểm soát sức mạnh thật của mình thay vì chỉ chờ đợi và chịu đựng; tìm hiểu ý Cade muốn nói về "con đường ngoài Grimhold"
+- **Nhân vật đang có mặt tại hiện trường:** Ronan (một mình)
+- **Địa điểm hiện tại:** Phòng riêng của Ronan, khu gia nhân Pháo Đài Grimhold
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Cade tiết lộ ý nghĩa thật của gợi ý "ngoài Grimhold" — Bọn Vô Chủ là những người mang Ấn sống ngoài Khế Ước Dã Thú, bản thân ông từng có cơ hội gia nhập một nhóm như vậy trước khi bị bán làm dã thú. Freya báo tin: Lãnh Chúa Arik chuẩn bị một cuộc truy quét trả đũa nhắm vào nhóm đã tấn công sông Kelt (chính là nhóm đã gián tiếp giết Rodrick); Cassius đề xuất mang Ronan theo như "vũ khí chính trị". Freya thừa nhận có thể không đủ quyền lực để ngăn cản quyết định của cha.
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan trăn trở cả đêm giữa nghĩa vụ có thể bị ép buộc và khả năng cuộc truy quét đó chính là cơ hội duy nhất để tìm ra sự thật về con đường tự do mà Bọn Vô Chủ đại diện — kết chương bằng hình ảnh vầng trăng khuyết, tự hỏi liệu "những kẻ không chủ" có đang nhìn lên cùng bầu trời
+- **Mục tiêu ngắn hạn của nhân vật chính:** Tìm cách chuẩn bị cho khả năng bị đưa vào cuộc truy quét — cả về thể chất lẫn tinh thần — trong khi cân nhắc xem nên coi Bọn Vô Chủ là kẻ thù hay một khả năng đồng minh/con đường tự do
 
 ## Ghi chú cho AI khi viết chương tiếp theo
-- ⚠️ NHẮC THƯỜNG TRỰC #1 — DẤU ẤN: Arik và Gerta đã giải quyết. Lãnh Chúa Devric (Chương 9) chưa xuất hiện trực tiếp — để "(chưa tiết lộ — chưa tới lúc)" cho tới khi xuất hiện trên trang truyện.
-- ⚠️ NHẮC THƯỜNG TRỰC #2 — TẦNG CỘNG HƯỞNG: Ronan có Blessing 1 (Giác Quan) và Blessing 2 (Bản Năng Chiến Đấu, lộ Chương 10) — còn tối đa 2 Blessing khác, có thể tiếp tục lộ diện dần ở Arc 2. Freya CÓ THỂ vừa đột phá Thức Tỉnh (Tầng 2) ở Chương 10 qua một lựa chọn chân thực — cần một cảnh xác nhận bằng Blessing cụ thể trong 1-2 chương tới, đừng để treo quá lâu.
-- ⚠️ ARC 1 ĐÃ KHÉP LẠI: Cả cha lẫn mẹ Ronan đã mất (Chương 7, 9), đỉnh điểm cảm xúc và crystallize quyết tâm chủ động của Ronan đã xử lý xong (Chương 10). Trước khi viết Chương 11: cần xác định hướng đi của Arc 2 — gợi ý mở đang treo là "con đường ngoài Grimhold" mà Cade nhắc tới, có thể hỏi người dùng về ý tưởng cho Arc 2 nếu không có outline rõ ràng, hoặc tiếp tục world-building tự nhiên dựa trên các thread đang mở (nội gián trong vụ phục kích, Lãnh Chúa Devric, kẽ hở Vòng Kiềm Ấn, mối quan hệ Ronan-Freya).
-- ⚠️ Đã hoàn thành mục `summaries/arc-summaries.md` cho Chương 6-10 — không cần lặp lại cho tới Chương 15.
+- ⚠️ NHẮC THƯỜNG TRỰC #1 — DẤU ẤN: Arik và Gerta đã giải quyết. Lãnh Chúa Devric chưa xuất hiện trực tiếp — vẫn hợp lệ để ngỏ. Không có nhân vật có tên mới trong Chương 11 (Bọn Vô Chủ là một phe phái, không phải cá nhân — đã ghi vào `lore/factions.md`).
+- ⚠️ NHẮC THƯỜNG TRỰC #2 — TẦNG CỘNG HƯỞNG: Ronan có Blessing 1 (Giác Quan) và Blessing 2 (Bản Năng Chiến Đấu) — còn tối đa 2 Blessing khác. Freya CÓ THỂ đã đột phá Thức Tỉnh (Tầng 2) ở Chương 10 — vẫn đang treo, cần một cảnh xác nhận bằng Blessing cụ thể, ưu tiên giải quyết trong vài chương tới nếu tình huống truy quét diễn ra (áp lực chiến trường là bối cảnh tốt để cô xác nhận Blessing đầu tiên của mình).
+- ⚠️ ARC 2 ĐANG TRIỂN KHAI — THREAD TRUNG TÂM: Liệu Ronan có bị đưa vào cuộc truy quét trả đũa nhắm vào Bọn Vô Chủ không, và nếu có, cậu sẽ đối mặt thế nào với khả năng "kẻ thù" chỉ định lại chính là con đường tự do cậu khao khát. Đây là xung đột đạo đức trung tâm mới của Arc 2, song song với thread cũ về nội gián trong vụ phục kích (Chương 6-7, chưa giải quyết) và Lãnh Chúa Devric (chưa xuất hiện trực tiếp).
+- Chương 11 KHÔNG chia hết cho 5 — không cần cập nhật `summaries/arc-summaries.md` lần này.
