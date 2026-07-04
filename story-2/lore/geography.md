@@ -11,3 +11,4 @@
 | Hoang Địa Phương Bắc | Vùng biên lạnh giá ngoài tầm kiểm soát vương quốc, nơi các bộ lạc giữ tín ngưỡng cổ xưa về Thú Ấn sinh sống | Nơi có thể mang đến góc nhìn khác về Ấn Leviathan cho nhân vật chính |
 | Vực Đá Chìm | Tàn tích ven biển của Đế Chế Uyên Nguyên, chìm dưới nước sau thảm họa "Đại Hồng Thủy"; nơi Giáo Phái Vực Sâu ẩn náu | Gắn liền với nguồn gốc lời nguyền Leviathan và Giáo Phái Vực Sâu |
 | Ravensmoor | Thị trấn có trạm gác của Đoàn Kỵ Sĩ Bình Minh, cách Hắc Mộc Lâm ba ngày đường | Nơi gia đình Ronan bị triệu tập để thẩm định trước hội đồng ba trưởng lão |
+| Học Viện Bách Thú | Quần thể kiến trúc mở trên vùng đất trung lập ngoài thẩm quyền vương quốc, gồm nhiều tháp sách và khu vườn, không có tường thành; chứa Tháp Sử Liệu lưu giữ ghi chép nhạy cảm về các Ấn huyền thoại | Nơi gia đình Ronan lánh nạn và tìm kiếm sử liệu về Leviathan thứ 3; ẩn chứa chính trị nội bộ nguy hiểm riêng |

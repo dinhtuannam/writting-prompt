@@ -25,8 +25,11 @@
 | Aldous sẽ quay lại với câu trả lời rõ ràng hơn sau khi tham khảo Lumengard | 19 | Đóng (Chương 21) | — | Trả lời là trát triệu tập chính thức tới hội đồng 3 trưởng lão tại Ravensmoor |
 | Trát triệu tập tới Ravensmoor — trình diện hay bỏ trốn | 21 | Đóng (Chương 22) | — | Gia đình chọn bỏ trốn ngay, hướng tới Học Viện Bách Thú |
 | Hành trình tới Học Viện Bách Thú, né tránh Đoàn Kỵ Sĩ Bình Minh | 22 | Đóng (Chương 24) | — | Đã tới nơi an toàn, không gặp thêm trở ngại nhờ đi cùng Tobias |
-| Chính trị nội bộ Học Viện Bách Thú — không phải ai cũng đáng tin | 24 | Mở | 25+ | Tobias cảnh báo một số học giả sẵn sàng hợp tác với Đoàn Kỵ Sĩ Bình Minh |
-| Tìm sử liệu về Leviathan thứ 3 (không trở thành đại họa) tại Học Viện Bách Thú | 22 | Mở — mục tiêu chính Arc 2 phần sau | 25+ | Hy vọng của Ronan về việc chứng minh lời nguyền không phải định mệnh tuyệt đối |
+| Chính trị nội bộ Học Viện Bách Thú — không phải ai cũng đáng tin | 24 | Đóng một phần (Chương 25) | — | Elric xác nhận cụ thể: có phe học giả cấp cao sẵn sàng báo Đoàn Kỵ Sĩ nếu nghe câu hỏi sai chỗ; xem thread mới về nguy cơ bị phát hiện trong Học Viện |
+| Nguy cơ gia đình bị phe thân Đoàn Kỵ Sĩ trong Học Viện phát hiện | 25 | Mở | (chưa xác định) | Elric dặn không được hỏi ai khác về Leviathan thứ 3; chưa rõ danh tính cụ thể của phe nguy hiểm này |
+| Tìm sử liệu về Leviathan thứ 3 (không trở thành đại họa) tại Học Viện Bách Thú | 22 | Đóng một phần (Chương 25) | 26+ | Elric xác nhận ghi chép có tồn tại, đồng ý tự đi tìm lại trong vài ngày; xem thread mới về nội dung ghi chép khi Elric quay lại |
+| Nội dung thật của ghi chép Leviathan thứ 3 mà Elric sẽ tìm lại | 25 | Mở — mục tiêu chính Arc 2 phần sau | 26-30 | Elric cần vài ngày; đây là manh mối hy vọng trung tâm của Ronan |
+| "Món nợ" bí ẩn của Elric — ai từng hỏi ông câu hỏi này trước đây | 25 | Mở | (chưa xác định) | Elric ám chỉ từng thiếu can đảm trả lời cho một người khác trong quá khứ; chưa rõ là ai |
 | Giáo Phái Vực Sâu (Yseult) vẫn theo dõi và mời gọi Ronan | 20 | Mở — mối đe dọa/cám dỗ song song | 21+ | Thông điệp trong vỏ ốc xác nhận Yseult biết về Aldous và vẫn muốn chiêu mộ Ronan; gia đình đã từ chối nhưng lời mời còn đó |
 | Dấu Ấn Leviathan của Ronan bắt đầu "cựa mình" sau trận chiến | 2 | Mở | (dài hơi) | Có thể liên quan đến cơ chế cộng hưởng cảm xúc đã ghi trong `lore/systems.md` |
 | Lời nguyền Leviathan có phải định mệnh thật hay chỉ là định kiến tự ứng nghiệm | 1 | Mở (dài hơi) | (xuyên suốt series) | Bí ẩn trung tâm — xem `lore/history.md` về manh mối Leviathan thứ 3 chưa gây họa |

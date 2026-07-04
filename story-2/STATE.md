@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 24
+- **Chương hiện tại đã viết xong:** 25
 - **Arc hiện tại:** Arc 2: Bóng Tối Giữa Hai Thế Lực (xem `plot/outline.md`)
-- **Ngày/thời điểm trong truyện:** Chiều ngày thứ 8 của hành trình
+- **Ngày/thời điểm trong truyện:** Chiều ngày thứ 8 của hành trình, vừa tới Học Viện
 - **POV hiện tại:** Ronan (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Bastian, Maren, Tobias
-- **Địa điểm hiện tại:** Đỉnh đồi nhìn xuống Học Viện Bách Thú
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Gia đình gặp Tobias, một người ghi chép của Học Viện Bách Thú, người giúp sửa xe và đồng hành 2 ngày cuối hành trình. Ông cảnh báo Học Viện có chính trị nội bộ phức tạp — không phải mọi học giả đều ủng hộ chia sẻ tri thức tự do, một số sẵn sàng hợp tác với Đoàn Kỵ Sĩ Bình Minh. Ông đề nghị giới thiệu gia đình với Thủ Thư Elric. Học Viện hiện ra trước mắt, một quần thể kiến trúc mở, không giống pháo đài
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Học Viện Bách Thú không hoàn toàn an toàn như gia đình hy vọng — nội bộ có phe phái có thể hợp tác với Đoàn Kỵ Sĩ Bình Minh
-- **Mục tiêu ngắn hạn của nhân vật chính:** Vào Học Viện an toàn và tìm gặp Thủ Thư Elric để bắt đầu tìm kiếm sử liệu về Leviathan thứ 3
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, Bastian, Maren, Tobias, Elric
+- **Địa điểm hiện tại:** Tháp Sử Liệu, Học Viện Bách Thú
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Gia đình vào Học Viện an toàn dưới danh nghĩa lữ hành/thợ săn từ "vùng đồi phía tây", được Tobias giới thiệu với Thủ Thư Elric — người canh giữ Tháp Sử Liệu. Elric nhận ra ngay câu hỏi của Ronan về Leviathan không đơn thuần là tò mò, xác nhận có tồn tại ghi chép về một Leviathan thứ ba nhưng từ chối tiết lộ ngay, viện lý do có phe phái trong Học Viện sẵn sàng báo cho Đoàn Kỵ Sĩ Bình Minh. Ông hứa sẽ tự tìm ghi chép đó trong vài ngày, dặn gia đình không hỏi ai khác, và hé lộ một bí ẩn cá nhân: một "món nợ" chưa trả từ việc từng không đủ can đảm trả lời câu hỏi này cho một người khác trong quá khứ
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Lời nói bí ẩn của Elric về "món nợ" cũ, và nguy cơ có phe phái cụ thể trong Học Viện có thể phát hiện ra mục đích thật của gia đình nếu họ hỏi sai người
+- **Mục tiêu ngắn hạn của nhân vật chính:** Chờ đợi an toàn trong Học Viện trong lúc Elric tìm ghi chép về Leviathan thứ 3, tránh gây chú ý với phe phái thân Đoàn Kỵ Sĩ Bình Minh
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 (chưa có ghi chú — sẽ được AI tự cập nhật sau mỗi chương)
