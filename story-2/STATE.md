@@ -2,17 +2,17 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 6
-- **Arc hiện tại:** Arc 1: Tội Lỗi Của Việc Được Sinh Ra (xem `plot/outline.md`)
-- **Ngày/thời điểm trong truyện:** Bình minh ngày thứ 5 tại Grimhold (kể từ vụ sói)
+- **Chương hiện tại đã viết xong:** 9
+- **Arc hiện tại:** Arc 1: Tội Lỗi Của Việc Được Sinh Ra (xem `plot/outline.md`) — sắp khép lại ở Chương 10
+- **Ngày/thời điểm trong truyện:** Buổi chiều, 3 giờ sau khi tin Maren bị hành quyết truyền tới Grimhold
 - **POV hiện tại:** Ronan (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Freya (Rodrick vừa rời đi cùng đội tuần tra)
-- **Địa điểm hiện tại:** Sân trong, cổng chính Pháo Đài Grimhold
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Ba làng dọc sông Kelt bị đốt bởi "Bọn Vô Chủ" — nhóm mang Ấn không rõ cờ hiệu. Một đội tuần tra gồm lính bị kỷ luật (có Rodrick, xếp đi đầu) vừa xuất phát lúc bình minh để gia cố biên giới. Ronan và Freya đứng nhìn từ cổng trong; Ronan vừa trao đổi ánh mắt và hai từ không thành tiếng ("Sống tốt") với cha trước khi đoàn quân khuất bóng.
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan bị bủa vây bởi nỗi sợ lạnh buốt và bất lực, tự hỏi liệu đó có phải lời tạm biệt cuối cùng với cha — linh cảm rõ ràng cho một bi kịch sắp xảy ra
-- **Mục tiêu ngắn hạn của nhân vật chính:** Chờ đợi tin tức về đội tuần tra trong lo sợ, tiếp tục âm thầm thử nghiệm giới hạn Vòng Kiềm Ấn
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, Freya
+- **Địa điểm hiện tại:** Sân tập, Pháo Đài Grimhold
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Cả Rodrick (Chương 7) và Maren (Chương 9) đều đã mất trong chưa đầy hai tuần. Maren bị hành quyết bất công tại tiền đồn Kelt Nam do áp lực chính trị từ Lãnh Chúa Devric. Ronan vừa nghe tin từ Freya, rơi vào một sự im lặng lạnh lẽo tuyệt đối — điều gì đó bên trong cậu vừa vỡ tan hoàn toàn, chưa bộc phát ra ngoài.
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Phản ứng đầy đủ của Ronan trước việc mất cả cha lẫn mẹ chưa được thể hiện — cơn bộc phát (hoặc sự đóng băng hoàn toàn) đang chờ ở Chương 10
+- **Mục tiêu ngắn hạn của nhân vật chính:** (sẽ định hình lại hoàn toàn ở Chương 10, khép Arc 1)
 
 ## Ghi chú cho AI khi viết chương tiếp theo
-- ⚠️ NHẮC THƯỜNG TRỰC #1 — DẤU ẤN: core building của series (xem `style/style-guide.md`, mục "Quy tắc tối thượng"). Rà lại cột Dấu Ấn trong `characters/_index.md` trước khi coi chương là xong. Arik đã giải quyết (Chương 6: Sói Đầu Đàn). Gap còn treo: **Gerta** (có manh mối vật lý từ Chương 6, PHẢI gọi tên Ấn trong 1-2 chương tới — đã trễ hạn nhẹ).
-- ⚠️ NHẮC THƯỜNG TRỰC #2 — TẦNG CỘNG HƯỞNG: core building thứ hai, ngang hàng Dấu Ấn (xem `lore/systems.md` mục "Tầng Cộng Hưởng Linh Thú" + "Điều Kiện Đột Phá"; `style/style-guide.md` mục "Quy tắc tối thượng thứ hai"). Arik đã giải quyết (Tầng 4, Thú Quân — Chương 6). Gap còn treo: **Gerta** (phụ thuộc vào Dấu Ấn của bà, giải quyết cùng lúc). Ronan hiện ở Hiện Thân (Tầng 3) nhưng CHƯA từng phát hiện/thi triển Blessing nào trên trang truyện — "quả bom hẹn giờ" này nên kích hoạt trong arc cái chết của cha mẹ sắp tới (áp lực sinh tử/mất mát thật là điều kiện hợp lệ theo Điều Kiện Đột Phá). Mọi nhân vật mới có tên phải có cả Dấu Ấn VÀ Tầng Cộng Hưởng được gợi ý/tiết lộ/giấu có chủ đích trong vòng 1-2 chương kể từ khi xuất hiện — không im lặng bỏ qua.
-- ⚠️ ARC ĐANG TRIỂN KHAI — CÁI CHẾT CỦA RODRICK VÀ MAREN: theo yêu cầu người dùng, cha mẹ Ronan sẽ chết trong khoảng Chương 6-10, khép lại Arc 1. Kế hoạch đã thống nhất: Rodrick chết trong đợt phục kích/tuần tra biên giới (bị dùng làm "khiên sống" — cái chết bất công có hệ thống, không phải anh hùng ca sạch sẽ); Maren chết sau đó trong hệ quả bất công của cùng sự kiện (bị đổ lỗi/trừng phạt vì không cứu được một bệnh nhân không thể cứu). Ronan phải trải qua PHIÊN BẢN QUY TRÌNH DUYỆT TỪNG CHƯƠNG — không viết dồn nhiều chương liên tiếp mà không cho người dùng duyệt (bài học từ lần reset trước).
+- ⚠️ NHẮC THƯỜNG TRỰC #1 — DẤU ẤN: Arik và Gerta đã giải quyết. Nhân vật mới Lãnh Chúa Devric (Chương 9) chưa xuất hiện trực tiếp — Ấn của ông để "(chưa tiết lộ — chưa tới lúc)" cho tới khi ông xuất hiện trên trang truyện, không tính là gap vi phạm.
+- ⚠️ NHẮC THƯỜNG TRỰC #2 — TẦNG CỘNG HƯỞNG: Ronan vẫn còn Blessing 1 (Giác Quan — nhịp tim/giác quan biển sâu) mới thoáng lộ diện ở Chương 8, chưa được đặt tên/hiểu rõ. Chương 10 — đỉnh điểm cảm xúc của Arc 1 — là cơ hội tốt để Blessing này bộc phát rõ ràng hơn hoặc để Ronan/Cade bắt đầu gọi tên nó, nhưng KHÔNG bắt buộc phải giải quyết trọn vẹn ngay; có thể vẫn để ngỏ cho Act 2.
+- ⚠️ ARC 1 KHÉP LẠI Ở CHƯƠNG 10: Cả cha lẫn mẹ Ronan đã mất. Chương 10 phải xử lý phản ứng đầy đủ của Ronan (đỉnh điểm cảm xúc — có thể là bộc phát dữ dội, hoặc một sự lạnh lùng đáng sợ hơn cả gào khóc), kết tinh hoàn toàn lời thề trả đũa của cậu, và đóng Arc 1 bằng một hook rõ ràng mở sang Arc 2. Sau khi hoàn thành Chương 10: PHẢI viết thêm 1 mục vào `summaries/arc-summaries.md` (gộp Chương 6-10) vì 10 chia hết cho 5.

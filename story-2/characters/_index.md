@@ -4,14 +4,15 @@
 
 | Tên | Vai trò | Dấu Ấn | Tầng Cộng Hưởng | Trạng thái | File chi tiết |
 |---|---|---|---|---|---|
-| Ronan | Nhân vật chính | Leviathan (giấu kín 16 năm, nay đã lộ) | Hiện Thân (đột phá qua trận sói ở Chương 1 — chưa phát hiện Blessing nào) | Bị giam, bị cưỡng ép dùng thuốc an thần | `ronan.md` |
-| Rodrick | Phụ (cha) | Gấu | Hiện Thân (cựu chiến binh, chưa thể hiện Blessing cụ thể trên trang truyện) | Bị bắt giữ, chờ thụ án | `rodrick.md` |
-| Maren | Phụ (mẹ) | Bồ Câu | Thức Tỉnh (chưa có màn chứng minh dưới áp lực sinh tử trên trang truyện) | Bị bắt giữ, chờ thụ án | `maren.md` |
+| Ronan | Nhân vật chính | Leviathan (giấu kín 16 năm, nay đã lộ) | Hiện Thân (đột phá qua trận sói ở Chương 1 — Blessing 1 thoáng lộ diện lần đầu ở Chương 8, chưa được đặt tên/hiểu rõ) | Dã thú của Freya, vừa mất cha (Chương 7) | `ronan.md` |
+| Rodrick | Phụ (cha) | Gấu | Hiện Thân (cựu chiến binh, chưa thể hiện Blessing cụ thể trên trang truyện) | **Đã mất (Chương 7)** — chết trong phục kích, xếp làm lính đi đầu | `rodrick.md` |
+| Maren | Phụ (mẹ) | Bồ Câu | Thức Tỉnh (chưa có màn chứng minh dưới áp lực sinh tử trên trang truyện) | **Đã mất (Chương 9)** — hành quyết bất công sau khi một bệnh nhân quý tộc không qua khỏi | `maren.md` |
 | Lãnh Chúa Arik | Phản diện chính | Sói Đầu Đàn (Ấn Lớn) — lộ Chương 6 | Thú Quân (Tầng 4) — Monarch Aura áp chế cả phòng, Chương 6 | Còn sống | `arik.md` |
 | Freya | Nữ chính (con gái Arik) | Rồng | Phàm Thể (chưa có khoảnh khắc chân thực với bản chất riêng — vụ sói là khoảnh khắc của Ronan, không phải của cô) | Còn sống, là chủ nhân của Ronan | `freya.md` |
 | Ordell | Phụ (thợ rèn nghi thức, Hội Rèn Kiềm Ấn) | Cú | Thức Tỉnh (chuyên môn cao nhưng không phải chiến binh) | Còn sống | `ordell.md` |
-| Gerta | Phụ (Quản Thú của Grimhold) | **(chưa gọi tên — manh mối vật lý ở Ch6, PHẢI gọi tên trong 1-2 chương tới)** | **(chưa xác định — phụ thuộc vào Dấu Ấn)** | Còn sống | `gerta.md` |
+| Gerta | Phụ (Quản Thú của Grimhold) | Voi (Ấn Lớn) — lộ Chương 8, giấu kín có chủ đích nhiều năm | Chưa xác định con số cụ thể, nhưng đã chứng minh chân thực dưới cảm xúc thật (ít nhất Hiện Thân) | Còn sống | `gerta.md` |
 | Cade | Phụ (dã thú kỳ cựu) | Hổ | Hiện Thân (đạt được trước khi bị bắt; 12 năm bị Khế Ước kìm hãm khiến tiến trình gần như đóng băng, có dấu hiệu suy thoái) | Còn sống | `cade.md` |
 | Cassius | Phản diện tiềm năng (con trai Arik) | Sư Tử | Thức Tỉnh (tự tin thái quá so với thực lực — chưa từng chứng minh bản thân dưới áp lực sinh tử thật sự) | Còn sống | `cassius.md` |
+| Lãnh Chúa Devric | Phản diện tiềm năng (đồng minh chính trị của Arik) | (chưa tiết lộ — chưa xuất hiện trực tiếp) | (chưa xác định) | Còn sống | `devric.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`) — file đó cũng phải có cả hai trường Dấu Ấn và Tầng Cộng Hưởng.

@@ -10,8 +10,8 @@
 - **Mối quan hệ với nhân vật khác:** Vợ của Rodrick, mẹ của Ronan.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** (chưa có)
 - **Giọng nói / cách nói chuyện đặc trưng:** Dịu dàng nhưng không yếu đuối.
-- **Trạng thái hiện tại:** Vừa chịu đủ 100 roi, được một người hầu gái dìu đi để bắt đầu bị ép phục vụ y thuật cho lãnh địa. Vẫn cố mỉm cười với Ronan giữa cơn đau trước khi bị dẫn đi.
-- **Xuất hiện lần cuối:** Chương 3
+- **Trạng thái hiện tại:** Đã mất. Bị hành quyết (treo cổ) tại tiền đồn Kelt Nam sau khi một quý tộc trẻ (con trai Lãnh Chúa Devric) tử vong dưới sự chăm sóc của bà vì vết thương không thể cứu chữa — bị đổ lỗi bất công vì áp lực chính trị, dù bà đã làm hết khả năng y thuật.
+- **Xuất hiện lần cuối:** Chương 9
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -19,3 +19,4 @@
 | 1 | Được nhắc tới qua hồi tưởng ngôi thứ nhất của Ronan: mang Ấn Bồ Câu, thầy thuốc, dạy con lòng nhân hậu |
 | 2 | Được Lãnh Chúa Arik nhắc tới: đã bị bắt giữ cùng Rodrick, bị tuyên án 100 roi và ép dùng y thuật phục vụ lãnh địa |
 | 3 | Chịu đủ 100 roi trước mặt Ronan; cố mỉm cười với con trai giữa cơn đau để cậu biết đây không phải lỗi của cậu; bị dẫn đi bắt đầu phục dịch y thuật mà không được từ biệt |
+| 9 | Gặp lại Ronan ngắn ngủi tại tiền đồn Kelt Nam, biết tin Rodrick đã mất; kiệt sức vì làm việc không ngừng nghỉ chữa trị thương binh; ba ngày sau, một bệnh nhân quý tộc bà điều trị qua đời vì vết thương không thể cứu; bị Lãnh Chúa Devric đổ lỗi, Arik ra lệnh hành quyết bà để giữ quan hệ chính trị |

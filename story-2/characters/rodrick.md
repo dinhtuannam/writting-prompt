@@ -10,8 +10,8 @@
 - **Mối quan hệ với nhân vật khác:** Chồng của Maren, cha của Ronan. Cựu thuộc hạ của Lãnh Chúa Arik.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Lý do thật ông xin rời quân ngũ — để bảo vệ Ronan — chưa được nói ra với Arik hay bất kỳ ai ngoài gia đình.
 - **Giọng nói / cách nói chuyện đặc trưng:** Giọng trầm, rắn rỏi, quen chỉ huy nhưng kiệm lời.
-- **Trạng thái hiện tại:** Bị sung vào đội tuần tra cử đi gia cố các làng dọc sông Kelt sau vụ tấn công bí ẩn — xếp vào nhóm lính đi đầu (lính bị kỷ luật, dễ bị hy sinh trước tiên nếu có phục kích). Xuất phát lúc bình minh Chương 6, trao đổi ánh mắt và hai từ không thành tiếng ("Sống tốt") với Ronan trước khi rời cổng.
-- **Xuất hiện lần cuối:** Chương 6
+- **Trạng thái hiện tại:** Đã mất. Chết trong trận phục kích tại làng thứ hai dọc sông Kelt — đẩy hai đồng đội xuống rãnh và chắn loạt tên thứ hai để đội hình có thể rút lui. Không có bia mộ thật (chôn tập thể tại chỗ); tên ông được khắc vội lên một phiến đá tưởng niệm tại nghĩa trang gia nhân Grimhold.
+- **Xuất hiện lần cuối:** Chương 7 (qua lời kể của Halbrecht — người sống sót)
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -21,3 +21,5 @@
 | 3 | Chịu đủ 100 roi trước mặt Ronan, im lặng chịu đựng không kêu la; bị dẫn đi bắt đầu nhiệm vụ cận vệ ngay chiều hôm đó mà không được từ biệt con trai |
 | 5 | Ronan thoáng thấy ông đứng gác trong sân trong từ cửa sổ Đại Sảnh trong lúc bữa tiệc diễn ra — một khoảnh khắc nhìn thấy nhưng không thể gọi tên hay tiếp cận |
 | 6 | Bị xướng tên vào đội tuần tra biên giới cử đi sau vụ ba làng bị đốt; xếp vào nhóm lính đi đầu dễ bị hy sinh; trao ánh mắt và hai từ không thành tiếng với Ronan trước khi hàng quân rời Grimhold lúc bình minh |
+| 7 | Chết trong trận phục kích, xếp ở vị trí đi đầu như một bản án thi hành từ xa; hy sinh để chắn loạt tên cho đồng đội rút lui; tên được đọc lạnh lùng trong danh sách tử vong trước sân Grimhold |
+| 8 | Được tưởng niệm bằng một phiến đá khắc vội tại nghĩa trang gia nhân Grimhold, không có bia mộ thật vì thi thể chôn tập thể tại chiến trường |
