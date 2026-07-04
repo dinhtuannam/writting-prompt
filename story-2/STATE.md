@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 7
+- **Chương hiện tại đã viết xong:** 8
 - **Arc hiện tại:** Arc 1: Lời Nguyền Từ Khi Lọt Lòng (xem `plot/outline.md`)
-- **Ngày/thời điểm trong truyện:** Đêm ngay sau Chương 6
+- **Ngày/thời điểm trong truyện:** Buổi sáng, 4 ngày sau trận chiến đêm Chương 7
 - **POV hiện tại:** Ronan (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Bastian
-- **Địa điểm hiện tại:** Khoảng sân sau nhà, Hắc Mộc Lâm
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Ba thành viên Giáo Phái Vực Sâu tiếp cận nhà ban đêm, tuyên bố chỉ muốn "nói chuyện" và đưa Ronan gặp "Đại Tư Tế". Khi Bastian bị tấn công, Ronan lần đầu dùng Ấn Thuật có chủ đích trong chiến đấu, hạ được 2 kẻ; kẻ dẫn đầu bỏ chạy sau khi chứng kiến. Hai kẻ bị bắt tự sát bằng thuốc độc ngay khi bị khống chế
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Kẻ dẫn đầu đã chạy thoát để báo cáo với Đại Tư Tế; cả hai đều biết giáo phái sẽ quay lại, lần này không phải để "nói chuyện"
-- **Mục tiêu ngắn hạn của nhân vật chính:** Chuẩn bị cho đợt tấn công tiếp theo của Giáo Phái Vực Sâu, dự kiến sẽ nguy hiểm hơn nhiều
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, Bastian, Maren
+- **Địa điểm hiện tại:** Nhà của gia đình Ronan, Hắc Mộc Lâm
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Một người hầu của Gia Tộc Voss báo tin Seris mất tích, để lại một mảnh vải khắc biểu tượng sóng xoáy — xác nhận Giáo Phái Vực Sâu đã bắt cóc cô làm đòn bẩy nhắm vào Ronan sau khi tiếp cận trực tiếp thất bại. Ronan quyết tâm đi giải cứu; Bastian đồng ý đi cùng nhưng muốn xác định chính xác vị trí trước
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Seris đang bị giam giữ, nghi ngờ tại Vực Đá Chìm — sào huyệt của Giáo Phái Vực Sâu; gia đình chưa biết chính xác vị trí hay cách tiếp cận an toàn
+- **Mục tiêu ngắn hạn của nhân vật chính:** Xác định vị trí chính xác nơi giam giữ Seris và lên kế hoạch giải cứu
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 (chưa có ghi chú — sẽ được AI tự cập nhật sau mỗi chương)

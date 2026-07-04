@@ -8,8 +8,8 @@
 - **Mối quan hệ với nhân vật khác:** Con gái của Bá Tước Voss; được Ronan cứu khỏi sói trắng ở Chương 1; hộ vệ của cô đã chết trong vụ tấn công.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Cô có nhận ra điều gì bất thường ở Ronan trong khoảnh khắc cậu bảo cô chạy đi không — chưa rõ.
 - **Giọng nói / cách nói chuyện đặc trưng:** Thẳng thắn, không màu mè kiểu cách quý tộc.
-- **Trạng thái hiện tại:** Còn sống.
-- **Xuất hiện lần cuối:** Chương 5
+- **Trạng thái hiện tại:** Bị Giáo Phái Vực Sâu bắt cóc, đang bị giam giữ (nghi tại Vực Đá Chìm).
+- **Xuất hiện lần cuối:** Chương 8 (nhắc tới, không xuất hiện trực tiếp — đã mất tích trước khi chương bắt đầu)
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -18,3 +18,4 @@
 | 2 | Dẫn lính tới cứu Ronan; tự giới thiệu tên; hứa báo cha đến cảm ơn |
 | 3 | Đi cùng cha đến cảm ơn Ronan; đề nghị cha để Ronan tự quyết định về suất học việc |
 | 5 | Ghé thăm Ronan một mình, nhận ra cậu thay đổi nhưng không hỏi thẳng, khẳng định sẽ không phán xét dù bí mật của cậu là gì |
+| 8 | Bị Giáo Phái Vực Sâu bắt cóc khỏi khu vườn lâu đài để làm đòn bẩy nhắm vào Ronan |
