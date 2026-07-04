@@ -313,3 +313,211 @@ Và lòng kiêu hãnh của ta sẽ không có giới hạn.
 ---
 
 Phía trên là rút ngắn của khởi đầu bộ truyện , bạn hãy viết lại cho chi tiết hơn
+
+---
+
+# Ability raw idea
+
+## Tier 1 — Vessel (Phàm Thể)
+
+**Tỷ lệ:** ~99% dân số
+
+**Hình dạng:** Một hình xăm đơn thuần không có gì đặc biệt
+
+Tattoo chỉ là một dấu ấn bẩm sinh.
+
+Spirit Animal vẫn đang ngủ yên, chưa mang lại sức mạnh siêu nhiên. Người ở tầng này chỉ có một số thiên hướng và tính cách tự nhiên phù hợp với linh thú của mình.
+
+### Đặc điểm
+
+- Không có năng lực đặc biệt.
+- Tính cách và bản năng chịu ảnh hưởng nhẹ bởi Spirit Animal.
+
+### Ví dụ
+
+- Tiger → Hiếu chiến, thích cạnh tranh.
+- Wolf → Dễ hòa nhập tập thể.
+- Eagle → Thị lực tốt.
+- Fox → Phản ứng nhanh, thông minh.
+
+---
+
+# Tier 2 — Awakened (Thức Tỉnh)
+
+**Tỷ lệ:** ~20–30% dân số
+
+**Hình dạng:** Một hình xăm đơn thuần không có gì đặc biệt
+
+Spirit Animal lần đầu tiên thức tỉnh và đáp lại chủ nhân.
+
+Người sử dụng nhận được **Blessing Phước lành** đầu tiên.
+
+Blessing đầu tiên sẽ chỉ ban tặng các khả năng thể chất hoặc trí tuệ
+
+Việc sử dụng sẽ không7 tiêu hao **Hồn Thú**
+
+### Mở khóa (ví dụ)
+
+- Thể chất tăng mạnh.
+- Giác quan đặc biệt.
+- 01 Blessing bẩm sinh.
+
+### Blessing
+
+Blessing không hoàn toàn giống nhau.
+
+Ngay cả hai người sở hữu cùng một Spirit Animal cũng có thể thức tỉnh những Blessing khác nhau .
+
+Ví dụ :
+
+- Hổ : phản xạ
+- Sói : khứu giác
+- Cú : nhìn đêm
+- Nhện : cảm nhận rung động
+
+### Hồn thú
+
+- Mỗi người sinh ra sẽ có lượng hồn thú nhất định
+- Trữ lượng tối đa hồn thú là cố định nó không thể tăng thông qua luyện tập hay bất kì thứ gì
+- Khi sử dụng Blessing hoặc thi triển Monarch Aura , triệu hồi Spirit Animal sẽ tiêu hao hồn thú (về lượng tiêu hoa thì tuỳ vào mỗi người)
+- Trữ lượng tối đa hồn thú cũng tuỳ thuộc vào bẩm sinh mỗi người , có người sinh ra có trữ lượng rất lớn cũng có người có rất ít
+- Khi sử dụng hết hồn thú thì nhân vật sẽ bị ngất và cần phải chờ hồi phục lại hồn thú để sử dụng tiếp Blessing hoặc thi triển Monarch Aura, triệu hồi Spirit Animal
+
+---
+
+# Tier 3 — Aspect (Hiện Thân)
+
+**Tỷ lệ:** ~5% dân số
+
+**Hình dạng:** Hình xăm lang rộng ra , hình dạng spirit animal trở nên rõ ràng hơn
+
+Người sử dụng bắt đầu cộng hưởng thực sự với Spirit Animal.
+
+Đây là bước ngoặt biến một chiến binh mạnh thành một cường giả.
+
+Đây là lúc xuất hiện kỹ năng.
+
+Không phải học.
+
+Mà Spirit Animal sinh ra chúng.
+
+Mỗi người sẽ mở được thêm 3 Blessing trong cả cuộc đời.
+
+-> Tổng đã nhận được 4 Blessing
+
+Có thể kết hợp các Blessing với nhau để tạo ra các chuỗi combo khi chiến đấu
+
+Khi thi triển các Blessing sẽ tiêu hao hồn thú (trừ blessing được trao đầu tiên do nó là thể chất/trí truệ nên sẽ không tiêu hao)
+
+### Mở khóa
+
+Ví dụ cho Tiger :
+
+Blessing 2 - Predator's Gaze : Sẽ làm bất tỉnh đối phương nếu đối phương cho rằng hắn yếu hơn nhân vật
+Blessing 3 : Silent Step : Khi thi triển nhân vật rơi vào trạng thái tàng hình ngắn sau đó hiện hình và lướt đến tấn công mục tiêu
+Blessing 4 : King's Hunt : Khi thi triển nhân vật được cường hoá thể chất tối đa , có thể di chuyển cực nhanh , cơ thể linh hoạt , sức mạnh cơ bắp tăng đáng kể có thể nhấc được những vật nặng hơn cơ thể rất nhiều
+
+Một người khác cùng là Tiger sẽ mở ra 3 Aspect hoàn toàn khác.
+
+=> Không còn chuyện cùng Spirit Animal thì giống nhau.
+
+---
+
+# Tier 4 — Beast Monarch (Thú Quân)
+
+**Tỷ lệ:** Chỉ vài trăm người trên toàn thế giới.
+
+**Hình dạng:** Hình xăm phát sáng nhẹ khi người dùng thi triển **Monarch Aura**
+
+Người đạt tầng này được phong danh hiệu: Beast Monarch (Thú Quân)
+
+## Beast Monarch
+
+Spirit Animal không còn chỉ cường hóa bản thân chủ nhân.
+
+Khi kích hoạt nó bắt đầu ảnh hưởng trực tiếp đến chiến trường và những sinh vật xung quanh.
+
+Vùng ảnh hưởng này sẽ là vòng tròn lấy nhân vật làm trọng tâm (về bán kính ảnh hưởng thì tuỳ nhân vật)
+
+### Mở khóa
+
+- Blessing tiến hóa mạnh hơn.
+- Spirit Avatar gần như hoàn chỉnh.
+- Sinh ra **Monarch Aura** – khí tức của kẻ thống trị.
+- Mỗi lần sử dụng **Monarch Aura** sẽ tiêu hao hồn thú (mana)
+
+### Ví dụ
+
+Tiger Monarch : Uy áp
+
+- Đối thủ càng sợ hãi càng suy yếu.
+- Áp lực của kẻ săn mồi bao phủ chiến trường.
+
+Wolf Monarch : Lãnh đạo
+
+- Đồng minh trong phạm vi có thể chia sẽ suy nghĩ và giao tiếp với nhau giúp cho việc phối hợp hoàn hảo hơn.
+
+Eagle Monarch : Tầm nhìn
+
+- Đồng minh trong phạm vị sẽ có thị giác tốt hơn
+
+Porcupine Monarch : Phòng thủ
+
+- Những đòn tất công vật lí trong phạm vi 1 mét vào chính bản thân nhân vật sẽ trả lại 50% sát thương cho người ra đòn (không áp dụng với đồng minh - chỉ có bản thân)
+
+---
+
+# Tier 5 — Beast Saint (Thú Thần)
+
+**Tỷ lệ:** Mỗi Spirit Animal chỉ có duy nhất một Beast Saint còn sống tại một thời điểm.
+
+**Hình dạng:** Hình xăm xuất hiện thêm vương miện trên đầu linh thú
+
+Người đạt tầng này được phong danh hiệu: Beast Saint - Thú Thần
+
+## Beast Saint
+
+Đây không chỉ còn là người sử dụng Spirit Animal.
+
+Họ trở thành người được Spirit Animal công nhận là hiện thân hoàn mỹ nhất của loài.
+
+Không nhất thiết người tốt mới có thể trở thành Beast Saint , phản diện độc ác cũng có thể trở thành Beast Saint
+
+Người trở thành Beast Saint quả thật rất mạnh nhưng chưa chắc là mạnh nhất . Trong lịch sử đã có nhiều trường hợp người có cùng Ấn Thú thách đấu và giết thành công Beast Saint để họ trở thành Beast Saint tiếp theo
+
+### Mở khóa
+
+#### Blessing Evolution
+
+- Toàn bộ Blessing tiến hóa lên trạng thái tối thượng.
+
+Ví dụ: Silent Step : Tăng thời gian tàng hình
+
+- Phạm vi và buff của **Monarch Aura** sẽ được gia tăng
+
+- Nhân vật không còn tiêu hao **Hồn thú** khi thi triển **Blessing** và **Monarch Aura**
+
+#### True Spirit Manifestation
+
+Có thể triệu hồi hoàn chỉnh Spirit Animal dưới dạng linh thể khổng lồ.
+
+Spirit Animal sẽ là một thực thể độc lập nó có ý thức riêng . Tuy nhiên , nhiệm vụ của nó chỉ là chiến đấu / giúp đỡ theo ý muốn người triệu hồi . Nó không có tình cảm hay nhân tính nào , nếu người triệu hồi ra lệnh thiêu ruội một gia đình lương thiện hoặc cứu lấy một kẻ rác rưởi thì nó vẫn sẽ làm
+
+Spirit Animal sẽ có nhiều quyền năng đặc biệt hơn so với nhân vật
+
+Sức mạnh của mỗi Spirit Animal là cố định , Spirit Animal được triệu hồi mới Beast Saint tiền thân sẽ có sức mạnh i hết Spirit Animal được triệu hồi bởi Beast Saint hiện tại
+
+Việc triều hội Spirit Animal sẽ tiêu hao **Hồn thú** : Thông thường chí có thể duy trì Spirit Animal trong 5 đến 10 phút tuỳ vào lượng **Hồn thú** của mỗi nhân vật
+
+# Những cơ chế cần AI sáng tạo giúp
+
+### Điều kiện đột phá giữa các tầng
+
+Chưa quyết định
+
+### Quy tắc
+
+- Mỗi Spirit Animal chỉ có **một Beast Saint** còn sống.
+- Khi Beast Saint còn tồn tại, mọi Beast Monarch cùng Spirit Animal đều không thể đột phá.
+- Chỉ khi Beast Saint chết thì vị trí mới được mở ra.
+- Có thể có các Spirit Animal mà hiện chưa có người đạt được **Beast Saint** do đây là cấp bậc rất khó đạt
