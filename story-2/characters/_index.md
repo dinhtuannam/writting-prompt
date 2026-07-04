@@ -2,6 +2,8 @@
 
 | Tên | Vai trò | Trạng thái | File chi tiết |
 |---|---|---|---|
-| (chưa có nhân vật nào) | | | |
+| Ronan | Nhân vật chính | Bị thương nặng, bất tỉnh | `ronan.md` |
+| Rodrick | Phụ (cha) | Còn sống | `rodrick.md` |
+| Maren | Phụ (mẹ) | Còn sống | `maren.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).
