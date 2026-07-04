@@ -10,5 +10,6 @@
 | Yseult | Phản diện chính (Đại Tư Tế Giáo Phái Vực Sâu) | Còn sống | `yseult.md` |
 | Aldous | Phản diện tiềm năng (Hiệp Sĩ Thẩm Vấn Đoàn Kỵ Sĩ Bình Minh) | Còn sống | `aldous.md` |
 | Ophelia | Phản diện tiềm năng (Trưởng Lão cấp cao Đoàn Kỵ Sĩ Bình Minh) | Còn sống | `ophelia.md` |
+| Tobias | Phụ (người ghi chép Học Viện Bách Thú) | Còn sống | `tobias.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).
