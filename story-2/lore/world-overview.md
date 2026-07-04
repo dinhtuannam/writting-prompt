@@ -1,6 +1,6 @@
 # World Overview
 
-- **Tên thế giới / bối cảnh:** Đại Lục Vaelthorn
-- **Thể loại (fantasy/sci-fi/hiện đại/...):** Dark Fantasy, lấy cảm hứng từ châu Âu thời trung cổ
-- **Tổng quan 1 đoạn:** Trên Đại Lục Vaelthorn, mọi người sinh ra đều mang một Thú Ấn — hình xăm bẩm sinh của một linh thú đại diện cho linh hồn mình, ban cho họ đặc tính và năng lực của loài đó. Trong khi phần lớn mang Ấn của các loài thường, một số ít mang Ấn huyền thoại hiếm có — Rồng, và hiếm hơn cả là Leviathan, được cho là điềm báo tai họa, định sẵn sẽ hủy diệt thế giới trước khi bị một anh hùng do số phận lựa chọn tiêu diệt. Nhiều vương quốc, đế quốc và giáo phái có quan điểm hoàn toàn khác nhau về ý nghĩa của những Ấn huyền thoại này — từ sợ hãi, tôn thờ, đến lợi dụng. Nhân vật chính, mang Ấn Leviathan nhưng được cha mẹ giấu kín từ lúc lọt lòng, phải sống giữa ranh giới của một lời nguyền mà cậu chưa từng lựa chọn.
-- **Chủ đề/tinh thần cốt lõi của câu chuyện:** Định mệnh áp đặt từ lúc sinh ra, và liệu tình yêu có thể chiến thắng được lời nguyền/hận thù mà cả thế giới đã gán cho một người trước khi người đó kịp lựa chọn bất cứ điều gì. Hận thù luôn dễ gieo mầm hơn tình yêu — nhưng điều đó không có nghĩa tình yêu không thể thắng.
+- **Tên thế giới / bối cảnh:** (chưa xác định)
+- **Thể loại (fantasy/sci-fi/hiện đại/...):** (chưa xác định)
+- **Tổng quan 1 đoạn:** (chưa xác định)
+- **Chủ đề/tinh thần cốt lõi của câu chuyện:** (chưa xác định)
