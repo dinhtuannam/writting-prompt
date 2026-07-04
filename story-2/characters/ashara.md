@@ -10,10 +10,11 @@
 - **Mối quan hệ với nhân vật khác:** Thủ lĩnh được các chiến binh Vô Chủ khác bảo vệ tuyệt đối; bị Cassius đâm lén bằng dao găm giấu trong lúc mất cảnh giác vì phản ứng trước Ronan.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Danh tính "Leviathan khác" mà bà nhắc tới — còn sống hay đã chết, quan hệ của bà với người đó là gì.
 - **Giọng nói / cách nói chuyện đặc trưng:** Ít lời, có trọng lượng; câu nói đầu tiên với Ronan ("Không thể nào... sau ngần ấy năm... một Leviathan khác") mang đầy cảm xúc bị nén lại.
-- **Trạng thái hiện tại:** Bị thương ở chân do Cassius đâm lén, đang được các chiến binh khác dìu rút lui về tuyến sau.
-- **Xuất hiện lần cuối:** Chương 14
+- **Trạng thái hiện tại:** Vẫn đang hồi phục từ vết thương do Cassius gây ra; đã ra lệnh trước cho người của mình rằng nếu Ronan quay lại một mình, không bạo lực, hãy đưa cậu vào gặp bà — cho thấy bà đã chủ động chờ đợi khả năng này.
+- **Xuất hiện lần cuối:** Chương 22 (nhắc tới qua lệnh để lại, chưa xuất hiện trực tiếp lại)
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 14 | Đối đầu trực tiếp với Cassius, áp đảo hoàn toàn trước khi bị đâm lén; nhận ra Dấu Ấn Leviathan của Ronan, thốt lên kinh ngạc về "một Leviathan khác" mà bà biết tới trong quá khứ; bị dìu rút lui sau khi bị thương |
+| 22 | (Không xuất hiện trực tiếp) Đã để lại lệnh trước cho Thane: nếu Ronan quay lại một mình và không bạo lực, đưa cậu vào gặp bà |

@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 21
+- **Chương hiện tại đã viết xong:** 22
 - **Arc hiện tại:** Arc 3 "Lời Hứa Của Phượng Hoàng" (chưa chính thức đặt tên trong outline) — bắt đầu Chương 21
-- **Ngày/thời điểm trong truyện:** Trên đường tới núi Kestrel, ngày đầu hành trình
+- **Ngày/thời điểm trong truyện:** Ngày thứ tư của hành trình, vừa được dẫn vào trại Vô Chủ mới
 - **POV hiện tại:** Ronan (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Freya, Marek, 2 lính tin cậy
-- **Địa điểm hiện tại:** Trên đường tới núi Kestrel
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Đội nhỏ lên đường với nhiệm vụ chính thức "chấm dứt mối đe dọa Ashara" nhưng dự định thực tế là thương lượng di dời + mở kênh liên lạc bí mật. Marek vừa chia sẻ quá khứ đau thương. Cade dặn Ronan hỏi Ashara về cách kiểm soát sức mạnh không cần chủ nhân.
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan tự hứa không để bất kỳ hành động hấp tấp nào phá hủy cơ hội thứ hai hiếm hoi này — ngụ ý rủi ro thất bại rất cao
-- **Mục tiêu ngắn hạn của nhân vật chính:** Tới núi Kestrel an toàn, tìm cách tiếp cận Ashara mà không tái diễn thảm kịch của lần trước
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, Thane (Freya/Marek ở rìa tầm nhìn bên ngoài)
+- **Địa điểm hiện tại:** Trại Vô Chủ mới, sâu hơn trong núi Kestrel
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Ronan được Thane dẫn vào trại để gặp Ashara theo lệnh bà để lại từ trước. Đội bị Cassius (nghi ngờ) bí mật theo dõi từ xa.
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan chuẩn bị đối mặt trực tiếp với Ashara lần đầu kể từ trận chiến — cơ hội để hỏi về "Leviathan khác" và cách sống không chủ nhân
+- **Mục tiêu ngắn hạn của nhân vật chính:** Đàm phán thành công với Ashara: an toàn cho cả hai bên, thông tin về Leviathan khác, và một kết quả có thể trình bày với Arik như "mối đe dọa đã chấm dứt"
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - ⚠️ NHẮC THƯỜNG TRỰC #1 — DẤU ẤN: Arik, Gerta, Ashara, Marek đã giải quyết đầy đủ. Lãnh Chúa Devric vẫn để ngỏ hợp lệ.
