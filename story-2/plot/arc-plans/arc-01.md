@@ -39,7 +39,7 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Bình lặng ấm, có gai ngầm
 - **Xuất hiện:** nhân vật: Ronan, Rodrick, Maela | phe: — | địa danh: Rừng Bạc Sương, Làng Mốc Sương | hệ thống: Ấn Thú
 - **Điểm kết chương (bắt buộc giữ):** Tiếng kêu cứu xé qua màn sương
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 2: Sói Trắng
 - **Mục tiêu chương:** Trận chiến cứu Isolde đúng raw-idea; Ronan bị thương nặng

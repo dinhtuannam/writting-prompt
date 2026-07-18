@@ -1,1 +1,4 @@
 # Tóm Tắt Chương — Arc 01
+
+## Chương 1
+Ronan, 16 tuổi, sống ẩn danh cùng cha mẹ trong Rừng Bạc Sương, giấu Ấn Leviathan dưới lớp vải quấn tay. Buổi sáng, cha cậu — Rodrick, cựu binh mang Ấn Gấu — tiếp tục bài học chịu đựng quen thuộc, úp mở rằng đang chuẩn bị Ronan cho "một điều gì đó lớn hơn việc chẻ củi". Buổi trưa, Ronan theo mẹ — Maela, thầy thuốc mang Ấn Bồ Câu — xuống Làng Mốc Sương giao thuốc cho bà lang Yssa; texture đời sống biên cương hiện lên (muối đắt, nỗi lo Sói Sương rình rập, một đứa bé hỏi thẳng liệu cậu có phải "người rừng mang ấn kỳ lạ"). Tối, khi Ronan hỏi về đêm mình sinh ra, cha mẹ né tránh nhưng để lộ nỗi sợ hãi cũ chưa từng nguôi — mở thread bí mật ngầm về đêm sinh. Đêm khuya, không ngủ được, Ronan ra rìa rừng kiểm tra bẫy và nghe thấy tiếng kêu cứu tuyệt vọng của một cô gái xé qua màn sương — mở đầu trận chiến Sói Sương và toàn bộ chuỗi sự kiện của truyện.

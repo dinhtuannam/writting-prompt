@@ -4,3 +4,4 @@
 
 | Chương | Thời điểm trong truyện | Sự kiện | Nhân vật liên quan | Hệ quả |
 |---|---|---|---|---|
+| 1 | Giữa mùa đông, Ronan 16 tuổi | Đời thường gia đình Ronan ở Rừng Bạc Sương; bài học chịu đựng của Rodrick; chuyến đi Làng Mốc Sương; đêm khuya Ronan nghe tiếng kêu cứu khi kiểm tra bẫy | Ronan, Rodrick, Maela | Ronan sắp lao vào cứu Isolde — khởi điểm toàn bộ chuỗi sự kiện của truyện |
