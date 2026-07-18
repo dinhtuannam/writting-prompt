@@ -43,4 +43,4 @@ Sự thật ẩn của thế giới KHÔNG được ghi vào lore công khai. Lo
 Tóm tắt theo 3 lớp ngay trong hội thoại (kèm danh sách câu hỏi công khai của Bước 4), hỏi người dùng có muốn chỉnh gì trước khi ghi file.
 
 ## Bước 7 — Ghi vào file sau khi được duyệt
-Ghi các file lore theo cấu trúc trên (slug kebab-case, file thực thể có header chuẩn: loại, trạng thái, xuất-hiện-đầu, cập-nhật-cuối). Nếu `<story>/STATE.md` còn ở trạng thái khởi tạo, cập nhật các trường liên quan. Kết thúc bằng lời nhắc: chạy `/story-skeleton <story>` để chốt tone + xương sống truyện trước khi viết chương.
+Ghi các file lore theo cấu trúc trên (slug kebab-case, file thực thể có header chuẩn: loại, trạng thái, xuất-hiện-đầu, cập-nhật-cuối). Nếu dự án còn file lore dạng cũ trước pipeline v2 (`lore/systems.md`, `lore/factions.md`, `lore/geography.md` dạng file đơn), xóa chúng sau khi ghi xong cấu trúc mới để tránh nội dung mồ côi. Nếu `<story>/STATE.md` còn ở trạng thái khởi tạo, cập nhật các trường liên quan. Kết thúc bằng lời nhắc: chạy `/story-skeleton <story>` để chốt tone + xương sống truyện trước khi viết chương.

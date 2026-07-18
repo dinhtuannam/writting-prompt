@@ -13,7 +13,7 @@ Nếu người dùng chỉ định tên story trong lệnh (vd `/story-skeleton 
 - Nếu `<story>/plot/story-skeleton.md` đã có nội dung thực → hỏi người dùng có muốn làm lại không trước khi ghi đè.
 
 ## Bước 2 — Đọc bối cảnh
-Đọc `<story>/lore/raw-idea.md`, toàn bộ lore (mọi `_index.md` VÀ mọi file chi tiết — đây là lần hiếm hoi đọc hết, vì skeleton phải nhất quán với toàn bộ thế giới), `characters/` nếu đã có. Lấy danh sách "câu hỏi công khai + phác thảo đáp án" từ hội thoại `/expand-lore` nếu còn; nếu không còn, tự rút các câu hỏi công khai từ lore.
+Đọc `<story>/lore/raw-idea.md`, toàn bộ lore (mọi `_index.md` VÀ mọi file chi tiết — đây là lần hiếm hoi đọc hết, vì skeleton phải nhất quán với toàn bộ thế giới), `characters/` nếu đã có. Lấy danh sách "câu hỏi công khai + phác thảo đáp án" từ hội thoại `/expand-lore` nếu còn; nếu không còn, tự rút các câu hỏi công khai từ lore; với bí ẩn chưa có phác thảo đáp án, tự sáng tạo đáp án mới nhất quán với toàn bộ lore khi soạn Bước 5.
 
 **CHẾ ĐỘ VÀO GIỮA CHỪNG** (truyện đã có chương — vd story-1): đọc thêm toàn bộ `summaries/`, `plot/threads.md`, `STATE.md`, và lướt các chương đã viết. Skeleton dựng ra PHẢI khớp mọi sự kiện đã xảy ra — không được yêu cầu viết lại chương cũ.
 
@@ -43,7 +43,7 @@ Trình theo thứ tự: (1) 2-3 phương án tone kèm văn mẫu — chờ ngư
 
 ## Bước 8 — Ghi file sau khi được duyệt
 1. `<story>/style/style-guide.md`: điền đầy đủ theo phương án tone được chọn, gồm tâm tone, biên độ, giọng kể, nhịp câu, quy ước thoại, cấm kỵ, và 1-2 Anchor Sample (lấy chính đoạn văn mẫu của phương án được chọn).
-2. `<story>/plot/story-skeleton.md`
+2. `<story>/plot/story-skeleton.md` (nếu còn `plot/outline.md` dạng cũ trước pipeline v2, xóa nó — skeleton thay thế hoàn toàn)
 3. `<story>/plot/secrets/` (index + từng file)
 4. Cập nhật `<story>/STATE.md`: arc hiện tại = "Arc 01 (chưa plan)".
 Kết thúc bằng lời nhắc: chạy `/plan-arc <story>` để lên beat chi tiết arc đầu tiên.

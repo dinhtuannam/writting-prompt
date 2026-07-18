@@ -10,7 +10,7 @@ Nếu người dùng chỉ định tên story trong lệnh (vd `/plan-arc story-
 
 ## Bước 1 — Kiểm tra điều kiện & xác định số arc
 - Nếu `<story>/plot/story-skeleton.md` còn trống → dừng, nhắc chạy `/story-skeleton <story>` trước.
-- Số arc NN = số lớn nhất trong `<story>/plot/arc-plans/arc-*.md` + 1. Nếu người dùng yêu cầu replan arc hiện tại → dùng lại số đó và chỉ plan các chương chưa viết.
+- Số arc NN = số lớn nhất trong `<story>/plot/arc-plans/arc-*.md` + 1; nếu chưa có file `arc-*.md` nào → NN = 01. Nếu người dùng yêu cầu replan arc hiện tại → dùng lại số đó và chỉ plan các chương chưa viết.
 
 ## Bước 2 — Đọc bối cảnh
 1. `<story>/plot/story-skeleton.md` (toàn bộ)

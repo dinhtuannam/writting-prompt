@@ -21,7 +21,7 @@
 |---|---|---|
 
 ## Beat từng chương
-(lặp format dưới đây cho TỪNG chương của arc)
+(lặp format dưới đây cho TỪNG chương của arc; N là SỐ CHƯƠNG TOÀN CỤC tiếp nối `chapters/chapter-NNN.md`, không reset về 1 theo arc)
 
 ### Chương N: [tên tạm]
 - **Mục tiêu chương:**
