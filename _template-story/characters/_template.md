@@ -1,3 +1,10 @@
+---
+loại: nhân-vật
+trạng-thái: còn-sống
+xuất-hiện-đầu: (chương ...)
+cập-nhật-cuối: (chương ...)
+---
+
 # [Tên Nhân Vật]
 
 - **Vai trò trong truyện:** (chính diện / phản diện / phụ...)
