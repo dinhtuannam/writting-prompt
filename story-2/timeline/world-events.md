@@ -2,6 +2,10 @@
 
 > Thế giới chuyển động ngoài tầm nhìn nhân vật chính. `/plan-arc` thêm mục "## Arc NN" khi plan arc mới; `/next-chapter` CHỈ đọc mục của arc hiện tại, và điền cột "Đã lộ" khi sự kiện rò rỉ vào chương.
 
-## Arc NN
+## Arc 01
 | Phe / thế lực | Sự kiện offscreen | Đã lộ vào chương nào (nếu có) |
 |---|---|---|
+| Giáo Hội Thánh Ấn | Tư tế nhà nguyện Varmont báo cáo về Vercast; Aurelian phái Thẩm Ấn Quan Dreven; 2 lá thư đòi "giao nộp điềm gở" | |
+| Vương triều Aldenn (Corvin) | Sứ giả đòi Isolde về Vercast làm "khách quý", kèm dò tin Leviathan | |
+| Nghiệp Đoàn Xiềng Bạc | "Hàng Leviathan đầu tiên trong lịch sử" — đại lý báo về Grisholm, Havek nâng phí bảo trì đặc chủng | |
+| Vảy Đen | Tin "dã thú Leviathan ở Varmont" bay đến tai Sylvaine qua phu buôn — chỉ ghi tên, chưa hành động | |

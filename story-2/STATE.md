@@ -3,7 +3,7 @@
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
 - **Chương hiện tại đã viết xong:** 0
-- **Arc hiện tại:** Arc 01 (chưa plan — chạy `/plan-arc story-2` để lên beat)
+- **Arc hiện tại:** Arc 01 — Vòng Cổ (ch 1-12, kế hoạch tại `plot/arc-plans/arc-01.md`)
 - **Ngày/thời điểm trong truyện:** (chưa xác định — truyện sẽ mở khi Ronan 16 tuổi, theo raw-idea)
 - **POV hiện tại:** (chưa xác định — cấu trúc song song 2 POV: Ronan chính, Isolde phụ)
 - **Nhân vật đang có mặt tại hiện trường:** (chưa có chương)
