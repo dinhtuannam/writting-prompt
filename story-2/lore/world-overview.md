@@ -1,6 +1,6 @@
 # World Overview
 
-- **Tên thế giới / bối cảnh:** Đại Lục Valdris, châu Âu trung cổ giả tưởng
-- **Thể loại:** Dark Fantasy, phiêu lưu, phép thuật, kiếm sĩ/hiệp sĩ
-- **Tổng quan 1 đoạn:** Mọi người sinh ra đều mang một Dấu Ấn bẩm sinh — hình xăm của một linh thú gắn với linh hồn họ, ban tặng đặc tính và năng lực của loài vật đó. Dấu Ấn huyền thoại (Rồng, và hiếm hơn cả là Leviathan) bị cả xã hội vừa sợ hãi vừa thèm khát khai thác — và luật lệ đã tạo ra một "giải pháp" cho nỗi sợ đó: Khế Ước Dã Thú, ràng buộc hợp pháp biến người mang Ấn nguy hiểm thành tài sản chiến lược của một quý tộc mang Ấn đủ mạnh để "làm chủ" họ. Nhân vật chính, mang Ấn Leviathan, bị phát hiện sau khi liều mình cứu một cô gái quý tộc mang Ấn Rồng khỏi sói dữ — và thay vì được biết ơn, cậu bị tước đoạt tự do, cha mẹ bị trừng phạt vì "tội" đã sinh và nuôi dưỡng cậu, còn chính cậu bị xiềng vào chính cô gái mình vừa cứu, người được định sẵn sẽ là kẻ giết cậu nếu cậu "hóa quái vật".
-- **Chủ đề/tinh thần cốt lõi của câu chuyện:** Không ai sinh ra đã là kẻ phản diện — nhưng một thế giới đối xử với ai đó như thể họ đã là, sớm muộn cũng biến lời tiên tri thành sự thật tự ứng nghiệm. Hận thù luôn dễ gieo mầm hơn tình yêu, đặc biệt khi được vun trồng bằng roi vọt, xiềng xích, và sự sỉ nhục có hệ thống. Câu chuyện không né tránh việc nhân vật chính trở nên kiêu hãnh, lạnh lùng, và nguy hiểm thật sự — chỉ giữ lại một lằn ranh cậu tự đặt ra cho chính mình: không chủ động hại người vô tội, không trở thành kẻ phản diện của chính câu chuyện đời mình, dù thế giới đã quyết định cậu phải là như vậy từ trước khi cậu kịp cất tiếng khóc chào đời.
+- **Tên thế giới / bối cảnh:** (chưa xác định)
+- **Thể loại (fantasy/sci-fi/hiện đại/...):** (chưa xác định)
+- **Tổng quan 1 đoạn:** (chưa xác định)
+- **Chủ đề/tinh thần cốt lõi của câu chuyện:** (chưa xác định)
