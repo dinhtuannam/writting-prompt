@@ -7,53 +7,72 @@
 ## Các dự án hiện có
 | Thư mục | Trạng thái | Ghi chú |
 |---|---|---|
-| `story-1/` | Đang phát triển | Dự án đầu tiên |
-| `story-2/` | Đang phát triển | Dark Fantasy, hệ thống Thú Ấn |
+| `story-1/` | Đang phát triển | Dự án đầu tiên — còn cấu trúc cũ, chỉ migrate khi viết tiếp (xem README.md) |
+| `story-2/` | Đang phát triển | Dark Fantasy, hệ thống Thú Ấn — chờ chạy pipeline v2 từ `/expand-lore` |
 
 ## Dự án đang active
-Xem `ACTIVE-STORY.md`. Mọi lệnh `/next-chapter` và `/expand-lore` mặc định thao tác trên dự án active này, trừ khi người dùng chỉ định rõ thư mục khác (vd `/next-chapter story-2`).
+Xem `ACTIVE-STORY.md`. Mọi skill mặc định thao tác trên dự án active, trừ khi người dùng chỉ định rõ thư mục khác (vd `/next-chapter story-2`).
+
+## Flow chuẩn (Pipeline v2 — chi tiết xem README.md)
+`/new-story <ten>` → người dùng điền `lore/raw-idea.md` → `/expand-lore` → `/story-skeleton` → `/plan-arc` → `/next-chapter` (×N, mỗi chương người dùng duyệt) → hết arc → `/plan-arc` → ... → kết thúc theo skeleton.
+
+Bốn nguyên tắc xuyên suốt:
+1. Không chương nào được viết mà không có beat định trước trong `plot/arc-plans/`.
+2. Không bí ẩn nào thiếu lời giải viết sẵn trong `plot/secrets/`.
+3. Mỗi tầng (lore → skeleton → arc plan → chương) là một điểm duyệt của người dùng.
+4. `plot/secrets/` là tài liệu AI-only: không trích nguyên văn vào chương, không reveal vượt lịch.
 
 ## Quy tắc đọc file (BẮT BUỘC trước khi viết bất kỳ chương nào)
-Thay `<story>` bằng thư mục dự án đang thao tác (vd `story-1`):
-1. `<story>/STATE.md` — đọc toàn bộ
-2. `<story>/characters/_index.md`, rồi đọc file riêng của các nhân vật dự kiến xuất hiện trong chương
-3. `<story>/timeline/timeline.md` — 10 dòng cuối
-4. `<story>/plot/threads.md` — chú ý các thread trạng thái "mở"
-5. `<story>/plot/outline.md` — xác định chương sắp viết thuộc arc nào
-6. `<story>/summaries/chapter-summaries.md` — 2-3 mục gần nhất
-7. `<story>/style/style-guide.md`
+Đọc CHỌN LỌC THEO BEAT — thay `<story>` bằng thư mục dự án đang thao tác:
+1. `<story>/STATE.md` — toàn bộ
+2. `<story>/style/style-guide.md` — toàn bộ (đọc lại Anchor Sample ngay trước khi viết)
+3. Beat chương sắp viết trong `<story>/plot/arc-plans/arc-NN.md` — nguồn chỉ đạo chính
+4. `<story>/plot/threads.md` (chỉ chứa thread đang mở)
+5. `<story>/plot/secrets/_index.md` + file secret active trong arc
+6. `<story>/timeline/world-events.md` (mục arc hiện tại) + 10 dòng cuối `timeline.md`
+7. `<story>/characters/_index.md` + file riêng nhân vật CÓ TRONG BEAT
+8. `_index.md` của `lore/systems|factions|geography/` + file chi tiết thực thể CÓ TRONG BEAT + mục vùng liên quan trong `lore/daily-life.md`
+9. `<story>/summaries/chapters/arc-NN.md` — 2-3 mục cuối
 
-Nếu `<story>/lore/` còn trống → đây là dự án mới. Đọc `<story>/lore/raw-idea.md` trước: nếu đã có ý tưởng raw, chạy `/expand-lore`; nếu file này cũng trống, hỏi người dùng ý tưởng raw trước khi làm gì khác.
+Nếu thiếu điều kiện: lore trống → `/expand-lore`; chưa có skeleton → `/story-skeleton`; chưa có beat → `/plan-arc`. Nếu `lore/raw-idea.md` cũng trống → hỏi người dùng ý tưởng raw trước.
 
 ## Quy tắc cập nhật (BẮT BUỘC sau khi 1 chương được người dùng duyệt)
 1. Cập nhật `<story>/STATE.md`
 2. Thêm dòng mới vào `<story>/timeline/timeline.md`
-3. Thêm mục tóm tắt mới vào `<story>/summaries/chapter-summaries.md`
-4. Cập nhật `<story>/plot/threads.md` (mở thread mới nếu chương vừa viết tạo ra, đóng thread nếu đã giải quyết)
-5. Nếu số chương vừa hoàn thành chia hết cho 5, viết thêm 1 mục vào `<story>/summaries/arc-summaries.md`
-6. Nếu chương vừa viết giới thiệu nhân vật/phe phái/hệ thống/địa danh MỚI chưa từng có trong lore (AI tự sáng tạo thêm để phục vụ mạch truyện), phải tạo ngay hồ sơ tương ứng: nhân vật mới → file riêng trong `<story>/characters/` dựa trên `_template.md` + thêm dòng vào `_index.md`; phe phái/hệ thống/địa danh mới → thêm dòng vào `<story>/lore/factions.md` / `systems.md` / `geography.md`. Không được để thông tin mới chỉ nằm trong văn xuôi chương — nếu không ghi lại, AI sẽ quên ở các chương sau.
+3. Thêm mục tóm tắt vào `<story>/summaries/chapters/arc-NN.md`
+4. Cập nhật `<story>/plot/threads.md` (mở/tiến thread)
+5. Thread vừa đóng → chuyển từ `threads.md` sang `threads-archive.md`
+6. Chương chia hết cho 5 hoặc arc đóng → thêm mục vào `summaries/arc-summaries.md`
+7. Nhân vật/phe/hệ thống/địa danh MỚI → file riêng theo `_template.md` tương ứng + dòng trong `_index.md`. Không để thông tin mới chỉ nằm trong văn xuôi chương.
+8. Đánh dấu beat đã viết trong `arc-plans/arc-NN.md`
+9. Cập nhật `world-events.md` (sự kiện đã lộ) và "Nhật ký reveal" trong file secret nếu chương có foreshadow/reveal
+10. Chương cuối arc → nhắc người dùng chạy `/plan-arc`
 
-Không bước nào ở trên được bỏ qua, kể cả khi chương "có vẻ không thay đổi gì nhiều".
+Không bước nào được bỏ qua, kể cả khi chương "có vẻ không thay đổi gì nhiều".
 
 ## Số chương gen mỗi lần
-Mặc định **1 chương / lần gọi** `/next-chapter`. Lý do: mỗi chương là một điểm kiểm soát chất lượng — nếu AI lệch mạch truyện, người dùng bắt lỗi ngay tại chương đó thay vì để sai sót cộng dồn. Chỉ viết nhiều hơn 1 chương khi người dùng yêu cầu rõ ràng (vd "viết liền 2 chương").
+Mặc định **1 chương / lần gọi** `/next-chapter` — mỗi chương là một điểm kiểm soát chất lượng. Chỉ viết nhiều hơn khi người dùng yêu cầu rõ ràng.
 
-## Cấu trúc mỗi dự án (`story-N/`)
+## Cấu trúc mỗi dự án (`story-N/`) — Pipeline v2
 | Thư mục/file | Vai trò |
 |---|---|
 | `STATE.md` | Trạng thái truyện hiện tại — nguồn sự thật duy nhất |
-| `lore/` | Thế giới, hệ thống, phe phái, địa lý, lịch sử, ý tưởng gốc (`raw-idea.md`) |
-| `characters/` | Hồ sơ nhân vật + roster (`_index.md`) |
-| `timeline/` | Nhật ký sự kiện theo thời gian |
-| `plot/` | Outline tổng thể + tracker tuyến truyện đang mở |
-| `chapters/` | Nội dung chương đã viết (`chapter-001.md`, ...) |
-| `summaries/` | Tóm tắt từng chương + tóm tắt theo arc |
-| `style/` | Giọng văn, POV, thì, quy cách format |
+| `lore/` | `world-overview.md` (nhỏ + con trỏ), `systems/` `factions/` `geography/` (mỗi thư mục: `_index.md` + file per-entity), `history.md`, `daily-life.md`, `conflict-engines.md`, `raw-idea.md` |
+| `characters/` | `_index.md` + file riêng từng nhân vật (khuôn `_template.md`) |
+| `plot/` | `story-skeleton.md` (xương sống toàn truyện), `secrets/` (sổ bí mật AI-only), `threads.md` (chỉ thread mở) + `threads-archive.md`, `arc-plans/arc-NN.md` |
+| `timeline/` | `timeline.md` (1 dòng/chương) + `world-events.md` (offscreen, mục theo arc) |
+| `chapters/` | `chapter-NNN.md` |
+| `summaries/` | `chapters/arc-NN.md` (tóm tắt chương, mỗi arc 1 file) + `arc-summaries.md` |
+| `style/` | `style-guide.md`: thông số + tâm tone + biên độ + Anchor Samples |
+
+Quy ước: slug kebab-case làm ID ổn định; file thực thể mới có header chuẩn (loại, trạng-thái, xuất-hiện-đầu, cập-nhật-cuối).
 
 ## Skills
-- `/next-chapter [story]` — sinh chương tiếp theo dựa trên trạng thái hiện tại
-- `/expand-lore [story]` — mở rộng ý tưởng raw của người dùng thành lore hoàn chỉnh
-- `/new-story <ten>` — tạo 1 dự án tiểu thuyết mới từ `_template-story/`
+- `/new-story <ten>` — tạo dự án mới từ `_template-story/`
+- `/expand-lore [story]` — mở rộng ý tưởng raw thành lore sâu 3 lớp
+- `/story-skeleton [story]` — chốt tone (kèm văn mẫu) + xương sống toàn truyện + sổ bí mật (chạy 1 lần)
+- `/plan-arc [story]` — nhìn lại arc cũ + beat từng chương arc mới + world turn (chạy đầu mỗi arc)
+- `/next-chapter [story]` — viết 1 chương bám beat, tự kiểm chất lượng trước khi trình duyệt
 
 ## Template gốc
 `_template-story/` chứa bộ file rỗng chuẩn cho 1 dự án mới. KHÔNG viết nội dung truyện trực tiếp vào đây — chỉ dùng làm khuôn khi tạo story mới qua `/new-story`.

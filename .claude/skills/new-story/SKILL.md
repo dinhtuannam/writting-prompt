@@ -21,4 +21,4 @@ Thêm 1 dòng vào bảng "Các dự án hiện có" trong `CLAUDE.MD` gốc: `|
 Nếu có, cập nhật nội dung `ACTIVE-STORY.md` thành `story-<ten>`. Nếu không, giữ nguyên story đang active.
 
 ## Bước 6 — Đề nghị bước tiếp theo
-Nhắc người dùng cung cấp ý tưởng raw cho dự án mới và chạy `/expand-lore story-<ten>` để khởi tạo lore trước khi dùng `/next-chapter`.
+Nhắc người dùng cung cấp ý tưởng raw cho dự án mới, rồi chạy theo thứ tự: `/expand-lore story-<ten>` → `/story-skeleton story-<ten>` → `/plan-arc story-<ten>` → `/next-chapter story-<ten>`. Không chạy `/next-chapter` khi chưa có arc plan.
