@@ -521,3 +521,21 @@ Chưa quyết định
 - Khi Beast Saint còn tồn tại, mọi Beast Monarch cùng Spirit Animal đều không thể đột phá.
 - Chỉ khi Beast Saint chết thì vị trí mới được mở ra.
 - Có thể có các Spirit Animal mà hiện chưa có người đạt được **Beast Saint** do đây là cấp bậc rất khó đạt
+
+---
+
+# Bổ sung của người dùng (2026-07-19, khi chạy /expand-lore)
+
+sau tình huống ở raw-idea.md thì bố mẹ của nhân vật chính sẽ chết và nhân vật chính sẽ trở nên thù hận âm mưu báo thù . Còn chi tiết lí do bố mẹ nhân vật chính hay diễn biến sau đó thì bạn thoải mái sáng tạo
+
+Nhân vật nữ mà nhân vật chính cứu là một người rất quan trọng trong cốt truyện có thể xem là co-main character
+
+# Bổ sung của người dùng (2026-07-19, lần 2)
+
+Nhân vật chính không phải là người mạnh nhất bộ truyện , có rất nhiều nhân vật khác có sức mạnh và trí tuệ vượt trội hơn nhân vật chính
+
+Dấu ấn mạnh không có nghĩa nhân vật đó cũng sẻ mạnh , trong lịch sử và kể cả hiện tại của bộ truyện có rất nhiều nhân vật mang dấu ấn bình thường nhưng trở cực kì vĩ đại , có những người mang dấu ấn cao quý nhưng lại chết như 1 kẻ tầm thường bên góc xó
+
+# Bổ sung của người dùng (2026-07-19, lần 3)
+
+Tôi muốn người giết bố mẹ của nhân vật chính sẽ liên quan đến gia tộc Varmont , việc nhân vật chính trả thù (bằng 1 cách nào đó) sẽ phá vỡ quan hệ của nhân vật chính và cô gái mang ấn rồng khiến cả 2 sẽ đi về 2 ngả rẻ khác nhau (theo hướng nào bạn tự sáng tạo ) . Nhưng cơ duyên của 2 người sẽ chưa kết thúc , ngược lại số phận của họ sẽ gắn liền với nhau . Truyện sẽ kể truyện song song giữa 2 người này ( tất nhiên tập trung nhiều vào Ronan hơn )
