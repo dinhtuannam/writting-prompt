@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 4
-- **Arc hiện tại:** Arc 01 — Đêm Cỏ Gai Cháy (đang viết, chương 4/12 xong)
-- **Ngày/thời điểm trong truyện:** Vài ngày sau đêm lửa trại
+- **Chương hiện tại đã viết xong:** 5
+- **Arc hiện tại:** Arc 01 — Đêm Cỏ Gai Cháy (đang viết, chương 5/12 xong)
+- **Ngày/thời điểm trong truyện:** Đêm khuya, ngay sau bữa tối ấm cúng
 - **POV hiện tại:** Elk (ngôi thứ 3 giới hạn)
 - **Nhân vật đang có mặt tại hiện trường:** Elk (một mình, trong phòng, đêm khuya)
 - **Địa điểm hiện tại:** Làng Cỏ Gai — nhà Elk
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Elk vừa giấu kín cảm giác "nặng" lạ ở vết bớt trên vai, không kể ai. Chương 5 cần một cảnh bình yên giả tạo — buổi tối ấm cúng cùng gia đình/Halden, cố tình lắng dịu trước khi cuộc tập kích xảy ra ở chương 6.
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Vết bớt trên vai Elk cảm thấy như đang chờ đợi điều gì đó lớn hơn rất nhiều so với những gì cậu tưởng tượng được.
-- **Mục tiêu ngắn hạn của nhân vật chính:** Sống cuộc sống thường nhật; chưa ý thức được biến cố sắp tới.
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Chó cả làng vừa đồng loạt sủa dữ dội rồi im bặt bất thường. Chương 6 mở màn cuộc tập kích của toán cướp do Kess (pháp sư nguyên tố Hỏa) cầm đầu — hỗn loạn, lửa, dân làng tháo chạy.
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Sự im lặng đột ngột và bất thường sau tiếng chó sủa dữ dội — không có gì giải thích được nó.
+- **Mục tiêu ngắn hạn của nhân vật chính:** Sống cuộc sống thường nhật; chưa ý thức được biến cố sắp tới (sắp thay đổi hoàn toàn ở chương 6).
 
 ## Ghi chú cho AI khi viết chương tiếp theo
-Chương 5 ("Đêm Trước") cần: cảnh ấm gia đình (Elk, bà Yssa, Mira, Halden quây quần) — cố tình bình yên để cú sốc chương 6 mạnh hơn; nhắc lại cây gậy chăn cừu quen thuộc của Elk (Chekhov's gun); Halden nhắc lại đã hơn mười ngày không thấy patrol. Kết chương: chó trong làng đồng loạt sủa dữ dội về phía rừng rồi im bặt.
+Chương 6 ("Tiếng Vó Ngựa Trong Đêm") cần: mở màn cuộc tập kích — hỗn loạn, lửa, dân làng tháo chạy; Elk giúp người khác thoát thân bằng mưu trí, CHƯA dùng sức mạnh/Thiên Quyền; toán cướp do Kess (pháp sư nguyên tố Hỏa phản bội) cầm đầu, phóng hỏa đốt làng. Kết chương: Elk tìm thấy Halden đang chiến đấu, đã bị áp đảo — ngay trước khi Halden xô Elk ngã (beat chương 7).

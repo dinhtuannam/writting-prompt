@@ -74,7 +74,7 @@
 - **Cảm xúc chủ đạo:** Ấm áp, an toàn giả tạo.
 - **Xuất hiện:** nhân vật: Elk, bà Yssa, Mira, Halden | phe: — | địa danh: Làng Cỏ Gai (nhà Elk) | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Xa xa, chó trong làng đồng loạt sủa dữ dội về phía rừng, rồi im bặt.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 6: Tiếng Vó Ngựa Trong Đêm
 - **Mục tiêu chương:** Mở màn cuộc tập kích — hỗn loạn, lửa, dân làng tháo chạy; Elk giúp người khác thoát thân bằng mưu trí, chưa dùng sức mạnh.

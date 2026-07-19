@@ -11,3 +11,6 @@ Buổi luyện tập đi săn ở rừng ven làng: Elk thắng cuộc thi tìm 
 
 ## Chương 4: Vết Nứt Trong Bình Yên
 Halden nhận thấy đã hơn mười ngày không thấy đội tuần tra Calrath — nghi ngờ liên quan tới căng thẳng biên giới Norvald. Elk chứng kiến quản gia của ngài Wrenmoor dắt đi con bò duy nhất của bà Orlagh để trừ nợ tiền thuê đất; lần này không có mưu kế nào cứu được tình huống, Elk chỉ có thể bất lực đứng nhìn. Halden hứa mang thịt/củi giúp bà nhưng thừa nhận không sửa được sự bất công gốc rễ. Đêm đó, lần đầu tiên vết bớt hình thú trên vai Elk cảm thấy "nặng" khác thường — cậu giấu kín, không kể ai, kể cả Halden.
+
+## Chương 5: Đêm Trước
+Bữa tối ấm cúng tại nhà Elk cùng Halden và Mira — mừng mùa len bán được giá. Kỷ niệm về cây gậy chăn cừu "Sấm" mà Halden khắc tặng Elk năm lên tám. Halden thổ lộ đã 12 ngày không có tuần tra, gửi người hỏi thăm nhưng chưa có hồi âm — nỗi lo bị gạt đi để giữ không khí vui vẻ. Đêm khuya, chó trong làng đồng loạt sủa dữ dội về phía rừng rồi đột ngột im bặt hoàn toàn — cảm giác bình yên của Elk tan biến.
