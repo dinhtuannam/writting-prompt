@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 11
 - **Mối quan hệ với nhân vật khác:** Là chính vị tư tế trẻ từng ghi chép tại hình phạt công khai (chương 5) — hoặc cấp trên trực tiếp của người đó; phái viên của Thánh Phụ Aurelian.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Chính ông là người rò tin về Ronan cho Arik dao động, và ép Arik phải "xử lý" cha mẹ Ronan (xem `plot/secrets/ai-giet-bo-me-ronan.md`).
 - **Giọng nói / cách nói chuyện đặc trưng:** Nhẹ nhàng, lịch thiệp một cách bất thường, không bao giờ nâng giọng ngay cả khi đưa ra lời đe dọa ngầm.
-- **Trạng thái hiện tại:** Quan sát từ rìa tường thành, ghi chép lạnh lùng phản ứng của Ronan tại tang lễ cha
-- **Xuất hiện lần cuối:** Chương 15
+- **Trạng thái hiện tại:** Ghi chép vụ Isolde công khai bảo vệ Ronan như một dấu hiệu "điềm triệu" tiềm năng
+- **Xuất hiện lần cuối:** Chương 22 (qua ghi chép được nghe kể lại)
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -26,3 +26,4 @@ cập-nhật-cuối: chương 11
 | 11 | Đích thân xuất hiện tại cổng thành Varmont một mình, xin phép Arik ở lại "hành lễ" sau khi hai lá thư đòi giao nộp Ronan bị từ chối |
 | 12 | Thực hiện nghi thức đọc Ấn chính thức lên Ronan, xác nhận là Leviathan thật; đấu trí với Arik về việc giám sát; dựng lều đóng chốt dài hạn ngoài tường thành — báo hiệu ông ta không đến để đi |
 | 15 | (từ góc nhìn Isolde) Quan sát tang lễ Rodrick từ rìa ngoài tường thành, ghi chép lạnh lùng phản ứng cảm xúc của Ronan trong cuộc đoàn tụ với mẹ |
+| 22 | (qua lời kể) Ghi chép vụ Isolde công khai bảo vệ Ronan tại vụ an táng Maela như dấu hiệu "điềm triệu" tiềm năng — "Ấn Rồng công khai che chở Leviathan" |

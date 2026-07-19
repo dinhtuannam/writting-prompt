@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 21
+- **Chương hiện tại đã viết xong:** 22
 - **Arc hiện tại:** Arc 02 — Tang Trắng (ch 13-24, kế hoạch tại `plot/arc-plans/arc-02.md`)
-- **Ngày/thời điểm trong truyện:** Chiều cùng ngày an táng Maela
-- **POV hiện tại:** Ronan — chương 22 chuyển sang POV Isolde (hậu quả việc cãi lệnh cha)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Isolde, tại nghĩa trang phục dịch
-- **Địa điểm hiện tại:** Nghĩa trang phục dịch, thành Varmont
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Isolde công khai dùng vị thế Ấn Rồng buộc cha cho phép chôn Maela cạnh Rodrick; Ronan tìm thấy mảnh giấy mẹ khâu trong áo nhắc lại lời cha dặn về căn nhà; Ronan lần đầu nói thành tiếng lời thề trả thù trước hai nấm mộ
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Lời thề của Ronan đã được tuyên bố thành tiếng lần đầu — không còn chỉ là ý nghĩ nội tâm
-- **Mục tiêu ngắn hạn của nhân vật chính:** (Isolde chương tới) đối mặt hậu quả từ cha sau khi công khai cãi lệnh ông
+- **Ngày/thời điểm trong truyện:** Đêm khuya, vài ngày sau chương 21
+- **POV hiện tại:** Isolde — chương 23 chuyển sang POV Ronan (ghép mảnh manh mối)
+- **Nhân vật đang có mặt tại hiện trường:** Isolde, một mình ngoài cửa nhà nguyện (Garreth bên trong không hay biết)
+- **Địa điểm hiện tại:** Nhà nguyện nhỏ, thành Varmont
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Arik im lặng 3 ngày rồi mới đối thoại lại với Isolde, thừa nhận miễn cưỡng con gái "giống mẹ hơn ông tưởng"; Dreven ghi chép sự kiện an táng như dấu hiệu "điềm triệu"; Isolde bắt gặp Garreth quỳ giữa hàng chục ngọn nến trong nhà nguyện lúc nửa đêm
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Hình ảnh Garreth quỳ giữa rất nhiều ngọn nến ám ảnh Isolde — cô không biết ông đang cầu nguyện hay xin lỗi cho điều gì
+- **Mục tiêu ngắn hạn của nhân vật chính:** (Ronan chương tới) ghép các manh mối đã thu thập được thành một bức tranh đủ rõ để hành động
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - **BẮT BUỘC trước khi hoàn thành mỗi chương:** kiểm tra `characters/_index.md` — mọi nhân vật đã xuất hiện quá 1-2 chương phải có Dấu Ấn + Tầng Cộng Hưởng được ghi rõ (tiết lộ, gợi ý, tin đồn, hoặc giấu có chủ đích — không được để trống hoặc lờ đi). Xem "Quy tắc tối thượng" trong `style/style-guide.md`. Hiện không có nhân vật nào đang treo; Rodrick/Maela/Garreth có Tầng ở mức "gợi ý", chưa xác nhận chính xác — có thể xác nhận rõ hơn ở arc sau nếu hợp lý. Nhân vật mới xuất hiện tiếp theo cần xử lý trong vòng 1-2 chương như thường lệ.

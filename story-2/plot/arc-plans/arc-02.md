@@ -130,7 +130,7 @@
 - **Cảm xúc chủ đạo:** Căng thẳng gia đình, tò mò rợn người
 - **Xuất hiện:** nhân vật: Isolde, Arik, Dreven, Garreth | phe: Gia tộc Varmont, Giáo Hội Thánh Ấn | địa danh: Thành Varmont | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Isolde bắt gặp Garreth quỳ một mình trong nhà nguyện giữa rất nhiều ngọn nến — nhiều hơn cô đếm được trong bóng tối
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 23: Mầm Nghi Ngờ
 - **Mục tiêu chương:** Ronan ghép các mảnh manh mối lại với nhau

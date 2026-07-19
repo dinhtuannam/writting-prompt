@@ -11,3 +11,4 @@
 | Giáo Hội để mắt tới Ronan | 5 | 12 | Leo thang từ ghi chép lặng lẽ → thư đòi giao nộp (ch9, 11) → Dreven đích thân xuất hiện và đóng chốt ngoài thành (ch12); tiếp tục dưới dạng thread mới "Dreven đóng chốt ngoài tường thành" |
 | Ý nghĩa "hành lễ" của Dreven | 11 | 12 | Xác nhận là nghi thức đọc Ấn công khai |
 | Vì sao Garreth không dẫn đoàn tuần tra hôm đó | 13 | 14 | Rodrick tử trận trong chính chuyến tuần tra đó — hợp nhất vào thread lớn hơn "Cái chết của Rodrick không đơn giản" |
+| Isolde công khai cãi lệnh cha | 21 | 22 | Arik miễn cưỡng nhượng bộ, im lặng 3 ngày rồi hòa giải một phần: "Con đang trở nên giống mẹ con hơn ta tưởng" |

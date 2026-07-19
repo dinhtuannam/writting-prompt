@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 7
 - **Mối quan hệ với nhân vật khác:** Cận vệ trưởng dưới quyền Arik Varmont; giám sát huấn luyện/thử thách Ronan.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Chính ông là người dàn dựng "tai nạn tuần tra" giết Rodrick và đầu độc vật tư y tế khiến Maela chết vì "cơn dịch", theo lệnh của Arik. Từng có mặt trong vụ chôn sống tù binh thời Chiến Tranh Biên Thùy — mỗi năm thắp 47 ngọn nến tưởng niệm mà không ai hiểu lý do (xem `plot/secrets/bi-mat-chien-tranh-bien-thuy.md`).
 - **Giọng nói / cách nói chuyện đặc trưng:** Ngắn, lạnh, mệnh lệnh — không bao giờ to tiếng nhưng luôn được tuân theo ngay lập tức.
-- **Trạng thái hiện tại:** Không còn dám nhìn thẳng vào mắt Ronan trong huấn luyện — dấu hiệu tội lỗi âm ỉ ngày càng rõ
-- **Xuất hiện lần cuối:** Chương 16
+- **Trạng thái hiện tại:** Bị Isolde bắt gặp quỳ giữa hàng chục ngọn nến trong nhà nguyện lúc nửa đêm — dằn vặt sâu sắc chưa rõ nguyên nhân đầy đủ với người đọc
+- **Xuất hiện lần cuối:** Chương 22
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -29,3 +29,4 @@ cập-nhật-cuối: chương 7
 | 13 | Bất thường không dẫn đoàn tuần tra biên giới có Rodrick, cử Corren thay thế; đứng quan sát từ xa với vẻ áy náy khó gọi tên |
 | 15 | (từ góc nhìn Isolde) Đứng xa tại tang lễ Rodrick, không nói lời nào, không chào hỏi Arik theo phép lịch sự thông thường — vẻ dằn vặt câm lặng |
 | 16 | Trong huấn luyện, không còn dám nhìn thẳng vào mắt Ronan; tay khựng lại một giây khi chạm vào cậu để sửa tư thế |
+| 22 | (từ góc nhìn Isolde) Bị bắt gặp quỳ một mình trong nhà nguyện lúc nửa đêm, giữa hàng chục ngọn nến đang cháy — dấu hiệu dằn vặt sâu sắc |
