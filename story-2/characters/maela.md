@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 5
 - **Mối quan hệ với nhân vật khác:** Vợ Rodrick, mẹ Ronan.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Biết một phần lý do thật sự Rodrick xin rời quân ngũ, nhưng chưa từng nói ra với Ronan.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nhẹ nhàng, hay pha chút hài hước khô khan với người quen (vd với bà lang Yssa).
-- **Trạng thái hiện tại:** Góa phụ, phục dịch tại trại thương binh; vừa có buổi đoàn tụ ấm áp với con trai
-- **Xuất hiện lần cuối:** Chương 17
+- **Trạng thái hiện tại:** Sốt cao vì cơn dịch bùng phát đúng khu vực bà phụ trách; vừa nhận ra con trai qua màn sốt
+- **Xuất hiện lần cuối:** Chương 19
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -27,3 +27,4 @@ cập-nhật-cuối: chương 5
 | 5 | Chịu 100 roi công khai, giữ được sự tĩnh lặng lạ thường; ngất ở nhát thứ tám mươi; nhìn Ronan lần cuối trước khi bị đưa đi phục dịch ở trại thương binh |
 | 15 | (từ góc nhìn Isolde) Được phép dự tang chồng dưới giám sát; ôm Ronan đúng 10 nhịp thở trước khi bị tách ra |
 | 17 | Đoàn tụ ấm áp ngắn ngủi với Ronan tại trại thương binh (dàn xếp bởi Isolde); nhắc tới thùng vật tư "bổ sung từ một thương nhân" không rõ nguồn gốc |
+| 19 | Nhiễm cơn dịch bùng phát đúng khu vực bà phụ trách; sốt cao, đờ đẫn; nhận ra Ronan qua màn sốt khi cậu tới thăm |

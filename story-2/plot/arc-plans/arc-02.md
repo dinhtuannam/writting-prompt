@@ -100,7 +100,7 @@
 - **Cảm xúc chủ đạo:** Hoảng loạn kìm nén, quyết liệt
 - **Xuất hiện:** nhân vật: Ronan, Isolde, Maela | phe: Gia tộc Varmont | địa danh: Thành Varmont (trại thương binh) | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Maela nhận ra con qua màn sốt
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 20: Tang Trắng
 - **Mục tiêu chương:** Cái chết của Maela
