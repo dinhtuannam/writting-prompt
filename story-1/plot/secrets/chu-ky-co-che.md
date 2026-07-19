@@ -12,3 +12,4 @@
 ## Nhật ký reveal thực tế
 | Chương | Phần đã hé lộ |
 |---|---|
+| 4 | Foreshadow: vết bớt hình thú trên vai Elk lần đầu tiên cảm thấy "nặng" khác thường vào ban đêm, như đang chờ đợi điều gì đó — chưa hé đáp án thật, Elk cũng không hiểu và giấu kín. |

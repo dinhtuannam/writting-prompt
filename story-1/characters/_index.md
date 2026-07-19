@@ -11,5 +11,7 @@
 | Mira | Bạn thân nhất của Elk, con gái người coi cối xay gió | còn sống | `mira.md` |
 | Bà lão Senna | Người kể chuyện dân gian của làng | còn sống | `senna.md` |
 | Bà Fenn | Người bán vải trong chợ | còn sống | `fenn.md` |
+| Bà Orlagh | Quả phụ bị mất bò vì nợ tiền thuê đất | còn sống | `orlagh.md` |
+| Ngài Wrenmoor | Điền chủ nhỏ quanh Cỏ Gai (chưa xuất hiện trực tiếp) | còn sống | `wrenmoor.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).

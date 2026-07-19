@@ -4,5 +4,6 @@
 
 | Thread | Mở ở chương | Trạng thái | Dự kiến trả (chương) | Ghi chú |
 |---|---|---|---|---|
-| Điều gì đang lớn dần trong Elk | 1 | Đang mở | 7 | Câu nói của bà Senna về Đồ Tể ám ảnh Elk không rõ lý do (ch.3); tay ấm bất thường lúc luyện tập (ch.2) |
-| Tin đồn biên giới Norvald | 3 | Đang mở | 6 | Lữ khách kể chuyện chạm trán Calrath-Norvald gần sông Bạch Đái — dân làng chưa để tâm |
+| Điều gì đang lớn dần trong Elk | 1 | Đang mở | 7 | Chứng kiến bất công không sửa được (bà Orlagh, ch.4) khiến Tích tăng thêm; câu nói bà Senna (ch.3); tay ấm bất thường (ch.2) |
+| Tin đồn biên giới Norvald | 3 | Đang mở | 6 | Halden nhận thấy hơn 10 ngày không có tuần tra Calrath (ch.4) — nghi có liên quan tới căng thẳng Norvald |
+| Bí mật dưới lớp da | 4 | Đang mở | 7 | Vết bớt hình thú trên vai Elk đêm ch.4 cảm thấy "nặng" khác thường lần đầu tiên — Elk giấu không kể ai |

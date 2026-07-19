@@ -64,7 +64,7 @@
 - **Cảm xúc chủ đạo:** Căng thẳng, bất an tăng dần.
 - **Xuất hiện:** nhân vật: Elk, Halden | phe: Vương quốc Calrath (vắng mặt là tín hiệu) | địa danh: Làng Cỏ Gai | hệ thống: Chu Kỳ & Thiên Quyền (foreshadow)
 - **Điểm kết chương (bắt buộc giữ):** Elk giấu vai đi, không kể ai nghe cảm giác đó — kể cả Halden.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 5: Đêm Trước
 - **Mục tiêu chương:** Bình yên giả tạo — cảnh ấm gia đình (Elk, bà Yssa, Mira, Halden quây quần); Chekhov's gun: cây gậy chăn cừu quen thuộc của Elk.
