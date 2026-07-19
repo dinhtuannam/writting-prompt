@@ -139,7 +139,7 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Nhìn thấu, lạnh dần
 - **Xuất hiện:** nhân vật: Isolde, Arik, Garreth, Ronan | phe: Gia tộc Varmont, Giáo Hội Thánh Ấn, Vương triều Aldenn, Nghiệp Đoàn Xiềng Bạc | địa danh: Thành Varmont | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Dreven đến cổng thành xin ở lại "hành lễ"
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 12: Lời Thề
 - **Mục tiêu chương:** Đọc ấn công khai của Dreven; lời thề kết arc

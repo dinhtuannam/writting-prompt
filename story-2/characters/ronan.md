@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick (Ấn Gấu) và Maela (Ấn Bồ Câu). Vừa gặp Isolde Varmont lần đầu (chương 2) — cứu mạng cô khỏi Sói Sương, đổi lại bị thương nặng.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan, thân phận bị giấu kín từ lúc sinh — cha mẹ khai man là "chỉ mang hình xăm rắn thường".
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít, câu ngắn, gọn — đặc biệt gọn khi đang chịu đau đớn hoặc căng thẳng cực độ ("Chạy đi. Gọi người... giúp.")
-- **Trạng thái hiện tại:** Vừa nhận cảnh báo dở dang từ cha về bí mật giấu dưới sàn nhà — cuối chương 10
-- **Xuất hiện lần cuối:** Chương 10
+- **Trạng thái hiện tại:** Chứng kiến Dreven xuất hiện tại cổng thành từ xa; buổi học đọc với Isolde tiếp tục tiến triển — cuối chương 11
+- **Xuất hiện lần cuối:** Chương 11 (thoáng qua, từ góc nhìn Isolde)
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -33,3 +33,4 @@ cập-nhật-cuối: chương 2
 | 8 | (từ góc nhìn Isolde) Kể cho Isolde nghe về Rừng Bạc Sương và cha mẹ mình; nhận một quyển sách cũ từ cô để học đọc chữ, bất chấp lệnh cấm của Arik |
 | 9 | Chứng kiến Giáo Hội đòi giao nộp mình (bị Arik từ chối); biết tin đơn xin gặp con của cha mẹ bị bác; bị một phu buôn lạ để ý ở chợ; nhận lời cảnh cáo trực diện từ Arik |
 | 10 | Huấn luyện vũ khí thật với Garreth; suýt chết trong đấu tập, ấn "cựa mình" lần hai; Rodrick liều lĩnh tiếp cận, cảnh báo dở dang về bí mật giấu dưới sàn căn nhà trước khi bị cắt ngang |
+| 11 | (từ góc nhìn Isolde) Tiếp tục buổi học đọc chữ, cảm ơn Isolde; chứng kiến từ xa cảnh Dreven xuất hiện tại cổng thành |

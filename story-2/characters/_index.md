@@ -10,5 +10,6 @@
 | Maela | Phụ — mẹ Ronan | Bồ Câu (đã lộ ch1) | Gợi ý ở ch5 (kỹ thuật tách khỏi cơn đau như thiền định) — chưa xác nhận chính xác | Vừa chịu 100 roi, đưa đi phục dịch | `maela.md` |
 | Lãnh chúa Arik Varmont | Phụ quan trọng — cha Isolde | Bò Rừng (đã lộ ch3) | Thú Quân (gợi ý ch3, chưa thể hiện trực tiếp) | Còn sống | `arik.md` |
 | Ser Garreth | Phụ quan trọng — cận vệ trưởng | Chó Ngao (đã lộ ch7) | Gợi ý ở ch7 (phản xạ bất thường) — chưa xác nhận chính xác | Còn sống | `garreth.md` |
+| Thẩm Ấn Quan Dreven | Đối thủ dài hạn — thợ săn điềm gở | (chưa tiết lộ — xử lý ở ch12) | (chưa tiết lộ) | Còn sống | `dreven.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).

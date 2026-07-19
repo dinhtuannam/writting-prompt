@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con gái duy nhất của Lãnh chúa Arik Varmont. Vừa được Ronan cứu mạng khỏi Sói Sương (chương 2) — người hộ vệ đi cùng cô đã chết trong trận đó.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Chưa biết rằng cha mình sau này sẽ ra lệnh giết cha mẹ của Ronan — người vừa cứu mạng cô.
 - **Giọng nói / cách nói chuyện đặc trưng:** Hỏi thẳng, không vòng vo, kể cả những câu hỏi khiến người khác khó chịu ("Cậu... cậu ổn không?")
-- **Trạng thái hiện tại:** Đối mặt áp lực Vercast; bất chấp lệnh cấm của cha để tiếp tục gặp Ronan — cuối chương 8
-- **Xuất hiện lần cuối:** Chương 8
+- **Trạng thái hiện tại:** Vừa chứng kiến Dreven xuất hiện tại cổng thành; nhìn thấu bản chất tính toán lạnh lùng của cha — cuối chương 11
+- **Xuất hiện lần cuối:** Chương 11
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -28,3 +28,4 @@ cập-nhật-cuối: chương 2
 | 6 | Miễn cưỡng thực hiện nghi thức khế ước xác lập quyền sở hữu Ronan theo lệnh cha; tuyên bố chấp nhận trách nhiệm dù rõ ràng không thoải mái |
 | 7 | Lén đến thăm Ronan tại phòng xép cạnh chuồng ngựa, phá vỡ khoảng cách chủ-tớ lần đầu; hỏi liệu Ấn của cậu có đau không |
 | 8 | (POV) Nhận thư từ Tể tướng Corvin đòi làm "khách quý" ở Vercast; bị cha cấm gặp riêng Ronan sau khi bị phát hiện; vẫn tới gặp cậu 2 đêm liên tiếp, kể chuyện đời mình và nghe cậu kể về rừng; tặng cậu sách cũ để dạy đọc chữ |
+| 11 | (POV) Nghe lỏm Arik-Garreth bàn về áp lực 3 phía; thấy cha như một người chơi cờ lạnh lùng; tiếp tục dạy Ronan đọc chữ; chứng kiến Thẩm Ấn Quan Dreven xuất hiện tại cổng thành |

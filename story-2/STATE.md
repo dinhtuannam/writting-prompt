@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 10
-- **Arc hiện tại:** Arc 01 — Vòng Cổ (ch 1-12, kế hoạch tại `plot/arc-plans/arc-01.md`)
-- **Ngày/thời điểm trong truyện:** Khoảng 2 tuần sau nghi thức khế ước
-- **POV hiện tại:** Ronan — chương 11 chuyển sang POV Isolde (Bàn Cờ Của Cha)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, một mình sau khi đội tuần tra rời đi
-- **Địa điểm hiện tại:** Bãi tập, thành Varmont
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Ronan vừa huấn luyện với vũ khí thật, ấn Leviathan "cựa mình" lần thứ hai (vòng cổ nóng lên) khi phản xạ chặn một đòn chí mạng; Rodrick lén nhắn dở dang về một bí mật giấu dưới sàn căn nhà ở Rừng Bạc Sương trước khi bị cắt ngang
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Câu nói bí ẩn "đừng bao giờ cho ai sửa sàn căn nhà" treo lơ lửng, chưa rõ ý nghĩa
-- **Mục tiêu ngắn hạn của nhân vật chính:** (Isolde chương tới) đối mặt với áp lực leo thang từ mọi phía trong khi nhìn thấy rõ hơn bản chất tính toán lạnh lùng của cha mình
+- **Chương hiện tại đã viết xong:** 11
+- **Arc hiện tại:** Arc 01 — Vòng Cổ (ch 1-12, kế hoạch tại `plot/arc-plans/arc-01.md`) — CHƯƠNG CUỐI ARC LÀ CHƯƠNG 12
+- **Ngày/thời điểm trong truyện:** Sáng hôm sau chương 11 (buổi tối trước + sáng hôm sau)
+- **POV hiện tại:** Isolde — chương 12 chuyển lại POV Ronan (chương cuối arc: Lời Thề)
+- **Nhân vật đang có mặt tại hiện trường:** Isolde, Arik, Dreven, đám đông sân trong (Ronan đứng ở rìa)
+- **Địa điểm hiện tại:** Cổng chính, thành Varmont
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Thẩm Ấn Quan Dreven vừa đích thân xuất hiện tại cổng thành, xin phép "ở lại hành lễ" — báo hiệu ông ta sẽ đóng chốt lâu dài
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Sự điềm tĩnh đáng sợ của Dreven khiến cả sân trong căng thẳng — chưa rõ "hành lễ" nghĩa là gì
+- **Mục tiêu ngắn hạn của nhân vật chính:** (Ronan chương tới) đối mặt buổi "hành lễ" đọc ấn công khai của Dreven — chương cuối arc, dẫn tới lời thề kết arc
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - **BẮT BUỘC trước khi hoàn thành mỗi chương:** kiểm tra `characters/_index.md` — mọi nhân vật đã xuất hiện quá 1-2 chương phải có Dấu Ấn + Tầng Cộng Hưởng được ghi rõ (tiết lộ, gợi ý, tin đồn, hoặc giấu có chủ đích — không được để trống hoặc lờ đi). Xem "Quy tắc tối thượng" trong `style/style-guide.md`. Hiện không có nhân vật nào đang treo; Rodrick/Maela/Garreth có Tầng ở mức "gợi ý", chưa xác nhận chính xác — có thể xác nhận rõ hơn ở arc sau nếu hợp lý. Nhân vật mới xuất hiện tiếp theo cần xử lý trong vòng 1-2 chương như thường lệ.
