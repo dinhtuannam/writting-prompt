@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 3
 - **Mối quan hệ với nhân vật khác:** Cha của Isolde Varmont. Sắp đưa ra phán quyết định đoạt số phận Ronan, Rodrick, Maela.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Sẽ là người ra lệnh giết Rodrick và Maela sau này (xem `plot/secrets/ai-giet-bo-me-ronan.md` — KHÔNG được hé lộ trước lịch); từng cho chôn sống tù binh trong Chiến Tranh Biên Thùy (xem `plot/secrets/bi-mat-chien-tranh-bien-thuy.md`).
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ngắn, gọn, như đọc báo cáo quân sự; hiếm khi hỏi lại, thường chỉ lặp lại thông tin để xác nhận.
-- **Trạng thái hiện tại:** Từ chối giao Ronan cho triều đình đổi lấy việc hoãn vụ Isolde; im lặng khi bị con gái hỏi thẳng sẽ chọn ai
-- **Xuất hiện lần cuối:** Chương 18
+- **Trạng thái hiện tại:** Miễn cưỡng nhượng bộ trước yêu cầu công khai của Isolde về việc an táng Maela; cảnh cáo con gái sẽ không nhân nhượng mãi mãi
+- **Xuất hiện lần cuối:** Chương 21 (qua lời kể)
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -31,3 +31,4 @@ cập-nhật-cuối: chương 3
 | 12 | Chứng kiến nghi thức đọc Ấn công khai của Dreven; đấu trí về quyền giám sát Ronan; từ chối cho Dreven trú trong thành nhưng không ngăn được ông ta đóng chốt ngoài tường thành |
 | 15 | (từ góc nhìn Isolde) Chủ trì tang lễ Rodrick, đọc điếu văn chung chung không nhắc tên riêng; cho phép Maela dự tang dưới giám sát — động cơ thật sự mập mờ |
 | 18 | (từ góc nhìn Isolde) Từ chối đề nghị giao Ronan cho triều đình đổi lấy hoãn vụ Vercast của Isolde; không cam kết luôn ưu tiên con gái; im lặng khi bị hỏi thẳng sẽ chọn ai giữa con và lãnh địa |
+| 21 | (qua lời kể) Miễn cưỡng nhượng bộ trước yêu cầu của Isolde (dùng vị thế Ấn Rồng) cho phép chôn Maela cạnh Rodrick; cảnh cáo con gái sẽ không nhân nhượng mãi mãi |

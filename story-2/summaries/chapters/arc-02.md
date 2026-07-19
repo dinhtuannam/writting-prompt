@@ -23,3 +23,6 @@ Cơn dịch bất ngờ bùng phát đúng khu vực Maela phụ trách tại tr
 
 ## Chương 20
 Ronan ở bên mẹ suốt đêm khi cơn sốt lên xuống thất thường; gần sáng, hơi thở bà yếu dần. Vị thầy thuốc xác nhận không còn gì có thể làm. Maela nhận ra con lần cuối, nói lời cuối cùng: "Mẹ chưa bao giờ hối hận. Cứu con là điều đúng đắn nhất cha mẹ từng làm" — rồi qua đời nhẹ nhàng. Khác hẳn cơn gào khóc dữ dội đêm phán quyết, Ronan hoàn toàn im lặng, không một giọt nước mắt — một sự tĩnh lặng khiến Isolde (chứng kiến từ đầu đến cuối) sợ hãi hơn bất kỳ biểu hiện đau buồn dữ dội nào. Cậu đứng dậy, tuyên bố ngắn gọn "Tôi cần đi. Có việc tôi cần làm" rồi rời khỏi phòng, để lại Isolde một mình với câu hỏi cậu định làm gì.
+
+## Chương 21
+Quy định phòng dịch định chôn Maela ở khu riêng, cách xa mộ Rodrick. Ronan phản đối; Isolde công khai dùng vị thế Ấn Rồng của mình lần đầu để buộc cha nhượng bộ, đổi lại lời cảnh cáo "sẽ không nhân nhượng mãi mãi". Tang lễ đơn giản diễn ra với vài bệnh nhân cũ của Maela tới viếng. Chuẩn bị di vật, Ronan phát hiện một mảnh giấy mẹ khâu trong áo: "Nếu cha con có mệnh hệ gì, hãy nhớ lời cha dặn về căn nhà" — bằng chứng cho thấy Maela đã linh cảm nguy hiểm từ trước. Đứng trước hai nấm mộ khắc tên đầy đủ, Ronan đọc tên cha mẹ và lần đầu nói thành tiếng lời thề trả thù đã âm thầm mang theo từ đêm phán quyết.

@@ -120,7 +120,7 @@
 - **Cảm xúc chủ đạo:** Quyết liệt, tang thương chuyển hóa thành quyết tâm
 - **Xuất hiện:** nhân vật: Ronan, Isolde, Arik | phe: Gia tộc Varmont | địa danh: Thành Varmont | hệ thống: Ấn Thú
 - **Điểm kết chương (bắt buộc giữ):** Ronan đọc tên cha mẹ tự khắc trên mộ, lần đầu nói lời thề thành tiếng
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 22: Cái Giá Của Lệnh (POV Isolde)
 - **Mục tiêu chương:** Hậu quả việc Isolde cãi lệnh cha
