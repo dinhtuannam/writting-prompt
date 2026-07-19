@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 7
 - **Mối quan hệ với nhân vật khác:** Cận vệ trưởng dưới quyền Arik Varmont; giám sát huấn luyện/thử thách Ronan.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Chính ông là người dàn dựng "tai nạn tuần tra" giết Rodrick và đầu độc vật tư y tế khiến Maela chết vì "cơn dịch", theo lệnh của Arik. Từng có mặt trong vụ chôn sống tù binh thời Chiến Tranh Biên Thùy — mỗi năm thắp 47 ngọn nến tưởng niệm mà không ai hiểu lý do (xem `plot/secrets/bi-mat-chien-tranh-bien-thuy.md`).
 - **Giọng nói / cách nói chuyện đặc trưng:** Ngắn, lạnh, mệnh lệnh — không bao giờ to tiếng nhưng luôn được tuân theo ngay lập tức.
-- **Trạng thái hiện tại:** Còn sống, bắt đầu chú ý sát sao hơn tới những dấu hiệu bất thường ở Ronan
-- **Xuất hiện lần cuối:** Chương 10
+- **Trạng thái hiện tại:** Bất thường không dẫn đoàn tuần tra biên giới có Rodrick — vẻ áy náy khó gọi tên
+- **Xuất hiện lần cuối:** Chương 13
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -26,3 +26,4 @@ cập-nhật-cuối: chương 7
 | 3 | (thoáng qua) Ra lệnh xiềng cổ khẩn cấp cho Ronan khi ấn Leviathan bị phát hiện |
 | 7 | Giám sát huấn luyện/thử thách Ronan; thể hiện phản xạ và uy quyền bất thường; có cử chỉ nhân tính nhỏ (ném bánh mì thừa) |
 | 10 | Chuyển sang huấn luyện vũ khí thật; chứng kiến vòng cổ Ronan nóng lên bất thường trong trận đấu tập; ghi nhớ để báo cáo; có cử chỉ dịu dàng hiếm hoi ("Hôm nay đủ rồi") |
+| 13 | Bất thường không dẫn đoàn tuần tra biên giới có Rodrick, cử Corren thay thế; đứng quan sát từ xa với vẻ áy náy khó gọi tên |

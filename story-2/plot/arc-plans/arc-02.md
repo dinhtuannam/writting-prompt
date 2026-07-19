@@ -40,7 +40,7 @@
 - **Cảm xúc chủ đạo:** Ngột ngạt, cảnh giác thường trực
 - **Xuất hiện:** nhân vật: Ronan, Rodrick (xa), Garreth, Dreven (xa) | phe: Giáo Hội Thánh Ấn, Gia tộc Varmont | địa danh: Thành Varmont | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Đoàn tuần tra khuất vào sương sớm — Rodrick ngoái nhìn con lần cuối, không ai biết là lần cuối
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 14: Tai Nạn Tuần Tra
 - **Mục tiêu chương:** Tin dữ về cái chết của Rodrick; Ronan phát hiện chi tiết sai trong báo cáo

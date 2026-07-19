@@ -13,3 +13,4 @@
 | Isolde bất chấp lệnh cấm của cha để gặp Ronan | 8 | Mở | (chưa xác định) | Arik đã biết và cấm tuyệt đối, nhưng Isolde vẫn tiếp tục |
 | Áp lực Vercast đòi Isolde làm "khách quý" | 8 | Mở (leo thang ch11 — sứ giả sắp quay lại với "đề nghị chính thức hơn") | Tiếp tục ở arc 2 | Tể tướng Corvin gửi thư nhân danh vua; Arik chỉ có thể trì hoãn |
 | Dreven đóng chốt ngoài tường thành Varmont | 12 | Mở (dài hơi — mối đe dọa thường trực) | Tiếp tục ở arc 2 | "Hắn không đến để đi" — dựng lều dài hạn sau khi xác nhận Ronan là Leviathan thật |
+| Vì sao Garreth không dẫn đoàn tuần tra hôm đó | 13 | Mở | 14 | Cử Corren thay thế; vẻ áy náy khó gọi tên |

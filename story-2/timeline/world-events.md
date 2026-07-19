@@ -13,7 +13,7 @@
 ## Arc 02
 | Phe / thế lực | Sự kiện offscreen | Đã lộ vào chương nào (nếu có) |
 |---|---|---|
-| Gia tộc Varmont (nội bộ) | Arik ra lệnh miệng riêng cho Garreth (nội dung: xem `plot/secrets/ai-giet-bo-me-ronan.md`) | |
+| Gia tộc Varmont (nội bộ) | Arik ra lệnh miệng riêng cho Garreth (nội dung: xem `plot/secrets/ai-giet-bo-me-ronan.md`) | Chương 13 (Garreth bất thường không dẫn đoàn tuần tra) |
 | Giáo Hội (Dreven) | Gửi báo cáo định kỳ về Vercast; tiếp tục áp lực ngầm về "hai kẻ phạm thánh còn sống" | |
 | Vương triều (Corvin) | Chuẩn bị "đề nghị chính thức"; thu thập hồ sơ tài chính Varmont | |
 | Nghiệp Đoàn | Gã bào chế ở Grisholm bán "vị thuốc lạ" cho khách ẩn danh; Havek nâng định giá "hàng Leviathan" | |
