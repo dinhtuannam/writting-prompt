@@ -9,7 +9,7 @@ cập-nhật-cuối: chương 2
 
 - **Vai trò trong truyện:** Nhân vật chính (antihero — không phải nạn nhân, không phải phản diện)
 - **Dấu Ấn:** Leviathan — quái xà điềm gở, hiếm hơn cả Rồng; theo giáo lý Điềm Gở, định sẵn sẽ thành tai họa rồi bị một "anh hùng được số phận chọn" tiêu diệt. Trong lịch sử chưa từng có Leviathan nào đạt tới Thú Thần (xem `lore/systems/an-thu.md`, bí mật `plot/secrets/leviathan-la-gi.md`).
-- **Tầng Cộng Hưởng:** Phàm Thể — chưa thức tỉnh chính thức. Ở chương 2, trong trận sinh tử với Sói Sương, ấn có dấu hiệu "cựa mình" lần đầu (một sự tĩnh lặng kỳ lạ, cảm giác thứ gì rất lớn đang thức dậy dưới da) — chưa đủ để coi là đột phá Thức Tỉnh thật sự, nhưng là tiền đề trực tiếp cho nó.
+- **Tầng Cộng Hưởng:** Phàm Thể — chưa thức tỉnh chính thức. Ở chương 2 (trận Sói Sương) và chương 10 (huấn luyện với Fenner, phản xạ chặn đòn chí mạng khiến vòng cổ nóng lên), ấn có dấu hiệu "cựa mình" — tích lũy dần, chưa đủ để coi là đột phá Thức Tỉnh thật sự nhưng là tiền đề trực tiếp cho nó (dự kiến Thức Tỉnh chính thức ở arc sau theo skeleton).
 - **Ngoại hình:** 16 tuổi, dáng người gầy nhưng cơ bắp rắn chắc do nhiều năm rèn luyện chịu đựng thể chất; ấn Leviathan (hình quái xà cuộn tròn) khắc chìm trên cánh tay trái, luôn được quấn vải che kín.
 - **Tính cách:** Điềm tĩnh, ít nói, quen nén cảm xúc — không phải vì lạnh lùng mà vì mười sáu năm phải học cách không để cảm xúc lộ ra ngoài. Bản năng bảo vệ mạnh mẽ, sẵn sàng lao vào nguy hiểm chết người cho người khác dù biết rõ cái giá.
 - **Động cơ / mục tiêu:** Sống sót và bảo vệ bí mật của gia đình. Sau chương 2: sống sót qua vết thương.
@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick (Ấn Gấu) và Maela (Ấn Bồ Câu). Vừa gặp Isolde Varmont lần đầu (chương 2) — cứu mạng cô khỏi Sói Sương, đổi lại bị thương nặng.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan, thân phận bị giấu kín từ lúc sinh — cha mẹ khai man là "chỉ mang hình xăm rắn thường".
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít, câu ngắn, gọn — đặc biệt gọn khi đang chịu đau đớn hoặc căng thẳng cực độ ("Chạy đi. Gọi người... giúp.")
-- **Trạng thái hiện tại:** Bị Arik cảnh cáo trực diện; nhận ra mình là quân cờ giữa nhiều thế lực (Arik, Giáo Hội, Vảy Đen) — cuối chương 9
-- **Xuất hiện lần cuối:** Chương 9
+- **Trạng thái hiện tại:** Vừa nhận cảnh báo dở dang từ cha về bí mật giấu dưới sàn nhà — cuối chương 10
+- **Xuất hiện lần cuối:** Chương 10
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -32,3 +32,4 @@ cập-nhật-cuối: chương 2
 | 7 | Lao động nặng và huấn luyện dưới sự giám sát của Garreth; thoáng thấy cha mà không được nói chuyện; bị ba lính trẻ thử gan; Isolde lén đến thăm, hỏi Ấn của cậu có đau không |
 | 8 | (từ góc nhìn Isolde) Kể cho Isolde nghe về Rừng Bạc Sương và cha mẹ mình; nhận một quyển sách cũ từ cô để học đọc chữ, bất chấp lệnh cấm của Arik |
 | 9 | Chứng kiến Giáo Hội đòi giao nộp mình (bị Arik từ chối); biết tin đơn xin gặp con của cha mẹ bị bác; bị một phu buôn lạ để ý ở chợ; nhận lời cảnh cáo trực diện từ Arik |
+| 10 | Huấn luyện vũ khí thật với Garreth; suýt chết trong đấu tập, ấn "cựa mình" lần hai; Rodrick liều lĩnh tiếp cận, cảnh báo dở dang về bí mật giấu dưới sàn căn nhà trước khi bị cắt ngang |

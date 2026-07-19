@@ -17,11 +17,13 @@ cập-nhật-cuối: chương 5
 - **Mối quan hệ với nhân vật khác:** Chồng Maela, cha Ronan. Từng là lính dưới trướng Arik Varmont trong Chiến Tranh Biên Thùy.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Giấu cuốn sổ quân vụ ghi lại vụ chôn sống 47 tù binh dưới ván sàn căn nhà ở Rừng Bạc Sương; câu nói "giờ thì ta đã hiểu vì sao ông ấy xin rời xa mọi người" của Arik (ch4) ám chỉ bí mật này.
 - **Giọng nói / cách nói chuyện đặc trưng:** Ngắn gọn, thực tế; hiếm khi nói nhiều hơn mức cần thiết.
-- **Trạng thái hiện tại:** Vừa chịu 100 roi, đang được đưa về doanh trại cận vệ để phục dịch trọn đời
-- **Xuất hiện lần cuối:** Chương 5
+- **Trạng thái hiện tại:** Phục dịch trong đội cận vệ Varmont; vừa liều lĩnh phá vỡ lệnh cấm để cảnh báo con trai
+- **Xuất hiện lần cuối:** Chương 10
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 1 | Dạy Ronan bài học chịu đựng; úp mở đang chuẩn bị con cho "điều gì đó lớn hơn"; né tránh câu hỏi về đêm Ronan sinh ra |
 | 5 | Chịu 100 roi công khai gần như không phát ra âm thanh; nhìn Ronan lần cuối trước khi bị đưa đi phục dịch trong đội cận vệ Varmont |
+| 7 | (thoáng qua) Đứng gác ở cổng thành khi Ronan đi ngang qua; không được phép nói chuyện |
+| 10 | Liều lĩnh tiếp cận Ronan trong lúc đổi ca tuần tra; cảnh báo dở dang về bí mật giấu dưới sàn căn nhà ở Rừng Bạc Sương trước khi bị viên đội trưởng cắt ngang; chỉ kịp nói "Đừng bao giờ cho ai sửa sàn căn nhà" |

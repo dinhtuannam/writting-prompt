@@ -129,7 +129,7 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Kỷ luật, bí ẩn, hy vọng nhỏ
 - **Xuất hiện:** nhân vật: Ronan, Garreth, Rodrick | phe: Gia tộc Varmont | địa danh: Thành Varmont | hệ thống: Ấn Thú, Vòng Cổ Khuất Phục
 - **Điểm kết chương (bắt buộc giữ):** Rodrick bị cắt ngang: "Đừng bao giờ cho ai sửa sàn căn nhà."
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 11: Bàn Cờ Của Cha (POV Isolde)
 - **Mục tiêu chương:** Isolde nhận ra Ronan là quân cờ; nghe lỏm áp lực ba phía

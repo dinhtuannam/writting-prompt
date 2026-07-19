@@ -26,3 +26,6 @@ Isolde thức tỉnh Ấn Rồng năm lên bảy tuổi — sớm bất thườn
 
 ## Chương 9
 Giáo Hội chính thức gửi thư đòi Arik giao nộp Ronan viện dẫn Sắc Lệnh Xiềng Bạc; Arik từ chối, nhưng thẳng thắn thừa nhận đó không phải lòng tốt — chỉ vì Ronan còn giá trị sử dụng. Đơn xin gặp con của cả Rodrick lẫn Maela đều bị bác. Ronan được sai đi chợ mua cỏ khô, chứng kiến định kiến công khai (câu dọa trẻ quen thuộc) và một phu buôn lạ dõi theo cậu với ánh mắt khác thường — tai mắt của Vảy Đen, dù Ronan chưa biết điều đó. Chương kết bằng lời cảnh cáo trực diện của Arik: "Ngươi sống vì ta còn dùng được. Đừng cho ta lý do tính lại." Ronan nhận ra mình đang là quân cờ giữa quá nhiều thế lực cùng lúc.
+
+## Chương 10
+Garreth chuyển sang huấn luyện với vũ khí thật. Trong trận đấu tập với lính trẻ Fenner, một nhát chém chí mạng buộc bản năng Ronan phản ứng theo cách cậu chưa từng được dạy — ấn Leviathan "cựa mình" lần thứ hai, khiến vòng cổ nóng lên đột ngột rồi trở lại bình thường. Garreth nhận ra sự bất thường và bắt đầu quan sát Ronan với sự chú ý mới. Trong lúc đổi ca tuần tra, Rodrick liều lĩnh phá vỡ khoảng cách câm lặng, quỳ xuống giả vờ kiểm tra vết thương của con trai để thì thầm cảnh báo về một bí mật giấu dưới sàn căn nhà ở Rừng Bạc Sương — nhưng bị viên đội trưởng cắt ngang trước khi giải thích rõ. Ông chỉ kịp để lại một câu: "Đừng bao giờ cho ai sửa sàn căn nhà."

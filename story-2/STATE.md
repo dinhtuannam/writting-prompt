@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 9
+- **Chương hiện tại đã viết xong:** 10
 - **Arc hiện tại:** Arc 01 — Vòng Cổ (ch 1-12, kế hoạch tại `plot/arc-plans/arc-01.md`)
-- **Ngày/thời điểm trong truyện:** Vài ngày sau chương 8
-- **POV hiện tại:** Ronan — chương 10 tiếp tục POV Ronan (huấn luyện với Garreth, cha lén nhắn về căn nhà)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, một mình trong phòng xép
-- **Địa điểm hiện tại:** Phòng xép cạnh chuồng ngựa, thành Varmont
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Giáo Hội chính thức đòi giao nộp Ronan (bị Arik từ chối); đơn xin gặp con của Rodrick và Maela đều bị bác; một phu buôn lạ (tai mắt Vảy Đen) đã để ý tới Ronan ở chợ; Arik cảnh cáo Ronan trực diện
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan nhận ra mình đang ở giữa một bàn cờ với quá nhiều người chơi, không ai trong số họ thực sự quan tâm tới cậu như một con người
-- **Mục tiêu ngắn hạn của nhân vật chính:** Tiếp tục sống nhịp dã thú, học đọc chữ lén lút, trong khi áp lực từ mọi phía tiếp tục siết chặt
+- **Ngày/thời điểm trong truyện:** Khoảng 2 tuần sau nghi thức khế ước
+- **POV hiện tại:** Ronan — chương 11 chuyển sang POV Isolde (Bàn Cờ Của Cha)
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, một mình sau khi đội tuần tra rời đi
+- **Địa điểm hiện tại:** Bãi tập, thành Varmont
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Ronan vừa huấn luyện với vũ khí thật, ấn Leviathan "cựa mình" lần thứ hai (vòng cổ nóng lên) khi phản xạ chặn một đòn chí mạng; Rodrick lén nhắn dở dang về một bí mật giấu dưới sàn căn nhà ở Rừng Bạc Sương trước khi bị cắt ngang
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Câu nói bí ẩn "đừng bao giờ cho ai sửa sàn căn nhà" treo lơ lửng, chưa rõ ý nghĩa
+- **Mục tiêu ngắn hạn của nhân vật chính:** (Isolde chương tới) đối mặt với áp lực leo thang từ mọi phía trong khi nhìn thấy rõ hơn bản chất tính toán lạnh lùng của cha mình
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - **BẮT BUỘC trước khi hoàn thành mỗi chương:** kiểm tra `characters/_index.md` — mọi nhân vật đã xuất hiện quá 1-2 chương phải có Dấu Ấn + Tầng Cộng Hưởng được ghi rõ (tiết lộ, gợi ý, tin đồn, hoặc giấu có chủ đích — không được để trống hoặc lờ đi). Xem "Quy tắc tối thượng" trong `style/style-guide.md`. Hiện không có nhân vật nào đang treo; Rodrick/Maela/Garreth có Tầng ở mức "gợi ý", chưa xác nhận chính xác — có thể xác nhận rõ hơn ở arc sau nếu hợp lý. Nhân vật mới xuất hiện tiếp theo cần xử lý trong vòng 1-2 chương như thường lệ.
