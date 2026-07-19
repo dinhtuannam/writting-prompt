@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con gái duy nhất của Lãnh chúa Arik Varmont. Vừa được Ronan cứu mạng khỏi Sói Sương (chương 2) — người hộ vệ đi cùng cô đã chết trong trận đó.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Chưa biết rằng cha mình sau này sẽ ra lệnh giết cha mẹ của Ronan — người vừa cứu mạng cô.
 - **Giọng nói / cách nói chuyện đặc trưng:** Hỏi thẳng, không vòng vo, kể cả những câu hỏi khiến người khác khó chịu ("Cậu... cậu ổn không?")
-- **Trạng thái hiện tại:** Vừa lần đầu công khai dùng quyền chủ nhân để đưa Ronan vào khu cách ly thăm mẹ — cuối chương 19
-- **Xuất hiện lần cuối:** Chương 19
+- **Trạng thái hiện tại:** Vừa chứng kiến cái chết của Maela và sự im lặng đáng sợ của Ronan sau đó — cuối chương 20
+- **Xuất hiện lần cuối:** Chương 20
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -35,3 +35,4 @@ cập-nhật-cuối: chương 2
 | 17 | Bí mật dàn xếp và hộ tống Ronan tới gặp mẹ tại trại thương binh; đứng canh chừng trong lúc hai mẹ con đoàn tụ |
 | 18 | (POV) Chứng kiến sứ giả Corvin đưa đề nghị chính thức (giao Ronan đổi lấy hoãn vụ Vercast); Arik từ chối nhưng không cam kết; đối chất cha, hỏi thẳng ông sẽ chọn ai — ông không trả lời |
 | 19 | Lần đầu công khai dùng quyền chủ nhân, buộc lính canh cho Ronan vào khu cách ly trại thương binh giữa cơn dịch |
+| 20 | Chứng kiến cái chết của Maela; nhận thấy Ronan hoàn toàn không khóc — một sự im lặng đáng sợ hơn cả cơn gào khóc đêm phán quyết; cậu rời đi tuyên bố "có việc cần làm" |

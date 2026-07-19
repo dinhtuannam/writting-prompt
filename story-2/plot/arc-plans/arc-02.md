@@ -110,7 +110,7 @@
 - **Cảm xúc chủ đạo:** Tang trắng, im lặng đáng sợ hơn gào khóc
 - **Xuất hiện:** nhân vật: Ronan, Maela | phe: — | địa danh: Thành Varmont | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Thứ đã nguội đi ở chương 5 giờ đông cứng thành băng — Ronan im lặng, và sự im lặng đó đáng sợ hơn
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 21: Hai Nấm Mộ
 - **Mục tiêu chương:** Isolde cãi lệnh cha công khai để chôn Maela cạnh Rodrick

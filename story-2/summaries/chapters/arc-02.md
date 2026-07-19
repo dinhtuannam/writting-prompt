@@ -20,3 +20,6 @@ Sứ giả Tể tướng Corvin, Bá tước Aldwin, trở lại thành Varmont 
 
 ## Chương 19
 Cơn dịch bất ngờ bùng phát đúng khu vực Maela phụ trách tại trại thương binh, lây lan nhanh bất thường giữa các bệnh nhân đang hồi phục. Ronan bị chặn ở cổng theo lệnh cách ly nghiêm ngặt, đứng chờ vô vọng suốt buổi chiều. Isolde tìm thấy cậu, và lần đầu tiên công khai dùng quyền chủ nhân để buộc lính canh cho "dã thú của mình" vào trong. Bên trong, khung cảnh hỗn loạn: Maela đang sốt cao, chính bà giờ là bệnh nhân của mình. Sau một khoảnh khắc đờ đẫn đáng sợ, bà nhận ra con trai qua màn sốt, gọi tên cậu. Ronan hứa với mẹ rằng bà sẽ ổn — một lời hứa cậu không chắc có thể giữ được.
+
+## Chương 20
+Ronan ở bên mẹ suốt đêm khi cơn sốt lên xuống thất thường; gần sáng, hơi thở bà yếu dần. Vị thầy thuốc xác nhận không còn gì có thể làm. Maela nhận ra con lần cuối, nói lời cuối cùng: "Mẹ chưa bao giờ hối hận. Cứu con là điều đúng đắn nhất cha mẹ từng làm" — rồi qua đời nhẹ nhàng. Khác hẳn cơn gào khóc dữ dội đêm phán quyết, Ronan hoàn toàn im lặng, không một giọt nước mắt — một sự tĩnh lặng khiến Isolde (chứng kiến từ đầu đến cuối) sợ hãi hơn bất kỳ biểu hiện đau buồn dữ dội nào. Cậu đứng dậy, tuyên bố ngắn gọn "Tôi cần đi. Có việc tôi cần làm" rồi rời khỏi phòng, để lại Isolde một mình với câu hỏi cậu định làm gì.

@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 19
+- **Chương hiện tại đã viết xong:** 20
 - **Arc hiện tại:** Arc 02 — Tang Trắng (ch 13-24, kế hoạch tại `plot/arc-plans/arc-02.md`)
-- **Ngày/thời điểm trong truyện:** Cùng ngày, chiều muộn
-- **POV hiện tại:** Ronan — chương 20 tiếp tục POV Ronan (cái chết của Maela)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Isolde, Maela (đang sốt nặng)
-- **Địa điểm hiện tại:** Khu cách ly, trại thương binh, thành Varmont
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Cơn dịch bùng phát đúng khu vực Maela phụ trách; Ronan bị chặn ở cổng, Isolde dùng quyền chủ nhân để đưa cậu vào; Maela nhận ra con qua màn sốt
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan hứa với mẹ rằng bà sẽ ổn — một lời hứa cậu không chắc giữ được
-- **Mục tiêu ngắn hạn của nhân vật chính:** Ở lại bên mẹ, hy vọng cơn sốt sẽ qua
+- **Ngày/thời điểm trong truyện:** Bình minh, ngay sau chương 19
+- **POV hiện tại:** Ronan — chương 21 tiếp tục POV Ronan (an táng, Isolde cãi lệnh cha)
+- **Nhân vật đang có mặt tại hiện trường:** Ronan (vừa rời phòng), Isolde (ở lại với thi thể Maela)
+- **Địa điểm hiện tại:** Khu cách ly, trại thương binh → Ronan đang rời đi
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Maela qua đời vì cơn sốt lúc gần sáng; lời cuối: "Mẹ chưa bao giờ hối hận"; Ronan hoàn toàn im lặng, không khóc — một sự tĩnh lặng đáng sợ hơn cả cơn gào khóc đêm phán quyết
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan nói "Tôi cần đi. Có việc tôi cần làm" rồi rời đi — Isolde không biết cậu định làm gì
+- **Mục tiêu ngắn hạn của nhân vật chính:** Cả cha lẫn mẹ đều đã mất — mối thù giờ là điều duy nhất còn lại làm xương sống cho cậu
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - **BẮT BUỘC trước khi hoàn thành mỗi chương:** kiểm tra `characters/_index.md` — mọi nhân vật đã xuất hiện quá 1-2 chương phải có Dấu Ấn + Tầng Cộng Hưởng được ghi rõ (tiết lộ, gợi ý, tin đồn, hoặc giấu có chủ đích — không được để trống hoặc lờ đi). Xem "Quy tắc tối thượng" trong `style/style-guide.md`. Hiện không có nhân vật nào đang treo; Rodrick/Maela/Garreth có Tầng ở mức "gợi ý", chưa xác nhận chính xác — có thể xác nhận rõ hơn ở arc sau nếu hợp lý. Nhân vật mới xuất hiện tiếp theo cần xử lý trong vòng 1-2 chương như thường lệ.
