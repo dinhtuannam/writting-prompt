@@ -114,7 +114,7 @@
 - **Cảm xúc chủ đạo:** Căng thẳng xã hội, cô đơn.
 - **Xuất hiện:** nhân vật: Elk, trưởng làng Doran, bà Yssa, Mira | phe: Vương quốc Calrath (qua luật lệ) | địa danh: Làng Cỏ Gai | hệ thống: Chu Kỳ & Thiên Quyền (định kiến Đại Tội)
 - **Điểm kết chương (bắt buộc giữ):** Người đưa tin lên đường về phía kinh đô Calmont.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 10: Người Thợ Săn Không Còn
 - **Mục tiêu chương:** Elk đối diện mất mát cá nhân — gặp Toren, con trai Halden, trở về nghe tin cha mất.

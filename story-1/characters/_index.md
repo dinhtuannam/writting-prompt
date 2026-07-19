@@ -15,5 +15,8 @@
 | Ngài Wrenmoor | Điền chủ nhỏ quanh Cỏ Gai (chưa xuất hiện trực tiếp) | còn sống | `wrenmoor.md` |
 | Kess | Kẻ cầm đầu toán cướp — pháp sư nguyên tố Hỏa phản bội | còn sống | `kess.md` |
 | Gia đình Perrin | Hàng xóm của Elk, có ba con nhỏ | còn sống | `perrin.md` |
+| Trưởng làng Doran | Trưởng làng Cỏ Gai | còn sống | `doran.md` |
+| Wyle | Thanh niên đưa tin lên Calmont | còn sống | `wyle.md` |
+| Mera | Dân làng lo sợ Dấu Ấn của Elk | còn sống | `mera.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).

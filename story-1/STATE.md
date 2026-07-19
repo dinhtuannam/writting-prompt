@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 8
-- **Arc hiện tại:** Arc 01 — Đêm Cỏ Gai Cháy (đang viết, chương 8/12 xong)
-- **Ngày/thời điểm trong truyện:** Đêm sau ngày dọn dẹp đầu tiên
+- **Chương hiện tại đã viết xong:** 9
+- **Arc hiện tại:** Arc 01 — Đêm Cỏ Gai Cháy (đang viết, chương 9/12 xong)
+- **Ngày/thời điểm trong truyện:** Sáng ngày thứ tư sau tập kích
 - **POV hiện tại:** Elk (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Elk (một mình, nằm nghỉ ở nhà hàng xóm cho mượn)
-- **Địa điểm hiện tại:** Làng Cỏ Gai — nhà hàng xóm (tạm trú)
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Elk vừa nghe lỏm hai người phụ nữ thì thầm lo ngại về việc để con họ gần cậu. Chương 9 ("Ánh Mắt Người Làng") cần leo thang phản ứng xã hội — trưởng làng Doran viện luật "phải trình báo Selector trong 3 ngày", quyết định cử người báo tin lên Calrath bất chấp phản đối của bà Yssa/Mira.
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Elk hiểu rằng ánh mắt dò xét của dân làng sẽ không biến mất, có lẽ không bao giờ biến mất hoàn toàn.
-- **Mục tiêu ngắn hạn của nhân vật chính:** Cố gắng thích nghi với việc cả làng giờ nhìn mình khác đi; chưa biết phải làm gì tiếp theo.
+- **Nhân vật đang có mặt tại hiện trường:** Elk, bà Yssa (tại cổng làng, nhìn Wyle rời đi)
+- **Địa điểm hiện tại:** Làng Cỏ Gai — cổng làng
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Wyle vừa lên đường tới Calmont mang tin về Elk. Chương 10 ("Người Thợ Săn Không Còn") cần Elk đối diện mất mát cá nhân — gặp Toren, con trai Halden, trở về nghe tin cha mất.
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Elk biết khoảng thời gian trước khi triều đình cử người tới sẽ không đủ dài.
+- **Mục tiêu ngắn hạn của nhân vật chính:** Đối diện với hậu quả cá nhân của tang lễ Halden trong lúc chờ đợi phản hồi từ Calmont.
 
 ## Ghi chú cho AI khi viết chương tiếp theo
-Chương 9 ("Ánh Mắt Người Làng") cần: giới thiệu trưởng làng Doran; ông (và một số dân làng) viện luật Calrath bắt buộc trình báo Selector trong 3 ngày; quyết định cử người báo tin lên Calmont bất chấp phản đối của bà Yssa/Mira. Kết chương: người đưa tin lên đường về phía kinh đô Calmont.
+Chương 10 ("Người Thợ Săn Không Còn") cần: Toren (con trai Halden) trở về nghe tin cha mất; đổ lỗi cho Elk trong cơn đau dù không công bằng; Elk bắt đầu âm thầm tự tập kiểm soát "hơi ấm" trong ngực, quyết không để mất kiểm soát lần nữa (mở thread dài hạn "Elk tự học kiểm soát Tích/Phát"). Kết chương: Toren rời đi không nói thêm lời nào, để lại Elk một mình bên mộ Halden.
