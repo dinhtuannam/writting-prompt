@@ -90,7 +90,7 @@
 - **Cảm xúc chủ đạo:** Lạnh, bất lực
 - **Xuất hiện:** nhân vật: Isolde, Arik | phe: Vương triều Aldenn, Gia tộc Varmont | địa danh: Thành Varmont | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Isolde hỏi thẳng "Nếu phải chọn giữa con và lãnh địa, cha chọn gì?" — Arik không trả lời
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 19: Cơn Dịch
 - **Mục tiêu chương:** Dịch bùng ở khu Maela phụ trách; bà nhiễm bệnh

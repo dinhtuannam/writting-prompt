@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 17
+- **Chương hiện tại đã viết xong:** 18
 - **Arc hiện tại:** Arc 02 — Tang Trắng (ch 13-24, kế hoạch tại `plot/arc-plans/arc-02.md`)
-- **Ngày/thời điểm trong truyện:** Vài ngày sau chương 16
-- **POV hiện tại:** Ronan — chương 18 chuyển sang POV Isolde (đề nghị chính thức từ Vercast)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, đang trên đường về phòng xép cùng Isolde
-- **Địa điểm hiện tại:** Sân trong, thành Varmont (trên đường từ trại thương binh về)
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Isolde dàn xếp cho Ronan gặp mẹ tại trại thương binh; cuộc gặp ấm áp nhưng ngắn ngủi; Ronan thấy một thùng vật tư y tế mang dấu triện lạ (hình xoắn ốc) nhưng không nghĩ ngợi nhiều
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Dấu triện lạ trên thùng vật tư — chi tiết nhỏ chưa được chú ý đúng mức
-- **Mục tiêu ngắn hạn của nhân vật chính:** (Isolde chương tới) đối mặt đề nghị chính thức mới từ Vercast
+- **Ngày/thời điểm trong truyện:** Buổi sáng tuyết rơi dày, vài ngày sau chương 17
+- **POV hiện tại:** Isolde — chương 19 chuyển sang POV Ronan (cơn dịch tại trại thương binh)
+- **Nhân vật đang có mặt tại hiện trường:** Isolde, một mình, vừa rời phòng làm việc của cha
+- **Địa điểm hiện tại:** Hành lang thành Varmont, trên đường về phòng riêng
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Sứ giả Corvin (Bá tước Aldwin) đưa ra đề nghị chính thức: giao Ronan cho Giáo Hội thì hoãn vô thời hạn việc Isolde phải tới Vercast; Arik từ chối giao Ronan nhưng cũng không hứa sẽ luôn ưu tiên con gái nếu áp lực đủ lớn
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Isolde hỏi thẳng cha "Nếu phải chọn giữa con và lãnh địa, cha chọn gì?" — ông không trả lời
+- **Mục tiêu ngắn hạn của nhân vật chính:** (Ronan chương tới) đối mặt cơn dịch bùng phát tại trại thương binh nơi mẹ cậu phục vụ
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - **BẮT BUỘC trước khi hoàn thành mỗi chương:** kiểm tra `characters/_index.md` — mọi nhân vật đã xuất hiện quá 1-2 chương phải có Dấu Ấn + Tầng Cộng Hưởng được ghi rõ (tiết lộ, gợi ý, tin đồn, hoặc giấu có chủ đích — không được để trống hoặc lờ đi). Xem "Quy tắc tối thượng" trong `style/style-guide.md`. Hiện không có nhân vật nào đang treo; Rodrick/Maela/Garreth có Tầng ở mức "gợi ý", chưa xác nhận chính xác — có thể xác nhận rõ hơn ở arc sau nếu hợp lý. Nhân vật mới xuất hiện tiếp theo cần xử lý trong vòng 1-2 chương như thường lệ.

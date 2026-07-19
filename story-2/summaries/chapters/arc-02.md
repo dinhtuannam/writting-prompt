@@ -14,3 +14,6 @@ Ronan hồi tưởng lời mẹ thì thầm lúc ôm — quá nhỏ để Isolde
 
 ## Chương 17
 Isolde bí mật dàn xếp cho Ronan gặp mẹ tại trại thương binh. Cuộc đoàn tụ ấm áp nhưng ngắn ngủi: Maela gầy rộc nhưng vẫn tận tụy chăm sóc bệnh nhân; hai mẹ con né tránh nhắc trực tiếp tới cái chết của Rodrick, chỉ chạm tới ông qua một kỷ niệm vui. Trong lúc phụ dọn kho vật tư, Ronan để ý một thùng gỗ mới mang dấu triện lạ (hình xoắn ốc, không phải huy hiệu Varmont hay Giáo Hội) — Maela giải thích qua loa là "vật tư bổ sung từ một thương nhân", không ai trong hai người nghĩ ngợi thêm. Chương kết bằng hình ảnh ấm áp của cuộc chia tay, dù bóng tối của những câu hỏi chưa lời đáp vẫn lởn vởn trong tâm trí Ronan.
+
+## Chương 18 (POV Isolde)
+Sứ giả Tể tướng Corvin, Bá tước Aldwin, trở lại thành Varmont với "đề nghị chính thức hơn": nếu Arik giao Ronan cho Giáo Hội, việc Isolde phải tới Vercast sẽ được hoãn vô thời hạn. Arik công khai từ chối giao Ronan, nhưng cảnh báo ngầm về sự kiên nhẫn có hạn của triều đình. Sau khi sứ giả rời đi, Isolde đối chất riêng với cha, nhận ra rõ ràng: cô và Ronan giờ là hai quân cờ trên cùng một bàn cân chính trị. Cô hỏi thẳng cha sẽ chọn gì nếu buộc phải chọn giữa con gái và lãnh địa — Arik im lặng không trả lời, một sự im lặng nói lên nhiều hơn bất kỳ lời đáp nào.
