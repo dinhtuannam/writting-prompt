@@ -17,10 +17,11 @@ cập-nhật-cuối: chương 3
 - **Mối quan hệ với nhân vật khác:** Cha của Isolde Varmont. Sắp đưa ra phán quyết định đoạt số phận Ronan, Rodrick, Maela.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Sẽ là người ra lệnh giết Rodrick và Maela sau này (xem `plot/secrets/ai-giet-bo-me-ronan.md` — KHÔNG được hé lộ trước lịch); từng cho chôn sống tù binh trong Chiến Tranh Biên Thùy (xem `plot/secrets/bi-mat-chien-tranh-bien-thuy.md`).
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ngắn, gọn, như đọc báo cáo quân sự; hiếm khi hỏi lại, thường chỉ lặp lại thông tin để xác nhận.
-- **Trạng thái hiện tại:** Còn sống, đang cân nhắc quyết định về Ronan
-- **Xuất hiện lần cuối:** Chương 3
+- **Trạng thái hiện tại:** Còn sống, vừa tuyên phán quyết định đoạt số phận cả gia đình Ronan
+- **Xuất hiện lần cuối:** Chương 4
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 3 | Nghe Isolde kể lại (bản đã lược bớt chi tiết) vụ Sói Sương tấn công; xác nhận đó là Ấn Leviathan; ra lệnh triệu quan tòa lãnh địa; nhận định "Nó đã cứu mạng con... Điều đó thay đổi mọi thứ. Và cũng chẳng thay đổi gì cả." |
+| 4 | Tuyên phán quyết đầy đủ cho Ronan: sống vì cứu Isolde và vì Rodrick từng là lính của ông; buông câu 2 nghĩa "giờ thì ta đã hiểu vì sao ông ấy xin rời xa mọi người"; tuyên 100 roi + phục dịch trọn đời cho Rodrick/Maela, Ronan thuộc về Isolde |

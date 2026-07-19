@@ -69,7 +69,7 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Lạnh, nghẹt
 - **Xuất hiện:** nhân vật: Ronan, Arik | phe: Gia tộc Varmont | địa danh: Thành Varmont | hệ thống: Vòng Cổ Khuất Phục
 - **Điểm kết chương (bắt buộc giữ):** Gào đến khản, giẻ nhét miệng, thuốc an thần — màn đen
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 5: Một Trăm Roi
 - **Mục tiêu chương:** Hình phạt công khai cha mẹ Ronan
