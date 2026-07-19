@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 5
 - **Mối quan hệ với nhân vật khác:** Vợ Rodrick, mẹ Ronan.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Biết một phần lý do thật sự Rodrick xin rời quân ngũ, nhưng chưa từng nói ra với Ronan.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nhẹ nhàng, hay pha chút hài hước khô khan với người quen (vd với bà lang Yssa).
-- **Trạng thái hiện tại:** Góa phụ, phục dịch tại trại thương binh; lời thì thầm lúc ôm con giờ đã được tiết lộ đầy đủ ("Sống. Và đừng để hận thù ăn con trước khi nó kịp nuôi con lớn.")
-- **Xuất hiện lần cuối:** Chương 16 (lời nói được nhắc lại qua hồi tưởng của Ronan)
+- **Trạng thái hiện tại:** Góa phụ, phục dịch tại trại thương binh; vừa có buổi đoàn tụ ấm áp với con trai
+- **Xuất hiện lần cuối:** Chương 17
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -26,3 +26,4 @@ cập-nhật-cuối: chương 5
 | 1 | Đưa Ronan xuống Làng Mốc Sương giao thuốc cho bà lang Yssa; né tránh câu hỏi về đêm Ronan sinh ra cùng Rodrick |
 | 5 | Chịu 100 roi công khai, giữ được sự tĩnh lặng lạ thường; ngất ở nhát thứ tám mươi; nhìn Ronan lần cuối trước khi bị đưa đi phục dịch ở trại thương binh |
 | 15 | (từ góc nhìn Isolde) Được phép dự tang chồng dưới giám sát; ôm Ronan đúng 10 nhịp thở trước khi bị tách ra |
+| 17 | Đoàn tụ ấm áp ngắn ngủi với Ronan tại trại thương binh (dàn xếp bởi Isolde); nhắc tới thùng vật tư "bổ sung từ một thương nhân" không rõ nguồn gốc |

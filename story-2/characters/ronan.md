@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick (Ấn Gấu) và Maela (Ấn Bồ Câu). Vừa gặp Isolde Varmont lần đầu (chương 2) — cứu mạng cô khỏi Sói Sương, đổi lại bị thương nặng.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan, thân phận bị giấu kín từ lúc sinh — cha mẹ khai man là "chỉ mang hình xăm rắn thường".
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít, câu ngắn, gọn — đặc biệt gọn khi đang chịu đau đớn hoặc căng thẳng cực độ ("Chạy đi. Gọi người... giúp.")
-- **Trạng thái hiện tại:** Âm thầm tích lũy manh mối về cái chết của cha; nhận ra Garreth né tránh ánh mắt mình — cuối chương 16
-- **Xuất hiện lần cuối:** Chương 16
+- **Trạng thái hiện tại:** Vừa có buổi đoàn tụ ấm áp ngắn ngủi với mẹ tại trại thương binh — cuối chương 17
+- **Xuất hiện lần cuối:** Chương 17
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -39,3 +39,4 @@ cập-nhật-cuối: chương 2
 | 14 | Nhận tin cha tử trận trong cuộc phục kích; đứng nhìn thi thể; phát hiện chi tiết địa hình sai trong báo cáo chính thức; thì thầm trước xác cha "cha dạy con chịu đựng, nhưng cha không dạy con cái này" |
 | 15 | (từ góc nhìn Isolde) Dự tang lễ cha; được mẹ ôm đúng 10 nhịp thở trước khi bị tách ra — cuộc đoàn tụ đầu và cuối |
 | 16 | Hồi tưởng lời mẹ thì thầm; cố dò hỏi về vụ phục kích, bị chặn mọi ngả; nhận ra Garreth không còn dám nhìn thẳng vào mắt mình |
+| 17 | Được Isolde dàn xếp gặp mẹ tại trại thương binh; đoàn tụ ấm áp ngắn ngủi; phát hiện thùng vật tư mang dấu triện lạ nhưng không nghĩ ngợi nhiều |

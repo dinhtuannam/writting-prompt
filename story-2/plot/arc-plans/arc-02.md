@@ -80,7 +80,7 @@
 - **Cảm xúc chủ đạo:** Ấm áp mong manh
 - **Xuất hiện:** nhân vật: Ronan, Maela, Isolde | phe: Nghiệp Đoàn Xiềng Bạc (ngầm) | địa danh: Thành Varmont (trại thương binh) | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Ronan lướt qua thùng vật tư mang dấu triện không phải của Varmont lẫn Giáo Hội — chưa nghĩ gì nhiều
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 18: Đề Nghị Chính Thức (POV Isolde)
 - **Mục tiêu chương:** Sứ giả Corvin trở lại với điều kiện ngầm
