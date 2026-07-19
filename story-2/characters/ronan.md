@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick (Ấn Gấu) và Maela (Ấn Bồ Câu). Vừa gặp Isolde Varmont lần đầu (chương 2) — cứu mạng cô khỏi Sói Sương, đổi lại bị thương nặng.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan, thân phận bị giấu kín từ lúc sinh — cha mẹ khai man là "chỉ mang hình xăm rắn thường".
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít, câu ngắn, gọn — đặc biệt gọn khi đang chịu đau đớn hoặc căng thẳng cực độ ("Chạy đi. Gọi người... giúp.")
-- **Trạng thái hiện tại:** Chính thức thuộc về Isolde qua nghi thức khế ước; sống trong phòng xép cạnh chuồng ngựa — cuối chương 6
-- **Xuất hiện lần cuối:** Chương 6
+- **Trạng thái hiện tại:** Sống nhịp dã thú thường nhật; vừa được Isolde hỏi thăm lần đầu kể từ nghi thức khế ước — cuối chương 7
+- **Xuất hiện lần cuối:** Chương 7
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -29,3 +29,4 @@ cập-nhật-cuối: chương 2
 | 4 | Tỉnh dậy trong phòng giam; nghe Arik tuyên phán quyết đầy đủ (100 roi + phục dịch trọn đời cho cha mẹ, bản thân thuộc về Isolde); phản kháng dữ dội, bị ép uống thuốc an thần |
 | 5 | Bị buộc chứng kiến cha mẹ chịu 100 roi công khai; đối mặt trực tiếp với định kiến của đám đông và câu dọa trẻ về Leviathan; nhận ánh mắt cuối cùng của cha mẹ trước khi họ bị đưa đi phục dịch; có thứ gì đó trong cậu nguội đi vĩnh viễn |
 | 6 | Trải qua nghi thức khế ước chính thức xác lập thuộc về Isolde; nghe giải thích cơ chế vòng cổ; chuyển tới sống trong phòng xép cạnh chuồng ngựa; tự nhủ "đây chỉ là tạm thời" |
+| 7 | Lao động nặng và huấn luyện dưới sự giám sát của Garreth; thoáng thấy cha mà không được nói chuyện; bị ba lính trẻ thử gan; Isolde lén đến thăm, hỏi Ấn của cậu có đau không |

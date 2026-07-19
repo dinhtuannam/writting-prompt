@@ -99,7 +99,7 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Chai lì, có tia ấm cuối
 - **Xuất hiện:** nhân vật: Ronan, Garreth, Rodrick (xa), lính Varmont | phe: Gia tộc Varmont | địa danh: Thành Varmont | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Isolde lén đến chuồng ngựa: "Ấn của cậu… nó có đau không?"
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 8: Lồng Son (POV Isolde)
 - **Mục tiêu chương:** Đời Isolde: áp lực Vercast, cãi lệnh cha lần đầu
