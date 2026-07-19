@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 7
+- **Chương hiện tại đã viết xong:** 8
 - **Arc hiện tại:** Arc 01 — Vòng Cổ (ch 1-12, kế hoạch tại `plot/arc-plans/arc-01.md`)
-- **Ngày/thời điểm trong truyện:** Vài ngày sau nghi thức khế ước
-- **POV hiện tại:** Ronan — chương 8 chuyển sang POV Isolde (Lồng Son)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, Isolde (vừa đến thăm lén)
+- **Ngày/thời điểm trong truyện:** Vài ngày sau chương 7 (2 đêm liên tiếp Isolde ghé thăm)
+- **POV hiện tại:** Isolde — chương 9 chuyển lại POV Ronan (tin từ Vercast leo thang)
+- **Nhân vật đang có mặt tại hiện trường:** Isolde, Ronan
 - **Địa điểm hiện tại:** Phòng xép cạnh chuồng ngựa, thành Varmont
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Isolde lén đến thăm Ronan, vừa hỏi liệu Ấn của cậu có đau không
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Câu hỏi của Isolde còn treo lơ lửng — dấu hiệu đầu tiên cho thấy mối quan hệ giữa hai người bắt đầu vượt ra khỏi khuôn khổ chủ-tớ
-- **Mục tiêu ngắn hạn của nhân vật chính:** (Isolde chương tới) đối mặt với áp lực từ Vercast đòi cô về làm "khách quý", trong khi mối quan hệ với Ronan đang chớm thành thật
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Isolde vừa tặng Ronan một quyển sách cũ để dạy cậu đọc chữ, bất chấp lệnh cấm gặp mặt của Arik; áp lực từ Vercast đòi cô làm "khách quý" đang treo lơ lửng
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Isolde cảm nhận một sự ấm áp nhỏ nhoi không dám gọi tên giữa áp lực đang đè nặng lên cô
+- **Mục tiêu ngắn hạn của nhân vật chính:** (Ronan chương tới) tiếp tục sống nhịp dã thú trong khi áp lực từ Giáo Hội và Vercast ngày càng siết chặt quanh cả hai gia tộc
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - **BẮT BUỘC trước khi hoàn thành mỗi chương:** kiểm tra `characters/_index.md` — mọi nhân vật đã xuất hiện quá 1-2 chương phải có Dấu Ấn + Tầng Cộng Hưởng được ghi rõ (tiết lộ, gợi ý, tin đồn, hoặc giấu có chủ đích — không được để trống hoặc lờ đi). Xem "Quy tắc tối thượng" trong `style/style-guide.md`. Hiện không có nhân vật nào đang treo; Rodrick/Maela/Garreth có Tầng ở mức "gợi ý", chưa xác nhận chính xác — có thể xác nhận rõ hơn ở arc sau nếu hợp lý. Nhân vật mới xuất hiện tiếp theo cần xử lý trong vòng 1-2 chương như thường lệ.

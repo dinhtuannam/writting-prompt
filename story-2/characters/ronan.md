@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick (Ấn Gấu) và Maela (Ấn Bồ Câu). Vừa gặp Isolde Varmont lần đầu (chương 2) — cứu mạng cô khỏi Sói Sương, đổi lại bị thương nặng.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan, thân phận bị giấu kín từ lúc sinh — cha mẹ khai man là "chỉ mang hình xăm rắn thường".
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít, câu ngắn, gọn — đặc biệt gọn khi đang chịu đau đớn hoặc căng thẳng cực độ ("Chạy đi. Gọi người... giúp.")
-- **Trạng thái hiện tại:** Sống nhịp dã thú thường nhật; vừa được Isolde hỏi thăm lần đầu kể từ nghi thức khế ước — cuối chương 7
-- **Xuất hiện lần cuối:** Chương 7
+- **Trạng thái hiện tại:** Bắt đầu học đọc chữ nhờ Isolde; quan hệ hai người tiến triển rõ rệt — cuối chương 8
+- **Xuất hiện lần cuối:** Chương 8
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -30,3 +30,4 @@ cập-nhật-cuối: chương 2
 | 5 | Bị buộc chứng kiến cha mẹ chịu 100 roi công khai; đối mặt trực tiếp với định kiến của đám đông và câu dọa trẻ về Leviathan; nhận ánh mắt cuối cùng của cha mẹ trước khi họ bị đưa đi phục dịch; có thứ gì đó trong cậu nguội đi vĩnh viễn |
 | 6 | Trải qua nghi thức khế ước chính thức xác lập thuộc về Isolde; nghe giải thích cơ chế vòng cổ; chuyển tới sống trong phòng xép cạnh chuồng ngựa; tự nhủ "đây chỉ là tạm thời" |
 | 7 | Lao động nặng và huấn luyện dưới sự giám sát của Garreth; thoáng thấy cha mà không được nói chuyện; bị ba lính trẻ thử gan; Isolde lén đến thăm, hỏi Ấn của cậu có đau không |
+| 8 | (từ góc nhìn Isolde) Kể cho Isolde nghe về Rừng Bạc Sương và cha mẹ mình; nhận một quyển sách cũ từ cô để học đọc chữ, bất chấp lệnh cấm của Arik |

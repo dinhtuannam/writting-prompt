@@ -109,7 +109,7 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Ngột ngạt lồng son → ấm cuối chương
 - **Xuất hiện:** nhân vật: Isolde, Arik, sứ giả Vercast | phe: Gia tộc Varmont, Vương triều Aldenn | địa danh: Thành Varmont | hệ thống: Ấn Thú
 - **Điểm kết chương (bắt buộc giữ):** Đưa Ronan quyển sách cũ — "Dã thú không cần biết chữ. Nhưng cậu không phải dã thú."
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 9: Tin Từ Vercast
 - **Mục tiêu chương:** Áp lực Giáo Hội leo thang; Ronan chứng kiến mình là "tài sản" trong lời người khác
