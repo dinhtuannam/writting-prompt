@@ -44,7 +44,7 @@
 - **Cảm xúc chủ đạo:** Ấm, gắn bó, hài hước nhẹ.
 - **Xuất hiện:** nhân vật: Elk, Halden | phe: — | địa danh: Làng Cỏ Gai (vùng rừng ven làng) | hệ thống: Hệ thống Chiến Đấu (Đấu sĩ, ngầm qua kỹ thuật săn)
 - **Điểm kết chương (bắt buộc giữ):** Halden dặn dò nghiêm túc hiếm thấy: "Nếu có ngày con thấy mình nóng lên như thế giữa ban ngày, tìm ta ngay."
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 3: Đêm Kể Chuyện
 - **Mục tiêu chương:** Texture đời sống làng (lễ hội nhỏ/tối lửa trại), giới thiệu Mira (bạn thân của Elk).
