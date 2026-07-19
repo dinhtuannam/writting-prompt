@@ -59,7 +59,7 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Hoang mang, áy náy
 - **Xuất hiện:** nhân vật: Isolde, Arik, Garreth (thoáng) | phe: Gia tộc Varmont | địa danh: Thành Varmont | hệ thống: Ấn Thú
 - **Điểm kết chương (bắt buộc giữ):** Qua khe cửa phòng giam — Isolde nghĩ nếu cậu ta là quái vật thì quái vật đã chảy máu thay cô
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 4: Vòng Bạc
 - **Mục tiêu chương:** Ronan tỉnh dậy với vòng cổ; Arik tuyên phán quyết đầy đủ
