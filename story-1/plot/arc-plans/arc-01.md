@@ -104,7 +104,7 @@
 - **Cảm xúc chủ đạo:** Đau, trầm lắng, kiệt sức.
 - **Xuất hiện:** nhân vật: Elk, bà Yssa, Mira | phe: — | địa danh: Làng Cỏ Gai | hệ thống: Nộ Tích (giá "tro lạnh")
 - **Điểm kết chương (bắt buộc giữ):** Dân làng bắt đầu thì thầm, tránh ánh mắt Elk theo cách khác trước.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 9: Ánh Mắt Người Làng
 - **Mục tiêu chương:** Hậu quả xã hội — định kiến thế giới về Phẫn Nộ chạm tới Elk lần đầu ngay trong chính làng mình.
