@@ -4,3 +4,4 @@
 
 | Thread | Mở ở chương | Trạng thái | Dự kiến trả (chương) | Ghi chú |
 |---|---|---|---|---|
+| Điều gì đang lớn dần trong Elk | 1 | Đang mở | 7 | Hơi ấm lạ trong ngực sau khi kìm nén cảm xúc — chưa ai (kể cả Elk) hiểu là gì |

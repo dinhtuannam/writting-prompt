@@ -34,7 +34,7 @@
 - **Cảm xúc chủ đạo:** Ấm áp pha bất an nhẹ.
 - **Xuất hiện:** nhân vật: Elk, Halden, bà Yssa (mẹ Elk), thu thuế viên (phụ) | phe: Vương quốc Calrath | địa danh: Làng Cỏ Gai | hệ thống: Chu Kỳ & Thiên Quyền (chỉ ngầm, chưa gọi tên)
 - **Điểm kết chương (bắt buộc giữ):** Đêm đó Elk không ngủ được — ngực cậu ấm lạ, không hiểu vì sao.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 2: Bác Halden
 - **Mục tiêu chương:** Đào sâu quan hệ Elk-Halden qua một buổi luyện tập/đi săn; cho thấy Elk thắng nhờ mưu trí chứ không phải sức mạnh (so với bạn đồng lứa khỏe hơn).

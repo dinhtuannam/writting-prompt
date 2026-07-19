@@ -2,6 +2,9 @@
 
 | Tên | Vai trò | Trạng thái | File chi tiết |
 |---|---|---|---|
-| (chưa có nhân vật nào) | | | |
+| Elk | Nhân vật chính — Selector Phẫn Nộ (chưa lộ) | còn sống | `elk.md` |
+| Halden | Thợ săn, cha nuôi tinh thần của Elk | còn sống | `halden.md` |
+| Bà Yssa | Mẹ của Elk | còn sống | `yssa.md` |
+| Ông Bracken | Người bán trứng ở chợ Cỏ Gai | còn sống | `bracken.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).
