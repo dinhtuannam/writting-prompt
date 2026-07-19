@@ -15,3 +15,4 @@ cập-nhật-cuối: (chưa có chương nào)
 ## Diễn biến qua các chương
 | Chương | Sự kiện tại đây |
 |---|---|
+| 6 | Toán cướp do Kess (pháp sư nguyên tố Hỏa) cầm đầu tập kích và đốt phá phần lớn làng, lợi dụng việc quân đồn trú Calrath rút đi. |

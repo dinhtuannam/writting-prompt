@@ -16,3 +16,4 @@ cập-nhật-cuối: (chưa có chương nào)
 ## Diễn biến qua các chương
 | Chương | Thông tin mới được thiết lập |
 |---|---|
+| 6 | Lần đầu xuất hiện trên trang một Pháp sư nguyên tố Hỏa (Kess) — thi triển phép tấn công diện rộng (đốt mái nhà, hất văng người); minh chứng trực tiếp lý do Đấu sĩ không có Mạch (như Elk) phải tránh đối đầu trực diện với pháp sư mà dùng mưu trí/né tránh. |

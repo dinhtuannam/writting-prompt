@@ -13,5 +13,7 @@
 | Bà Fenn | Người bán vải trong chợ | còn sống | `fenn.md` |
 | Bà Orlagh | Quả phụ bị mất bò vì nợ tiền thuê đất | còn sống | `orlagh.md` |
 | Ngài Wrenmoor | Điền chủ nhỏ quanh Cỏ Gai (chưa xuất hiện trực tiếp) | còn sống | `wrenmoor.md` |
+| Kess | Kẻ cầm đầu toán cướp — pháp sư nguyên tố Hỏa phản bội | còn sống | `kess.md` |
+| Gia đình Perrin | Hàng xóm của Elk, có ba con nhỏ | còn sống | `perrin.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).

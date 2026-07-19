@@ -84,7 +84,7 @@
 - **Cảm xúc chủ đạo:** Hoảng loạn, adrenaline.
 - **Xuất hiện:** nhân vật: Elk, Halden, Kess (toán cướp) | phe: — (toán cướp độc lập) | địa danh: Làng Cỏ Gai | hệ thống: Hệ thống Chiến Đấu (Pháp sư nguyên tố Hỏa lần đầu xuất hiện)
 - **Điểm kết chương (bắt buộc giữ):** Halden xô Elk ngã đúng lúc một lưỡi rìu bổ xuống.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 7: Bác Halden (Chương Cao Trào)
 - **Mục tiêu chương:** Cái chết của Halden; Phát đầu tiên của Elk — không kiểm soát, dữ dội; Dấu Ấn (hình Sói) lộ diện công khai.
