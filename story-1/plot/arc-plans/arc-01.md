@@ -94,7 +94,7 @@
 - **Cảm xúc chủ đạo:** Đau đớn tột cùng, dữ dội (đỉnh điểm arc).
 - **Xuất hiện:** nhân vật: Elk, Halden, Kess | phe: — | địa danh: Làng Cỏ Gai | hệ thống: Chu Kỳ & Thiên Quyền (Dấu Ấn lộ diện), Nộ Tích (Phát đầu tiên)
 - **Điểm kết chương (bắt buộc giữ):** Elk đứng giữa xác toán cướp, dân làng vây quanh nhìn cậu bằng ánh mắt vừa kinh hãi vừa biết ơn.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 8: Tro Tàn
 - **Mục tiêu chương:** Giảm tốc bắt buộc sau cao trào — tro lạnh, tang lễ sơ bộ, cả làng dọn dẹp đổ nát.

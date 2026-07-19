@@ -2,8 +2,8 @@
 
 | Tên | Vai trò | Trạng thái | File chi tiết |
 |---|---|---|---|
-| Elk | Nhân vật chính — Selector Phẫn Nộ (chưa lộ) | còn sống | `elk.md` |
-| Halden | Thợ săn, cha nuôi tinh thần của Elk | còn sống | `halden.md` |
+| Elk | Nhân vật chính — Selector Phẫn Nộ (Dấu Ấn Sói, đã lộ) | còn sống | `elk.md` |
+| Halden | Thợ săn, cha nuôi tinh thần của Elk | đã chết (ch.7) | `halden.md` |
 | Bà Yssa | Mẹ của Elk | còn sống | `yssa.md` |
 | Ông Bracken | Người bán trứng ở chợ Cỏ Gai | còn sống | `bracken.md` |
 | Joran | Bạn đồng lứa của Elk, con trai thợ rèn | còn sống | `joran.md` |

@@ -17,3 +17,6 @@ Bữa tối ấm cúng tại nhà Elk cùng Halden và Mira — mừng mùa len 
 
 ## Chương 6: Tiếng Vó Ngựa Trong Đêm
 Toán cướp do Kess (pháp sư nguyên tố Hỏa phản bội) cầm đầu tập kích và đốt phá Làng Cỏ Gai. Elk đưa bà Yssa tới đường thoát an toàn rồi quay lại giúp gia đình Perrin và ông Bracken thoát khỏi lửa, tận mắt chứng kiến sức mạnh hủy diệt của phép Hỏa khi Kess hất văng một thanh niên dám chống cự. Elk tìm thấy Halden đang chiến đấu một chọi ba bên giếng làng, đã kiệt sức và bị áp đảo. Ngay khi Elk lao tới, một tên cướp vung rìu về phía cậu — Halden xô cậu ngã sấp xuống đất đúng lúc lưỡi rìu bổ xuống.
+
+## Chương 7: Bác Halden (Chương Cao Trào)
+Nhát rìu trúng Halden thay vì Elk; ông chết ngay sau đó với lời cuối "Con còn phải sống." Cơn Tích tích lũy suốt arc bùng phát thành Phát đầu tiên của Elk — hoàn toàn không kiểm soát — hạ gục ba tên cướp bằng cây gậy "Sấm". Kess nhận ra dấu hiệu Selector thức tỉnh, ra lệnh rút lui toàn bộ toán cướp. Dấu Ấn của Elk (hình Sói) lộ diện công khai trên vai trước cả làng. Dân làng phản ứng trái chiều — vừa biết ơn vừa sợ hãi; chỉ riêng Mira không hề lùi lại. Elk kiệt sức hoàn toàn (tro lạnh) giữa đống đổ nát.

@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 6
-- **Arc hiện tại:** Arc 01 — Đêm Cỏ Gai Cháy (đang viết, chương 6/12 xong)
-- **Ngày/thời điểm trong truyện:** Cùng đêm tập kích, ngay tại giếng làng
+- **Chương hiện tại đã viết xong:** 7
+- **Arc hiện tại:** Arc 01 — Đêm Cỏ Gai Cháy (đang viết, chương 7/12 xong)
+- **Ngày/thời điểm trong truyện:** Ngay sau cao trào, cùng đêm tập kích
 - **POV hiện tại:** Elk (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Elk, Halden, Kess, hai tên cướp còn lại
-- **Địa điểm hiện tại:** Làng Cỏ Gai — quanh giếng làng, giữa đám cháy
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Halden vừa xô Elk ngã để cứu cậu khỏi một nhát rìu chí mạng. Chương 7 là cao trào của arc: cái chết của Halden, Phát đầu tiên không kiểm soát của Elk, Dấu Ấn (hình Sói) lộ diện công khai trước cả làng.
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Lưỡi rìu đang bổ xuống ngay khoảnh khắc Halden đẩy Elk ngã — chưa rõ ai trúng đòn.
-- **Mục tiêu ngắn hạn của nhân vật chính:** Sống sót và cứu được Halden — sắp thất bại một nửa.
+- **Nhân vật đang có mặt tại hiện trường:** Elk, Mira, dân làng, xác Halden
+- **Địa điểm hiện tại:** Làng Cỏ Gai — giếng làng, giữa đống đổ nát
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Halden đã chết; Dấu Ấn Elk đã lộ diện công khai; Elk kiệt sức hoàn toàn (tro lạnh). Chương 8 ("Tro Tàn") cần giảm tốc bắt buộc — tang lễ sơ bộ, cả làng dọn dẹp đổ nát, dân làng bắt đầu thì thầm tránh ánh mắt Elk.
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Elk không biết ánh mắt biết ơn hay ánh mắt sợ hãi của dân làng khiến ngực cậu đau hơn.
+- **Mục tiêu ngắn hạn của nhân vật chính:** Sống sót qua cú sốc vừa xảy ra; chưa kịp nghĩ gì xa hơn việc Halden đã mất.
 
 ## Ghi chú cho AI khi viết chương tiếp theo
-Chương 7 ("Bác Halden — Chương Cao Trào") cần: Halden trúng đòn thay Elk và tử vong; Elk mất kiểm soát hoàn toàn, Phát đầu tiên dữ dội (nghĩa đen, không phải nghĩa sâu — đây là bản năng thô, chưa qua rèn luyện); đánh bại toán cướp còn lại trong cơn Phát; Dấu Ấn (hình Sói) lộ diện công khai — cả làng chứng kiến vết bớt trên vai Elk phát sáng thành hình sói gầm gừ. Đây là điểm reveal lớn nhất arc — viết với nhịp giảm tốc rõ ràng đúng lúc Halden chết (theo cấm kỵ trong style-guide.md), rồi bùng nổ dữ dội cho Phát. Kết chương: Elk đứng giữa xác toán cướp, dân làng vây quanh nhìn cậu vừa kinh hãi vừa biết ơn.
+Chương 8 ("Tro Tàn") cần: giảm tốc rõ ràng sau cao trào — cơ thể Elk kiệt quệ, phản xạ chậm (tro lạnh) trong lúc cần giúp đỡ mọi người; tang lễ sơ bộ, cả làng dọn dẹp đổ nát. Kết chương: dân làng bắt đầu thì thầm, tránh ánh mắt Elk theo cách khác trước — hạt giống cho chương 9 (phản ứng xã hội/định kiến).

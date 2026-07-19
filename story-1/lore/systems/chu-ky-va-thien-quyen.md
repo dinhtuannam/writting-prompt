@@ -36,3 +36,4 @@ cập-nhật-cuối: (chưa có chương nào)
 ## Diễn biến qua các chương
 | Chương | Thông tin mới được thiết lập |
 |---|---|
+| 7 | Dấu Ấn của Elk (hình Sói, Đại Tội Phẫn Nộ) lộ diện công khai lần đầu tiên trên trang, kèm Phát đầu tiên (không kiểm soát, nghĩa đen) của Nộ Tích. Kess (không phải Selector) nhận ra dấu hiệu và bỏ chạy — xác nhận trong lore rằng người thường có kinh nghiệm cũng học được cách nhận diện một Selector đang thức tỉnh. |

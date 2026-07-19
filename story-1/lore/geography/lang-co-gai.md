@@ -16,3 +16,4 @@ cập-nhật-cuối: (chưa có chương nào)
 | Chương | Sự kiện tại đây |
 |---|---|
 | 6 | Toán cướp do Kess (pháp sư nguyên tố Hỏa) cầm đầu tập kích và đốt phá phần lớn làng, lợi dụng việc quân đồn trú Calrath rút đi. |
+| 7 | Halden tử trận bảo vệ Elk; Dấu Ấn Sói của Elk lộ diện công khai ngay tại giếng làng — nơi này giờ mang ý nghĩa biểu tượng lớn với cả hai nhân vật. |

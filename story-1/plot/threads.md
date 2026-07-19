@@ -4,5 +4,4 @@
 
 | Thread | Mở ở chương | Trạng thái | Dự kiến trả (chương) | Ghi chú |
 |---|---|---|---|---|
-| Điều gì đang lớn dần trong Elk | 1 | Đang mở | 7 | Chứng kiến bất công không sửa được (bà Orlagh, ch.4) khiến Tích tăng thêm; câu nói bà Senna (ch.3); tay ấm bất thường (ch.2) |
-| Bí mật dưới lớp da | 4 | Đang mở | 7 | Vết bớt hình thú trên vai Elk đêm ch.4 cảm thấy "nặng" khác thường lần đầu tiên — Elk giấu không kể ai |
+| Ai sẽ đến tìm Elk trước | 7 | Đang mở | 11 | Dấu Ấn Elk đã lộ diện công khai trước cả làng — chỉ còn là vấn đề thời gian trước khi tin lan xa và các phe để mắt tới |
