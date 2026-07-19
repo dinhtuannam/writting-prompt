@@ -13,4 +13,4 @@
 | Isolde bất chấp lệnh cấm của cha để gặp Ronan | 8 | Mở | (chưa xác định) | Arik đã biết và cấm tuyệt đối, nhưng Isolde vẫn tiếp tục |
 | Áp lực Vercast đòi Isolde làm "khách quý" | 8 | Mở (leo thang ch11 — sứ giả sắp quay lại với "đề nghị chính thức hơn") | Tiếp tục ở arc 2 | Tể tướng Corvin gửi thư nhân danh vua; Arik chỉ có thể trì hoãn |
 | Dreven đóng chốt ngoài tường thành Varmont | 12 | Mở (dài hơi — mối đe dọa thường trực) | Tiếp tục ở arc 2 | "Hắn không đến để đi" — dựng lều dài hạn sau khi xác nhận Ronan là Leviathan thật |
-| Cái chết của Rodrick không đơn giản | 14 | Mở (dài hơi — liên quan `plot/secrets/ai-giet-bo-me-ronan.md`) | 16, 17, 19, 23 | Chi tiết địa hình sai trong báo cáo chính thức (nam/bắc đảo ngược); Garreth không dẫn đoàn hôm đó giờ mang ý nghĩa đáng ngờ hơn |
+| Cái chết của Rodrick không đơn giản | 14 | Mở (dài hơi — liên quan `plot/secrets/ai-giet-bo-me-ronan.md`; tiến ở ch15 — Garreth dằn vặt, Dreven quan sát lạnh lùng, Isolde bắt đầu nghi ngờ cha) | 16, 17, 19, 23 | Chi tiết địa hình sai trong báo cáo chính thức (nam/bắc đảo ngược); Garreth không dẫn đoàn hôm đó giờ mang ý nghĩa đáng ngờ hơn |

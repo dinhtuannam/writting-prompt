@@ -60,7 +60,7 @@
 - **Cảm xúc chủ đạo:** Đau đớn kìm nén, thương cảm
 - **Xuất hiện:** nhân vật: Isolde, Ronan, Maela, Garreth, Dreven, Arik | phe: Gia tộc Varmont, Giáo Hội Thánh Ấn | địa danh: Thành Varmont | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Maela ôm Ronan đúng mười nhịp thở trước khi bị tách ra — Isolde đếm từng nhịp
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 16: Mười Nhịp Thở
 - **Mục tiêu chương:** Dư âm tang lễ; lời dặn của mẹ; Ronan dò hỏi về vụ phục kích
