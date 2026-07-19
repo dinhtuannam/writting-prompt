@@ -40,7 +40,7 @@ Dải vải quấn quanh cánh tay trái của Ronan hơi lỏng ra sau mỗi nh
 
 Buổi trưa, Maela gọi cậu đi cùng bà xuống Làng Mốc Sương.
 
-— Bà lang Yssa cần thêm cỏ liễu cho khớp xương của bà ấy — mẹ cậu nói, xếp những gói lá khô vào giỏ với sự cẩn thận của người đã làm việc này hai mươi năm. — Và con cần ra khỏi khu rừng này một lúc trước khi mọc rêu trên người.
+— Bà lang Yssa cần thêm cỏ liễu cho khớp xương của bà ấy — mẹ cậu nói, xếp những gói lá khô vào giỏ với sự cẩn thận của người đã làm việc này hai mươi năm. Trên cổ tay bà, khi ống tay áo trễ xuống, có thể thấy thoáng qua đường nét mềm mại của một đôi cánh khắc chìm — Ấn Bồ Câu, thứ hình xăm hiền lành nhất Ronan từng biết, trái ngược hoàn toàn với đôi bàn tay đã khâu không biết bao nhiêu vết thương và đỡ đẻ không biết bao nhiêu đứa trẻ trong vùng. — Và con cần ra khỏi khu rừng này một lúc trước khi mọc rêu trên người.
 
 Ronan không cãi. Cậu thích những chuyến đi làng, dù cậu sẽ không bao giờ thừa nhận điều đó với ai. Có gì đó dễ chịu trong việc đứng giữa những người không biết cậu là ai, không nhìn cậu bằng ánh mắt cẩn trọng đặc biệt nào.
 

@@ -49,7 +49,7 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Kinh hoàng → hy sinh
 - **Xuất hiện:** nhân vật: Ronan, Isolde | phe: — | địa danh: Rừng Bạc Sương | hệ thống: Ấn Thú
 - **Điểm kết chương (bắt buộc giữ):** "Chạy đi, gọi người giúp" — bóng tối nuốt lấy cậu
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 3: Người Hộ Vệ Già (POV Isolde)
 - **Mục tiêu chương:** Kể lại cùng sự kiện từ góc Isolde; ấn Ronan lộ ra khi được cứu chữa

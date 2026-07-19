@@ -24,6 +24,15 @@
   - Không nhân vật bất khả chiến bại; không hạ Isolde thành love-interest thụ động — cô là co-main có mục tiêu riêng
   - Không phán xét đạo đức thay độc giả; không sến hóa cảnh ấm; không kéo cả chương chỉ một màn thoại
 
+## Quy tắc tối thượng: Dấu Ấn & Tầng Cộng Hưởng
+
+> Đây là 2 core building của TOÀN BỘ series — quan trọng ngang nhau, không cái nào là phụ. Độc giả phải luôn tò mò "nhân vật này mang Ấn gì, ở Tầng nào, nó nói gì về họ" xuyên suốt mọi chương, không chỉ quanh nhân vật chính. Bài học từ lần story-2 bị reset trước: cả hai hệ thống này từng bị lờ đi âm thầm suốt nhiều chương — im lặng còn tệ hơn một reveal vụng, vì nó khiến độc giả ngừng tò mò.
+
+- **Bắt buộc:** Mọi nhân vật có tên xuất hiện quá 1 lần phải có Dấu Ấn được gợi ý / tiết lộ / che giấu có chủ đích, VÀ Tầng Cộng Hưởng được ít nhất ngụ ý, trong vòng 1-2 chương kể từ khi xuất hiện. Không có ngoại lệ "để tính sau".
+- **Không cần tiết lộ ngay, không cần chính xác:** Che giấu, tin đồn, suy đoán sai, phô diễn sức mạnh trước khi gọi tên Ấn — đều hợp lệ và được khuyến khích hơn một câu công bố phẳng lì ("X mang Ấn Y"). Xây dựng sự tò mò chủ động: một nhân vật có thể bị đồn đoán sai Ấn, có thể cố tình che giấu, có thể chỉ lộ qua một hành vi bản năng trước khi ai đó gọi tên nó.
+- **Tầng Cộng Hưởng là trục ĐỘC LẬP với độ hiếm của Ấn** — luôn tận dụng để phục vụ "Ấn không định tầm vóc" (xem Điều cấm kỵ bên dưới): một Ấn tầm thường ở Tầng cao đáng sợ hơn một Ấn quý ở Tầng thấp.
+- **Tự kiểm bắt buộc trước khi hoàn thành MỌI chương:** đối chiếu `../characters/_index.md` — cột Dấu Ấn/Tầng Cộng Hưởng của bất kỳ nhân vật nào vừa xuất hiện hoặc tái xuất hiện phải được cập nhật (kể cả khi giá trị vẫn là "che giấu có chủ đích", phải NÓI RÕ đó là che giấu có chủ đích, không phải bỏ sót).
+
 ## Anchor Samples (chuẩn đối chiếu văn phong — do `/story-skeleton` ghi từ phương án tone được chọn)
 
 ### Anchor 1 (tuyến Ronan)
