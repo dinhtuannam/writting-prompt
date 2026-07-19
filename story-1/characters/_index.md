@@ -8,5 +8,8 @@
 | Ông Bracken | Người bán trứng ở chợ Cỏ Gai | còn sống | `bracken.md` |
 | Joran | Bạn đồng lứa của Elk, con trai thợ rèn | còn sống | `joran.md` |
 | Ông Corvan | Thợ rèn làng, cha của Joran | còn sống | `corvan.md` |
+| Mira | Bạn thân nhất của Elk, con gái người coi cối xay gió | còn sống | `mira.md` |
+| Bà lão Senna | Người kể chuyện dân gian của làng | còn sống | `senna.md` |
+| Bà Fenn | Người bán vải trong chợ | còn sống | `fenn.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).

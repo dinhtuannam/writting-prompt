@@ -4,4 +4,5 @@
 
 | Thread | Mở ở chương | Trạng thái | Dự kiến trả (chương) | Ghi chú |
 |---|---|---|---|---|
-| Điều gì đang lớn dần trong Elk | 1 | Đang mở | 7 | Tay Elk ấm bất thường lúc luyện tập (ch.2) — Halden bắt đầu để ý và lo lắng thầm |
+| Điều gì đang lớn dần trong Elk | 1 | Đang mở | 7 | Câu nói của bà Senna về Đồ Tể ám ảnh Elk không rõ lý do (ch.3); tay ấm bất thường lúc luyện tập (ch.2) |
+| Tin đồn biên giới Norvald | 3 | Đang mở | 6 | Lữ khách kể chuyện chạm trán Calrath-Norvald gần sông Bạch Đái — dân làng chưa để tâm |

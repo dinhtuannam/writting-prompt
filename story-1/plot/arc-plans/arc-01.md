@@ -54,7 +54,7 @@
 - **Cảm xúc chủ đạo:** Ấm, hoài niệm, rùng mình nhẹ.
 - **Xuất hiện:** nhân vật: Elk, Mira, cụ già kể chuyện (phụ) | phe: — (Giáo Hội Bình Minh nhắc gián tiếp qua truyền thuyết) | địa danh: Làng Cỏ Gai | hệ thống: Chu Kỳ & Thiên Quyền (qua truyền thuyết dân gian — foreshadow `su-that-chien-tranh-muoi-bon`)
 - **Điểm kết chương (bắt buộc giữ):** Elk nằm nhìn trần nhà, không hiểu vì sao câu nói của cụ già cứ quanh quẩn trong đầu.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 4: Vết Nứt Trong Bình Yên
 - **Mục tiêu chương:** Dựng căng thẳng — vắng bóng lính tuần tra, một bất công khác khiến Tích của Elk tăng thêm.

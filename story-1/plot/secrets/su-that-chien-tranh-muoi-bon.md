@@ -12,3 +12,4 @@
 ## Nhật ký reveal thực tế
 | Chương | Phần đã hé lộ |
 |---|---|
+| 3 | Foreshadow: bà Senna kể chuyện dân gian "Đồ Tể Phàm Ăn" (bản chính thống — quái vật của Chiến Tranh Mười Bốn), rồi lỡ lời "Không ai biết ơn người cứu mình, khi hình ảnh còn lại của người đó chỉ là một con quái vật." Chưa hé đáp án thật. |
