@@ -5,8 +5,8 @@
 ## Arc 01
 | Phe / thế lực | Sự kiện offscreen | Đã lộ vào chương nào (nếu có) |
 |---|---|---|
-| Liên Minh Norvald | Chạm trán biên giới nhỏ với Calrath làm căng thẳng dâng lên | |
-| Vương quốc Calrath | Rút bớt quân đồn trú quanh vùng Cỏ Gai để tăng viện biên giới Norvald | |
+| Liên Minh Norvald | Chạm trán biên giới nhỏ với Calrath làm căng thẳng dâng lên | Chương 3 (tin đồn), 6 (hậu quả) |
+| Vương quốc Calrath | Rút bớt quân đồn trú quanh vùng Cỏ Gai để tăng viện biên giới Norvald | Chương 4-5 (vắng patrol), 6 (hậu quả) |
 | Giáo Hội Bình Minh | Một Thẩm Ấn Quan khu vực trong đợt luân chuyển định kỳ, dự kiến ghé vùng lân cận vài tuần tới | |
 | Học Viện Lumenhall | Một nhóm học giả lưu động khảo sát hiện tượng ma pháp nhỏ tình cờ đi ngang vùng | |
-| Hội Đêm Không Trăng | Mạng lưới tin tức nhặt được lời đồn mơ hồ "có chuyện lạ ở Cỏ Gai" từ một đoàn thương nhân | |
+| Hội Đêm Không Trăng | Mạng lưới tin tức nhặt được lời đồn mơ hồ "có chuyện lạ ở Cỏ Gai" từ một đoàn thương nhân | Chương 11 (người lạ ẩn danh dò hỏi tại quán trọ) |

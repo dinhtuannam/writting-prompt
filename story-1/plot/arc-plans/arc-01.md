@@ -134,7 +134,7 @@
 - **Cảm xúc chủ đạo:** Hồi hộp, cảnh giác.
 - **Xuất hiện:** nhân vật: Elk, Mira, người lạ (ẩn danh) | phe: Hội Đêm Không Trăng (chưa lộ) | địa danh: Làng Cỏ Gai | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Elk nhận ra: dù trốn ở đâu, câu chuyện này đã đi nhanh hơn cậu.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 12: Ranh Giới Cuối Cùng Của Cỏ Gai
 - **Mục tiêu chương:** Đóng arc — Elk tự quyết định rời làng (không phải bị ép), để bảo vệ những người cậu yêu thương.

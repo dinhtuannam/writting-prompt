@@ -29,3 +29,6 @@ Trưởng làng Doran họp cả làng ba ngày sau tập kích, viện luật C
 
 ## Chương 10: Người Thợ Săn Không Còn
 Toren, con trai ruột của Halden, trở về chịu tang cha sau hành trình cưỡi ngựa liên tục hai ngày đêm. Tại lễ an táng chính thức, anh đổ lỗi cho Elk trong đau đớn, nhưng dần dịu lại khi Elk kể Halden luôn tự hào về anh. Toren rời đi sau khi nói chuyện, để Elk một mình bên mộ Halden. Đêm đó, Elk lần đầu tiên thử tự cảm nhận và tìm hiểu "hơi ấm" bên trong mình — chưa thành công nhưng hứa với chính mình sẽ học cách làm chủ nó, không để nó điều khiển mình lần nữa.
+
+## Chương 11: Người Lạ Trên Đường
+Một tuần sau tập kích, Mira phát hiện một người lạ ẩn danh dò hỏi chi tiết về Elk tại quán trọ đầu làng — kể cả về hình dạng Dấu Ấn, chi tiết không thể chỉ đến từ tin đồn thông thường. Elk trực tiếp gặp người này, giữ thái độ thận trọng, mơ hồ; người lạ (thực chất thuộc Hội Đêm Không Trăng, chưa lộ liên hệ trên trang) không truy vấn thêm nhưng để lộ hiểu biết sâu về Chu Kỳ và 14 Selector. Elk nhận ra tin tức về mình đã lan xa và nhanh hơn cả kênh chính thức của Doran — số phận cậu không còn nằm trong tầm kiểm soát của làng nữa.

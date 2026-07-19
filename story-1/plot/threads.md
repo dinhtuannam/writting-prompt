@@ -4,6 +4,6 @@
 
 | Thread | Mở ở chương | Trạng thái | Dự kiến trả (chương) | Ghi chú |
 |---|---|---|---|---|
-| Ai sẽ đến tìm Elk trước | 7 | Đang mở | 11 | Doran cử Wyle mang thư báo tin về Elk lên Calmont (ch.9) — người của triều đình có thể tới bất cứ lúc nào sau đó |
+| Ai sẽ đến tìm Elk trước | 7 | Đang mở | (dài hạn, tiếp tục Arc 02) | Một người lạ ẩn danh (Hội Đêm Không Trăng, chưa lộ liên hệ) đã dò hỏi tại quán trọ (ch.11) — tin tức đã lan xa hơn cả lá thư của Doran, nhanh và chi tiết hơn dự kiến |
 | Tang thương và mất mát tập thể | 8 | Đang mở | 12 | Dân làng bắt đầu thì thầm, tránh ánh mắt Elk — định kiến về Phẫn Nộ chạm tới cậu ngay trong chính làng mình |
 | Elk tự học kiểm soát Tích/Phát | 10 | Đang mở | (dài hạn, xuyên nhiều arc) | Bắt đầu mò mẫm tự cảm nhận "hơi ấm" bên trong sau khi hứa với chính mình bên mộ Halden — chưa có ai dạy, chưa có kết quả rõ ràng |
