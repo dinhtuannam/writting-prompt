@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 5
+- **Chương hiện tại đã viết xong:** 6
 - **Arc hiện tại:** Arc 01 — Vòng Cổ (ch 1-12, kế hoạch tại `plot/arc-plans/arc-01.md`)
-- **Ngày/thời điểm trong truyện:** Cùng ngày, buổi trưa — hình phạt công khai tại quảng trường thành Varmont
-- **POV hiện tại:** Ronan — chương 6 tiếp tục POV Ronan (nghi thức khế ước)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, đã được đưa trở lại khu giam giữ sau hình phạt
-- **Địa điểm hiện tại:** Đang trên đường về khu giam giữ, thành Varmont
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Rodrick và Maela vừa chịu 100 roi và bị đưa đi phục dịch (hai hướng khác nhau); một tư tế Giáo Hội đã âm thầm ghi chép và chuẩn bị báo cáo về Vercast
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Có thứ gì đó trong Ronan đã nguội đi vĩnh viễn sau khi chứng kiến cha mẹ bị trừng phạt — dấu hiệu đầu tiên của sự thay đổi nội tâm sẽ định hình toàn bộ phần còn lại của cậu
-- **Mục tiêu ngắn hạn của nhân vật chính:** Sống sót qua nghi thức khế ước sắp tới — chưa biết mình sắp chính thức trở thành "tài sản" của Isolde
+- **Ngày/thời điểm trong truyện:** Hai ngày sau hình phạt công khai, buổi chiều tà
+- **POV hiện tại:** Ronan — chương 7 tiếp tục POV Ronan (nhịp sống dã thú, giới thiệu Garreth)
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, một mình trong phòng xép cạnh chuồng ngựa
+- **Địa điểm hiện tại:** Phòng xép cạnh chuồng ngựa, thành Varmont — nơi ở mới của Ronan
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Khế ước Ronan-Isolde đã chính thức xác lập qua nghi thức máu; Ronan chuyển tới sống như một "dã thú có chủ" trong phòng xép cạnh chuồng ngựa
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan tự nhủ "đây chỉ là tạm thời" trước khi chìm vào giấc ngủ — quyết tâm ngầm bắt đầu hình thành
+- **Mục tiêu ngắn hạn của nhân vật chính:** Sống sót qua nhịp sống mới như một "dã thú có chủ", học cách tồn tại dưới quyền sở hữu của Isolde
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - **BẮT BUỘC trước khi hoàn thành mỗi chương:** kiểm tra `characters/_index.md` — mọi nhân vật đã xuất hiện quá 1-2 chương phải có Dấu Ấn + Tầng Cộng Hưởng được ghi rõ (tiết lộ, gợi ý, tin đồn, hoặc giấu có chủ đích — không được để trống hoặc lờ đi). Xem "Quy tắc tối thượng" trong `style/style-guide.md`. Đang treo: Ser Garreth (chỉ thoáng qua ch3, Ấn/Tầng cần lộ khi giới thiệu đầy đủ ở ch7); Rodrick/Maela có Tầng mới ở mức "gợi ý", chưa xác nhận chính xác — có thể xác nhận rõ hơn ở arc sau nếu hợp lý.

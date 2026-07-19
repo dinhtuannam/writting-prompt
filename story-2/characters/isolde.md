@@ -17,11 +17,12 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con gái duy nhất của Lãnh chúa Arik Varmont. Vừa được Ronan cứu mạng khỏi Sói Sương (chương 2) — người hộ vệ đi cùng cô đã chết trong trận đó.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Chưa biết rằng cha mình sau này sẽ ra lệnh giết cha mẹ của Ronan — người vừa cứu mạng cô.
 - **Giọng nói / cách nói chuyện đặc trưng:** Hỏi thẳng, không vòng vo, kể cả những câu hỏi khiến người khác khó chịu ("Cậu... cậu ổn không?")
-- **Trạng thái hiện tại:** Còn sống, chấn động sau cái chết của Ser Wendel, giấu cha một phần sự thật (việc mình trốn ra ngoài) — cuối chương 3
-- **Xuất hiện lần cuối:** Chương 3
+- **Trạng thái hiện tại:** Vừa trở thành chủ nhân chính thức của Ronan qua nghi thức khế ước, rõ ràng không thoải mái với vai trò này — cuối chương 6
+- **Xuất hiện lần cuối:** Chương 6
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 2 | Bị Sói Sương dồn vào góc sau khi hộ vệ hộ tống chết; được Ronan cứu với cái giá cậu bị thương nặng; ở lại bên cậu thay vì bỏ chạy; được cậu bảo chạy đi gọi người giúp |
 | 3 | (POV) Kể lại toàn bộ sự kiện từ góc nhìn mình; chứng kiến ấn Leviathan của Ronan bị phát hiện và cậu bị xiềng cổ; báo cáo (đã lược bớt) cho cha; đứng ngoài phòng giam nhìn Ronan qua khe cửa, tự hỏi ai mới thực sự là quái vật |
+| 6 | Miễn cưỡng thực hiện nghi thức khế ước xác lập quyền sở hữu Ronan theo lệnh cha; tuyên bố chấp nhận trách nhiệm dù rõ ràng không thoải mái |

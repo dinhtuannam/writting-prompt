@@ -89,7 +89,7 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Tủi nhục → lì
 - **Xuất hiện:** nhân vật: Ronan, Isolde, Arik, đại lý Nghiệp Đoàn | phe: Gia tộc Varmont, Nghiệp Đoàn Xiềng Bạc | địa danh: Thành Varmont | hệ thống: Vòng Cổ Khuất Phục, Ấn Thú
 - **Điểm kết chương (bắt buộc giữ):** Đêm đầu ở phòng xép cạnh chuồng ngựa — "tạm thời ta sẽ sống như một con thú"
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 7: Những Ngày Chó Ngựa
 - **Mục tiêu chương:** Thiết lập nhịp sống dã thú của Ronan; giới thiệu Garreth
