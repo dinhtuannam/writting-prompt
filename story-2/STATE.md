@@ -2,8 +2,8 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 12 — ARC 01 ĐÃ HOÀN THÀNH
-- **Arc hiện tại:** Arc 01 — Vòng Cổ (ch 1-12) — ĐÃ ĐÓNG. Chờ chạy `/plan-arc story-2` để lên beat Arc 02.
+- **Chương hiện tại đã viết xong:** 12
+- **Arc hiện tại:** Arc 02 — Tang Trắng (ch 13-24, kế hoạch tại `plot/arc-plans/arc-02.md`)
 - **Ngày/thời điểm trong truyện:** Đêm ngày Dreven thực hiện "hành lễ" đọc Ấn
 - **POV hiện tại:** Ronan
 - **Nhân vật đang có mặt tại hiện trường:** Ronan, một mình trong phòng xép
