@@ -7,7 +7,7 @@
 ## Các dự án hiện có
 | Thư mục | Trạng thái | Ghi chú |
 |---|---|---|
-| `story-1/` | Skeleton đã chốt (2026-07-20) | Epic Fantasy — Đại lục Ardenia, Chu Kỳ & Selector (Thất Đại Tội/Bảy Đức Hạnh, nhân vật chính Elk mang Phẫn Nộ); tone "Phiêu Lưu Sử Thi", skeleton 12 arc + sổ bí mật đã ghi qua `/story-skeleton`; chờ chạy `/plan-arc story-1` |
+| `story-1/` | Arc 01 hoàn thành (2026-07-20) | Epic Fantasy — Đại lục Ardenia, Chu Kỳ & Selector (Thất Đại Tội/Bảy Đức Hạnh, nhân vật chính Elk mang Phẫn Nộ, Dấu Ấn Sói); tone "Phiêu Lưu Sử Thi"; Arc 01 "Đêm Cỏ Gai Cháy" xong 12/12 chương (Halden hi sinh, Dấu Ấn lộ diện, Elk rời quê); chờ chạy `/plan-arc story-1` cho Arc 02 |
 | `story-2/` | Đang phát triển | Dark Fantasy, hệ thống Thú Ấn — Arc 02 đang viết (`/next-chapter story-2`) |
 
 ## Dự án đang active

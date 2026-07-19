@@ -32,5 +32,5 @@
 - Muốn đổi hướng truyện giữa chừng: nói khi duyệt arc plan, hoặc yêu cầu replan (`/plan-arc` lại arc hiện tại). Đổi hướng LỚN → yêu cầu cập nhật `story-skeleton.md`.
 
 ## Trạng thái các dự án hiện có
-- `story-1/` (skeleton chốt 2026-07-20, đã qua bước 4): tiếp tục bước 5 — `/plan-arc story-1`.
+- `story-1/` (Arc 01 hoàn thành 2026-07-20, 12/12 chương): quay lại bước 5 — `/plan-arc story-1` cho Arc 02.
 - `story-2/` (đã qua bước 3-5, đang ở Arc 02): tiếp tục bước 6 — `/next-chapter story-2`.
