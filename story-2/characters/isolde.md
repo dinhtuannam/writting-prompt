@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con gái duy nhất của Lãnh chúa Arik Varmont. Vừa được Ronan cứu mạng khỏi Sói Sương (chương 2) — người hộ vệ đi cùng cô đã chết trong trận đó.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Chưa biết rằng cha mình sau này sẽ ra lệnh giết cha mẹ của Ronan — người vừa cứu mạng cô.
 - **Giọng nói / cách nói chuyện đặc trưng:** Hỏi thẳng, không vòng vo, kể cả những câu hỏi khiến người khác khó chịu ("Cậu... cậu ổn không?")
-- **Trạng thái hiện tại:** Bắt đầu nghi ngờ cha mình sau tang lễ Rodrick, nhìn ông với sự cảnh giác mới — cuối chương 15
-- **Xuất hiện lần cuối:** Chương 15
+- **Trạng thái hiện tại:** Tiếp tục ghé thăm Ronan mỗi tối; nhận thấy cậu đang giữ kín điều gì đó nhưng không ép hỏi
+- **Xuất hiện lần cuối:** Chương 16
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -31,3 +31,4 @@ cập-nhật-cuối: chương 2
 | 11 | (POV) Nghe lỏm Arik-Garreth bàn về áp lực 3 phía; thấy cha như một người chơi cờ lạnh lùng; tiếp tục dạy Ronan đọc chữ; chứng kiến Thẩm Ấn Quan Dreven xuất hiện tại cổng thành |
 | 12 | Đứng từ xa chứng kiến nghi thức đọc Ấn công khai của Ronan; trao đổi ánh mắt lo lắng với cậu trước khi cậu bị dẫn đi |
 | 15 | (POV) Dự tang lễ Rodrick; đếm 10 nhịp thở cuộc ôm giữa Ronan và Maela; nhận thấy vẻ dằn vặt của Garreth và sự quan sát lạnh lùng của Dreven; bắt đầu nghi ngờ cha |
+| 16 | Ghé thăm Ronan buổi tối như thường lệ, mang sách mới; nhận thấy cậu đang giữ kín điều gì đó nhưng không ép hỏi, chỉ ngồi cùng cậu trong im lặng |

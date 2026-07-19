@@ -70,7 +70,7 @@
 - **Cảm xúc chủ đạo:** Nén chặt, cảnh giác
 - **Xuất hiện:** nhân vật: Ronan, Garreth | phe: Gia tộc Varmont | địa danh: Thành Varmont | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Nhận ra Garreth không còn dám nhìn thẳng vào mắt mình kể từ tang lễ
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 17: Khu Trại Thương Binh
 - **Mục tiêu chương:** Isolde dàn xếp cho Ronan gặp mẹ; texture trại thương binh

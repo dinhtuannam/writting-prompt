@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 5
 - **Mối quan hệ với nhân vật khác:** Vợ Rodrick, mẹ Ronan.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Biết một phần lý do thật sự Rodrick xin rời quân ngũ, nhưng chưa từng nói ra với Ronan.
 - **Giọng nói / cách nói chuyện đặc trưng:** Nhẹ nhàng, hay pha chút hài hước khô khan với người quen (vd với bà lang Yssa).
-- **Trạng thái hiện tại:** Góa phụ, phục dịch tại trại thương binh; vừa được phép dự tang chồng và ôm con trai đúng 10 nhịp thở
-- **Xuất hiện lần cuối:** Chương 15
+- **Trạng thái hiện tại:** Góa phụ, phục dịch tại trại thương binh; lời thì thầm lúc ôm con giờ đã được tiết lộ đầy đủ ("Sống. Và đừng để hận thù ăn con trước khi nó kịp nuôi con lớn.")
+- **Xuất hiện lần cuối:** Chương 16 (lời nói được nhắc lại qua hồi tưởng của Ronan)
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
