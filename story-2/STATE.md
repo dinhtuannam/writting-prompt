@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 13
+- **Chương hiện tại đã viết xong:** 14
 - **Arc hiện tại:** Arc 02 — Tang Trắng (ch 13-24, kế hoạch tại `plot/arc-plans/arc-02.md`)
-- **Ngày/thời điểm trong truyện:** Sáng sớm, ~3 tuần sau khi Arc 01 khép lại
-- **POV hiện tại:** Ronan — chương 14 tiếp tục POV Ronan (tin dữ về Rodrick)
-- **Nhân vật đang có mặt tại hiện trường:** Ronan, một mình ở bãi tập sau khi đoàn tuần tra rời đi
-- **Địa điểm hiện tại:** Bãi tập / sân ngoài, thành Varmont
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Rodrick vừa lên đường trong đoàn tuần tra biên giới do Corren (không phải Garreth như thường lệ) dẫn đầu; Garreth có biểu hiện bất thường, tránh dẫn đoàn
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Rodrick ngoái nhìn con lần cuối trước khi khuất vào sương — không ai biết đó là lần cuối
-- **Mục tiêu ngắn hạn của nhân vật chính:** Tiếp tục nhịp sống thường nhật, chưa hay biết thảm kịch sắp ập tới
+- **Ngày/thời điểm trong truyện:** 4 ngày sau chương 13
+- **POV hiện tại:** Ronan — chương 15 chuyển sang POV Isolde (tang lễ)
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, một mình trong nhà xác
+- **Địa điểm hiện tại:** Nhà xác nhỏ, thành Varmont
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Rodrick chết trong cuộc phục kích tại Khe Cạn Sương; Ronan phát hiện chi tiết địa hình sai trong báo cáo chính thức (khúc quanh nam/bắc bị đảo ngược) nhưng chưa nói với ai
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Ronan đứng trước xác cha: "Cha dạy con chịu đựng, nhưng cha không dạy con cái này."
+- **Mục tiêu ngắn hạn của nhân vật chính:** Chuẩn bị tinh thần cho tang lễ; giữ kín nghi ngờ về chi tiết báo cáo sai lệch
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - **BẮT BUỘC trước khi hoàn thành mỗi chương:** kiểm tra `characters/_index.md` — mọi nhân vật đã xuất hiện quá 1-2 chương phải có Dấu Ấn + Tầng Cộng Hưởng được ghi rõ (tiết lộ, gợi ý, tin đồn, hoặc giấu có chủ đích — không được để trống hoặc lờ đi). Xem "Quy tắc tối thượng" trong `style/style-guide.md`. Hiện không có nhân vật nào đang treo; Rodrick/Maela/Garreth có Tầng ở mức "gợi ý", chưa xác nhận chính xác — có thể xác nhận rõ hơn ở arc sau nếu hợp lý. Nhân vật mới xuất hiện tiếp theo cần xử lý trong vòng 1-2 chương như thường lệ.

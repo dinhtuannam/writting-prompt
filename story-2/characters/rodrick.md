@@ -1,8 +1,8 @@
 ---
 loại: nhân-vật
-trạng-thái: còn-sống
+trạng-thái: đã-chết
 xuất-hiện-đầu: chương 1
-cập-nhật-cuối: chương 5
+cập-nhật-cuối: chương 14
 ---
 
 # Rodrick
@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 5
 - **Mối quan hệ với nhân vật khác:** Chồng Maela, cha Ronan. Từng là lính dưới trướng Arik Varmont trong Chiến Tranh Biên Thùy.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Giấu cuốn sổ quân vụ ghi lại vụ chôn sống 47 tù binh dưới ván sàn căn nhà ở Rừng Bạc Sương; câu nói "giờ thì ta đã hiểu vì sao ông ấy xin rời xa mọi người" của Arik (ch4) ám chỉ bí mật này.
 - **Giọng nói / cách nói chuyện đặc trưng:** Ngắn gọn, thực tế; hiếm khi nói nhiều hơn mức cần thiết.
-- **Trạng thái hiện tại:** Vừa lên đường trong đoàn tuần tra biên giới — chương tiếp theo sẽ quyết định số phận ông
-- **Xuất hiện lần cuối:** Chương 13
+- **Trạng thái hiện tại:** Đã chết — tử trận trong cuộc phục kích tại Khe Cạn Sương (chương 14), theo báo cáo chính thức có chi tiết địa hình đáng ngờ (xem `plot/secrets/ai-giet-bo-me-ronan.md`)
+- **Xuất hiện lần cuối:** Chương 14 (thi thể)
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -28,3 +28,4 @@ cập-nhật-cuối: chương 5
 | 7 | (thoáng qua) Đứng gác ở cổng thành khi Ronan đi ngang qua; không được phép nói chuyện |
 | 10 | Liều lĩnh tiếp cận Ronan trong lúc đổi ca tuần tra; cảnh báo dở dang về bí mật giấu dưới sàn căn nhà ở Rừng Bạc Sương trước khi bị viên đội trưởng cắt ngang; chỉ kịp nói "Đừng bao giờ cho ai sửa sàn căn nhà" |
 | 13 | Lên đường trong đoàn tuần tra biên giới do Corren (không phải Garreth) dẫn đầu; ngoái nhìn Ronan lần cuối trước khi khuất vào sương |
+| 14 | Tử trận trong cuộc phục kích tại Khe Cạn Sương; thi thể đưa về thành; Ronan phát hiện chi tiết địa hình sai trong báo cáo chính thức về cái chết của ông |

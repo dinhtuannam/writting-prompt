@@ -50,7 +50,7 @@
 - **Cảm xúc chủ đạo:** Sốc, tê liệt
 - **Xuất hiện:** nhân vật: Ronan | phe: Gia tộc Varmont | địa danh: Thành Varmont | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Đứng trước xác cha — "cha dạy con chịu đựng, nhưng không dạy con cái này"
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 15: Tang Thứ Nhất (POV Isolde)
 - **Mục tiêu chương:** Tang lễ Rodrick; Maela được phép dự tang dưới giám sát

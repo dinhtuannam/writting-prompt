@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick (Ấn Gấu) và Maela (Ấn Bồ Câu). Vừa gặp Isolde Varmont lần đầu (chương 2) — cứu mạng cô khỏi Sói Sương, đổi lại bị thương nặng.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan, thân phận bị giấu kín từ lúc sinh — cha mẹ khai man là "chỉ mang hình xăm rắn thường".
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít, câu ngắn, gọn — đặc biệt gọn khi đang chịu đau đớn hoặc căng thẳng cực độ ("Chạy đi. Gọi người... giúp.")
-- **Trạng thái hiện tại:** Chứng kiến cha lên đường tuần tra biên giới, chưa hay biết thảm kịch sắp tới — cuối chương 13
-- **Xuất hiện lần cuối:** Chương 13
+- **Trạng thái hiện tại:** Vừa chứng kiến cái chết của cha, tê liệt cảm xúc, âm thầm giữ nghi ngờ về chi tiết báo cáo sai — cuối chương 14
+- **Xuất hiện lần cuối:** Chương 14
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -36,3 +36,4 @@ cập-nhật-cuối: chương 2
 | 11 | (từ góc nhìn Isolde) Tiếp tục buổi học đọc chữ, cảm ơn Isolde; chứng kiến từ xa cảnh Dreven xuất hiện tại cổng thành |
 | 12 | Trải qua nghi thức đọc Ấn công khai của Dreven; chứng kiến đấu trí Arik-Dreven; đêm đó tuyên lời thề nội tâm sẽ trở thành "thứ vượt xa mọi tưởng tượng" thay vì làm nạn nhân hay quái vật theo kịch bản định sẵn (kết Arc 01) |
 | 13 | Đọc sách tiến bộ; chứng kiến đoàn tuần tra biên giới lên đường với cha trong hàng ngũ; nhận thấy Garreth bất thường không dẫn đoàn; nhận ánh mắt cuối cùng của cha trước khi đoàn khuất vào sương |
+| 14 | Nhận tin cha tử trận trong cuộc phục kích; đứng nhìn thi thể; phát hiện chi tiết địa hình sai trong báo cáo chính thức; thì thầm trước xác cha "cha dạy con chịu đựng, nhưng cha không dạy con cái này" |
