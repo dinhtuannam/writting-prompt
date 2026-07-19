@@ -119,7 +119,7 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Căng, nhỏ bé giữa bàn cờ
 - **Xuất hiện:** nhân vật: Ronan, Arik, quản gia, phu buôn lạ | phe: Gia tộc Varmont, Giáo Hội Thánh Ấn, Vảy Đen (ngầm) | địa danh: Thành Varmont | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Arik: "Ngươi sống vì ta còn dùng được. Đừng cho ta lý do tính lại."
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 10: Bài Học Của Garreth
 - **Mục tiêu chương:** Huấn luyện vũ khí thật; dấu hiệu đầu tiên của ấn cựa quậy
