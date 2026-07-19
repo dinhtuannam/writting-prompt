@@ -31,6 +31,6 @@
 - `plot/secrets/` là sổ bí mật AI-only: chứa đáp án mọi bí ẩn + lịch reveal. Đừng đọc nếu không muốn spoil chính mình.
 - Muốn đổi hướng truyện giữa chừng: nói khi duyệt arc plan, hoặc yêu cầu replan (`/plan-arc` lại arc hiện tại). Đổi hướng LỚN → yêu cầu cập nhật `story-skeleton.md`.
 
-## Truyện đang viết dở từ trước pipeline v2
-- `story-1/` (10 chương, cấu trúc cũ): khi muốn viết tiếp, chạy `/story-skeleton story-1` — skill có chế độ vào-giữa-chừng, đọc chương đã có và dựng skeleton khớp; sau đó cần migrate cấu trúc thư mục (nhờ AI làm khi đó).
-- `story-2/` (đã reset, có raw-idea): chạy từ bước 3 — `/expand-lore story-2`.
+## Trạng thái các dự án hiện có
+- `story-1/` (reset 2026-07-19, đã cấu trúc lại theo pipeline v2, chỉ còn `lore/raw-idea.md`): chạy từ bước 3 — `/expand-lore story-1`.
+- `story-2/` (đã qua bước 3-5, đang ở Arc 02): tiếp tục bước 6 — `/next-chapter story-2`.

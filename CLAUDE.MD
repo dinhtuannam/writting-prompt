@@ -7,8 +7,8 @@
 ## Các dự án hiện có
 | Thư mục | Trạng thái | Ghi chú |
 |---|---|---|
-| `story-1/` | Đang phát triển | Dự án đầu tiên — còn cấu trúc cũ, chỉ migrate khi viết tiếp (xem README.md) |
-| `story-2/` | Đang phát triển | Dark Fantasy, hệ thống Thú Ấn — chờ chạy pipeline v2 từ `/expand-lore` |
+| `story-1/` | Đã reset (2026-07-19) | Epic Fantasy — Chu Kỳ & Selector (Thất Đại Tội/Bảy Đức Hạnh); đã cấu trúc lại theo pipeline v2, chỉ còn `lore/raw-idea.md`; chờ chạy `/expand-lore story-1` |
+| `story-2/` | Đang phát triển | Dark Fantasy, hệ thống Thú Ấn — Arc 02 đang viết (`/next-chapter story-2`) |
 
 ## Dự án đang active
 Xem `ACTIVE-STORY.md`. Mọi skill mặc định thao tác trên dự án active, trừ khi người dùng chỉ định rõ thư mục khác (vd `/next-chapter story-2`).
