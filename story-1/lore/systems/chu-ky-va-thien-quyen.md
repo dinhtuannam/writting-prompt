@@ -18,20 +18,20 @@ cập-nhật-cuối: (chưa có chương nào)
 
 | Dấu Ấn | Con vật | Thiên Quyền | Nhịp vận hành |
 |---|---|---|---|
-| Phẫn Nộ (Elk) | Trâu Rừng — hiền lành khi yên, lao tới bất khả cản khi bị dồn tới hạn | Nộ Tích | Tích (nạp từ tổn hại thật + bất công nén lại) / Phát (giải phóng thành sức mạnh thô) |
+| Phẫn Nộ (Elk) | Sói — hiền lành, sống theo bầy đàn, nhưng lao vào bất khả cản khi bị dồn tới hạn hoặc bầy bị đe dọa | Nộ Tích | Tích (nạp từ tổn hại thật + bất công nén lại) / Phát (giải phóng thành sức mạnh thô) |
 | Kiêu Ngạo | Sư Tử — tuyên bố lãnh thổ bằng tiếng gầm, không giấu mình | Tuyên Ngôn | Cược công khai / Thực hiện lời hứa |
 | Tham Lam | Rồng — tích trữ và định giá mọi thứ trong hang | Định Giá | Thấy giá mọi thứ / Trao đổi ngang giá |
 | Đố Kỵ | Tắc Kè Hoa — đổi màu để trở thành thứ nó nhìn thấy | Phản Chiếu | Chứng kiến kỹ năng / Sao chép tạm thời yếu hơn |
 | Phàm Ăn | Trăn — nuốt trọn con mồi lớn hơn cả đầu mình | Nuốt | Nuốt vào "dạ dày thứ hai" / Tiêu hóa chậm thành sức lực |
 | Dâm Dục | Bướm Đêm — lao về phía ánh sáng/ham muốn bất chấp nguy hiểm | Khao Khát | Đọc ham muốn sâu nhất / Khuếch đại làm mờ lý trí |
-| Lười Biếng | Con Lười — tiến trình sống chậm tới mức gần như dừng | Đình Trệ | Làm chậm/dừng tiến trình hẹp / Phải tự đứng yên theo |
+| Lười Biếng | Gấu — ngủ đông hàng tháng trời, toàn bộ tiến trình cơ thể tự dừng lại | Đình Trệ | Làm chậm/dừng tiến trình hẹp / Phải tự đứng yên theo |
 | Nhẫn Nại *(gương Phẫn Nộ)* | Rùa — chịu đòn, rút vào mai, không lao tới, chỉ bền | Chịu Đựng | Nhận tổn hại / Chuyển thành sức bền tĩnh tăng dần |
-| Khiêm Nhường *(gương Kiêu Ngạo)* | Chuột — không tuyên bố lãnh thổ, sống được ở khắp nơi nhờ không ai để ý | Vô Danh | Hạ thấp hiện diện / Khó bị nhận thức-định vị |
-| Hào Phóng *(gương Tham Lam)* | Ong — không tích trữ cho riêng mình, cho đi mật hoa/phấn hoa nuôi cả đàn | Ban Tặng | Chuyển tài nguyên cho người khác / Khuếch đại ×2 |
+| Khiêm Nhường *(gương Kiêu Ngạo)* | Chim Sẻ — loài chim tầm thường nhất, có mặt khắp nơi nhưng chẳng ai buồn để ý | Vô Danh | Hạ thấp hiện diện / Khó bị nhận thức-định vị |
+| Hào Phóng *(gương Tham Lam)* | Bồ Nông — theo truyền thuyết cổ, tự mổ ngực nuôi con bằng máu thịt mình | Ban Tặng | Chuyển tài nguyên cho người khác / Khuếch đại ×2 |
 | Từ Ái *(gương Đố Kỵ)* | Cừu — không đổi màu để trở thành ai khác, chỉ lặng lẽ hứng chịu thay | Gánh Thay | Kéo vết thương/độc/nguyền người khác / Về thân mình thật |
 | Tiết Độ *(gương Phàm Ăn)* | Kiến — không nuốt trọn, chỉ tha đúng phần cần, không phí một hạt | Vừa Đủ | Tối ưu tài nguyên sẵn có / Không tạo sức mạnh mới |
 | Trong Sạch *(gương Dâm Dục)* | Hạc Trắng — lội qua bùn lầy mà lông vẫn trắng, không lao vào ánh sáng nguy hiểm | Bất Nhiễm | Chạm vào ô uế / Miễn nhiễm-thanh tẩy thao túng |
-| Cần Mẫn *(gương Lười Biếng)* | Hải Ly — cũng chậm rãi như Con Lười, nhưng chậm để dựng lên thứ bền vững | Tích Lũy | Nỗ lực lặp lại / Cộng dồn không mất, không có sức mạnh tức thời |
+| Cần Mẫn *(gương Lười Biếng)* | Ong — không bao giờ ngừng bay, không ngủ đông, cần mẫn dựng cả tổ từng giọt mật một | Tích Lũy | Nỗ lực lặp lại / Cộng dồn không mất, không có sức mạnh tức thời |
 
 ## Diễn biến qua các chương
 | Chương | Thông tin mới được thiết lập |

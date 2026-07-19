@@ -4,7 +4,7 @@
 
 - **Khớp mục skeleton:** Arc 01 — thiết lập Elk/Halden/làng quê, cướp tập kích, Halden chết, Dấu Ấn lộ diện, Phát đầu tiên không kiểm soát.
 - **Trạng thái mở đầu arc:** Elk sống bình yên ở Làng Cỏ Gai, Dấu Ấn chỉ là một vết bớt hình thú vô hại trên da mà ai cũng tưởng là bớt bẩm sinh thông thường; thế giới bên ngoài chưa biết tới cậu.
-- **Trạng thái khi arc đóng:** Halden chết; Dấu Ấn (hình Trâu Rừng, Phẫn Nộ) đã lộ diện công khai trước cả làng; tin đồn đã lan ra ngoài làng; Elk chủ động chọn rời Cỏ Gai để bảo vệ dân làng khỏi những gì sắp kéo tới.
+- **Trạng thái khi arc đóng:** Halden chết; Dấu Ấn (hình Sói, Phẫn Nộ) đã lộ diện công khai trước cả làng; tin đồn đã lan ra ngoài làng; Elk chủ động chọn rời Cỏ Gai để bảo vệ dân làng khỏi những gì sắp kéo tới.
 
 ## Nhìn lại arc trước
 (bỏ qua — đây là arc 1)
@@ -87,9 +87,9 @@
 - **Trạng thái beat:** chưa viết
 
 ### Chương 7: Bác Halden (Chương Cao Trào)
-- **Mục tiêu chương:** Cái chết của Halden; Phát đầu tiên của Elk — không kiểm soát, dữ dội; Dấu Ấn (hình Trâu Rừng) lộ diện công khai.
+- **Mục tiêu chương:** Cái chết của Halden; Phát đầu tiên của Elk — không kiểm soát, dữ dội; Dấu Ấn (hình Sói) lộ diện công khai.
 - **Xung đột / trở ngại:** Elk mất kiểm soát hoàn toàn, đánh bại toán cướp còn lại trong cơn Phát.
-- **Bước ngoặt / thông tin mới:** Cả làng chứng kiến vết bớt trên vai Elk phát sáng thành hình một con trâu rừng lao tới — Dấu Ấn thật sự.
+- **Bước ngoặt / thông tin mới:** Cả làng chứng kiến vết bớt trên vai Elk phát sáng thành hình một con sói gầm gừ — Dấu Ấn thật sự.
 - **Thread tiến/đóng:** Đóng "Điều gì đang lớn dần trong Elk"; đóng "Bí mật dưới lớp da"; mở "Ai sẽ đến tìm Elk trước".
 - **Cảm xúc chủ đạo:** Đau đớn tột cùng, dữ dội (đỉnh điểm arc).
 - **Xuất hiện:** nhân vật: Elk, Halden, Kess | phe: — | địa danh: Làng Cỏ Gai | hệ thống: Chu Kỳ & Thiên Quyền (Dấu Ấn lộ diện), Nộ Tích (Phát đầu tiên)
