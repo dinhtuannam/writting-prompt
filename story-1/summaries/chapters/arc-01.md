@@ -32,3 +32,6 @@ Toren, con trai ruột của Halden, trở về chịu tang cha sau hành trình
 
 ## Chương 11: Người Lạ Trên Đường
 Một tuần sau tập kích, Mira phát hiện một người lạ ẩn danh dò hỏi chi tiết về Elk tại quán trọ đầu làng — kể cả về hình dạng Dấu Ấn, chi tiết không thể chỉ đến từ tin đồn thông thường. Elk trực tiếp gặp người này, giữ thái độ thận trọng, mơ hồ; người lạ (thực chất thuộc Hội Đêm Không Trăng, chưa lộ liên hệ trên trang) không truy vấn thêm nhưng để lộ hiểu biết sâu về Chu Kỳ và 14 Selector. Elk nhận ra tin tức về mình đã lan xa và nhanh hơn cả kênh chính thức của Doran — số phận cậu không còn nằm trong tầm kiểm soát của làng nữa.
+
+## Chương 12: Ranh Giới Cuối Cùng Của Cỏ Gai
+Sau một đêm cân nhắc, Elk tự quyết định rời Làng Cỏ Gai — không phải vì bị ép, mà để bảo vệ dân làng khỏi trở thành mục tiêu vì cậu. Cậu viếng mộ Halden lần cuối, hứa sẽ tìm hiểu về Dấu Ấn của mình và không lãng phí những gì Halden đã dạy. Từ biệt bà Yssa (đau đớn nhưng thấu hiểu), Mira (bắt cậu hứa phải sống để quay lại), Joran và ông Corvan. Elk bước qua ranh giới quen thuộc của làng lần đầu tiên trong đời, ngoái nhìn Cỏ Gai lần cuối — biết mình sẽ không bao giờ sống như người bình thường nữa, không phải vì Dấu Ấn, mà vì chính lựa chọn của cậu. Arc 01 khép lại.

@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 11
-- **Arc hiện tại:** Arc 01 — Đêm Cỏ Gai Cháy (đang viết, chương 11/12 xong — chương cuối arc)
-- **Ngày/thời điểm trong truyện:** Chiều tối, một tuần sau tập kích
+- **Chương hiện tại đã viết xong:** 12
+- **Arc hiện tại:** Arc 01 — Đêm Cỏ Gai Cháy (ĐÃ HOÀN THÀNH, 12/12 chương — chờ `/plan-arc story-1` cho Arc 02)
+- **Ngày/thời điểm trong truyện:** Trưa, ngày Elk rời làng
 - **POV hiện tại:** Elk (ngôi thứ 3 giới hạn)
-- **Nhân vật đang có mặt tại hiện trường:** Elk, Mira
-- **Địa điểm hiện tại:** Làng Cỏ Gai — trên đường về nhà từ quán trọ
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Elk vừa nhận ra tin tức về mình đã lan xa hơn kiểm soát của làng. Chương 12 ("Ranh Giới Cuối Cùng Của Cỏ Gai") là chương ĐÓNG ARC — Elk tự quyết định rời làng để bảo vệ những người cậu yêu thương, không phải bị ép.
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Người lạ ẩn danh sẽ rời làng vào sáng mai, mang câu chuyện về Elk đi xa hơn nữa.
-- **Mục tiêu ngắn hạn của nhân vật chính:** Quyết định phải làm gì tiếp theo trước khi mọi thứ vượt khỏi tầm kiểm soát hoàn toàn.
+- **Nhân vật đang có mặt tại hiện trường:** Elk (một mình, trên con đường rời khỏi Làng Cỏ Gai)
+- **Địa điểm hiện tại:** Ranh giới Làng Cỏ Gai — trên đường đi, hướng chưa xác định
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Elk vừa rời làng lần đầu tiên trong đời, mang theo cây gậy "Sấm", chưa biết đích đến. Cần chạy `/plan-arc story-1` để lên beat Arc 02 trước khi viết tiếp.
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Elk bước đi không ngoái lại, biết mình sẽ không bao giờ sống như người bình thường nữa — vì chính lựa chọn của cậu, không chỉ vì Dấu Ấn.
+- **Mục tiêu ngắn hạn của nhân vật chính:** Tìm đường sống sót và tự học hiểu về Dấu Ấn/Chu Kỳ trong thế giới rộng lớn ngoài Cỏ Gai; tránh bị các phe đang săn lùng Selector phát hiện quá sớm.
 
 ## Ghi chú cho AI khi viết chương tiếp theo
-Chương 12 ("Ranh Giới Cuối Cùng Của Cỏ Gai") — CHƯƠNG ĐÓNG ARC 01 — cần: từ biệt bà Yssa và Mira; Elk tự quyết định rời làng (lựa chọn của chính cậu, không phải bị ép bởi Doran hay ai khác). Đóng thread "Tang thương và mất mát tập thể"; chuyển "Ai sẽ đến tìm Elk trước" sang trạng thái mở dài hạn tiếp tục ở Arc 02. Kết chương (bắt buộc giữ): Elk bước qua ranh giới quen thuộc của làng lần đầu tiên, ngoái nhìn Cỏ Gai lần cuối — biết mình sẽ không bao giờ sống như người bình thường nữa. Sau khi viết xong, đây là chương cuối arc — nhắc người dùng chạy `/plan-arc story-1` cho Arc 02.
+Arc 01 đã hoàn thành đủ 12/12 chương. TRƯỚC KHI viết Chương 13, PHẢI chạy `/plan-arc story-1` để lên beat chi tiết Arc 02 ("Con Đường Ra Khỏi Cỏ Gai", chương 13-24 theo `plot/story-skeleton.md`) — không được tự bịa beat.

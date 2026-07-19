@@ -144,4 +144,4 @@
 - **Cảm xúc chủ đạo:** Quyết tâm pha buồn bã, hi vọng mong manh.
 - **Xuất hiện:** nhân vật: Elk, bà Yssa, Mira | phe: — | địa danh: Làng Cỏ Gai | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Elk bước qua ranh giới quen thuộc của làng lần đầu tiên, ngoái nhìn Cỏ Gai lần cuối — biết mình sẽ không bao giờ sống như người bình thường nữa.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
