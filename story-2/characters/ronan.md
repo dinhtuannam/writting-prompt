@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick (Ấn Gấu) và Maela (Ấn Bồ Câu). Vừa gặp Isolde Varmont lần đầu (chương 2) — cứu mạng cô khỏi Sói Sương, đổi lại bị thương nặng.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan, thân phận bị giấu kín từ lúc sinh — cha mẹ khai man là "chỉ mang hình xăm rắn thường".
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít, câu ngắn, gọn — đặc biệt gọn khi đang chịu đau đớn hoặc căng thẳng cực độ ("Chạy đi. Gọi người... giúp.")
-- **Trạng thái hiện tại:** Chứng kiến Dreven xuất hiện tại cổng thành từ xa; buổi học đọc với Isolde tiếp tục tiến triển — cuối chương 11
-- **Xuất hiện lần cuối:** Chương 11 (thoáng qua, từ góc nhìn Isolde)
+- **Trạng thái hiện tại:** Đã tuyên lời thề nội tâm trở thành "thứ vượt xa mọi tưởng tượng"; quyết tâm trả thù có chủ đích bắt đầu định hình — cuối chương 12 (kết Arc 01)
+- **Xuất hiện lần cuối:** Chương 12
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -34,3 +34,4 @@ cập-nhật-cuối: chương 2
 | 9 | Chứng kiến Giáo Hội đòi giao nộp mình (bị Arik từ chối); biết tin đơn xin gặp con của cha mẹ bị bác; bị một phu buôn lạ để ý ở chợ; nhận lời cảnh cáo trực diện từ Arik |
 | 10 | Huấn luyện vũ khí thật với Garreth; suýt chết trong đấu tập, ấn "cựa mình" lần hai; Rodrick liều lĩnh tiếp cận, cảnh báo dở dang về bí mật giấu dưới sàn căn nhà trước khi bị cắt ngang |
 | 11 | (từ góc nhìn Isolde) Tiếp tục buổi học đọc chữ, cảm ơn Isolde; chứng kiến từ xa cảnh Dreven xuất hiện tại cổng thành |
+| 12 | Trải qua nghi thức đọc Ấn công khai của Dreven; chứng kiến đấu trí Arik-Dreven; đêm đó tuyên lời thề nội tâm sẽ trở thành "thứ vượt xa mọi tưởng tượng" thay vì làm nạn nhân hay quái vật theo kịch bản định sẵn (kết Arc 01) |

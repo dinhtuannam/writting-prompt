@@ -2,15 +2,15 @@
 
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
-- **Chương hiện tại đã viết xong:** 11
-- **Arc hiện tại:** Arc 01 — Vòng Cổ (ch 1-12, kế hoạch tại `plot/arc-plans/arc-01.md`) — CHƯƠNG CUỐI ARC LÀ CHƯƠNG 12
-- **Ngày/thời điểm trong truyện:** Sáng hôm sau chương 11 (buổi tối trước + sáng hôm sau)
-- **POV hiện tại:** Isolde — chương 12 chuyển lại POV Ronan (chương cuối arc: Lời Thề)
-- **Nhân vật đang có mặt tại hiện trường:** Isolde, Arik, Dreven, đám đông sân trong (Ronan đứng ở rìa)
-- **Địa điểm hiện tại:** Cổng chính, thành Varmont
-- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Thẩm Ấn Quan Dreven vừa đích thân xuất hiện tại cổng thành, xin phép "ở lại hành lễ" — báo hiệu ông ta sẽ đóng chốt lâu dài
-- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** Sự điềm tĩnh đáng sợ của Dreven khiến cả sân trong căng thẳng — chưa rõ "hành lễ" nghĩa là gì
-- **Mục tiêu ngắn hạn của nhân vật chính:** (Ronan chương tới) đối mặt buổi "hành lễ" đọc ấn công khai của Dreven — chương cuối arc, dẫn tới lời thề kết arc
+- **Chương hiện tại đã viết xong:** 12 — ARC 01 ĐÃ HOÀN THÀNH
+- **Arc hiện tại:** Arc 01 — Vòng Cổ (ch 1-12) — ĐÃ ĐÓNG. Chờ chạy `/plan-arc story-2` để lên beat Arc 02.
+- **Ngày/thời điểm trong truyện:** Đêm ngày Dreven thực hiện "hành lễ" đọc Ấn
+- **POV hiện tại:** Ronan
+- **Nhân vật đang có mặt tại hiện trường:** Ronan, một mình trong phòng xép
+- **Địa điểm hiện tại:** Phòng xép cạnh chuồng ngựa, thành Varmont
+- **Tình huống ngay trước khi chương tiếp theo bắt đầu:** Dreven đã xác nhận Ronan là Leviathan thật qua nghi thức đọc Ấn; đấu trí với Arik về quyền giám sát; dựng lều đóng chốt dài hạn ngoài tường thành; Ronan đã tuyên lời thề nội tâm về việc trở thành "thứ vượt xa mọi tưởng tượng" thay vì làm nạn nhân hay quái vật theo kịch bản định sẵn
+- **Hook/căng thẳng chưa giải quyết cuối chương gần nhất:** "Hắn không đến để đi" — Dreven sẽ là mối đe dọa thường trực ngay ngoài tường thành, mở đầu Arc 02
+- **Mục tiêu ngắn hạn của nhân vật chính:** Arc 1 khép lại — mục tiêu mới sẽ được xác định trong beat Arc 02
 
 ## Ghi chú cho AI khi viết chương tiếp theo
 - **BẮT BUỘC trước khi hoàn thành mỗi chương:** kiểm tra `characters/_index.md` — mọi nhân vật đã xuất hiện quá 1-2 chương phải có Dấu Ấn + Tầng Cộng Hưởng được ghi rõ (tiết lộ, gợi ý, tin đồn, hoặc giấu có chủ đích — không được để trống hoặc lờ đi). Xem "Quy tắc tối thượng" trong `style/style-guide.md`. Hiện không có nhân vật nào đang treo; Rodrick/Maela/Garreth có Tầng ở mức "gợi ý", chưa xác nhận chính xác — có thể xác nhận rõ hơn ở arc sau nếu hợp lý. Nhân vật mới xuất hiện tiếp theo cần xử lý trong vòng 1-2 chương như thường lệ.

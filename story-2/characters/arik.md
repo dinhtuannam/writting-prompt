@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 3
 - **Mối quan hệ với nhân vật khác:** Cha của Isolde Varmont. Sắp đưa ra phán quyết định đoạt số phận Ronan, Rodrick, Maela.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Sẽ là người ra lệnh giết Rodrick và Maela sau này (xem `plot/secrets/ai-giet-bo-me-ronan.md` — KHÔNG được hé lộ trước lịch); từng cho chôn sống tù binh trong Chiến Tranh Biên Thùy (xem `plot/secrets/bi-mat-chien-tranh-bien-thuy.md`).
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ngắn, gọn, như đọc báo cáo quân sự; hiếm khi hỏi lại, thường chỉ lặp lại thông tin để xác nhận.
-- **Trạng thái hiện tại:** Đối mặt áp lực 3 phía leo thang; vừa gặp trực tiếp Thẩm Ấn Quan Dreven tại cổng thành
-- **Xuất hiện lần cuối:** Chương 11
+- **Trạng thái hiện tại:** Đã từ chối cho Dreven trú trong thành, nhưng không thể ngăn ông ta đóng chốt ngoài tường thành
+- **Xuất hiện lần cuối:** Chương 12
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -28,3 +28,4 @@ cập-nhật-cuối: chương 3
 | 8 | Nhận thư Corvin đòi Isolde làm "khách quý"; phát hiện và cấm cô gặp riêng Ronan |
 | 9 | Từ chối giao Ronan cho Giáo Hội (thẳng thắn thừa nhận vì lợi ích riêng, không phải lòng tốt); bác đơn xin gặp con của Rodrick/Maela; cảnh cáo Ronan trực diện: "Ngươi sống vì ta còn dùng được. Đừng cho ta lý do tính lại." |
 | 11 | (từ góc nhìn Isolde) Bàn với Garreth về áp lực 3 phía (Giáo Hội, Vercast, Nghiệp Đoàn); nghi ngờ có kẻ phối hợp; tuyên bố sẽ không để Isolde bị đưa tới Vercast "dù phải làm gì đi nữa"; đối mặt trực tiếp với Dreven tại cổng thành |
+| 12 | Chứng kiến nghi thức đọc Ấn công khai của Dreven; đấu trí về quyền giám sát Ronan; từ chối cho Dreven trú trong thành nhưng không ngăn được ông ta đóng chốt ngoài tường thành |

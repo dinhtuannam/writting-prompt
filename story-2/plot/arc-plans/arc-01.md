@@ -149,4 +149,4 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Uất → quyết tâm sắt
 - **Xuất hiện:** nhân vật: Ronan, Dreven, Arik, Isolde (xa) | phe: Gia tộc Varmont, Giáo Hội Thánh Ấn | địa danh: Thành Varmont | hệ thống: Ấn Thú, Vòng Cổ Khuất Phục
 - **Điểm kết chương (bắt buộc giữ):** Dreven dựng lều ngoài tường thành — "hắn không đến để đi"
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết — ARC 01 HOÀN THÀNH
