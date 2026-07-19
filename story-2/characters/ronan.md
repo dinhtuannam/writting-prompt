@@ -17,8 +17,8 @@ cập-nhật-cuối: chương 2
 - **Mối quan hệ với nhân vật khác:** Con trai duy nhất của Rodrick (Ấn Gấu) và Maela (Ấn Bồ Câu). Vừa gặp Isolde Varmont lần đầu (chương 2) — cứu mạng cô khỏi Sói Sương, đổi lại bị thương nặng.
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Mang Ấn Leviathan, thân phận bị giấu kín từ lúc sinh — cha mẹ khai man là "chỉ mang hình xăm rắn thường".
 - **Giọng nói / cách nói chuyện đặc trưng:** Nói ít, câu ngắn, gọn — đặc biệt gọn khi đang chịu đau đớn hoặc căng thẳng cực độ ("Chạy đi. Gọi người... giúp.")
-- **Trạng thái hiện tại:** Bất tỉnh vì thuốc an thần sau khi nghe phán quyết đầy đủ — cuối chương 4
-- **Xuất hiện lần cuối:** Chương 4
+- **Trạng thái hiện tại:** Chứng kiến cha mẹ chịu hình phạt công khai; có thứ gì đó trong cậu vừa nguội đi vĩnh viễn — cuối chương 5
+- **Xuất hiện lần cuối:** Chương 5
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -27,3 +27,4 @@ cập-nhật-cuối: chương 2
 | 2 | Lao vào cứu Isolde khỏi Sói Sương; chiến đấu tay không vũ khí thật sự, bị cắn trọng thương ở hông; ấn có dấu hiệu "cựa mình" lần đầu; bảo Isolde chạy đi gọi người giúp rồi bất tỉnh |
 | 3 | (từ góc nhìn Isolde) Được đội tuần tra tìm thấy và đưa về thành; ấn Leviathan lộ ra khi thầy thuốc Sela khám vết thương; bị xiềng cổ khẩn cấp theo lệnh Garreth trong lúc vẫn bất tỉnh |
 | 4 | Tỉnh dậy trong phòng giam; nghe Arik tuyên phán quyết đầy đủ (100 roi + phục dịch trọn đời cho cha mẹ, bản thân thuộc về Isolde); phản kháng dữ dội, bị ép uống thuốc an thần |
+| 5 | Bị buộc chứng kiến cha mẹ chịu 100 roi công khai; đối mặt trực tiếp với định kiến của đám đông và câu dọa trẻ về Leviathan; nhận ánh mắt cuối cùng của cha mẹ trước khi họ bị đưa đi phục dịch; có thứ gì đó trong cậu nguội đi vĩnh viễn |

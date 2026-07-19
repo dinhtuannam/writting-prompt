@@ -79,7 +79,7 @@ Bỏ qua — đây là arc 1.
 - **Cảm xúc chủ đạo:** Đau tột cùng
 - **Xuất hiện:** nhân vật: Ronan, Rodrick, Maela, Arik, tư tế nhà nguyện | phe: Gia tộc Varmont, Giáo Hội Thánh Ấn | địa danh: Thành Varmont | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Qua ánh mắt cha mẹ, có thứ trong Ronan nguội đi vĩnh viễn
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 6: Khế Ước
 - **Mục tiêu chương:** Nghi thức xác lập chủ nhân Ronan-Isolde
