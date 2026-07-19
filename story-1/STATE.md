@@ -3,7 +3,7 @@
 > File này LUÔN được cập nhật sau mỗi chương được duyệt. Đây là nguồn sự thật duy nhất về "truyện đang ở đâu". AI PHẢI đọc toàn bộ file này trước khi viết bất kỳ chương nào.
 
 - **Chương hiện tại đã viết xong:** 0
-- **Arc hiện tại:** Arc 01 (chưa plan)
+- **Arc hiện tại:** Arc 01 — Đêm Cỏ Gai Cháy (đã plan, chưa viết chương)
 - **Ngày/thời điểm trong truyện:** (chưa xác định)
 - **POV hiện tại:** (chưa xác định)
 - **Nhân vật đang có mặt tại hiện trường:** (chưa xác định)
