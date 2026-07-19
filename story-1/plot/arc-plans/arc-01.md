@@ -124,7 +124,7 @@
 - **Cảm xúc chủ đạo:** Buồn, tội lỗi, phức tạp.
 - **Xuất hiện:** nhân vật: Elk, Toren (con trai Halden) | phe: — | địa danh: Làng Cỏ Gai (nhà Halden) | hệ thống: Nộ Tích (nghĩa đen vs nghĩa sâu — hạt giống đầu tiên)
 - **Điểm kết chương (bắt buộc giữ):** Toren rời đi không nói thêm lời nào, để lại Elk một mình bên mộ Halden.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết
 
 ### Chương 11: Người Lạ Trên Đường
 - **Mục tiêu chương:** Áp lực bên ngoài xuất hiện sớm hơn dự kiến — tin đồn đã lan xa hơn cả người đưa tin của Doran.

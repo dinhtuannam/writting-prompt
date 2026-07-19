@@ -26,3 +26,6 @@ Bà Yssa tìm thấy Elk bên xác Halden, đau buồn nhưng vẫn ôm lấy co
 
 ## Chương 9: Ánh Mắt Người Làng
 Trưởng làng Doran họp cả làng ba ngày sau tập kích, viện luật Calrath buộc trình báo Selector trong 3 ngày. Cuộc tranh luận chia rẽ dân làng — Mera sợ hãi, anh Perrin bênh vực Elk vì ơn cứu mạng. Elk đề nghị tự trình diện nhưng Doran từ chối vì lý do pháp lý. Doran quyết định cử Wyle mang thư báo tin lên Calmont, có ghi rõ công lao cứu người của Elk. Elk suy ngẫm đêm đó rằng nỗi sợ của dân làng, dù đau lòng, không hẳn vô lý. Sáng hôm sau, Wyle lên đường tới kinh đô Calmont.
+
+## Chương 10: Người Thợ Săn Không Còn
+Toren, con trai ruột của Halden, trở về chịu tang cha sau hành trình cưỡi ngựa liên tục hai ngày đêm. Tại lễ an táng chính thức, anh đổ lỗi cho Elk trong đau đớn, nhưng dần dịu lại khi Elk kể Halden luôn tự hào về anh. Toren rời đi sau khi nói chuyện, để Elk một mình bên mộ Halden. Đêm đó, Elk lần đầu tiên thử tự cảm nhận và tìm hiểu "hơi ấm" bên trong mình — chưa thành công nhưng hứa với chính mình sẽ học cách làm chủ nó, không để nó điều khiển mình lần nữa.

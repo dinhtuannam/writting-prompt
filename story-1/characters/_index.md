@@ -18,5 +18,6 @@
 | Trưởng làng Doran | Trưởng làng Cỏ Gai | còn sống | `doran.md` |
 | Wyle | Thanh niên đưa tin lên Calmont | còn sống | `wyle.md` |
 | Mera | Dân làng lo sợ Dấu Ấn của Elk | còn sống | `mera.md` |
+| Toren | Con trai ruột của Halden | còn sống | `toren.md` |
 
 > Cập nhật bảng này mỗi khi thêm nhân vật mới. Mỗi nhân vật quan trọng có 1 file riêng trong thư mục này, dùng `_template.md` làm khuôn mẫu (đổi tên thành `<ten-nhan-vat>.md`).
