@@ -24,9 +24,7 @@ Vòng tròn dịch chuyển được coi là điều cấm kỵ trên toàn th�
 
 Vương quốc Asura không phải là một quốc gia dân chủ nên Nữ hoàng Ariel có thể vượt qua sự ồn ào và phản đối, nhưng sự bất mãn của dân chúng có thể dẫn đến một cuộc đảo chính. Tuy nhiên, cô ấy vẫn luôn có người nhắm tới mình trở lại. Tôi cảm thấy thoải mái khi để lại cho cô ấy trách nhiệm đi lên với một lời bào chữa cho lý do tại sao cô ấy lại làm điều này.
 
-Thực ra, hôm nay tôi đã đọc bản thảo bài phát biểu của cô ấy và nó khá là tuyệt vời.
-
-thuyết phục.
+Thực ra, hôm nay tôi đã đọc bản thảo bài phát biểu của cô ấy và nó khá là tuyệt vời thuyết phục.
 
 Mười năm đã trôi qua kể từ khi Sự cố Dịch chuyển gây ra sự sụp đổ của Vùng Fittoa, và ngay cả bây giờ, nó vẫn đang được xây dựng lại. Nó sẽ có lẽ phải mất hàng chục năm mới có được những cánh đồng lúa mì vàng óng tuyệt đẹp đó tỏa sáng một lần nữa. Sự việc đó đã lấy đi của chúng tôi rất nhiều thứ--và đó chính xác là tại sao chúng ta phải tìm hiểu thêm về dịch chuyển tức thời. Chúng ta phải biết để chúng ta có thể ngăn chặn thảm họa tương tự xảy ra lần nữa. Chúng ta cần phải biết dịch chuyển tức thời thực sự là gì.
 
@@ -56,9 +54,7 @@ Tôi vui mừng được trở về nơi ở khiêm tốn của mình, nơi tôi
 
 "Hả? Không có ai ở đây à?"
 
-Ngoại trừ việc ngôi nhà thường ngày nhộn nhịp của tôi lại im lặng. Đó là sớm buổi chiều. Roxy, Lara, Arus và Sieg sẽ ở trường. Vào thời điểm này ngày hôm đó, Sylphie có thể ra ngoài mua sắm. Lily và Chris có thể đã đi chơi đi dạo với Eris. Aisha có đang giải quyết vấn đề của ban nhạc đánh thuê không? thiên đỉnh cũng không có ở đây, và Dillo cũng vậy. Trong trường hợp đó, Lilia đã lấy Zenith ra ngoài hay gì đó? Gần đây, họ đã cưỡi Dillo tới nhiều nơi khác nhau.
-
-nhiều nơi, nên có thể là như vậy. Bắt đầu từ năm nay, Lucie đã đăng ký học Học viện Hoàng gia Vương quốc Asura và đang sống trong ký túc xá, vì vậy cô ấy cũng không có ở nhà.
+Ngoại trừ việc ngôi nhà thường ngày nhộn nhịp của tôi lại im lặng. Đó là sớm buổi chiều. Roxy, Lara, Arus và Sieg sẽ ở trường. Vào thời điểm này ngày hôm đó, Sylphie có thể ra ngoài mua sắm. Lily và Chris có thể đã đi chơi đi dạo với Eris. Aisha có đang giải quyết vấn đề của ban nhạc đánh thuê không? thiên đỉnh cũng không có ở đây, và Dillo cũng vậy. Trong trường hợp đó, Lilia đã lấy Zenith ra ngoài hay gì đó? Gần đây, họ đã cưỡi Dillo tới nhiều nơi khác nhau nhiều nơi, nên có thể là như vậy. Bắt đầu từ năm nay, Lucie đã đăng ký học Học viện Hoàng gia Vương quốc Asura và đang sống trong ký túc xá, vì vậy cô ấy cũng không có ở nhà.
 
 Điều đó có nghĩa là tôi thực sự là người duy nhất ở trong nhà.
 
@@ -122,9 +118,7 @@ Sẽ thật kỳ lạ nếu họ giả vờ đấu vật mà không có rương 
 
 "À, ồ."
 
-Tôi muốn mở cửa và nhìn thấy Aisha đang xoa bóp cho Arus.
-
-vai hay gì đó. Tôi muốn đây chỉ là một sự hiểu lầm.
+Tôi muốn mở cửa và nhìn thấy Aisha đang xoa bóp cho Arus vai hay gì đó. Tôi muốn đây chỉ là một sự hiểu lầm.
 
 "Ơ, à, ugh--" Tôi không thể tìm được từ ngữ. Cái quái gì thế này?
 
@@ -132,9 +126,7 @@ Tôi phải làm gì đây? Làm thế nào điều này xảy ra? Hả?
 
 Aisha tái mặt trước sự xuất hiện đột ngột của tôi. Tôi chắc hẳn đã nhìn chính xác tương tự, vì tôi có thể cảm thấy máu chảy ra từ mặt mình.
 
-Cô ấy cố gắng nói điều gì đó, nhưng vì lý do rõ ràng, cô ấy vấp ngã.
-
-qua lời nói của cô ấy. "U-um, chào mừng anh về nhà... Ý tôi là, ừm, đây là, ờ..."
+Cô ấy cố gắng nói điều gì đó, nhưng vì lý do rõ ràng, cô ấy vấp ngã qua lời nói của cô ấy. "U-um, chào mừng anh về nhà... Ý tôi là, ừm, đây là, ờ..."
 
 Điều đó đủ để nói với tôi rằng đây không phải là một loại hiểu lầm - họ biết họ đang làm gì.
 
@@ -150,9 +142,7 @@ Nhưng việc lê bước quanh tầng trên đã cho tôi biết một cách t�
 
 Trong khi Aisha và Arus đang tắm, Sylphie và Lilia về nhà.
 
-Họ ngạc nhiên khi thấy tôi và hỏi chuyện gì đã xảy ra. tôi vật lộn nói thành lời, nhưng dù sao, tôi đã kể cho họ nghe tất cả những gì tôi đã thấy kể từ đó đang về nhà. Lilia tái mặt, nhìn tình trạng của tôi rồi đỏ bừng mặt.
-
-và cố gắng chạy đi đâu đó trước khi Sylphie ngăn cô ấy lại.
+Họ ngạc nhiên khi thấy tôi và hỏi chuyện gì đã xảy ra. tôi vật lộn nói thành lời, nhưng dù sao, tôi đã kể cho họ nghe tất cả những gì tôi đã thấy kể từ đó đang về nhà. Lilia tái mặt, nhìn tình trạng của tôi rồi đỏ bừng mặt và cố gắng chạy đi đâu đó trước khi Sylphie ngăn cô ấy lại.
 
 Bằng cách nào đó, Sylphie đã giữ được bình tĩnh trong suốt câu chuyện của tôi.
 
@@ -160,13 +150,9 @@ Cô ấy nói rằng chúng tôi nên nói chuyện lại sau khi mọi người
 
 Khi Aisha và Arus tắm xong, Eris và những người khác đã trở lại. Khi nhìn thấy bộ dạng của tôi, cô ấy cuống cuồng hỏi người đã làm điều này với tôi.
 
-Cách cô ấy hỏi làm tôi nhớ đến lần tôi cãi nhau với Paul.nhiều năm trước đây. Tôi cố gắng bình tĩnh nhất có thể khi giải thích mọi chuyện cho cô ấy. Cô ấy trông hoàn toàn bối rối trước tất cả. Điều đó nói rằng, cô ấy có thể biết làm thế nào tình hình hiện tại của tôi rất nghiêm trọng nên cô ấy không nói gì cả.
+Cách cô ấy hỏi làm tôi nhớ đến lần tôi cãi nhau với Paul.nhiều năm trước đây. Tôi cố gắng bình tĩnh nhất có thể khi giải thích mọi chuyện cho cô ấy. Cô ấy trông hoàn toàn bối rối trước tất cả. Điều đó nói rằng, cô ấy có thể biết làm thế nào tình hình hiện tại của tôi rất nghiêm trọng nên cô ấy không nói gì cả khác.
 
-khác.
-
-Tôi bảo Lily và Chris đi tắm sau hai người kia rồi bảo họ đi tắm.
-
-về phòng của họ trước khi quay lại ghế, nơi tôi khoanh tay và nhắm mắt lại.
+Tôi bảo Lily và Chris đi tắm sau hai người kia rồi bảo họ đi tắm về phòng của họ trước khi quay lại ghế, nơi tôi khoanh tay và nhắm mắt lại.
 
 Aisha và Arus đang ở cạnh nhau. Aisha nhìn có vẻ hơi bất mãn nhưng vẫn không lay chuyển. Arus có vẻ lo lắng, nghiêm túc và kiểu như anh ấy không hiểu chuyện gì đang xảy ra vậy. Biểu hiện của anh ấy là khó phân tích.
 
@@ -178,17 +164,11 @@ Cuối cùng, Roxy cũng về đến nhà và sau khi tiễn Lara và Sieg đi �
 
 Cuộc họp gia đình bắt đầu.
 
-Đầu tiên, chúng tôi cần xác nhận điều gì đã thực sự xảy ra. Khi tôi hỏi họ định làm gì, Aisha không nói nặng lời. Arus im lặng toàn bộ thời gian. Anh nhìn xuống bàn tay mình đang cuộn tròn thành nắm đấm.
-
-đùi của anh ấy.
+Đầu tiên, chúng tôi cần xác nhận điều gì đã thực sự xảy ra. Khi tôi hỏi họ định làm gì, Aisha không nói nặng lời. Arus im lặng toàn bộ thời gian. Anh nhìn xuống bàn tay mình đang cuộn tròn thành nắm đấm đùi của anh ấy.
 
 Theo Aisha, cả hai thực sự đã quan hệ tình dục. Cô ấy tuyên bố đó là "thực hành."
 
-"Đúng vậy. Cậu thấy đấy, cậu Arus đã trưởng thành. Và tôi cũng vậy.
-
-chắc ngài biết đấy, Chủ nhân, Chủ nhân Arus quả là một tay chơi nhỏ bé. tôi nghe nói rằng khi anh ấy tốt nghiệp trường đại học phép thuật, anh ấy sẽ theo học trường học ở Vương quốc Asura, nên tôi kết luận rằng anh ấy sẽ có có rất nhiều cơ hội để giao hợp ở đó. Vì anh ấy là con trai cả, anh ấy sẽ phải có người thừa kế, vì vậy tôi quyết định làm người thừa kế cho anh ấy.
-
-bạn tập luyện để anh ta không thất bại khi thời điểm đến."
+"Đúng vậy. Cậu thấy đấy, cậu Arus đã trưởng thành. Và tôi cũng vậy chắc ngài biết đấy, Chủ nhân, Chủ nhân Arus quả là một tay chơi nhỏ bé. tôi nghe nói rằng khi anh ấy tốt nghiệp trường đại học phép thuật, anh ấy sẽ theo học trường học ở Vương quốc Asura, nên tôi kết luận rằng anh ấy sẽ có có rất nhiều cơ hội để giao hợp ở đó. Vì anh ấy là con trai cả, anh ấy sẽ phải có người thừa kế, vì vậy tôi quyết định làm người thừa kế cho anh ấy bạn tập luyện để anh ta không thất bại khi thời điểm đến."
 
 Aisha đang giải thích mọi thứ với giọng điệu nhu mì và lịch sự. Đó là cái lạnh, giọng điệu máy móc, tách biệt mà cô ấy sử dụng khi nói chuyện với người ngoài, và một giọng nói xa vời từ cách cô ấy thường nói chuyện với tôi. Trái ngược với giọng điệu đó, từ cô ấy lý do cô ấy sử dụng đều quá nhẹ nhàng và thiếu sót: luyện tập.
 
@@ -220,9 +200,7 @@ Lilia không thể chịu đựng được việc tôi không nói gì và là n
 
 "Chà..." Lilia nghẹn lời.Đúng là Lilia đã từng thúc ép Aisha ra tay với tôi.
 
-Cô ấy đã ngừng làm điều đó theo thời gian, có lẽ vì tôi chưa bao giờ thể hiện bất kỳ điều gì.
-
-tiền lãi.
+Cô ấy đã ngừng làm điều đó theo thời gian, có lẽ vì tôi chưa bao giờ thể hiện bất kỳ điều gì tiền lãi.
 
 "Đó là...bởi vì Master Rudeus không mong muốn điều đó."
 
@@ -246,15 +224,11 @@ Trong khi đó, Aisha trông hoàn toàn bình tĩnh và tự chủ. Đó là v�
 
 “Aisha,” tôi nói.
 
-“Có chuyện gì thế, thưa Thầy?” Ngay cả khi tôi nói chuyện với cô ấy, sự điềm tĩnh của Aisha vẫn không thay đổi chút nào.
-
-khoảnh khắc duy nhất. Cô ấy không có vẻ lo lắng chút nào. Nếu cô ấy đoán trước được chúng tôi cuộc trò chuyện cũng vậy? Nếu không có gì khác, cô ấy cũng không có vẻ xấu hổ. Đã làm cô ấy thực sự nghĩ rằng cô ấy không làm gì sai?
+“Có chuyện gì thế, thưa Thầy?” Ngay cả khi tôi nói chuyện với cô ấy, sự điềm tĩnh của Aisha vẫn không thay đổi chút nào khoảnh khắc duy nhất. Cô ấy không có vẻ lo lắng chút nào. Nếu cô ấy đoán trước được chúng tôi cuộc trò chuyện cũng vậy? Nếu không có gì khác, cô ấy cũng không có vẻ xấu hổ. Đã làm cô ấy thực sự nghĩ rằng cô ấy không làm gì sai?
 
 "Cậu không nên làm những việc như thế này một cách... tùy tiện."
 
-"Nhưng tất nhiên. Tôi không hề coi thường nó chút nào. Tôi đã cố gắng hết sức."
-
-bởi vì đó là vì lợi ích của Thầy Arus. Hay có lý do nào đó khiến tôi không nên có?"
+"Nhưng tất nhiên. Tôi không hề coi thường nó chút nào. Tôi đã cố gắng hết sức bởi vì đó là vì lợi ích của Thầy Arus. Hay có lý do nào đó khiến tôi không nên có?"
 
 Đó là một câu hỏi lạnh lùng. Như thể cô ấy đang mời tôi nghĩ ra một lý do.
 
@@ -282,11 +256,7 @@ Còn Eris thì sao? Không, cô ấy đang ở trong tình trạng tệ hơn. C�
 
 Vậy Sylphie có phải là lựa chọn đúng đắn không?
 
-Ngay khi cuộc trò chuyện kết thúc, Aisha ngừng nói.
-
-giọng điệu lịch sự của cô ấy. "Chà, tôi đoán nó là như vậy phải không? Tôi đã làm điều này cho Arus và gia đình Greyrat, nhưng bạn có thể đúng khi cho rằng tôi làm việc đó hơi quá tình cờ.
-
-Có lẽ tôi nên suy nghĩ kỹ hơn. Như anh đã nói, anh ơi, em đã bất cẩn. Tôi xin lỗi."
+Ngay khi cuộc trò chuyện kết thúc, Aisha ngừng nói giọng điệu lịch sự của cô ấy. "Chà, tôi đoán nó là như vậy phải không? Tôi đã làm điều này cho Arus và gia đình Greyrat, nhưng bạn có thể đúng khi cho rằng tôi làm việc đó hơi quá tình cờ. Có lẽ tôi nên suy nghĩ kỹ hơn. Như anh đã nói, anh ơi, em đã bất cẩn. Tôi xin lỗi."
 
 Bầu không khí trong phòng chuyển sang nhẹ nhõm. Về phần ai đã thay đổi bầu không khí đó, không cần phải nói: Aisha đang quấn lấy mọi chuyện ổn thỏa. Cô ấy kiểm soát được diễn biến của cuộc trò chuyện và cố gắng chấm dứt cuộc họp này. Đó là nó. Chúng ta đã xong việc ở đây. Tôi đã làm hỏng một ít, nhưng tôi rất hối hận về việc mình đã làm. Và cuối cùng, cô ấy sẽ nói, tôi sẽ không làm điều đó một lần nữa.
 
@@ -296,27 +266,19 @@ Nói cách khác, ngay từ đầu cô đã biết việc mình đang làm đã 
 
 "Tôi hứa sẽ không ngủ với Arus chút nào--" "Thật ra, tôi có thể yêu cầu bạn ngủ với Sieg luôn được không?"
 
-Chính Sylphie đã cắt ngang Aisha. Cô ấy đã im lặng kể từ đó cuộc họp bắt đầu, ánh mắt sắc bén của cô ấy dán chặt vào em gái tôi.
-
-toàn bộ thời gian. Đó là cái nhìn mà cô ấy hiếm khi dành cho bất cứ ai trong gia đình chúng tôi. Bây giờ, cô ấy đã lên tiếng.
+Chính Sylphie đã cắt ngang Aisha. Cô ấy đã im lặng kể từ đó cuộc họp bắt đầu, ánh mắt sắc bén của cô ấy dán chặt vào em gái tôi toàn bộ thời gian. Đó là cái nhìn mà cô ấy hiếm khi dành cho bất cứ ai trong gia đình chúng tôi. Bây giờ, cô ấy đã lên tiếng.
 
 "Cái gì?" Aisha hỏi.
 
-“Nếu cậu sẵn lòng luyện tập với Arus, tôi nghĩ tôi sẽ yêu cầu cậu mang theo.
+“Nếu cậu sẵn lòng luyện tập với Arus, tôi nghĩ tôi sẽ yêu cầu cậu mang theo cũng chăm sóc Sieg nữa."
 
-cũng chăm sóc Sieg nữa."
-
-Cô ấy đang nói gì vậy? Trên thế giới không có cách nào đó là được rồi! Theo bản năng, tôi nhìn Sylphie, người đang ra hiệu cho tôi.
-
-mắt. Giống như cô ấy đang bảo tôi hãy để chuyện này cho cô ấy.
+Cô ấy đang nói gì vậy? Trên thế giới không có cách nào đó là được rồi! Theo bản năng, tôi nhìn Sylphie, người đang ra hiệu cho tôi mắt. Giống như cô ấy đang bảo tôi hãy để chuyện này cho cô ấy.
 
 Đó là điều tôi muốn tin.
 
 "Ừm, tôi nghĩ Sieg...vẫn còn hơi trẻ," Aisha nói.
 
-“Không hề,” Sylphie nói. "Sieg sẽ lớn lên nhanh chóng, vì vậy anh ấy càng sớm được thực hành thì càng tốt. Heck, bạn có thể bắt đầu tối nay được không?
-
-Hay là cậu không muốn?"
+“Không hề,” Sylphie nói. "Sieg sẽ lớn lên nhanh chóng, vì vậy anh ấy càng sớm được thực hành thì càng tốt. Heck, bạn có thể bắt đầu tối nay được không? Hay là cậu không muốn?"
 
 "Không phải... em không muốn..."
 
@@ -324,9 +286,7 @@ Hay là cậu không muốn?"
 
 Mồ hôi lạnh đổ trên trán Aisha trước những yêu cầu điên rồ của Sylphie.
 
-Đôi mắt của cô ấy đảo khắp nơi cho đến khi chúng dừng lại ở Arus trong một khoảnh khắc.
-
-khoảnh khắc.
+Đôi mắt của cô ấy đảo khắp nơi cho đến khi chúng dừng lại ở Arus trong một khoảnh khắc khoảnh khắc.
 
 Anh vẫn cúi đầu im lặng, nhưng khi anh nhận raAisha nhìn anh, anh đứng dậy một chút. Ánh mắt họ gặp nhau. mối quan tâm của anh ấy vẻ mặt như đang hỏi, Bạn có ổn không? Tôi nên làm gì làm gì?
 
@@ -334,15 +294,11 @@ Thế là đủ để Aisha củng cố quyết tâm của mình. Cô ấy đố
 
 "Được rồi, chắc chắn rồi. Tôi sẽ cho Sieg và Clive xem sợi dây."
 
-Khoảnh khắc Aisha nói điều này, có một âm thanh lạch cạch vang lên.
-
-ai đó đá ghế của họ ra sau và đứng dậy.
+Khoảnh khắc Aisha nói điều này, có một âm thanh lạch cạch vang lên ai đó đá ghế của họ ra sau và đứng dậy.
 
 "Sao mày dám!"
 
-Đó là Eris. Trong suốt cuộc họp, cô ấy đã ngồi khoanh tay gấp lại, mím chặt môi và nhắm mắt lại. Nhưng đôi mắt cô ấy mở to giờ đã mở ra và cô ấy đến gần Aisha với đôi tay siết chặt.
-
-nắm đấm. Cô ấy giơ một trong những nắm đấm đó lên không trung.
+Đó là Eris. Trong suốt cuộc họp, cô ấy đã ngồi khoanh tay gấp lại, mím chặt môi và nhắm mắt lại. Nhưng đôi mắt cô ấy mở to giờ đã mở ra và cô ấy đến gần Aisha với đôi tay siết chặt nắm đấm. Cô ấy giơ một trong những nắm đấm đó lên không trung.
 
 Aisha theo bản năng đưa tay che mặt mình.
 
@@ -370,9 +326,7 @@ Có vẻ như Eris sắp đánh chết cả Aisha và Arus vào thời điểm n
 
 "Là gì?!" Tôi không thể theo kịp cô ấy. Tôi hơi cay đắng vì Eris dường như hiểu được điều gì đó mà tôi không hiểu được, nhưng tôi không thể hiểu được. Đó là Sylphie, người đã cho tôi câu trả lời.
 
-“Nói cách khác, tất cả những gì chúng ta vừa thấy chỉ là màn trình diễn trên Phần của Aisha.” Sylphie đứng dậy và đi về phía chúng tôi. Cô giơ tay về phía Eris, an ủi cô ấy. Sau đó Sylphie quỳ xuống trước mặt Aisha và Arus và nói.
-
-với họ bằng một giọng nhẹ nhàng.
+“Nói cách khác, tất cả những gì chúng ta vừa thấy chỉ là màn trình diễn trên Phần của Aisha.” Sylphie đứng dậy và đi về phía chúng tôi. Cô giơ tay về phía Eris, an ủi cô ấy. Sau đó Sylphie quỳ xuống trước mặt Aisha và Arus và nói với họ bằng một giọng nhẹ nhàng.
 
 "Aisha, bạn không muốn ngủ với Sieg hay Clive phải không?"
 
@@ -388,23 +342,15 @@ Tuy nhiên, Aisha không nói gì.
 
 “Hay là cậu chỉ muốn thử thôi? Cậu chỉ quan tâm đến việc tình dục?"
 
-"Không phải vậy!" Chính Arus là người phản ứng với Sylphie chứ không phải Aisha. Anh ấy nói với vẻ mặt tuyệt vọng khi máu chảy ra từ cơ thể anh ta.
+"Không phải vậy!" Chính Arus là người phản ứng với Sylphie chứ không phải Aisha. Anh ấy nói với vẻ mặt tuyệt vọng khi máu chảy ra từ cơ thể anh ta mũi. “Hoàn toàn không phải vậy! Khi tôi nói với Aisha rằng tôi yêu cô ấy và muốn cưới cô ấy, lúc đầu cô ấy đã từ chối tôi. Nhưng tôi vẫn tiếp tục nói với cô ấy rằng tôi yêu cô ấy, và cuối cùng cô ấy đã nhượng bộ và đồng ý ngủ với tôi chỉ một lần, mặc dù cô biết điều đó là xấu. Cô ấy ngủ với tôi vì tôi giữ cằn nhằn cô ấy. Tôi... chính tôi là người đã gây rối!"
 
-mũi. “Hoàn toàn không phải vậy! Khi tôi nói với Aisha rằng tôi yêu cô ấy và muốn cưới cô ấy, lúc đầu cô ấy đã từ chối tôi. Nhưng tôi vẫn tiếp tục nói với cô ấy rằng tôi yêu cô ấy, và cuối cùng cô ấy đã nhượng bộ và đồng ý ngủ với tôi chỉ một lần, mặc dù cô biết điều đó là xấu. Cô ấy ngủ với tôi vì tôi giữ cằn nhằn cô ấy. Tôi... chính tôi là người đã gây rối!"
-
-Sau khi nghe điều đó, Sylphie quay lại với Aisha. "Này, Aisha? Có thể không?
-
-cậu nói thật với tôi nhé?” Aisha nhìn xuống sau khi Sylphie nói vậy, nhưng rồi cô ấy nghiến răng.
-
-răng và ngẩng đầu lên.
+Sau khi nghe điều đó, Sylphie quay lại với Aisha. "Này, Aisha? Có thể không cậu nói thật với tôi nhé?” Aisha nhìn xuống sau khi Sylphie nói vậy, nhưng rồi cô ấy nghiến răng răng và ngẩng đầu lên.
 
 "Đó là sự thật, được chứ?! Tôi yêu Arus!"
 
 “Kể từ khi nào?”Ai là người đặt ra câu hỏi? Tôi có cảm giác nó đến từ miệng của tôi, hoặc có thể đó là Lilia. Có thể đó là Roxy.
 
-“Kể từ khi anh ấy được sinh ra, kể từ lần đầu tiên tôi nhìn thấy anh ấy, tôi chỉ biết anh ấy thật đặc biệt với tôi! Càng lớn lên, cảm giác đó càng trở nên mãnh liệt hơn. tôi đã cố gắng kiềm chế bản thân, được không?! Ý tôi là, đây là Arus mà chúng ta đang nói đến!
-
-Chúng ta cách nhau hơn mười tuổi... Tôi biết điều đó! Lẽ ra anh ấy phải giống tôi em trai à, cảm giác như vậy về anh ấy thật kì lạ. Và anh ấy là người lớn tuổi nhất con trai, người thừa kế! Anh ấy phải kết hôn với một cô gái từ một gia đình tốt và giúp đỡ đảm bảo sự ổn định cho gia đình Greyrat. Tôi biết tất cả những điều đó, nhưng anh ấy nói với tôi rằng anh ấy yêu tôi!"
+“Kể từ khi anh ấy được sinh ra, kể từ lần đầu tiên tôi nhìn thấy anh ấy, tôi chỉ biết anh ấy thật đặc biệt với tôi! Càng lớn lên, cảm giác đó càng trở nên mãnh liệt hơn. tôi đã cố gắng kiềm chế bản thân, được không?! Ý tôi là, đây là Arus mà chúng ta đang nói đến! Chúng ta cách nhau hơn mười tuổi... Tôi biết điều đó! Lẽ ra anh ấy phải giống tôi em trai à, cảm giác như vậy về anh ấy thật kì lạ. Và anh ấy là người lớn tuổi nhất con trai, người thừa kế! Anh ấy phải kết hôn với một cô gái từ một gia đình tốt và giúp đỡ đảm bảo sự ổn định cho gia đình Greyrat. Tôi biết tất cả những điều đó, nhưng anh ấy nói với tôi rằng anh ấy yêu tôi!"
 
 Cuối cùng chúng tôi cũng đã nghe được toàn bộ câu chuyện đã xảy ra. Họ đã đang yêu, giống như bất kỳ cặp đôi nào. Sự khác biệt duy nhất là họ là dì và cháu trai.
 
@@ -436,9 +382,7 @@ Tình dục là một phần của con người chúng ta. Dù biết đó là �
 
 Giọng nói nghiêm túc của cô khiến mọi người trong phòng im lặng.
 
-Sylphie quay lại nhìn tôi với vẻ mặt dịu dàng.
-
-mặt. “Anh định làm gì thế, Rudy?” Tôi là người phải gọi điện à?
+Sylphie quay lại nhìn tôi với vẻ mặt dịu dàng mặt. “Anh định làm gì thế, Rudy?” Tôi là người phải gọi điện à?
 
 Vâng, nó có ý nghĩa. Tôi là người đã triệu tập cuộc họp này, sau tất cả. Nhưng đó có thực sự là nơi để tôi quyết định? Tôi nhìn xung quanh. Sự rung cảm trong căn phòng đã dịch chuyển. Mọi người dường như cảm thấy bây giờ mọi chuyện đã ổn. Nó không phải thật tốt là họ đã bí mật ngủ với nhau. Kể cả khi nó không phải là loại chuyện bạn muốn thông báo tới mọi người thì chắc chắn phải có cách tốt hơn để tiết lộ nó, giống như đặt nền móng cho gia đình trước khi mọi chuyện xảy ra ra ngoài trời.
 
@@ -466,13 +410,9 @@ Khi tôi kết hôn với Sylphie lần đầu tiên, tôi thực sự chỉ ngh
 
 Bây giờ nhìn lại, một phần lý do tôi cưới cô ấy là vì tôi không muốn cô ấy trốn thoát. Tôi không muốn thừa nhận điều đó, nhưng đó là sự thật.
 
-Điều gì sẽ xảy ra nếu Arus không thực sự yêu Aisha mà chỉ để lại dấu ấn trong lòng?
+Điều gì sẽ xảy ra nếu Arus không thực sự yêu Aisha mà chỉ để lại dấu ấn trong lòng cô ấy? Nói cách khác, nếu anh ấy chỉ muốn quan hệ tình dục thì sao? Nó có thể chỉ là ham muốn nhất thời, không phải tình yêu.
 
-cô ấy? Nói cách khác, nếu anh ấy chỉ muốn quan hệ tình dục thì sao? Nó có thể chỉ là ham muốn nhất thời, không phải tình yêu.
-
-Tôi sẽ không bước ra và nói rằng điều đó là sai. Tôi không có quyền nói rằng thật tệ khi sống theo bản năng tự nhiên của con người. Nó có thể đã bắt đầu như ham muốn nhất thời, nhưng theo thời gian, nó có thể phát triển thành một cái gì đó thực sự Tuy nhiên, Arus có thực sự có khả năng đưa ra quyết định tốt hay xấu không?
-
-ở tuổi của anh ấy? Liệu anh ấy thực sự có thể thực hiện cuộc gọi đó?
+Tôi sẽ không bước ra và nói rằng điều đó là sai. Tôi không có quyền nói rằng thật tệ khi sống theo bản năng tự nhiên của con người. Nó có thể đã bắt đầu như ham muốn nhất thời, nhưng theo thời gian, nó có thể phát triển thành một cái gì đó thực sự Tuy nhiên, Arus có thực sự có khả năng đưa ra quyết định tốt hay xấu không ở tuổi của anh ấy? Liệu anh ấy thực sự có thể thực hiện cuộc gọi đó?
 
 Điều này thậm chí không đặc biệt về tuổi của anh ấy. Eris và tôi đã ngủ lần đầu tiên cùng nhau khi chúng tôi tầm tuổi anh ấy. Chà, trong trường hợp của tôi, tôi đã kết thúc bốn mươi nếu bạn tính cả kiếp trước của tôi, nhưng chúng ta sẽ bỏ nó sang một bên bây giờ.
 
@@ -482,9 +422,7 @@ Arus không phản đối. Anh ấy để lại mọi thứ cho Aisha, để cô
 
 Bạn có thể tranh luận rằng anh ấy chỉ đơn giản làm theo chỉ dẫn của Aisha, nhưng điều đó cũng không tốt. Đây không phải là tình huống chỉ có một người sai. Bạn cũng có thể cho rằng Aisha đã sai vì cô ấy lớn tuổi hơn trong hai người và có khả năng đưa ra quyết định tốt hơn.
 
-Tuy nhiên, theo như tôi được biết, cả hai đều phải chịu trách nhiệm về hành vi của mình.
-
-hành động của chính mình.
+Tuy nhiên, theo như tôi được biết, cả hai đều phải chịu trách nhiệm về hành vi của mình hành động của chính mình.
 
 Đáng lẽ Arus nên lên tiếng thay vì để Aisha che chắn cho họ.
 
@@ -492,9 +430,7 @@ hành động của chính mình.
 
 Tôi đã nghiên cứu Arus. Anh ta quay lại nhìn tôi với vẻ mặt sợ hãi khuôn mặt của anh ấy. Có cảm giác như anh ấy đã hoàn toàn thu mình lại sau khi Eris đấm anh ta, như thể anh ta không có ý định cố gắng vượt qua tôi và thoát khỏi chuyện này tình huống.
 
-Nhìn thấy anh ấy như thế này khiến tôi tự hỏi liệu Aisha có đang dọn dẹp không.
-
-theo đuổi anh ấy mỗi khi anh ấy làm hỏng việc. Giả sử tôi đã nói với họ, Nếu cả hai bạn đều yêu nhau, nó là vậy đó. Nhưng không được kết hôn cho đến khi Arus đủ tuổi. Sẽ Arus phát triển từ đó? Aisha lần này không thể kiểm soát được Arus. Chết tiệt, đối với tôi ngạc nhiên, cô không thể kiềm chế được bản thân. Còn lần sau thì sao?
+Nhìn thấy anh ấy như thế này khiến tôi tự hỏi liệu Aisha có đang dọn dẹp không theo đuổi anh ấy mỗi khi anh ấy làm hỏng việc. Giả sử tôi đã nói với họ, Nếu cả hai bạn đều yêu nhau, nó là vậy đó. Nhưng không được kết hôn cho đến khi Arus đủ tuổi. Sẽ Arus phát triển từ đó? Aisha lần này không thể kiểm soát được Arus. Chết tiệt, đối với tôi ngạc nhiên, cô không thể kiềm chế được bản thân. Còn lần sau thì sao?
 
 Cô gần như đã gắn bó với Arus kể từ khi anh được sinh ra. tôi đã rời điviệc học hành của anh nằm trong tay cô và cho rằng cô sẽ không bao giờ dạy anh bất cứ điều gì cô ấy không được phép làm vậy. Tuy nhiên, khi nói đến những điều cô không biết về bản thân cô, cô không có cách nào giáo dục anh. Cô ấy đã phải làm một số việc việc học của riêng mình.
 
@@ -506,9 +442,7 @@ Bởi vì anh ấy đã không nói hay làm bất cứ điều gì sớm hơn. 
 
 Tuy nhiên, thành thật mà nói, đó không phải là lý do tôi phản đối. Đó là một lý do, nhưng đó không phải là lý do. Cả Aisha và Arus đều có thể học cách làm tốt hơn khi họ đã đi cùng. Họ có thể làm điều đó cùng nhau. Đó là lý do tại sao sự phản kháng của tôi, của tôi lực đẩy không thể được giải thích bằng bất kỳ điều gì trong số đó. Nhưng sau đó nó là gì?
 
-Tôi không biết. Dù vậy, tôi cảm thấy mình phải đưa ra quyết định ở đây, ít nhất là vậy.
-
-bây giờ.
+Tôi không biết. Dù vậy, tôi cảm thấy mình phải đưa ra quyết định ở đây, ít nhất là vậy bây giờ.
 
 “Hơi sớm một chút, nhưng tôi sẽ cho cậu theo học tại học viện ở.” Vương quốc Asura. Cậu sẽ sống ở ký túc xá," tôi nói.
 
@@ -516,9 +450,7 @@ Sau khi đấu tranh để tìm ra điều gì là tốt nhất, đó là kết 
 
 "Cái gì?! Bạn đang chia rẽ chúng tôi?" Aisha hỏi, bị sốc.
 
-“Chính xác. Arus chưa phải là người lớn và tôi nghĩ cậu ấy quá phụ thuộc vào bạn. Tốt nhất bây giờ hai người nên tách ra để anh ấy có thể học cách trưởng thành hơn.
-
-độc lập."
+“Chính xác. Arus chưa phải là người lớn và tôi nghĩ cậu ấy quá phụ thuộc vào bạn. Tốt nhất bây giờ hai người nên tách ra để anh ấy có thể học cách trưởng thành hơn độc lập."
 
 "Đợi đã. Đợi đã, anh trai. Tôi biết việc chúng ta làm là không đúng, nhưng tôi hứa từ giờ trở đi tôi sẽ cẩn thận hơn. Tôi sẽ đảm bảo tôi làm điều tốt nhất cho anh ấy. Tôi biết anh ấy đã học được từ những gì đã xảy ra. Anh ấy có được nó sau mẹ anh ấy đấm anh ta. Làm ơn--" “Không có nghĩa là không,” tôi nói.
 
@@ -538,9 +470,7 @@ Sau khi đấu tranh để tìm ra điều gì là tốt nhất, đó là kết 
 
 Aisha cắn môi dưới. Thật hiếm khi cô ấy trừng mắt nhìn tôi cô ấy đã ở ngay bây giờ. Thực ra, tôi không nghĩ cô ấy từng nhìn tôi như thế này trước đây. Nó không đáng sợ. Nếu có thì cô ấy chỉ trông buồn thôi.
 
-Tôi biết mình đã thất bại trong việc thể hiện bản thân với cô ấy một cách tệ hại như thế nào, nhưng điều gì tôi có thể nói khác được không? Tôi không có cách nào để giải thích sự phản kháng của tôi đối với họ.
-
-mối quan hệ. Ngay cả việc nói to cũng không thể thoát khỏi cảm giác thô thiển Tôi đã có bên trong tôi. Nó chỉ cảm thấy sai. Tôi có cần lý do cho cảm giác đó không?
+Tôi biết mình đã thất bại trong việc thể hiện bản thân với cô ấy một cách tệ hại như thế nào, nhưng điều gì tôi có thể nói khác được không? Tôi không có cách nào để giải thích sự phản kháng của tôi đối với họ mối quan hệ. Ngay cả việc nói to cũng không thể thoát khỏi cảm giác thô thiển Tôi đã có bên trong tôi. Nó chỉ cảm thấy sai. Tôi có cần lý do cho cảm giác đó không?
 
 Tôi thậm chí đã có một cái?
 
@@ -556,9 +486,7 @@ Tuy nhiên, đột ngột, cô bắt đầu thở trở lại và vai cô thư t
 
 Phải chăng tôi đã sai?
 
-"Đúng. Khi bạn nói như vậy, hôm nay Arus đã nghỉ học và Gần đây anh ấy không có gì ngoài tình dục trong tâm trí. Sẽ thật tệ nếu anh ấy trở thành xung quanh tôi," cô nói.Tôi đã nghĩ mình không thể thuyết phục được cô ấy, nhưng có vẻ như tôi đã vượt qua được rồi.
-
-với cô ấy.
+"Đúng. Khi bạn nói như vậy, hôm nay Arus đã nghỉ học và Gần đây anh ấy không có gì ngoài tình dục trong tâm trí. Sẽ thật tệ nếu anh ấy trở thành xung quanh tôi," cô nói.Tôi đã nghĩ mình không thể thuyết phục được cô ấy, nhưng có vẻ như tôi đã vượt qua được rồi với cô ấy.
 
 "Tôi đánh giá cao sự hiểu biết của bạn."
 
@@ -572,21 +500,15 @@ Tôi gọi bọn trẻ từ tầng hai xuống. Chúng tôi đã ăn tối, rồ
 
 Sylphie đã nhận thấy điều gì đang xảy ra cách đây vài năm. Cô ấy thường xuyên làm việc nhà với Aisha quanh nhà, nên cô ấy nhận ra rằng Aisha và Arus có tình cảm với nhau. Cô đã đoán rằng điều này cuối cùng sẽ đi qua.
 
-Eris cũng tương tự, ngoại trừ... Thay vì chú ý đến đặc điểm cụ thể của họ.
-
-mối quan hệ, cô nhận thấy rằng gần đây Arus có vẻ hơi bồn chồn, vì vậy cô đã nghĩ rằng anh đã tìm được người mà anh có tình cảm. Cô ấy không bao giờ tưởng tượng đó sẽ là Aisha. Điều khiến cô lo lắng nhất là Arus đã ẩn sau Aisha trong suốt cuộc họp gia đình.
+Eris cũng tương tự, ngoại trừ... Thay vì chú ý đến đặc điểm cụ thể của họ mối quan hệ, cô nhận thấy rằng gần đây Arus có vẻ hơi bồn chồn, vì vậy cô đã nghĩ rằng anh đã tìm được người mà anh có tình cảm. Cô ấy không bao giờ tưởng tượng đó sẽ là Aisha. Điều khiến cô lo lắng nhất là Arus đã ẩn sau Aisha trong suốt cuộc họp gia đình.
 
 Roxy đã không nghi ngờ bất kỳ điều gì về điều này, điều này đè nặng lên cô ấy.
 
-Cô đề nghị đi cùng Arus tới Asura, nơi cô có thể tiếp tục.
-
-hướng dẫn anh ta trong khi tìm kiếm anh ta từ trong bóng tối. Tôi có thể nói làm thế nào cô ấy cảm thấy mạnh mẽ về điều này, vì vậy tôi đã đồng ý. Roxy sẽ đảm bảo Arus không làm vậy trở nên phụ thuộc vào cô ấy.
+Cô đề nghị đi cùng Arus tới Asura, nơi cô có thể tiếp tục hướng dẫn anh ta trong khi tìm kiếm anh ta từ trong bóng tối. Tôi có thể nói làm thế nào cô ấy cảm thấy mạnh mẽ về điều này, vì vậy tôi đã đồng ý. Roxy sẽ đảm bảo Arus không làm vậy trở nên phụ thuộc vào cô ấy.
 
 Tôi cũng nói với vợ mình cảm nghĩ của tôi về tương lai của Aisha và Arus.
 
-Tôi đã định yêu cầu anh ấy bỏ học tại trường đại học phép thuật và theo học tại trường đại học phép thuật.
-
-học viện hoàng gia ở Asura, nơi anh sẽ sống cuộc sống xa Aisha bảo vệ. Tôi muốn anh ấy tự suy nghĩ và hành động để có thể giải quyết hậu quả của sự lựa chọn của mình càng nhiều càng tốt. Bằng cách làm đó, anh ấy có thể thoát khỏi sự phụ thuộc vào Aisha. Anh ấy đã trưởng thành vào thời điểm anh ấy trở về nhà.
+Tôi đã định yêu cầu anh ấy bỏ học tại trường đại học phép thuật và theo học tại trường đại học phép thuật học viện hoàng gia ở Asura, nơi anh sẽ sống cuộc sống xa Aisha bảo vệ. Tôi muốn anh ấy tự suy nghĩ và hành động để có thể giải quyết hậu quả của sự lựa chọn của mình càng nhiều càng tốt. Bằng cách làm đó, anh ấy có thể thoát khỏi sự phụ thuộc vào Aisha. Anh ấy đã trưởng thành vào thời điểm anh ấy trở về nhà.
 
 Nếu lúc đó anh vẫn còn yêu Aisha, nếu anh nghĩ về tương lai của mình và muốn ở bên cô ấy, nếu tất cả những điều này không phải chỉ vì đam mê, thì tôi sẽ cho phép họ kết hôn.
 
@@ -612,21 +534,15 @@ Ba người vợ của tôi gật đầu. Họ không có cùng sự ghê tởm 
 
 Tôi nghiêng đầu. Cá nhân tôi cảm thấy mối quan hệ của chúng tôi rất khác biệt từ Arus và Aisha, nhưng...
 
-Không, đó không phải là ý cô ấy. Cô ấy đang nói về việc tôi cha chia rẽ chúng tôi. Nếu Paul không chia cắt chúng tôi ngày hôm đó, cuộc sống của chúng tôisẽ rất khác. Tôi đã gặp Eris và tôi bị tách khỏi Sylphie theo cả khoảng cách và thời gian. Cuối cùng, tôi đã kết thúc với cả hai, nhưng nếu Sự cố Dịch chuyển không bao giờ xảy ra, có lẽ tôi đã kết hôn rồi cho riêng Eris. Tôi không biết liệu Arus có gặp Eris của chính mình ở đó không.
-
-học viện hoàng gia, nhưng dù thế nào đi nữa, những chuyện như Sự cố Dịch chuyển đã không xảy ra hàng ngày.
+Không, đó không phải là ý cô ấy. Cô ấy đang nói về việc tôi cha chia rẽ chúng tôi. Nếu Paul không chia cắt chúng tôi ngày hôm đó, cuộc sống của chúng tôisẽ rất khác. Tôi đã gặp Eris và tôi bị tách khỏi Sylphie theo cả khoảng cách và thời gian. Cuối cùng, tôi đã kết thúc với cả hai, nhưng nếu Sự cố Dịch chuyển không bao giờ xảy ra, có lẽ tôi đã kết hôn rồi cho riêng Eris. Tôi không biết liệu Arus có gặp Eris của chính mình ở đó không học viện hoàng gia, nhưng dù thế nào đi nữa, những chuyện như Sự cố Dịch chuyển đã không xảy ra hàng ngày.
 
 Một lúc nào đó sẽ làm nên điều kỳ diệu khi khiến cả hai nguội lạnh đầu óc, mặc dù tôi không biết liệu đó có thực sự là một điều tốt hay không. Tôi muốn tin rằng đây chỉ là niềm đam mê bùng nổ một lần. Đó là trường hợp tốt nhất kịch bản.
 
-"Tôi phải nói rằng, việc bạn chỉ nói không mà không đưa ra lời khuyên là không giống lắm.
-
-một lời giải thích hoặc nói ra mọi chuyện," Sylphie tiếp tục.
+"Tôi phải nói rằng, việc bạn chỉ nói không mà không đưa ra lời khuyên là không giống lắm một lời giải thích hoặc nói ra mọi chuyện," Sylphie tiếp tục.
 
 “Ừ,” tôi nói sau một lúc im lặng.
 
-"Nếu có lý do chính đáng thì hãy nói với họ trước khi chia tay.
-
-xa nhau. Thật là đau đớn khi bị kéo ra khỏi người mình yêu thương mà không có bao giờ được cho biết tại sao."
+"Nếu có lý do chính đáng thì hãy nói với họ trước khi chia tay xa nhau. Thật là đau đớn khi bị kéo ra khỏi người mình yêu thương mà không có bao giờ được cho biết tại sao."
 
 Giọng điệu của Sylphie có chút phê phán. Cô ấy có thể đã có ý định cho phép mối quan hệ của họ ngay từ đầu. Không giống như tôi, cô ấy dường như đã sẵn sàng cho cái này. Cô không hề có dấu hiệu miễn cưỡng.
 
@@ -644,8 +560,6 @@ Chúng tôi trở về phòng và đi ngủ.
 
 ***
 
-Ngày hôm sau Aisha và Arus đã biến mất, chỉ để lại một người duy nhất.
-
-ghi chú phía sau: Chúng ta sẽ ở bên nhau.
+Ngày hôm sau Aisha và Arus đã biến mất, chỉ để lại một người duy nhất ghi chú phía sau: Chúng ta sẽ ở bên nhau.
 
 Họ đã bỏ trốn.

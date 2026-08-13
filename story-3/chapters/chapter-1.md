@@ -54,9 +54,7 @@ Nhưng người đàn ông sớm nhận thấy có điều gì đó không ổn.
 
 Tim anh đập rộn ràng. Anh đã nghe tin đồn: Ở đâu đó, có một phòng thí nghiệm nghiên cứu thuộc về pháp sư vĩ đại đã chết gần hai nhiều thập kỷ trước, Rudeus Greyrat. Người ta nói rằng ông đã tiến hành nghiên cứu không thể mạo hiểm bước vào thế giới từ một phòng thí nghiệm bí mật, một phòng thí nghiệm có thể chỉ có thể được truy cập bởi các vòng dịch chuyển tức thời.
 
-Những tài liệu nghiên cứu mà anh ta giấu đi được cho là có khối lượng rất lớn.
-
-số lượng. Bất cứ ai có được chúng sẽ được ban tặng những điều tuyệt vời sự khôn ngoan. Trên thực tế, có tin đồn rằng Đế chế Thần Ogre chỉ đưa ra tiến bộ nhanh chóng như vậy là do họ đã có được trí tuệ đó.
+Những tài liệu nghiên cứu mà anh ta giấu đi được cho là có khối lượng rất lớn số lượng. Bất cứ ai có được chúng sẽ được ban tặng những điều tuyệt vời sự khôn ngoan. Trên thực tế, có tin đồn rằng Đế chế Thần Ogre chỉ đưa ra tiến bộ nhanh chóng như vậy là do họ đã có được trí tuệ đó.
 
 Sử dụng phép thuật của mình, người đàn ông tạo ra một cái lỗ đủ lớn để bò xuyên qua, thò đầu vào trong thử nghiệm rồi bước vào nhà.
 
@@ -114,9 +112,7 @@ Tất nhiên là không rồi! Việc bắn tung tóe vào đồng minh của b�
 
 "Hmm. Không ngờ lại gặp phải một trong những bí mật của Rudeus Greyrat phòng thí nghiệm ở một nơi như thế này."
 
-“Tôi đoán chú tôi thực sự thích làm những căn cứ bí mật. Tôi luôn tìm thấy chúng khi tôi đi làm nhiệm vụ với anh, Henry.” “Có lẽ vì chúng ta luôn đi sâu vào rừng.” Người đàn ông mà Luicelia gọi là "Henry" chính là Henry Macedonia. Anh ta là cộng sự của cô, và là người đàn ông bị nguyền rủa là "khó chiều".
-
-được người khác thừa nhận”.
+“Tôi đoán chú tôi thực sự thích làm những căn cứ bí mật. Tôi luôn tìm thấy chúng khi tôi đi làm nhiệm vụ với anh, Henry.” “Có lẽ vì chúng ta luôn đi sâu vào rừng.” Người đàn ông mà Luicelia gọi là "Henry" chính là Henry Macedonia. Anh ta là cộng sự của cô, và là người đàn ông bị nguyền rủa là "khó chiều được người khác thừa nhận”.
 
 Henry đã sử dụng lời nguyền của mình để chuyên thu thập thông tin tình báo. Lời nguyền đã một người mạnh mẽ đến mức hầu như không ai có thể nhớ đến anh ta. Đó có nghĩa là bất cứ ai có khả năng là kẻ thù của anh ta cũng quên mất anh ta ngay sau khi họ nhìn thấy anh ấy. Anh ta là một đặc vụ tình báo hoàn hảo; mọi người thậm chí còn quên mất họ vừa nói chuyện với anh ấy.
 
@@ -128,9 +124,7 @@ Tuy nhiên, người Supard nhìn nhận mọi người khác với những ngư
 
 Henry sẽ thâm nhập sâu vào kẻ thù, thu thập thông tin và tìm ra vị trí của mục tiêu và Luicelia sẽ săn lùng chúng.
 
-Đây là cách cặp đôi vượt qua mọi thử thách và đánh bại họ.
-
-kẻ thù.
+Đây là cách cặp đôi vượt qua mọi thử thách và đánh bại họ, kẻ thù.
 
 "À, nhìn kìa." Chính Henry là người đã nhặt cuốn sách mà mục tiêu của họ đã được giữ. Số tập được viết bằng Silent Code. “Không phải tập 29 của Sách Rudeus à?"
 
@@ -146,17 +140,13 @@ Luicelia đẩy Henry mở cuốn sách và anh ấy làm theo lời nói.
 
 Là một đặc vụ tình báo, Henry xử lý mọi loại thông tin và thông thạo nhiều ngôn ngữ. Rõ ràng là anh ấy có thể đọc và viết Silent Code, còn được gọi là tiếng Nhật.
 
-"Ừm... `Mọi chuyện cuối cùng cũng đã lắng xuống, nên tôi nghĩ tôi đã sẵn sàng."
-
-nói về hành vi liều lĩnh của cả con trai tôi, Arus Greyrat, và tôi em gái, Aisha Greyrat, cũng như sai lầm lớn nhất của cuộc đời anh.'" Sau khi đọc to văn bản, Henry trao đổi ánh mắt với Luicelia.
+"Ừm... `Mọi chuyện cuối cùng cũng đã lắng xuống, nên tôi nghĩ tôi đã sẵn sàng nói về hành vi liều lĩnh của cả con trai tôi, Arus Greyrat, và tôi em gái, Aisha Greyrat, cũng như sai lầm lớn nhất của cuộc đời anh.'" Sau khi đọc to văn bản, Henry trao đổi ánh mắt với Luicelia.
 
 Arus và Aisha. Hai cái tên mà cả hai đều vô cùng quen thuộc với.
 
 ***
 
-Vài ngày sau, trong một căn phòng ở căn cứ của Đế chế Thần Ogre.
-
-trong Red Wyrm's Jaw, một ông già đang viết. Đôi mắt anh trống rỗng, miệng anh ta hé mở và anh ta hầu như không nắm chặt được cây bút trong tay.
+Vài ngày sau, trong một căn phòng ở căn cứ của Đế chế Thần Ogre trong Red Wyrm's Jaw, một ông già đang viết. Đôi mắt anh trống rỗng, miệng anh ta hé mở và anh ta hầu như không nắm chặt được cây bút trong tay.
 
 Mặc dù gần như không còn sức lực để tiếp tục, anh vẫn không dừng lại.
 
@@ -176,9 +166,7 @@ Anh ấy không sắp chết - anh ấy chỉ ghét công việc giấy tờ.
 
 "Tôi thấy, tôi thấy. Làm tốt lắm."
 
-“Nhiệm vụ tiếp theo của chúng ta là gì?” “Tôi sẽ bắt cả hai người làm việc khi có chuyện liên quan đến Asura.
-
-Vương quốc xâm lược, nhưng chúng ta vẫn còn chút thời gian cho đến lúc đó. Nghỉ ngơi cho bây giờ."
+“Nhiệm vụ tiếp theo của chúng ta là gì?” “Tôi sẽ bắt cả hai người làm việc khi có chuyện liên quan đến Asura Vương quốc xâm lược, nhưng chúng ta vẫn còn chút thời gian cho đến lúc đó. Nghỉ ngơi cho bây giờ."
 
 "Đã hiểu." Henry chào người đàn ông, trong khi Luicelia gật đầu với vẻ vẻ mặt ủ rũ của cô. Henry tiếp tục: “Nhân tiện, sau khi chúng tôi lấy mục tiêu cuối cùng, chúng tôi đã tìm thấy một điều thực sự thú vị."
 
@@ -188,13 +176,9 @@ Vương quốc xâm lược, nhưng chúng ta vẫn còn chút thời gian cho �
 
 Ông già nhướn mày sau khi nghiên cứu đồ vật Henry đã tặng anh ấy. "Ồ, Sách Rudeus à? Và cái mất tích khối lượng, không ít. Tổng thống sẽ rất vui mừng."
 
-"Thật vậy. Nhưng, ừm, về thứ bên trong…” "Hửm?" Người đàn ông lớn tuổi cầm lấy cuốn sách và mở nó ra trang đầu tiên.
+"Thật vậy. Nhưng, ừm, về thứ bên trong…” "Hửm?" Người đàn ông lớn tuổi cầm lấy cuốn sách và mở nó ra trang đầu tiên trang. Sau khi đọc những gì được viết, anh cứng người tại chỗ. Một vài khoảnh khắc sau đó, anh thở dài một hơi. "Vậy... chuyện này là về hồi đó."
 
-trang. Sau khi đọc những gì được viết, anh cứng người tại chỗ. Một vài khoảnh khắc sau đó, anh thở dài một hơi. "Vậy... chuyện này là về hồi đó."
-
-"Tôi nghĩ có lẽ chúng ta không nên đọc cái này, nên tôi chưa đi xa lắm.
-
-vào. Đi qua đoạn mở đầu, nó có vẻ không vui chút nào câu chuyện."
+"Tôi nghĩ có lẽ chúng ta không nên đọc cái này, nên tôi chưa đi xa lắm vào. Đi qua đoạn mở đầu, nó có vẻ không vui chút nào câu chuyện."
 
 "Hửm? Không, à... tôi cho rằng đó là bản ghi chép về thời điểm có một số sự bất hòa trong gia đình”.
 
@@ -204,9 +188,7 @@ Henry có vẻ hơi ngạc nhiên. "Ý bạn là ngay cả Thần Gió Arus đã
 
 "Tất nhiên. Mọi người không già đi như nhau, nhưng tuổi trẻ khiến tất cả chúng ta phải phạm sai lầm."
 
-Ông già là Arus Greyrat, chỉ huy của Thần yêu tinh Lực lượng đặc biệt của Quân đội số 2 của Đế chế và cánh tay phải của Rồng Chúa Orsted. Ông còn được gọi là Thần Gió Arus. Cùng với Thần Sấm Alexander, ông ấy là một trong những người giỏi nhất của Quân đoàn 2.
-
-vũ khí mạnh mẽ. Vài năm trước, anh ấy đã giành chiến thắng trong cuộc thi giải đấu chiến đấu được tổ chức tại Đế chế Thần Ogre. Trong cả tên và hình thức,anh ấy là kiếm sĩ vĩ đại nhất ở miền bắc. Anh ta đã sử dụng một thanh kiếm thần phong cách được gọi là Sword God Berserker, tích hợp Sword truyền thống Phong cách thần thánh với những kỹ thuật kiếm không thể đoán trước và những phép thuật thầm lặng để tạo ra một phong cách kiếm thuật luôn thay đổi.
+Ông già là Arus Greyrat, chỉ huy của Thần yêu tinh Lực lượng đặc biệt của Quân đội số 2 của Đế chế và cánh tay phải của Rồng Chúa Orsted. Ông còn được gọi là Thần Gió Arus. Cùng với Thần Sấm Alexander, ông ấy là một trong những người giỏi nhất của Quân đoàn 2 vũ khí mạnh mẽ. Vài năm trước, anh ấy đã giành chiến thắng trong cuộc thi giải đấu chiến đấu được tổ chức tại Đế chế Thần Ogre. Trong cả tên và hình thức,anh ấy là kiếm sĩ vĩ đại nhất ở miền bắc. Anh ta đã sử dụng một thanh kiếm thần phong cách được gọi là Sword God Berserker, tích hợp Sword truyền thống Phong cách thần thánh với những kỹ thuật kiếm không thể đoán trước và những phép thuật thầm lặng để tạo ra một phong cách kiếm thuật luôn thay đổi.
 
 Ngoài ra, anh còn nổi tiếng với bản tính điềm đạm và hiền lành, và anh ấy luôn chăm sóc người của mình. Ông ấy là thủ lĩnh của Ruquag's Ban nhạc đánh thuê—hình thức ban đầu của Quân đội thứ hai—và mặc dù có tuổi đã cao, ông vẫn được coi là người có uy quyền trong giới Rồng Người của Chúa Orsted.
 
@@ -218,9 +200,7 @@ Bất chấp tất cả những lời khen ngợi đó, anh ấy vẫn là một
 
 Dù sao thì đó cũng là cách Henry đánh giá Arus. Thật khó cho Henry tưởng tượng Arus có một quá khứ đáng xấu hổ.
 
-“Tôi rất muốn nghe về điều này. Kể từ khi còn nhỏ, tôi luôn cảm thấy cậu và Lucie về cơ bản là hoàn hảo," Luicelia nói một cách tuyệt vời.
-
-tò mò.
+“Tôi rất muốn nghe về điều này. Kể từ khi còn nhỏ, tôi luôn cảm thấy cậu và Lucie về cơ bản là hoàn hảo," Luicelia nói một cách tuyệt vời tò mò.
 
 Arus bật ra một tiếng cười đau đớn. "Tôi chắc chắn không phải là đứa trẻ hoàn hảo Lucie thì có. Còn xa lắm."
 

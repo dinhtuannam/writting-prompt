@@ -18,13 +18,9 @@ Nhưng theo những gì tôi có thể nói, anh ấy không có tư cách làm 
 
 Vâng, bạn không sai. Nhìn lại nó, tôi đồng ý. Anh ấy không nghiêm khắc đủ rồi. Khi tôi làm sai, anh ấy không bao giờ khiển trách tôi. Anh ấy chỉ mỉm cười và bảo tôi lần sau hãy cẩn thận hơn nhé.
 
-Ví dụ, một ngày nọ, tôi đang chơi trong phòng làm việc của anh ấy và đánh rơi một trong những số liệu của mình và phá vỡ nó. Đó là một nhân vật mà anh ấy đã nhận được như một món quà từ chính mình.
+Ví dụ, một ngày nọ, tôi đang chơi trong phòng làm việc của anh ấy và đánh rơi một trong những số liệu của mình và phá vỡ nó. Đó là một nhân vật mà anh ấy đã nhận được như một món quà từ chính mình người bạn thân nhất, chủ tịch của Công ty Zanoba. Một món quà thật quý giá, bạn thấy đấy. Tôi biết anh ấy sẽ giận tôi. Mẹ trắng chắc chắn là. Mẹ Đỏ ​​đã đánh đòn tôi. Blue Mama lạnh lùng mắng tôi. tôi đã chuẩn bị bản thân tôi phải nhận sự tức giận của anh ấy khi tôi xin lỗi anh ấy--nhưng anh ấy không la mắng tôi cả.
 
-người bạn thân nhất, chủ tịch của Công ty Zanoba. Một món quà thật quý giá, bạn thấy đấy. Tôi biết anh ấy sẽ giận tôi. Mẹ trắng chắc chắn là. Mẹ Đỏ ​​đã đánh đòn tôi. Blue Mama lạnh lùng mắng tôi. tôi đã chuẩn bị bản thân tôi phải nhận sự tức giận của anh ấy khi tôi xin lỗi anh ấy--nhưng anh ấy không la mắng tôi cả.
-
-"Tôi tự hào về việc bạn đã xin lỗi. Lần sau hãy cẩn thận hơn," anh ấy nói.
-
-vừa nói vừa vỗ nhẹ vào đầu tôi.
+"Tôi tự hào về việc bạn đã xin lỗi. Lần sau hãy cẩn thận hơn," anh ấy nói vừa nói vừa vỗ nhẹ vào đầu tôi.
 
 Phản khí hậu, phải không?
 
@@ -34,9 +30,7 @@ Tôi nhớ có lần tôi và bố cùng tắm. Thậm chí một người như 
 
 "Chà, cảm giác thật tuyệt," anh thở dài.
 
-Anh ấy thường thư giãn ở nhà, nhưng trong mắt tôi, anh ấy dường như luôn thoải mái.
-
-bản thân đáng sợ thường ngày của anh ấy. Có lẽ đó là lý do tại sao tôi nhìn chằm chằm vào anh ấy khi chúng tôi trong bồn tắm cùng nhau. Chắc hẳn anh ấy đã nhận ra tôi nên anh ấy lúng túng ngồi dậy, bắt gặp ánh mắt tôi khi tôi đang ngâm mình trong góc bồn và nói với tôi.
+Anh ấy thường thư giãn ở nhà, nhưng trong mắt tôi, anh ấy dường như luôn thoải mái bản thân đáng sợ thường ngày của anh ấy. Có lẽ đó là lý do tại sao tôi nhìn chằm chằm vào anh ấy khi chúng tôi trong bồn tắm cùng nhau. Chắc hẳn anh ấy đã nhận ra tôi nên anh ấy lúng túng ngồi dậy, bắt gặp ánh mắt tôi khi tôi đang ngâm mình trong góc bồn và nói với tôi.
 
 "Ahem. Arus, cậu có thể tự gội đầu được không?"
 
@@ -46,9 +40,7 @@ bản thân đáng sợ thường ngày của anh ấy. Có lẽ đó là lý do
 
 “Tôi hiện là một kiếm sĩ trung cấp, nhưng tôi có thể sớm lên cấp độ Nâng cao. Tôi vẫn là một pháp sư sơ cấp, nhưng tôi có thể thực hiện casting im lặng ngay bây giờ."
 
-"Tôi hiểu rồi, tôi hiểu rồi. Việc học tập và rèn luyện của bạn rất quan trọng, nhưng hãy cố gắng đừng làm điều đó."
-
-làm việc quá chăm chỉ. Nếu bạn làm tổn thương tâm trí và cơ thể của mình, tất cả sẽ chỉ dành cho không có gì."
+"Tôi hiểu rồi, tôi hiểu rồi. Việc học tập và rèn luyện của bạn rất quan trọng, nhưng hãy cố gắng đừng làm điều đó làm việc quá chăm chỉ. Nếu bạn làm tổn thương tâm trí và cơ thể của mình, tất cả sẽ chỉ dành cho không có gì."
 
 Khi nghe anh ấy nói vậy, tôi nhận ra một điều: Lucie đã đúng.Cha chúng tôi không kỳ vọng gì ở chúng tôi. Suy cho cùng, ở tuổi của tôi, anh ấy đã từng là Pháp sư cấp Thủy Thánh và kiếm sĩ cấp Trung cấp. Chúng tôi đã ở phía sau anh ấy vào thời điểm này trong cuộc sống của chúng tôi. Anh thực sự không ngờ bất cứ điều gì của chúng tôi. Nhận ra điều đó khiến tôi khá buồn.
 
@@ -58,9 +50,7 @@ Khi nghe anh ấy nói vậy, tôi nhận ra một điều: Lucie đã đúng.Ch
 
 "Không. Chỉ là, khi tôi đến Vương quốc Asura gần đây, Nữ hoàng Ariel nói bà muốn cậu và con gái bà đính hôn.” "Đính hôn?"
 
-"Ừ. Giới quý tộc ở đó sẽ bắt đầu bàn chuyện hôn nhân khi cậu quay lại.
-
-mười." Cha tôi gật đầu liên tục như thể ông đã bị thuyết phục về điều gì đó.
+"Ừ. Giới quý tộc ở đó sẽ bắt đầu bàn chuyện hôn nhân khi cậu quay lại mười." Cha tôi gật đầu liên tục như thể ông đã bị thuyết phục về điều gì đó.
 
 “Tôi chắc chắn rằng bạn sẽ nhận được rất nhiều lời đề nghị như vậy trong tương lai.” "Thật sự?"
 
@@ -68,9 +58,7 @@ mười." Cha tôi gật đầu liên tục như thể ông đã bị thuyết p
 
 Tôi không muốn điều đó, tôi nghĩ.
 
-“À, nhưng Arus, nói rõ hơn nhé. Nổi tiếng không có nghĩa là bạn được ưu tiên.
-
-đối xử với các cô gái như đồ vật. Nếu bạn làm một cô gái khóc, ông già của bạn sẽ như vậy tức giận."
+“À, nhưng Arus, nói rõ hơn nhé. Nổi tiếng không có nghĩa là bạn được ưu tiên đối xử với các cô gái như đồ vật. Nếu bạn làm một cô gái khóc, ông già của bạn sẽ như vậy tức giận."
 
 “Được rồi,” tôi nói sau một lúc im lặng. Tôi thậm chí không thể hình dung được anh ấy trông như thế nào như giận dữ.
 
@@ -88,9 +76,7 @@ Tôi vẫn có thể nhớ mình đã tỉnh táo như thế nào khi nghĩ về
 
 Những kỹ thuật kiếm thuật tôi đã được rèn luyện từ khi sinh ra đã phát huy tác dụng quái vật và kẻ cướp, và cảm giác rằng tôi thực sự có thể bảo vệ Aisha chỉ ngày càng mạnh mẽ hơn. May mắn thay cho chúng tôi là không có kẻ truy đuổi nào đến.
 
-Đọc lại cuốn sách này, tôi thực sự nhận ra rằng làm thế nào Blue Mama đã làm rất nhiều điều ở hậu trường để che chở cho chúng tôi. Nếu Chúa Perugius hoặc Ngài Orsted đã thực sự hợp tác, chúng ta sẽ bị phát hiện ngay lập tức. Thành thật mà nói, tôi rất ngạc nhiên khi ngài Orsted đứng về phía chúng tôi.
-
-và không phải bố tôi. Ông ấy luôn là người mềm yếu khi nói đến bố tôi.
+Đọc lại cuốn sách này, tôi thực sự nhận ra rằng làm thế nào Blue Mama đã làm rất nhiều điều ở hậu trường để che chở cho chúng tôi. Nếu Chúa Perugius hoặc Ngài Orsted đã thực sự hợp tác, chúng ta sẽ bị phát hiện ngay lập tức. Thành thật mà nói, tôi rất ngạc nhiên khi ngài Orsted đứng về phía chúng tôi và không phải bố tôi. Ông ấy luôn là người mềm yếu khi nói đến bố tôi.
 
 Có lẽ đó không phải là từ đúng. Hơn thế nữa là họ đã thân thiết.
 
@@ -106,9 +92,7 @@ Rồi khi màn đêm buông xuống, chúng tôi làm tình.
 
 Cái gì, bạn muốn biết chi tiết? Không, điều đó quá xấu hổ!
 
-Tại sao bạn lại muốn nghe xem ông già này đã làm gì trong cuộc đời mình?
-
-tuổi trẻ? Thôi nào, cả hai người đều có những chủ đề không thể hoặc không muốn nói về, phải không?
+Tại sao bạn lại muốn nghe xem ông già này đã làm gì trong cuộc đời mình tuổi trẻ? Thôi nào, cả hai người đều có những chủ đề không thể hoặc không muốn nói về, phải không?
 
 Nhìn lại, đó quả thực là một tuần trăng mật thật sự yên bình kỳ. Chỉ là, bạn biết đấy... đâu đó sâu thẳm tôi vẫn luôn hỏi bản thân tôi, điều này có thực sự ổn không?
 
@@ -122,9 +106,7 @@ Tôi không có ý định bào chữa cho mình, nhưng tôi nghi ngờ một t
 
 Có thể bạn sẽ nghĩ mình đã làm điều gì đó khiến người khác khó chịu, nhưng chỉ vậy thôi.
 
-Bây giờ rõ ràng là tôi đã nhận thấy có điều gì đó không ổn. Mặc dù Aisha là thiên tài nhưng cô ấy lại ở một nơi nào đó xa lạ: bị mắc kẹt giữa cô ấy.
-
-lý tưởng và hiện thực, cảm xúc và logic của chính cô ấy. Mọi chuyện đã không diễn ra như vậy theo cách cô ấy đã lên kế hoạch. Cô càng trở nên chán nản hơn khi thất bại trong việc điều chỉnh theo tình hình mới của chúng tôi. Cô cảm thấy bị mắc kẹt.
+Bây giờ rõ ràng là tôi đã nhận thấy có điều gì đó không ổn. Mặc dù Aisha là thiên tài nhưng cô ấy lại ở một nơi nào đó xa lạ: bị mắc kẹt giữa cô ấy lý tưởng và hiện thực, cảm xúc và logic của chính cô ấy. Mọi chuyện đã không diễn ra như vậy theo cách cô ấy đã lên kế hoạch. Cô càng trở nên chán nản hơn khi thất bại trong việc điều chỉnh theo tình hình mới của chúng tôi. Cô cảm thấy bị mắc kẹt.
 
 Thông minh và thận trọng như Aisha, cô ấy không hoàn hảo. Cô ấy không tránh khỏi thất bại. Nó không xảy ra đặc biệt thường xuyên, và so với những người khác, những thất bại của cô ấy rất ít và xa vời. Cô ấy đã thông minh đến mức cô ấy thường xuyên tránh được thất bại trong suốt cuộc đời mình, nhưng điều đó đã làm được xảy ra.
 
@@ -134,9 +116,7 @@ Có lẽ, chỉ có lẽ thôi, nếu tôi thông minh hơn hoặc già hơn...
 
 Khi cuộc họp gia đình đó kết thúc và Aisha đã cầu hôn cùng nhau chạy trốn, tôi có thể đã ngăn cô ấy lại. Tôi đã có thể nói đại loại như: Aisha, anh hứa sẽ bảo vệ em trong tương lai, nên đi thôi cùng nói chuyện với bố. Lần này tôi sẽ lên tiếng. Nếu điều đó không hiệu quả, hãy đợi cho đến khi Tôi lớn lên và tôi sẽ đến vì bạn. Tôi hứa. Chúng ta không cần phải rời đi về nhà.
 
-Có lẽ điều đó sẽ cứu cô khỏi bị dồn vào chân tường như cô.
-
-là.
+Có lẽ điều đó sẽ cứu cô khỏi bị dồn vào chân tường như cô là.
 
 Nhận thức muộn màng là hai mươi hai mươi.
 
@@ -174,8 +154,6 @@ Có một điều tôi mơ hồ nhận ra, một điều thậm chí một ngư�
 
 Tôi đã không hề bảo vệ cô ấy chút nào.
 
-Tôi đã cố gắng hết sức để tránh ánh nhìn của mình khỏi sự thật, nhưng tôi vẫn chưa đi xa được.
-
-đi đến nỗi tôi có thể rời xa thực tại mãi mãi. Đó là lý do tại sao tôi đạt được tới Blue Mama.
+Tôi đã cố gắng hết sức để tránh ánh nhìn của mình khỏi sự thật, nhưng tôi vẫn chưa đi xa được đi đến nỗi tôi có thể rời xa thực tại mãi mãi. Đó là lý do tại sao tôi đạt được tới Blue Mama.
 
 Đến bây giờ, tôi không nhớ hồi đó mình đã tìm kiếm sự giúp đỡ hay hủy hoại. tôi chỉnghĩ rằng liên lạc với cô ấy sẽ bảo vệ Aisha.

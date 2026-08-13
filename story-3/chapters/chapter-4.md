@@ -1,16 +1,10 @@
 # Chương 4: tuổi trẻ
 
-TÔI NHỚ NGHE giọng nói giận dữ của Lilia vang vọng khắp nhà đêm đó. Có lẽ bố và những người khác không thể nghe thấy cô ấy từ phòng sống.
+TÔI NHỚ NGHE giọng nói giận dữ của Lilia vang vọng khắp nhà đêm đó. Có lẽ bố và những người khác không thể nghe thấy cô ấy từ phòng sống phòng, nhưng chúng tôi vẫn có thể nghe thấy tiếng cô ấy nói. Lilia đang mắng Aisha.
 
-phòng, nhưng chúng tôi vẫn có thể nghe thấy tiếng cô ấy nói. Lilia đang mắng Aisha.
+"Tại sao bạn lại làm một điều như vậy?! Người chủ quá cố sẽ làm gì nghĩ sao?! Đây không phải là nơi chúng ta có thể quyến rũ con trai của Chủ nhân Rudeus!"
 
-"Tại sao bạn lại làm một điều như vậy?! Người chủ quá cố sẽ làm gì?
-
-nghĩ sao?! Đây không phải là nơi chúng ta có thể quyến rũ con trai của Chủ nhân Rudeus!"
-
-Tôi có thể nghe thấy giọng nói chán nản của cô ấy từ một căn phòng cách đó không xa. Nó thực sự làm tổn thương trái tim tôi. Lẽ ra tôi nên ở đó để chịu đựng Aisha, nhưng cô ấy nói với tôi, "Tôi sẽ ổn thôi," nên tôi đã đợi trong phòng. Tôi ghét phải nói vậy nhưng tôi vẫn hành động thụ động, ngay cả sau những gì Red Mama đã nói với tôi.
-
-tôi.
+Tôi có thể nghe thấy giọng nói chán nản của cô ấy từ một căn phòng cách đó không xa. Nó thực sự làm tổn thương trái tim tôi. Lẽ ra tôi nên ở đó để chịu đựng Aisha, nhưng cô ấy nói với tôi, "Tôi sẽ ổn thôi," nên tôi đã đợi trong phòng. Tôi ghét phải nói vậy nhưng tôi vẫn hành động thụ động, ngay cả sau những gì Red Mama đã nói với tôi tôi.
 
 Không, không phải tôi thụ động mà tôi tin vào Aisha hơn bấy nhiêu đó. Vào thời điểm đó, cô ấy có khả năng giải quyết vấn đề trái phải, nhiều hơn tôi có thể. Ngay cả bây giờ, điều đó vẫn đúng. Mọi chuyện sẽ ổn nếu tôi để cô ấy xử lý nó. Cô ấy kết thúc mọi thứ một cách hoàn hảo. Đó là kiểu phụ nữ Aisha--thực sự, thực sự, đáng kinh ngạc.
 
@@ -34,9 +28,7 @@ Khi em trai tôi nói vậy, tôi nghĩ có lẽ cậu ấy đúng.
 
 Nhưng tôi vẫn tự nghĩ rằng Aisha đã nói rằng cô ấy sẽ ổn thôi.
 
-“Thật may là Lucie không ở đây. Cô ấy sẽ bùng nổ mất.
-
-Có lẽ sẽ đánh ngươi."
+“Thật may là Lucie không ở đây. Cô ấy sẽ bùng nổ mất. Có lẽ sẽ đánh ngươi."
 
 "Ừ," tôi thừa nhận.
 
@@ -54,17 +46,13 @@ Lara và Sieg, những người luôn thân thiết với nhau, đã trao đổi
 
 Nhưng làm sao tôi có thể? Tôi là một kẻ ngốc và tôi không biết mình không biết điều gì biết.
 
-Tuy nhiên, tôi biết mình không thể chỉ ngồi đó hối hận về cách mình đã hành động trong thời gian đó.
-
-cuộc họp gia đình. Tôi cần phải suy ngẫm về hành động của mình và tiến về phía trước không bị ràng buộc bởi quá khứ. Đó là triết lý của gia đình tôi.
+Tuy nhiên, tôi biết mình không thể chỉ ngồi đó hối hận về cách mình đã hành động trong thời gian đó cuộc họp gia đình. Tôi cần phải suy ngẫm về hành động của mình và tiến về phía trước không bị ràng buộc bởi quá khứ. Đó là triết lý của gia đình tôi.
 
 “Có lẽ anh nên đánh bại bố,” Lara nói.
 
 "Cái gì?" Sieg có vẻ choáng váng trước lời đề nghị của Lara.
 
-“Tôi đang nghe cuộc họp. Theo như tôi biết, những người duy nhất người không đồng ý là bố và bà. White Mama rất tức giận vì Aisha đã nói dối, và Red Mama tức giận vì bạn là một con gà, nhưng họ thực sự không có vẻ chống lại hai bạn. Tôi không nghĩ bà sẽ nói không nếu bố không tức giận. Sau tất cả, cô ấy dường như luôn hạnh phúc vì bạn hai người rất hợp nhau. Nói cách khác, mọi thứ sẽ ổn nếu bạn đánh bố! Tôi chắc chắn Red Mama cũng sẽ nói như vậy.” Cô ấy sử dụng giọng nói đều đều điển hình của mình khi nói, nhưng hiếm khi cô ấy nói.
-
-nói nhiều vì việc tham gia vào đó rất khó khăn, nên tôi có thể nói rằng cô ấythực sự đang cố gắng giúp tôi - mặc dù lời đề nghị của cô ấy chẳng hề thực tế chút nào.
+“Tôi đang nghe cuộc họp. Theo như tôi biết, những người duy nhất người không đồng ý là bố và bà. White Mama rất tức giận vì Aisha đã nói dối, và Red Mama tức giận vì bạn là một con gà, nhưng họ thực sự không có vẻ chống lại hai bạn. Tôi không nghĩ bà sẽ nói không nếu bố không tức giận. Sau tất cả, cô ấy dường như luôn hạnh phúc vì bạn hai người rất hợp nhau. Nói cách khác, mọi thứ sẽ ổn nếu bạn đánh bố! Tôi chắc chắn Red Mama cũng sẽ nói như vậy.” Cô ấy sử dụng giọng nói đều đều điển hình của mình khi nói, nhưng hiếm khi cô ấy nói nói nhiều vì việc tham gia vào đó rất khó khăn, nên tôi có thể nói rằng cô ấythực sự đang cố gắng giúp tôi - mặc dù lời đề nghị của cô ấy chẳng hề thực tế chút nào.
 
 “Nếu con đánh bại bố? Con không đời nào thắng được,” tôi nói.
 
@@ -116,15 +104,11 @@ Nhưng đó không phải là điều đã xảy ra.
 
 “Ừm,” tôi nói một cách không chắc chắn.
 
-Aisha đã kiệt sức. Biểu hiện của cô ấy là sự pha trộn của sự cam chịu, thất vọng, chán nản. Cô cố gắng mỉm cười như thường lệ nhưng không thể.
-
-quản lý nó.
+Aisha đã kiệt sức. Biểu hiện của cô ấy là sự pha trộn của sự cam chịu, thất vọng, chán nản. Cô cố gắng mỉm cười như thường lệ nhưng không thể quản lý nó.
 
 “Chúng ta sắp chia tay,” tôi nói.
 
-Tôi biết ngày này cuối cùng cũng sẽ đến, giống như cách Lucie đã rời đi.
-
-học viện hoàng gia. Khi tôi tốt nghiệp Đại học Pháp thuật Ranoa, Tôi đang định rời khỏi nhà. Điều đó đã được định sẵn từ lâu.
+Tôi biết ngày này cuối cùng cũng sẽ đến, giống như cách Lucie đã rời đi học viện hoàng gia. Khi tôi tốt nghiệp Đại học Pháp thuật Ranoa, Tôi đang định rời khỏi nhà. Điều đó đã được định sẵn từ lâu.
 
 Aisha có ý định đi cùng tôi không? Tôi đã không biết những gì cô ấy muốn làm, nhưng tôi sẽ không ngạc nhiên nếu cô ấy đang chuẩn bị cho việc đó. Ý tôi là, Aisha có nhiều khả năng hơn nó.
 
@@ -166,23 +150,15 @@ Khi chúng tôi chạm mắt nhau, tôi gật đầu với họ. Họ vẫy tay 
 
 Tôi chợt nhận ra rằng mình cũng sẽ không bao giờ gặp lại mẹ mình nữa.
 
-“Chúng ta đang chạy trốn phải không?” Thế nhưng chỉ mới đi được vài bước ra khỏi nhà, tôi đã nghe thấy giọng nói quen thuộc của ai đó từ phía sau tôi. Giọng ngái ngủ nhưng đầy trang trọng mà tôi đã nghe cả ở nhà và ở trường. Đó là Blue Mama--Roxy M.
-
-Greyrat.
+“Chúng ta đang chạy trốn phải không?” Thế nhưng chỉ mới đi được vài bước ra khỏi nhà, tôi đã nghe thấy giọng nói quen thuộc của ai đó từ phía sau tôi. Giọng ngái ngủ nhưng đầy trang trọng mà tôi đã nghe cả ở nhà và ở trường. Đó là Blue Mama--Roxy M. Greyrat.
 
 Chúng tôi dừng bước và quay lại. Tôi bước tới trước mặt Aisha. Ở khoảng cách này, tôi có thể đánh bại Blue Mama. Với ý nghĩ đó, tôi đặt tôi đặt tay lên thanh kiếm ở hông, chỉ để nhận ra rằng tay tôi run rẩy.
 
-"Arus, làm ơn. Bạn không cần phải làm vậy," Aisha nói. Tôi kéo tay tôi lại.
-
-tránh xa vũ khí của tôi.
+"Arus, làm ơn. Bạn không cần phải làm vậy," Aisha nói. Tôi kéo tay tôi lại tránh xa vũ khí của tôi.
 
 Khoảnh khắc đó đủ khiến trán tôi ướt đẫm mồ hôi, nên tôi lau sạch hơi ẩm bằng ống tay áo của tôi.
 
-Blue Mama đã theo dõi tôi ngay từ đầu. Nếu có bất cứ điều gì tôi không hiểu ở trường, cô ấy luôn giải thích cho tôi tử tế. Bất cứ khi nào tôi cãi nhau với bạn bè, cô ấy đều đến cùng tôi.
-
-xin lỗi. Vào những ngày mà bố tôi, Mẹ Đỏ, Mẹ Trắng, Aisha và Lilia không đi chơi, cô ấy mời tôi đi mua đồ tạp hóa hoặc cá cùng cô ấy. Cô ấy luôn điềm tĩnh, tự chủ, khôn ngoan và ân cần bất cứ khi nào tôi gặp khó khăn.
-
-thời gian khó khăn.
+Blue Mama đã theo dõi tôi ngay từ đầu. Nếu có bất cứ điều gì tôi không hiểu ở trường, cô ấy luôn giải thích cho tôi tử tế. Bất cứ khi nào tôi cãi nhau với bạn bè, cô ấy đều đến cùng tôi xin lỗi. Vào những ngày mà bố tôi, Mẹ Đỏ, Mẹ Trắng, Aisha và Lilia không đi chơi, cô ấy mời tôi đi mua đồ tạp hóa hoặc cá cùng cô ấy. Cô ấy luôn điềm tĩnh, tự chủ, khôn ngoan và ân cần bất cứ khi nào tôi gặp khó khăn thời gian khó khăn.
 
 Khi nhớ lại những gì mình sắp làm, tôi cảm thấy như mình đang ở trên bờ vực của nước mắt. Điều này có thực sự ổn không? Tôi có lựa chọn đúng không?
 
@@ -190,9 +166,7 @@ Không có ai ở đó để trả lời những câu hỏi tôi đang tự hỏ
 
 “Tôi không nghĩ bạn sẽ là người tìm thấy chúng tôi, Roxy,” Aisha nói.
 
-"Tôi bị sốc vì không nhận ra hai người đang làm gì.
-
-trước đó. Tôi không chắc liệu tôi có nên gọi cho bạn hay không."
+"Tôi bị sốc vì không nhận ra hai người đang làm gì trước đó. Tôi không chắc liệu tôi có nên gọi cho bạn hay không."
 
 Blue Mama không mắng chúng tôi. Cô cũng không tức giận. Cô ấy như bình tĩnh như cô ấy vẫn luôn như vậy."Bạn đang đi đâu?" cô ấy hỏi.
 
@@ -202,17 +176,13 @@ Blue Mama không mắng chúng tôi. Cô cũng không tức giận. Cô ấy nh�
 
 "Ừ. Chúng ta sẽ có thể tự mình vượt qua được."
 
-“Tôi đề nghị không nên làm toàn bộ công việc phiêu lưu mạo hiểm. Nó không đặc biệt lắm.
-
-có lãi."
+“Tôi đề nghị không nên làm toàn bộ công việc phiêu lưu mạo hiểm. Nó không đặc biệt lắm có lãi."
 
 “Đừng lo,” Aisha tự tin nói. “Chúng ta sẽ không làm bất cứ điều gì nguy hiểm. Kể từ khi tôi điều hành Ruquag's Mercenary Ban nhạc, tôi có tiền. Thế là đủ để vượt qua."
 
 "Rudy sẽ lo lắng. Anh ấy sẽ đi tìm em."
 
-"Anh ấy có thể tìm thấy chúng ta nhưng... Ai biết được? Anh ấy có thể hơi bất cẩn trong việc này."
-
-lần."
+"Anh ấy có thể tìm thấy chúng ta nhưng... Ai biết được? Anh ấy có thể hơi bất cẩn trong việc này lần."
 
 "Điều đó có thể đúng, nhưng nếu anh ấy hỏi Ngài Orsted hoặc Lãnh chúa Perugius giúp tôi với, có lẽ anh ấy sẽ tìm được cậu.” "Đúng. Nhưng chúng tôi vẫn sắp rời đi."
 
@@ -220,9 +190,7 @@ lần."
 
 "Đúng?"
 
-“Tôi sẽ đặt nền móng để các bạn không bị phát hiện.
-
-Nhưng nếu bạn cảm thấy không thể tiếp tục, hãy liên hệ với tôi. tôi không quan tâm thế nào."
+“Tôi sẽ đặt nền móng để các bạn không bị phát hiện. Nhưng nếu bạn cảm thấy không thể tiếp tục, hãy liên hệ với tôi. tôi không quan tâm thế nào."
 
 "Được rồi...tôi sẽ làm vậy. Cảm ơn, Roxy."
 
@@ -230,9 +198,7 @@ Aisha quay lại và bắt đầu bước đi. Tôi đi theo sau cô ấy trong 
 
 "Ừm, Blue Mama? Bạn không ngăn chúng tôi lại à?" Tôi hỏi.
 
-“Không. Khi tôi bằng tuổi cậu, tôi cũng đã rời nhà. Đó là lý do khiến tôi phải bỏ nhà ra đi.
-
-tôi đến nơi tôi có ngày hôm nay."
+“Không. Khi tôi bằng tuổi cậu, tôi cũng đã rời nhà. Đó là lý do khiến tôi phải bỏ nhà ra đi tôi đến nơi tôi có ngày hôm nay."
 
 "Bạn đã làm vậy?"
 

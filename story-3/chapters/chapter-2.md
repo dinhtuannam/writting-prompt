@@ -46,9 +46,7 @@ Tôi thực sự không biết liệu đó có phải là cố ý của cô ấy
 
 Dù sao thì khi tôi lên mười, gia đình đã tặng tôi đủ thứ quà.
 
-Trong số đó có một thanh kiếm, một chiếc shinken. Red Mama bảo tôi dùng nó để bảo vệ người tôi yêu quý. Khi tôi nghe điều đó, đó là khuôn mặt của Aisha.
-
-đã nghĩ đến.
+Trong số đó có một thanh kiếm, một chiếc shinken. Red Mama bảo tôi dùng nó để bảo vệ người tôi yêu quý. Khi tôi nghe điều đó, đó là khuôn mặt của Aisha đã nghĩ đến.
 
 Tôi theo bản năng nhìn cô ấy. Cô ấy nhìn lại tôi như thể đó là điều hiển nhiên nhất trên thế giới, và khi ánh mắt chúng tôi gặp nhau, cô ấy mỉm cười rực rỡ. Tôi nhớ cảm giác ngượng ngùng và nhìn đi chỗ khác.
 
@@ -64,9 +62,7 @@ Chẳng phải tình yêu chỉ là một chuỗi trò chơi trí óc vào cuố
 
 Tôi đã làm gì tiếp theo?
 
-À, tôi nhớ rồi. Đúng, đúng. Chuyện này diễn ra sau ngày thứ mười của tôi một chút sinh nhật. Hồi đó, bố tôi đã nói với tôi điều gì đó, và... Thôi, cứ thế thôi.
-
-nói rằng tôi thật ngây thơ.
+À, tôi nhớ rồi. Đúng, đúng. Chuyện này diễn ra sau ngày thứ mười của tôi một chút sinh nhật. Hồi đó, bố tôi đã nói với tôi điều gì đó, và... Thôi, cứ thế thôi nói rằng tôi thật ngây thơ.
 
 Tôi đã nhận được một cuốn sách từ Lord Orsted và nó được viết bằng ngôn ngữ Tôi không biết đọc nên tôi nhờ Aisha đọc cho. Nếu tôi nhớ chính xác thì nó đã xảy ra chuyện như thế này...
 
@@ -74,33 +70,19 @@ Tôi đã nhận được một cuốn sách từ Lord Orsted và nó được v
 
 Cách đây rất lâu, có một cậu bé tên là Arus. Anh ấy được sinh ra với một ý chí mạnh mẽ và anh ấy cũng sở hữu sức mạnh thể chất tuyệt vời. Đến lúc đó anh ấy đã đủ lớn để hiểu được môi trường xung quanh, cha mẹ anh ấy đã có từ lâu kể từ khi rời khỏi thế giới.
 
-Ngôi làng mà Arus sống cách xa thị trấn và gia đình anh ở Đặc biệt là khá nghèo khổ so với những người khác, nhưng anh ấy rất hạnh phúc. Arus có một người anh trai khôn ngoan, đáng tin cậy và những người còn lại trong làng đối xử với họ rất tốt.
-
-họ tốt. Arus thực sự biết ơn về tất cả những điều này và đã làm việc hết mình.
-
-khó nhất. May mắn thay, Arus là một cậu bé vạm vỡ nên có rất nhiều công việc anh ấy có thể làm.
+Ngôi làng mà Arus sống cách xa thị trấn và gia đình anh ở Đặc biệt là khá nghèo khổ so với những người khác, nhưng anh ấy rất hạnh phúc. Arus có một người anh trai khôn ngoan, đáng tin cậy và những người còn lại trong làng đối xử với họ rất tốt họ tốt. Arus thực sự biết ơn về tất cả những điều này và đã làm việc hết mình khó nhất. May mắn thay, Arus là một cậu bé vạm vỡ nên có rất nhiều công việc anh ấy có thể làm.
 
 Ngoài ra còn có một cô gái anh yêu. Cô ấy ốm yếu và luôn luôn nằm liệt giường, và những người trong làng nói rằng cô ấy không còn ở thế giới này lâu nữa.
 
-Hàng ngày, khi Arus làm việc xong, anh sẽ đến bên cửa sổ phòng cô.
+Hàng ngày, khi Arus làm việc xong, anh sẽ đến bên cửa sổ phòng cô và trò chuyện với cô ấy một chút trước khi về nhà. Khoảng thời gian nhỏ đó rất quý giá và không thể thay thế đối với Arus.
 
-và trò chuyện với cô ấy một chút trước khi về nhà. Khoảng thời gian nhỏ đó rất quý giá và không thể thay thế đối với Arus.
-
-Cô gái sẽ không thể sống được lâu và Arus chẳng còn gì cả có thể làm gì để giúp cô ấy. Có lẽ cô ấy hiểu mình không còn nhiều thời gian.
-
-trái. Cô ấy không bao giờ đòi hỏi nhiều và dường như rất mong chờ thời gian họ đã dành thời gian trò chuyện cùng nhau. Arus nghĩ rằng anh ấy sẽ dành mỗi ngày như thế điều này cho đến ngày cô gái không còn ở đó nữa.Nhưng rồi, một ngày nọ, cô gái nhìn lên bầu trời - bầu trời màu tím kỳ lạ.
-
-bầu trời--và nói điều gì đó: "Này, Arus... Cậu có biết rằng trước khi quỷ vương xuất hiện, bầu trời có màu xanh tuyệt đẹp phải không?"
+Cô gái sẽ không thể sống được lâu và Arus chẳng còn gì cả có thể làm gì để giúp cô ấy. Có lẽ cô ấy hiểu mình không còn nhiều thời gian trái. Cô ấy không bao giờ đòi hỏi nhiều và dường như rất mong chờ thời gian họ đã dành thời gian trò chuyện cùng nhau. Arus nghĩ rằng anh ấy sẽ dành mỗi ngày như thế điều này cho đến ngày cô gái không còn ở đó nữa.Nhưng rồi, một ngày nọ, cô gái nhìn lên bầu trời - bầu trời màu tím kỳ lạ bầu trời--và nói điều gì đó: "Này, Arus... Cậu có biết rằng trước khi quỷ vương xuất hiện, bầu trời có màu xanh tuyệt đẹp phải không?"
 
 Arus biết điều này. Quỷ vương đã sống rất lâu trước Arus đã được sinh ra. Một ngày nọ, quỷ vương xây dựng một đội quân và tấn công loài người để chiếm lấy thế giới của họ. Một khi cô đã chinh phục được một nửa thế giới, cô ấy đã thay đổi màu sắc của bầu trời chỉ để cho vui.
 
-"Tôi muốn nhìn thấy bầu trời xanh tuyệt đẹp chỉ một lần trước khi chết", cô nói.
+"Tôi muốn nhìn thấy bầu trời xanh tuyệt đẹp chỉ một lần trước khi chết", cô nói đã nói.
 
-đã nói.
-
-Đó là hành động ích kỷ đầu tiên mà cô gái lên tiếng kể từ khi cặp đôi kết hôn.
-
-đã gặp.
+Đó là hành động ích kỷ đầu tiên mà cô gái lên tiếng kể từ khi cặp đôi kết hôn đã gặp.
 
 Có lẽ miêu tả nó là “sự ích kỷ” là quá mạnh. Cô ấy có thể chỉ đơn giản nói những lời đó, biết quá rõ rằng giấc mơ của cô ấy sẽ không bao giờ trở thành hiện thực.
 
@@ -108,9 +90,7 @@ Arus cũng biết điều này. Họ chỉ trò chuyện như mọi khi.
 
 Cô ấy không yêu cầu Arus bất cứ điều gì. Nhưng vẻ mặt cô ấy khi nói chuyện quá dễ bị tổn thương và mong manh, như thể cô ấy đã từ bỏ giấc mơ của mình từ lâu rồi bao giờ trở thành hiện thực.
 
-Đó là lý do Arus đưa ra quyết định: Anh sẽ cho cô xem chiếc áo màu xanh.
-
-bầu trời.
+Đó là lý do Arus đưa ra quyết định: Anh sẽ cho cô xem chiếc áo màu xanh bầu trời.
 
 Tuy nhiên, dù Arus sở hữu sức mạnh nhưng anh vẫn chỉ là một dân làng bình thường. Anh ta thiếu cả kiến thức lẫn trí tuệ, và anh ta không biết làm thế nào để trả lại bầu trời trong xanh.
 
@@ -124,39 +104,25 @@ Bất cứ khi nào Arus cần giúp đỡ, anh đều biết đến bên anh.
 
 “Vì quỷ vương đã biến bầu trời thành màu tím nên tôi cá rằng việc đánh bại cô ấy sẽ thành công.” làm cho nó trở lại bình thường."
 
-Khi Arus nghe thấy điều này, anh quyết định tiến đến lâu đài của quỷ vương.
-
-và nhanh chóng bắt đầu chuẩn bị cho cuộc hành trình của mình. Anh trai của anh ấy đã nhìn thấy những gì Arus đang lên kế hoạch và hoảng sợ.
+Khi Arus nghe thấy điều này, anh quyết định tiến đến lâu đài của quỷ vương và nhanh chóng bắt đầu chuẩn bị cho cuộc hành trình của mình. Anh trai của anh ấy đã nhìn thấy những gì Arus đang lên kế hoạch và hoảng sợ.
 
 "Em trai, quỷ vương là một sinh vật đáng sợ! Em sẽ bị xé nát thành từng mảnh chỉ vì được đến gần."
 
 "Tôi vẫn đi."
 
-Anh trai anh đã lùi bước khi đối mặt với sự thiếu sót của em trai mình.
+Anh trai anh đã lùi bước khi đối mặt với sự thiếu sót của em trai mình do dự. Anh ấy biết rằng một khi Arus trở nên như thế này, anh ấy sẽ không nghe lời.
 
-do dự. Anh ấy biết rằng một khi Arus trở nên như thế này, anh ấy sẽ không nghe lời.
+"Bạn sẽ không thể tiếp cận được quỷ vương chỉ bằng cách đi lang thang xung quanh. Đầu tiên, bạn nên đến thành phố lớn nhất cả nước. Tôi sẽ vẽ bạn lên một bản đồ. Hãy mang theo một ít thức ăn và mang theo một đôi giày mới cho bạn cuộc hành trình."
 
-"Bạn sẽ không thể tiếp cận được quỷ vương chỉ bằng cách đi lang thang xung quanh. Đầu tiên, bạn nên đến thành phố lớn nhất cả nước. Tôi sẽ vẽ bạn lên một bản đồ. Hãy mang theo một ít thức ăn và mang theo một đôi giày mới cho bạn.
-
-cuộc hành trình."
-
-Người anh trai đã làm mọi thứ trong khả năng của mình để giúp Arus chuẩn bị cho chuyến đi của mình. Anh biết em trai mình có thể cống hiến và quyết tâm như thế nào.
-
-được ; anh ấy sẽ không bao giờ bỏ cuộc. Tuy nhiên, quỷ vương đã mạnh mẽ áp đảo. Đây là một cuộc hành trình mà Arus sẽ không sống sót trở về. Tuy nhiên, người anh trai muốn làm tất cả những gì anh ấy có thể.
-
-có thể giữ Arus sống lâu hơn dù chỉ một giây.
+Người anh trai đã làm mọi thứ trong khả năng của mình để giúp Arus chuẩn bị cho chuyến đi của mình. Anh biết em trai mình có thể cống hiến và quyết tâm như thế nào được ; anh ấy sẽ không bao giờ bỏ cuộc. Tuy nhiên, quỷ vương đã mạnh mẽ áp đảo. Đây là một cuộc hành trình mà Arus sẽ không sống sót trở về. Tuy nhiên, người anh trai muốn làm tất cả những gì anh ấy có thể có thể giữ Arus sống lâu hơn dù chỉ một giây.
 
 Arus khởi hành thực hiện nhiệm vụ của mình. Với tấm bản đồ trong tay, một đôi giày mới trên đôi chân của mình và thanh đoản kiếm mà anh ấy được thừa hưởng từ cha mình ở bên hông, anh ấy bỏ lại người con gái anh yêu ở làng.
 
 Sau một thời gian, Arus đi qua những cánh đồng và những ngọn núi để đến đến thành phố lớn nhất cả nước. Đây là lần đầu tiên anh ấy nhìn thấy một con số khổng lồ lâu đài, cũng như lần đầu tiên anh nhìn thấy nhiều người như vậy ở một nơi.
 
-Với nhiều người như thế này, chắc chắn sẽ có người biết tìm ở đâu.
+Với nhiều người như thế này, chắc chắn sẽ có người biết tìm ở đâu quỷ vương, anh nghĩ khi quan sát tất cả những điều này.
 
-quỷ vương, anh nghĩ khi quan sát tất cả những điều này.
-
-“Bạn muốn đánh bại quỷ vương? Trong trường hợp đó, hãy đến lâu đài.
-
-Tại thời điểm này, họ cần tất cả sự giúp đỡ có thể nhận được", một người nói với anh.Arus làm theo chỉ dẫn của họ và đi về phía lâu đài.
+“Bạn muốn đánh bại quỷ vương? Trong trường hợp đó, hãy đến lâu đài. Tại thời điểm này, họ cần tất cả sự giúp đỡ có thể nhận được", một người nói với anh. Arus làm theo chỉ dẫn của họ và đi về phía lâu đài.
 
 Đó là một tòa nhà khổng lồ, giống như thứ mà anh chưa từng thấy trước đây.
 
@@ -168,9 +134,7 @@ Anh ta được diện kiến ​​nhà vua. Nhà vua ngồi trong một ngai v
 
 “Đúng, nhưng tôi muốn đánh bại quỷ vương. Xin hãy cho tôi biết địa chỉ.” tìm cô ấy."
 
-“Một đứa trẻ như cậu có thể hy vọng đạt được điều gì?
-
-về nhà của bạn," một trong những hiệp sĩ nói ở bên cạnh.
+“Một đứa trẻ như cậu có thể hy vọng đạt được điều gì? về nhà của bạn," một trong những hiệp sĩ nói ở bên cạnh.
 
 "Công việc của người lớn là chiến đấu. Chúng tôi ở đây để bảo vệ những đứa trẻ như các bạn."
 
@@ -262,9 +226,7 @@ Nhà hiền triết này nằm trên một hòn đảo giữa đại dương. An
 
 "Bạn đang làm gì thế?"
 
-“Tôi đang làm một chiếc vòng tay để xua đuổi ma thuật cho một đứa trẻ trong tương lai xa.
-
-Tôi biết rằng một sinh vật xấu xa sẽ đến gần họ", nhà hiền triết nói. Sau đó anh ấy nhìn Arus và đặt câu hỏi. "Hãy để tôi hỏi bạn điều này, con của người đàn ông. Tại sao ngươi lại muốn đánh bại quỷ vương?” "Để tôi có thể cho cô gái tôi yêu bầu trời xanh."
+“Tôi đang làm một chiếc vòng tay để xua đuổi ma thuật cho một đứa trẻ trong tương lai xa. Tôi biết rằng một sinh vật xấu xa sẽ đến gần họ", nhà hiền triết nói. Sau đó anh ấy nhìn Arus và đặt câu hỏi. "Hãy để tôi hỏi bạn điều này, con của người đàn ông. Tại sao ngươi lại muốn đánh bại quỷ vương?” "Để tôi có thể cho cô gái tôi yêu bầu trời xanh."
 
 “Ồ, vậy là cậu có tình yêu của riêng mình à? Trong trường hợp đó, tôi sẽ cho cậu mượn chiếc vòng tay tỏa sáng. Nó sẽ xua đuổi tà ác.” Arus nhận chiếc vòng từ Maxwell và tiếp tục cuộc hành trình của mình.
 
@@ -278,17 +240,13 @@ Tuy nhiên, Arus có một thanh kiếm, một chiếc khiên và một chiếc 
 
 Nơi quỷ vương trú ngụ là một địa điểm khủng khiếp. Đó là được bao quanh bởi một đầm lầy độc hại và không thể tiếp cận bằng đường thông thườngcó nghĩa. Ngay cả khi bạn bằng cách nào đó vượt qua được đầm lầy, bạn sẽ gặp phải những con quái vật khổng lồ hung ác, cũng như những con quỷ tìm kiếm kéo bạn vào con đường tội lỗi.
 
-Nhưng nhờ có con tàu, Arus có thể dễ dàng vượt qua đầm lầy.
-
-có thể chống lại lũ quái vật bằng kiếm và khiên của mình. Chiếc khiên anh ấy có rất cứng rắn, chặn được móng vuốt và răng nanh của lũ quái vật. Thanh kiếm đã cực kỳ sắc bén, cho phép Arus cắt đôi quái vật mà không tốn nhiều công sức về phía anh ấy. Thỉnh thoảng, lũ quỷ sẽ thì thầm vào tai anh rằng anh có thể sử dụng chính những vật phẩm đó để trở thành vua của loài người, nhưng Arus không thể nghe thấy họ. Chiếc vòng xua đuổi tà ác đã bảo vệ anh ta khỏi những điều này lời nói.
+Nhưng nhờ có con tàu, Arus có thể dễ dàng vượt qua đầm lầy có thể chống lại lũ quái vật bằng kiếm và khiên của mình. Chiếc khiên anh ấy có rất cứng rắn, chặn được móng vuốt và răng nanh của lũ quái vật. Thanh kiếm đã cực kỳ sắc bén, cho phép Arus cắt đôi quái vật mà không tốn nhiều công sức về phía anh ấy. Thỉnh thoảng, lũ quỷ sẽ thì thầm vào tai anh rằng anh có thể sử dụng chính những vật phẩm đó để trở thành vua của loài người, nhưng Arus không thể nghe thấy họ. Chiếc vòng xua đuổi tà ác đã bảo vệ anh ta khỏi những điều này lời nói.
 
 Cuối cùng, Arus đã đến trước mặt quỷ vương.
 
 Lâu đài đen nơi cô sống lớn hơn gấp nhiều lần hơn những lâu đài mà con người sinh sống, và còn nhiều điều đáng lo ngại hơn nữa.
 
-"Bwahaha! Con đã làm rất tốt để đi xa đến thế này, đứa trẻ con người! Việc gì vậy?
-
-cậu có đi cùng tôi không?!"
+"Bwahaha! Con đã làm rất tốt để đi xa đến thế này, đứa trẻ con người! Việc gì vậy cậu có đi cùng tôi không?!"
 
 Con quái vật đáng sợ được gọi là quỷ vương có cơ thể khổng lồ cơ thể, cái miệng lớn và mái tóc màu tím.
 
@@ -308,9 +266,7 @@ Quỷ vương cười lớn khi cô tung nắm đấm về phía Arus. Cậu bé
 
 Than ôi. Ngay khoảnh khắc tiếp theo, quỷ vương chộp lấy chiếc khiên và vung nó cùng với Arus lên không trung. Anh ta đập mạnh vào tường, nơi anh ta run lên vì sợ hãi. Thanh kiếm và tấm khiên anh nhận được từ các nhà hiền triết có không có tác dụng gì với quỷ vương.
 
-"Ta sẽ nghiền nát và ăn thịt ngươi, bắt đầu từ đầu ngươi.
-
-Ôi! Tôi sẽ xé xác cậu ra!"
+"Ta sẽ nghiền nát và ăn thịt ngươi, bắt đầu từ đầu ngươi. Ôi! Tôi sẽ xé xác cậu ra!"
 
 Vua quỷ khổng lồ tiếp cận cậu bé. Arus chạy cùng mọi thứ anh ấy có. Bất chấp ý chí mạnh mẽ của mình, khi phải đối mặt với nỗi sợ hãi thực sự cho lần đầu tiên trong đời, anh không thể đứng vững và chiến đấu được nữa. Anh ta ném cái của mình thanh kiếm và chiếc khiên sang một bên, tháo chiếc vòng tay của mình ra và chạy trốn khỏi quỷ vương không có gì trên người.
 
@@ -320,15 +276,11 @@ Sau đó, Arus lang thang trên vùng đất của quỷ vương. các Chướng
 
 Trong nỗi đau buồn, anh lang thang trên đất liền, đầu cúi thấp. Ngay cả với kiếm và khiên, anh không thể đánh bại được quỷ vương. Nước mắt chảy ra từ mắt anh và để lại những vết ẩm ướt trên mặt đất.
 
-Một con quỷ độc ác nuốt chửng nỗi đau đã tiếp cận Arus, người đã mất chiếc vòng bảo vệ của anh ấy. Họ liếm nước mắt của Arus và thì thầm với anh ấy.
-
-tai.
+Một con quỷ độc ác nuốt chửng nỗi đau đã tiếp cận Arus, người đã mất chiếc vòng bảo vệ của anh ấy. Họ liếm nước mắt của Arus và thì thầm với anh ấy tai.
 
 "Xin chào, anh hùng nhỏ. Có chuyện gì vậy? Bạn đang nhỏ giọt ngon quá nước mắt."
 
-“Tôi không thể đánh bại được quỷ vương.” “Tất nhiên là không. Dù sao thì quỷ vương cũng rất rất mạnh.
-
-nếu không có cô ấy thì bạn chỉ là một đứa trẻ nhỏ."
+“Tôi không thể đánh bại được quỷ vương.” “Tất nhiên là không. Dù sao thì quỷ vương cũng rất rất mạnh nếu không có cô ấy thì bạn chỉ là một đứa trẻ nhỏ."
 
 "Tôi muốn làm cho bầu trời trở lại bình thường.""Tất nhiên là không thể. Dù sao thì cậu cũng chỉ là một đứa trẻ bất lực mà thôi."
 
@@ -336,9 +288,7 @@ nếu không có cô ấy thì bạn chỉ là một đứa trẻ nhỏ."
 
 "Bạn không thể làm được gì cả. Bạn không thể lớn lên, và bạn không thể trở nên mạnh mẽ hơn. Bạn không thể làm gì được."
 
-Arus coi trọng lời thì thầm của con quỷ và chìm đắm trong suy nghĩ của mình.
-
-sự bi quan. Anh bước về phía rìa đầm lầy độc.
+Arus coi trọng lời thì thầm của con quỷ và chìm đắm trong suy nghĩ của mình sự bi quan. Anh bước về phía rìa đầm lầy độc.
 
 Anh cân nhắc việc lao mình vào. Nếu làm vậy, cơ thể nhỏ bé của anh sẽ chắc chắn sẽ tan biến thành hư không ngay lập tức. Anh ấy không còn có có gì để mất. Arus định nhắm mắt lại và để mình rơi vào, nhưng ngay trước khi anh có thể, anh nhận thấy một tòa nhà kỳ lạ ở đằng xa. Nó là một ngôi nhà kỳ lạ trông giống như một chiếc mai rùa được đặt trên một cái hố.
 
@@ -346,17 +296,11 @@ Anh cân nhắc việc lao mình vào. Nếu làm vậy, cơ thể nhỏ bé c�
 
 Nhưng con quỷ đã biến mất. Bất kể Arus nhìn đi đâu, anh ấy không thể tìm thấy chúng. Trên thực tế, có lúc toàn bộ khu vực đã bị ngập với năng lượng thần thánh. Có vẻ như năng lượng thần thánh đang được phóng ra từ đó nhà. Chắc chắn có người nào đó rất thánh thiện đã sống ở đó. Với ý nghĩ đó, Arus rón rén bước vào nhà.
 
-"Xin chào, con người. Có chuyện gì vậy? Đây không phải là nơi như vậy."
-
-một đứa trẻ như chính cậu vậy."
+"Xin chào, con người. Có chuyện gì vậy? Đây không phải là nơi như vậy một đứa trẻ như chính cậu vậy."
 
 Trong nhà có một người có đôi mắt hiền lành và mái tóc bạc đỏ.
 
-"Tên tôi là Arus. Tôi muốn bầu trời trong xanh trở lại nhưng tôi đã thất bại."
-
-chống lại quỷ vương.” "Tôi đã vứt bỏ tên mình. Tôi không còn nơi nào thuộc về nữa. Tôi là nhà hiền triết đầu tiên và cuối cùng. Tôi sống theo sứ mệnh của mình.” Những lời đó khuấy động ký ức trong Arus. Anh phải gặp năm người hiền nhân. Lẽ ra anh ta không nên chiến đấu với quỷ vương mà không gặp cả năm người.
-
-các nhà hiền triết đầu tiên. Khi nhớ lại điều này, Arus cảm thấy một cảm giác bí ẩn về lòng dũng cảm đang sôi sục trong lòng. Mọi chuyện không hề vô vọng. Anh ấy vừa mới thực hiện một sai lầm.
+"Tên tôi là Arus. Tôi muốn bầu trời trong xanh trở lại nhưng tôi đã thất bại chống lại quỷ vương.” "Tôi đã vứt bỏ tên mình. Tôi không còn nơi nào thuộc về nữa. Tôi là nhà hiền triết đầu tiên và cuối cùng. Tôi sống theo sứ mệnh của mình.” Những lời đó khuấy động ký ức trong Arus. Anh phải gặp năm người hiền nhân. Lẽ ra anh ta không nên chiến đấu với quỷ vương mà không gặp cả năm người các nhà hiền triết đầu tiên. Khi nhớ lại điều này, Arus cảm thấy một cảm giác bí ẩn về lòng dũng cảm đang sôi sục trong lòng. Mọi chuyện không hề vô vọng. Anh ấy vừa mới thực hiện một sai lầm.
 
 "Tôi là Arus. Nhà hiền triết đầu tiên và cuối cùng, bạn có thể giúp đỡ tôi để tôi có thể đánh bại quỷ vương?” "Tôi xin lỗi, nhưng tôi rất bận. Rất, rất, bận."
 
@@ -366,9 +310,7 @@ các nhà hiền triết đầu tiên. Khi nhớ lại điều này, Arus cảm 
 
 "Để tôi có thể cho cô gái tôi yêu bầu trời xanh."
 
-"Ồ, vậy ra cậu có một sứ mệnh của riêng mình? Nhưng hãy nói cho tôi biết, cậu có thực sự không?"
-
-làm điều này cho cô gái anh yêu à?"
+"Ồ, vậy ra cậu có một sứ mệnh của riêng mình? Nhưng hãy nói cho tôi biết, cậu có thực sự không làm điều này cho cô gái anh yêu à?"
 
 "Tất nhiên rồi. Cô ấy muốn nhìn thấy bầu trời xanh."
 
@@ -396,13 +338,9 @@ Sau đó, ông đến thăm nhà hiền triết thứ năm. Arus trả lại chi
 
 Arus đã trả lại con tàu của mình. Sau đó, ông đến thăm nhà hiền triết thứ hai. Arus đã trả lại lá chắn.
 
-Sau khi trả lại tất cả những gì đã mượn, anh trở về thành phố lớn, thành phố của con người. Ở đó, một bữa tiệc lớn đang được tổ chức. Thông qua sự trở lại của bầu trời xanh, mọi người đã biết rằng quỷ vương không phải là nhiều hơn nữa. Khi Arus quay trở lại lâu đài, nhà vua giơ cả hai tay lên.
+Sau khi trả lại tất cả những gì đã mượn, anh trở về thành phố lớn, thành phố của con người. Ở đó, một bữa tiệc lớn đang được tổ chức. Thông qua sự trở lại của bầu trời xanh, mọi người đã biết rằng quỷ vương không phải là nhiều hơn nữa. Khi Arus quay trở lại lâu đài, nhà vua giơ cả hai tay lên ăn mừng.
 
-ăn mừng.
-
-"Ồ, anh hùng Arus, làm tốt lắm! Bạn đã đánh bại quỷ vương!
-
-Đất nước này là của bạn. Bạn cũng có thể có con gái của tôi! Bạn có muốn xin hãy trở thành vị vua tiếp theo?"
+"Ồ, anh hùng Arus, làm tốt lắm! Bạn đã đánh bại quỷ vương! Đất nước này là của bạn. Bạn cũng có thể có con gái của tôi! Bạn có muốn xin hãy trở thành vị vua tiếp theo?"
 
 Arus từ chối lời đề nghị của nhà vua. Anh nói với anh rằng người con gái anh yêu đang đợi anh ấy. Arus cảm ơn thầy bói rồi chuẩn bị đi trở về làng của mình.
 
@@ -424,9 +362,7 @@ Vẻ mặt của anh trai anh không thay đổi.
 
 Khi nghe điều này, Arus mỉm cười. Anh buồn, anh biết mình sẽ như vậy cô đơn nhưng vẫn mỉm cười.
 
-“Nếu cô ấy qua đời sáng nay thì cũng không sao. Điều đó có nghĩa là cô ấy phải đã nhìn thấy bầu trời xanh. Cô ấy đã mỉm cười khi rời khỏi thế giới này phải không?
-
-Cô ấy mỉm cười khi nói bầu trời thật đẹp phải không?” "Không. Cô ấy đã khóc. Cô ấy khóc vì không thể nhìn thấy anh. Cô ấy nói rằng mặc dù bầu trời có màu xanh tuyệt đẹp nhưng cô ấy lại quan tâm nhiều hơn đến việc nhìn thấy bạn nữa. Cô ấy đã khóc suốt thời gian đó."
+“Nếu cô ấy qua đời sáng nay thì cũng không sao. Điều đó có nghĩa là cô ấy phải đã nhìn thấy bầu trời xanh. Cô ấy đã mỉm cười khi rời khỏi thế giới này phải không? Cô ấy mỉm cười khi nói bầu trời thật đẹp phải không?” "Không. Cô ấy đã khóc. Cô ấy khóc vì không thể nhìn thấy anh. Cô ấy nói rằng mặc dù bầu trời có màu xanh tuyệt đẹp nhưng cô ấy lại quan tâm nhiều hơn đến việc nhìn thấy bạn nữa. Cô ấy đã khóc suốt thời gian đó."
 
 Arus rất kinh ngạc. Chẳng phải anh đã biến giấc mơ của cô thành hiện thực sao?
 
@@ -466,9 +402,7 @@ Có lẽ điều đó đã góp phần khiến tôi đồng cảm quá mức v�
 
 "Này, đừng lo lắng cái đầu nhỏ của cậu. Bạn sẽ có thể tìm thấy hạnh phúc là được rồi, Arus."
 
-Aisha ôm tôi vào lòng và xoa tóc tôi. Điều này đã từng có một lần luôn động viên tôi khi tâm trạng tôi khó chịu, nhưng đó chỉ là khi tôi Tôi còn nhỏ. Sau khi tôi lên mười, việc làm tôi xao nhãng khỏi công việc của mình trở nên khó khăn hơn.
-
-cảm xúc.
+Aisha ôm tôi vào lòng và xoa tóc tôi. Điều này đã từng có một lần luôn động viên tôi khi tâm trạng tôi khó chịu, nhưng đó chỉ là khi tôi Tôi còn nhỏ. Sau khi tôi lên mười, việc làm tôi xao nhãng khỏi công việc của mình trở nên khó khăn hơn cảm xúc.
 
 "Này, Aisha?"
 
@@ -476,9 +410,7 @@ cảm xúc.
 
 "Arus có thể làm gì khác đi để tìm thấy hạnh phúc?"
 
-"Hả? À, ừm, nếu anh ấy ở lại với cô gái đó, cô ấy vẫn sẽ chết.
-
-Có lẽ anh ta có thể rời bỏ quỷ vương và nhờ các nhà hiền triết cứu thay vào đó là cô ấy. Sau đó, họ có thể kết hôn và sống hạnh phúc mãi mãi sau. Ý tôi là, nếu anh hùng Arus không đánh bại được quỷ vương—trong trường hợp này, Quý cô Kirishika, tôi nghĩ--thế giới sẽ không bao giờ hòa bình, nhưng tôi nghi ngờ rằng loài người sẽ bị tiêu diệt trong vòng đời của họ, vào lúc ít nhất," Aisha trả lời khi cô bối rối trước câu hỏi.
+"Hả? À, ừm, nếu anh ấy ở lại với cô gái đó, cô ấy vẫn sẽ chết. Có lẽ anh ta có thể rời bỏ quỷ vương và nhờ các nhà hiền triết cứu thay vào đó là cô ấy. Sau đó, họ có thể kết hôn và sống hạnh phúc mãi mãi sau. Ý tôi là, nếu anh hùng Arus không đánh bại được quỷ vương—trong trường hợp này, Quý cô Kirishika, tôi nghĩ--thế giới sẽ không bao giờ hòa bình, nhưng tôi nghi ngờ rằng loài người sẽ bị tiêu diệt trong vòng đời của họ, vào lúc ít nhất," Aisha trả lời khi cô bối rối trước câu hỏi.
 
 Chắc hẳn cô ấy nghĩ đó là một câu trả lời hoàn hảo, nhưng vào thời điểm đó, tôi không hài lòng. Tôi nhíu mày và cau mày.
 
@@ -494,9 +426,7 @@ Chắc hẳn cô ấy nghĩ đó là một câu trả lời hoàn hảo, nhưng 
 
 "Ừm, tôi phải bắt đầu từ đó à? Tôi không chắc điều đó, ừm, tôi là người nên dạy bạn về điều đó. Tôi nghĩ có lẽ bạn nên hỏi White Mama hoặc Blue Mama," Aisha trả lời, mặt hơi đỏ.
 
-Có lẽ cô ấy nghĩ rằng tôi đã gần đến độ tuổi mà tôi sẽ ở đó.
-
-quan tâm đến loại điều đó.
+Có lẽ cô ấy nghĩ rằng tôi đã gần đến độ tuổi mà tôi sẽ ở đó quan tâm đến loại điều đó.
 
 “Vậy hạnh phúc có nghĩa là kết hôn và sinh con?” tôi ép.
 
@@ -520,17 +450,11 @@ quan tâm đến loại điều đó.
 
 Nhưng Aisha thông minh như một người thực tế. Nếu tôi kết hôn vào Hoàng gia Asuran, tôi có họ hàng với Ariel. Ariel đang cố gắng duy trì một mối quan hệ bền chặt với cha tôi và hôn nhân là một cách tuyệt vời để đảm bảo điều đó. Nếu vị hôn thê tương lai của tôi trẻ hơn tôi thì đó là thậm chí có thể cô ấy là con gái của Ariel. Dòng suy nghĩ đó đã đủ để Aisha nhanh chóng chấp nhận tin tức.
 
-“Ừ, anh là con trai cả nên tôi đoán những chuyện này sẽ xảy ra,” cô nói.
-
-đã nói.
+“Ừ, anh là con trai cả nên tôi đoán những chuyện này sẽ xảy ra,” cô nói đã nói.
 
 “Tôi có bị ép cưới cô ấy không?” "Đừng lo. Nếu em nói với bố là em không muốn, anh chắc chắn ông ấy sẽ hiểu. Nhưng cậu thực sự không muốn kết hôn sao?” "Ý tôi là, làm sao tôi có thể kết hôn với một người mà tôi chưa từng gặp mặt?"
 
-“Vậy cậu muốn kết hôn với loại người nào?” Từ quan điểm của Aisha, không có gì sâu sắc hơn đằng sau chuyện này.
-
-câu hỏi. Có lẽ cô ấy mong đợi tôi sẽ nói điều gì đó như Một cô gái có thân hình to lớn.
-
-đồ ngu! Ý tôi là, tôi thích những người đánh lớn - ai có thể trách tôi được? Bất cứ khi nào tôi nhìn thấy một cô gái như vậy bên đường, tôi không thể không theo cô ấy mắt. Đã như vậy từ khi tôi còn nhỏ. Chết tiệt, mọi người luôn thì thầm về việc tôi sẽ trở thành một kẻ lăng nhăng như thế nào khi lớn lên. Nhưng đó là không phải những gì tôi đã nói. Tôi đã nói thẳng với cô ấy.
+“Vậy cậu muốn kết hôn với loại người nào?” Từ quan điểm của Aisha, không có gì sâu sắc hơn đằng sau chuyện này câu hỏi. Có lẽ cô ấy mong đợi tôi sẽ nói điều gì đó như Một cô gái có thân hình to lớn đồ ngu! Ý tôi là, tôi thích những người đánh lớn - ai có thể trách tôi được? Bất cứ khi nào tôi nhìn thấy một cô gái như vậy bên đường, tôi không thể không theo cô ấy mắt. Đã như vậy từ khi tôi còn nhỏ. Chết tiệt, mọi người luôn thì thầm về việc tôi sẽ trở thành một kẻ lăng nhăng như thế nào khi lớn lên. Nhưng đó là không phải những gì tôi đã nói. Tôi đã nói thẳng với cô ấy.
 
 "Tôi muốn kết hôn với bạn, Aisha."
 
@@ -542,7 +466,7 @@ Tôi đã cực kỳ nghiêm túc. Có lẽ là nghiêm trọng nhất mà tôi 
 
 "Tôi không quan tâm bạn bao nhiêu tuổi. Ý tôi là, Norn và Ruijerd thậm chí còn xa nhau hơn phải không?” "Ruijerd là một con quỷ nên trông anh ta không già chút nào."
 
-“Vậy không phải điều đó có nghĩa là anh ấy cưới một người sẽ già đi nhanh hơn sao?” hơn anh ta?” "Ừm, tôi đoán vậy, ừ."
+“Vậy không phải điều đó có nghĩa là anh ấy cưới một người sẽ già đi nhanh hơn anh ta?” "Ừm, tôi đoán vậy, ừ."
 
 "Trong trường hợp đó, tuổi tác không thành vấn đề. Anh yêu em, Aisha."
 
@@ -560,9 +484,7 @@ Tôi tiếp tục nhìn vào khuôn mặt của cô ấy. Cuối cùng, từng c
 
 "Tại sao? Bạn có ghét tôi không?"
 
-"Không, hoàn toàn không phải vậy. Về cơ bản chúng tôi giống như anh em ruột. Không có chuyện đó đâu."
-
-theo cách mà bố bạn, mẹ bạn hoặc mẹ tôi sẽ cho phép điều đó," cô ấy nói, ngay cả khi cô ấy ôm tôi trong tay.
+"Không, hoàn toàn không phải vậy. Về cơ bản chúng tôi giống như anh em ruột. Không có chuyện đó đâu theo cách mà bố bạn, mẹ bạn hoặc mẹ tôi sẽ cho phép điều đó," cô ấy nói, ngay cả khi cô ấy ôm tôi trong tay.
 
 Cô ấy vẫn ôm tôi như mọi khi, như chưa hề có chuyện gì xảy ra giữa chúng tôi, nhưng nhịp tim của cô ấy to hơn bình thường. Cánh tay cô siết chặt thật chặt quanh tôi.
 
@@ -572,9 +494,7 @@ Tôi im lặng và để cô ấy làm những gì cô ấy muốn. Aisha đã �
 
 Không có gì xảy ra cả. Mọi chuyện vẫn bình thường. Đó chính là cái ôm của cô ấy nói.
 
-"Đừng lo lắng. Bạn sẽ tìm được người nào đó tốt hơn tôi."
-
-khi bạn già đi," cô nói.
+"Đừng lo lắng. Bạn sẽ tìm được người nào đó tốt hơn tôi khi bạn già đi," cô nói.
 
 "Được rồi..."
 
@@ -590,10 +510,6 @@ Tuy nhiên, đó là thời điểm tôi chắc chắn về tình yêu của mì
 
 Về phần Aisha, có vẻ như cô ấy không hoàn toàn phản đối ý tưởng này, nhưng cô ấy đã dè dặt về việc hẹn hò với một đứa trẻ - con trai của anh trai cô ấy, không ít hơn. Tuy nhiên, những sự dè dặt đó đã phai nhạt theo thời gian. Cô bắt đầu chấp nhận cảm xúc của tôi cuối cùng.
 
-Ý tôi là, việc liên quan đến huyết thống là điều phổ biến trong giới quý tộc Asuran.
+Ý tôi là, việc liên quan đến huyết thống là điều phổ biến trong giới quý tộc Asuran người thân để kết hôn, bạn biết không? Có lẽ cô ấy cảm thấy điều đó miễn là tôi tình cảm dành cho cô ấy không thay đổi, mối quan hệ của chúng tôi sẽ không tệ. Thậm chí mặc dù mẹ cô ấy, bà Lilia, sẽ phản đối, nhưng tôi cho rằng bà ấy nghĩ vậy sẽ không là một vấn đề nếu không.
 
-người thân để kết hôn, bạn biết không? Có lẽ cô ấy cảm thấy điều đó miễn là tôi tình cảm dành cho cô ấy không thay đổi, mối quan hệ của chúng tôi sẽ không tệ. Thậm chí mặc dù mẹ cô ấy, bà Lilia, sẽ phản đối, nhưng tôi cho rằng bà ấy nghĩ vậy sẽ không là một vấn đề nếu không.
-
-Chỉ là, tôi có thể giải thích mọi thứ khi tôi đọc cuốn Sách của Rudeus, tôi cho là vậy. Rốt cuộc, tôi khá tò mò về cảm giác của bố tôi lúc đó.
-
-thời gian.
+Chỉ là, tôi có thể giải thích mọi thứ khi tôi đọc cuốn Sách của Rudeus, tôi cho là vậy. Rốt cuộc, tôi khá tò mò về cảm giác của bố tôi lúc đó thời gian.
