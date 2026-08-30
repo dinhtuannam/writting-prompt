@@ -4,5 +4,3 @@
 
 | Thread | Mở ở chương | Trạng thái | Dự kiến trả (chương) | Ghi chú |
 |---|---|---|---|---|
-| Ai sẽ đến tìm Elk trước | 7 | Đang mở | (dài hạn, tiếp tục Arc 02) | Elk đã rời Làng Cỏ Gai (ch.12) — câu hỏi giờ chuyển thành "ai sẽ tìm ra Elk trước" trên hành trình mới |
-| Elk tự học kiểm soát Tích/Phát | 10 | Đang mở | (dài hạn, xuyên nhiều arc) | Bắt đầu mò mẫm tự cảm nhận "hơi ấm" bên trong sau khi hứa với chính mình bên mộ Halden — chưa có ai dạy, chưa có kết quả rõ ràng |

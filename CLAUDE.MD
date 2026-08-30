@@ -7,8 +7,8 @@
 ## Các dự án hiện có
 | Thư mục | Trạng thái | Ghi chú |
 |---|---|---|
-| `story-1/` | Arc 01 hoàn thành (2026-07-20) | Epic Fantasy — Đại lục Ardenia, Chu Kỳ & Selector (Thất Đại Tội/Bảy Đức Hạnh, nhân vật chính Elk mang Phẫn Nộ, Dấu Ấn Sói); tone "Phiêu Lưu Sử Thi"; Arc 01 "Đêm Cỏ Gai Cháy" xong 12/12 chương (Halden hi sinh, Dấu Ấn lộ diện, Elk rời quê); chờ chạy `/plan-arc story-1` cho Arc 02 |
-| `story-2/` | Đang phát triển | Dark Fantasy, hệ thống Thú Ấn — Arc 02 đang viết (`/next-chapter story-2`) |
+| `story-1/` | Đã reset (2026-08-31) — chỉ còn `raw-idea.md` | Chờ chạy `/expand-lore story-1` để bắt đầu lại pipeline |
+| `story-2/` | Đã reset (2026-08-31) — chỉ còn `raw-idea.md` | Chờ chạy `/expand-lore story-2` để bắt đầu lại pipeline |
 
 ## Dự án đang active
 Xem `ACTIVE-STORY.md`. Mọi skill mặc định thao tác trên dự án active, trừ khi người dùng chỉ định rõ thư mục khác (vd `/next-chapter story-2`).

@@ -4,15 +4,3 @@
 
 | Thread | Mở ở chương | Trạng thái | Dự kiến trả (chương) | Ghi chú |
 |---|---|---|---|---|
-| Isolde giấu cha việc mình tự ý trốn ra ngoài thành | 3 | Mở | (chưa xác định — có thể lộ ra khi Arik phát hiện hoặc khi tin cậy giữa Ronan-Isolde sâu hơn) | Cô kể lại sự việc nhưng bỏ qua chi tiết mình phá luật giới nghiêm |
-| Ý nghĩa ẩn trong câu nói của Arik "giờ thì ta đã hiểu vì sao ông ấy xin rời xa mọi người" | 4 | Mở (dài hơi — liên quan `plot/secrets/bi-mat-chien-tranh-bien-thuy.md`) | Trả trọn ở arc sau của skeleton (Ronan tìm thấy cuốn sổ) | Ronan ghi nhớ câu nói nhưng chưa đủ tỉnh táo để suy luận ý nghĩa |
-| Phu buôn lạ / Vảy Đen chú ý tới Ronan | 9 | Mở (dài hơi — xuyên suốt series) | (chưa xác định — sẽ tiến triển ở arc sau) | Ánh mắt khác thường ở chợ, gật đầu như một sự công nhận |
-| Cảnh báo dang dở của Rodrick về căn nhà | 10 | Mở (dài hơi — liên quan `plot/secrets/bi-mat-chien-tranh-bien-thuy.md`; tiến ch21 — mảnh giấy Maela khâu trong áo xác nhận bà cũng biết và lo lắng về lời dặn này) | Arc 4 của skeleton (Ronan tìm thấy cuốn sổ) | "Đừng bao giờ cho ai sửa sàn căn nhà" — chưa rõ ý nghĩa |
-| Garreth và những ngọn nến | 22 | Mở (dài hơi — liên quan `plot/secrets/bi-mat-chien-tranh-bien-thuy.md`, misdirection có chủ đích: độc giả sẽ nghĩ đây là tội lỗi vụ án mạng cha mẹ Ronan, thực chất là giỗ 47 tù binh) | Chưa xác định — hé lộ thật sự ở arc sau | Isolde bắt gặp ông quỳ giữa hàng chục ngọn nến trong nhà nguyện lúc nửa đêm |
-| Ai đang phối hợp áp lực 3 phía lên gia tộc Varmont? | 11 | Mở (dài hơi) | (chưa xác định — có thể liên quan Corvin/Dreven phối hợp ngầm) | Arik tự nhận ra 3 áp lực không phải trùng hợp nhưng chưa rõ ai đứng sau |
-| Quan hệ Ronan-Isolde chớm thành thật | 7 | Mở (tiến triển liên tục ch8, ch11) | Tiếp tục ở arc 2 | Hai người kể chuyện đời mình cho nhau; Isolde tặng sách dạy đọc chữ bất chấp lệnh cấm của cha |
-| Isolde bất chấp lệnh cấm của cha để gặp Ronan | 8 | Mở | (chưa xác định) | Arik đã biết và cấm tuyệt đối, nhưng Isolde vẫn tiếp tục |
-| Áp lực Vercast đòi Isolde làm "khách quý" | 8 | Mở (leo thang ch18 — điều kiện ngầm: giao Ronan để hoãn vụ Isolde; Arik từ chối nhưng không cam kết ưu tiên con gái mãi mãi) | Tiếp tục ở arc sau | Isolde và Ronan giờ là hai quân cờ trên cùng bàn cân; Arik không trả lời khi bị hỏi thẳng sẽ chọn ai |
-| Dreven đóng chốt ngoài tường thành Varmont | 12 | Mở (dài hơi — mối đe dọa thường trực) | Tiếp tục ở arc 2 | "Hắn không đến để đi" — dựng lều dài hạn sau khi xác nhận Ronan là Leviathan thật |
-| Cái chết của Rodrick không đơn giản / mẫu hình lặp lại ở cơn dịch | 14 | Mở (dài hơi — liên quan `plot/secrets/ai-giet-bo-me-ronan.md`; ch19 Ronan tự nhận thấy mẫu hình đáng ngờ lặp lại giữa 2 sự kiện) | 23 | Chi tiết địa hình sai; Garreth né tránh; giờ cơn dịch nhắm đúng khu Maela phụ trách |
-| Thùng vật tư dấu triện lạ tại trại thương binh | 17 | Mở (dài hơi — gần như chắc chắn là nguồn cơn dịch, dù chưa xác nhận trên trang) | 23 | Dấu triện hình xoắn ốc, không phải Varmont hay Giáo Hội; bùng phát đúng khu vực chứa thùng đó |
