@@ -148,7 +148,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Tuyệt vọng → quyết tâm ảm đạm, có chủ đích.
 - **Xuất hiện:** nhân vật: Corin | phe: — | địa danh: bờ sông ngoài Marrenhold | hệ thống: Bảy Thánh Kiếm (Dawn)
 - **Điểm kết chương (bắt buộc giữ):** Corin quấn kiếm lại và quay về hướng người đàn ông chỉ — bước đi đầu tiên cậu chọn. **(MC bước tiến skeleton: chấp nhận không thể quay lại.)**
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-012.md; giữ đúng điểm kết + skeleton step. Bỏ chi tiết "đơn vị Ma tộc đuổi theo thứ gì đó trên đồng tro" (Corin không biết về nó — đó là intel offscreen của Nghị Hội Vực Thẳm); thay bằng lý do Corin THẬT SỰ biết: 4000 người + Merek đã thấy mặt cậu → vứt kiếm cũng vẫn bị săn. Thêm: Corin lần đầu TÁCH được ý chí của mình khỏi giọng Dawn (khung tự-vệ, quan trọng cho trục sa ngã). Từ chối lời mời Corvane trong lòng.)
 
 ### Chương 13: Tin Từ Biên Giới
 - **Mục tiêu chương:** Trên đường (một mình, hoặc thoáng đi cùng nhóm đào ngũ cùng hướng). Chương rò rỉ world-turn: hai pháo đài biên nữa thất thủ; Zerach quy công Ma Thần; triều đình Vaelmark ra lệnh tuyến lùi và chính thức "bỏ" vùng biên ngoài (refugee phẫn nộ); một đoàn ngoại giao hộ tống nặng mang cờ hiệu vương thất đi khỏi tiền tuyến (sứ đoàn ngầm của Isolde — Corin thấy đi ngang, không hiểu).
