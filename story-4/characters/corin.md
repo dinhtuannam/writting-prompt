@@ -2,7 +2,7 @@
 loại: nhân-vật
 trạng-thái: còn-sống
 xuất-hiện-đầu: chương 1
-cập-nhật-cuối: chương 12
+cập-nhật-cuối: chương 13
 ---
 
 # Corin

@@ -158,7 +158,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Vòng quanh thế giới ảm đạm → bẫy khép lại.
 - **Xuất hiện:** nhân vật: Corin, nhóm đào ngũ (phụ) | phe: Huyết Môn, Vaelmark | địa danh: đường quê hướng Marrenhold | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Nhóm đào ngũ bị một toán press-gang Vaelmark bắt giữ, thi hành "nghĩa vụ kép" — soi tay tìm dấu đào ngũ, đối chiếu mặt với một danh sách. Mặt Corin có thể đã nằm trong đó.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-013.md; giữ đúng điểm kết. Đặt tên nhóm đào ngũ: Holt (đầu nhóm, quê hạt Oakmere) + cháu Pip — nhân vật quần chúng, dùng lại Ch.14. Corin không vào được cửa nước ban ngày → lý do cậu ở vùng quê phía nam gặp nhóm đào ngũ + toán tuần. Thêm nhấn: Corin thấm "vương quốc ký giấy bỏ Ashcombe" ≠ "địch chiếm" — đào sâu tuyến "số phận mẹ/em Corin".)
 
 ### Chương 14: Nghĩa Vụ Kép
 - **Mục tiêu chương:** Corin suýt bị bắt lính lại / giam. Viên trung sĩ press-gang không phải kẻ ác — chỉ là người làm một việc tàn nhẫn trong một cuộc chiến đang thua (dội lại hình ảnh Bregan). Corin thoát — bằng mưu, một khoản hối lộ (đá lửa của Maren) + may mắn, và một khoảnh khắc suýt dùng kiếm nhưng chọn không (học kiềm chế). Một trong nhóm đào ngũ không thoát được.
