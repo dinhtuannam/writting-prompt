@@ -14,3 +14,4 @@
 ## Nhật ký reveal thực tế
 | Chương | Phần đã hé lộ |
 |---|---|
+| 3 | Foreshadow đã gieo: Trì cảm thấy người cứu mình "không hoàn toàn là một sinh vật" — dù không lý giải được. (Khớp mục foreshadow Arc 1 của secret này.) |

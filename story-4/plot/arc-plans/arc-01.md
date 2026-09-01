@@ -58,7 +58,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Hoang mang, kính sợ kỳ dị → sợ hãi mới.
 - **Xuất hiện:** nhân vật: Trì, người đàn ông không tuổi | phe: — | địa danh: Chốt Biên Hạ Than (đang cháy) | hệ thống: Bảy Thánh Kiếm
 - **Điểm kết chương (bắt buộc giữ):** Trì một mình trong pháo đài cháy, tay không buông được kiếm; tiếng quân Ma tộc nhặt xác tiến qua đống đổ nát.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-003.md; giữ đúng điểm kết, kết thúc bằng việc Trì quay đi về đông nam — nối thẳng Ch.4. Lệch dàn cảnh nhỏ: người đàn ông nói thêm vài câu ngoài "một câu hỏi" — thêm "nó chọn ngươi vì ngươi vừa nói..." và cảnh báo mơ hồ "người của chính ngươi" sẽ đến tìm kiếm — gieo Engine 4 sớm, KHÔNG nêu tên Giáo Hội. Tạo file nhân vật `nguoi-khong-tuoi.md`.)
 
 ### Chương 4: Tro
 - **Mục tiêu chương:** Trì thoát khỏi pháo đài, gặp nhóm sống sót trên đồng tro — trong đó có Sương (trốn trong hầm quân nhu). ~12 người rút về tuyến Tàn Dương. Trì quấn giấu kiếm, chối là mình có. Lần đầu cảm nhận Dawn: hơi ấm, cảm giác không lời "cứ đi tiếp, sẽ ổn" — cậu thấy được an ủi.

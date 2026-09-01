@@ -11,3 +11,4 @@
 ## Nhật ký reveal thực tế
 | Chương | Phần đã hé lộ |
 |---|---|
+| 3 | Qua "người đàn ông không tuổi": không để lại dấu vết vật lý thông thường (không dấu chân, không hơi thở trong khí lạnh, không mùi) — gieo khái niệm một thực thể "không hoàn toàn là một sinh vật", sức nặng "đặt ở một nơi khác". CHƯA hé: đây là mảnh vụn Long Thần / Ngũ Long. |

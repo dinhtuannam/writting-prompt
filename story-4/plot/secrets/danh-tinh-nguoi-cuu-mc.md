@@ -13,3 +13,4 @@
 ## Nhật ký reveal thực tế
 | Chương | Phần đã hé lộ |
 |---|---|
+| 3 | Người đàn ông xuất hiện, hạ kỵ sĩ Ma tộc bằng cách Trì không thể tri giác ("không thấy phần ở giữa"), Ma tộc trong sân thờ ơ với góc này. Đặc điểm kỳ dị: không đọc được tuổi; không để lại dấu chân trên tro mềm; không thở ra hơi trong khí lạnh; không mùi (mồ hôi/khói/bụi đường); biến mất tức thì. Nói "ta không cứu ngươi — ngươi đã tự không chết", "ta không qua sông". Nói bóng gió "nó chọn ngươi vì ngươi vừa nói cái điều ngươi vừa nói" (Trì không hiểu). Cảnh báo "người của chính ngươi" sẽ đến tìm thanh kiếm. Trì kết luận ông "không hoàn toàn là một sinh vật". CHƯA hé: ông là rồng / là một trong Ngũ Long / động cơ. |
