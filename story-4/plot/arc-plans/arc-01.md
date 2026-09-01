@@ -138,7 +138,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Dẫn dắt bất an → ngã ba đường.
 - **Xuất hiện:** nhân vật: Corin, người đàn ông không tuổi | phe: — | địa danh: bìa rừng ngoài Marrenhold | hệ thống: Bảy Thánh Kiếm (nhắc)
 - **Điểm kết chương (bắt buộc giữ):** Người đàn ông rời đi (lần nữa không dấu vết); Corin một mình với một hướng đi và một lựa chọn — theo nó, hay ném kiếm xuống sông và biến mất.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-011.md; giữ đúng điểm kết. CHỐT setup Arc 2: người dạy = **bà Edda** (cựu quản thủ kho sách Giáo Hội), địa chỉ = góc phố Thợ Bạc cũ trong khu thuộc da cũ, cửa xanh tróc sơn; đường vào thành = cửa nước tường tây; mật khẩu = "con suối cạn đã chỉ đường". Người đàn ông cũng xác nhận: có tiền nhiệm người-mang-kiếm ("phần lớn đã chết") — hé `noi-ay-cua-that-thanh-kiem` sớm hơn lịch Saga 4, nhưng dạng lời guide mập mờ, KHÔNG hé Ngũ Long/cơ chế. Đặt nền chủ đề "lịch sử bị cắt cho gọn" cho Saga 2.)
 
 ### Chương 12: Con Sông
 - **Mục tiêu chương:** Corin thật sự thử vứt bỏ nó. Ra sông, định ném. Không được — không hẳn vì phép ép buộc, mà vì làm thế giống như nằm xuống chờ chết, và có thứ gì đó trong cậu (và trong Dawn, rất dịu) không cho. Cậu cũng nhận ra: không có kiếm, Giáo Hội vẫn biết mặt cậu; đơn vị Ma tộc "đuổi theo thứ gì đó trên đồng tro" có thể đang tìm; biến mất không phải lựa chọn có thật.

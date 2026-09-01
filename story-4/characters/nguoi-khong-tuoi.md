@@ -2,7 +2,7 @@
 loại: nhân-vật
 trạng-thái: còn-tồn-tại
 xuất-hiện-đầu: chương 3
-cập-nhật-cuối: chương 10
+cập-nhật-cuối: chương 11
 ---
 
 # Người Đàn Ông Không Tuổi ("Người Không Có Bóng")
@@ -25,3 +25,4 @@ cập-nhật-cuối: chương 10
 |---|---|
 | 3 | Hạ gục kỵ sĩ Ma tộc bằng cách Corin không thấy được; hỏi Corin có muốn thanh kiếm không; dặn đường + cảnh báo "người của chính ngươi"; biến mất không để lại dấu vết vật lý. |
 | 10 | Tái xuất thoáng ở bìa rừng phía tây rìa Marrenhold, đứng nhìn Corin (không phải nhìn về phía cậu — nhìn thẳng cậu, đã đứng đó một lúc). Chớp mắt → biến mất, không dấu vết, không tiếng lá. Dẫn Corin đi theo (Ch.11). |
+| 11 | Bên con lạch trong rừng: cho Corin "vài điều thật dạng cảnh báo" (thanh kiếm = 1/7 mảnh có ý muốn riêng; các mảnh kéo về phía nhau; Giáo Hội là kẻ gần nhất, "thứ khác ở xa hơn đang quay đầu lại"; phải học về nó). Chỉ Corin tới **bà Edda** (địa chỉ + mật khẩu "con suối cạn đã chỉ đường") và đường vào thành qua cửa nước tường tây. Thừa nhận đã chỉ đường cho các người-mang-kiếm trước ("phần lớn đã chết"). Vì sao cứu Corin: "ngươi vẫn còn hỏi 'để làm gì'". Từ chối mọi câu hỏi về bản thân. Đi vào rừng — không dấu chân trên bùn — biến mất. |
