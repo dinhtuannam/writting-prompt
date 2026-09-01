@@ -98,7 +98,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Dịu dàng, hy vọng mong manh → dồn nén.
 - **Xuất hiện:** nhân vật: Corin, Maren | phe: — | địa danh: trại đêm trên đường | hệ thống: Bảy Thánh Kiếm (Dawn)
 - **Điểm kết chương (bắt buộc giữ):** Sáng ra, trinh sát báo quân cướp Ma tộc đã vòng lên trước, chặn đường về Marrenhold.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-007.md; giữ đúng điểm kết. Thêm: Maren mở lòng đầy đủ về đời mình (làng Harrow, chồng/con); Corin CHỦ ĐỘNG thử nghiệm giọng Dawn và xác nhận quy luật "chỉ thức khi cậu tuyệt vọng" — nâng foreshadow `ba-cai-ket`. Nới nhẹ điểm kết bằng đoạn hội thoại "không còn đường lui" để dẫn thẳng Ch.8.)
 
 ### Chương 8: Không Còn Cách Nào Khác (lần hai)
 - **Mục tiêu chương:** Quân cướp tập kích đoàn. Corin đứng trước lựa chọn: dùng kiếm công khai (cứu người, lộ mình) hay giấu (người chết). Cậu cố đánh bằng kiếm thường, kìm lại — hỏng. Tới giới hạn, để cứu Maren và một cụm dân, cậu rút Dawn. Lần dùng thật đầu tiên: áp đảo, đáng sợ, làm nhiều hơn cậu muốn; xong xuôi cậu run rẩy.

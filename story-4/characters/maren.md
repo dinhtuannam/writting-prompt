@@ -2,7 +2,7 @@
 loại: nhân-vật
 trạng-thái: còn-sống
 xuất-hiện-đầu: chương 1
-cập-nhật-cuối: chương 6
+cập-nhật-cuối: chương 7
 ---
 
 # Maren
@@ -10,7 +10,7 @@ cập-nhật-cuối: chương 6
 - **Vai trò trong truyện:** Phụ quan trọng ở Arc 1. Nữ cứu thương / đầu bếp / "làm mọi việc quân đội không có tên gọi chính thức" tại Cindergate. Mối dây người cuối cùng của Corin trước khi cậu lên đường; chia tay ở Ch.10 (để ngỏ tái ngộ).
 - **Ngoại hình:** Tầm 30 tuổi, tay nhanh, "mặt không có nhiều biểu cảm thừa" — kiểu mặt của người đã băng đủ nhiều vết thương để không giật mình vì cái nào nữa.
 - **Tính cách:** Điềm tĩnh, thực tế, hài hước khô. Tử tế theo kiểu âm thầm (dành phần cháy nồi cho lính gác tường đông). Không hỏi những câu khiến người khác phải nói dối.
-- **Động cơ / mục tiêu:** Sống sót; giữ cho càng nhiều người quanh mình sống được thêm một ngày. Có một làng, một nghề, và những người đã mất mà chị chưa kể hết (Ch.7).
+- **Động cơ / mục tiêu:** Sống sót; giữ cho càng nhiều người quanh mình sống được thêm một ngày. Quê ở **làng Harrow** (phía tây Marrenhold, gần rừng, làng làm nghề thuộc da). Chồng làm thợ thuộc da, chết vì sốt trong mùa đông năm đói (4 năm trước Ch.1); con gái chết 9 ngày sau đó. Theo quân từ đó vì "việc để làm tốt hơn ngồi trong nhà trống nghe gió". Vẫn nhắc tên con gái mỗi tối.
 - **Arc phát triển dự kiến:** Đồng hành cùng Corin trên đường rút về Marrenhold (Ch.4–10); che cho cậu ở cửa xét hỏi của Hộ Vệ (Ch.6) dù không biết cậu giấu gì; chia tay ở rìa kinh đô, đưa cậu áo choàng và đá lửa. Số phận về sau để ngỏ.
 - **Mối quan hệ với nhân vật khác:** Corin (dần thân, rồi hoang mang về cậu sau khi cậu dùng kiếm công khai ở Ch.8).
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Chưa có.
@@ -26,3 +26,4 @@ cập-nhật-cuối: chương 6
 | 4 | Tái ngộ Corin trong nhóm sống sót ở lòng suối; kể đã chui lên qua lỗ thông gió khi Ma tộc dạt sang tường bắc. Ủng hộ bám gờ đá thay vì đường cái. Chia nước cho Corin trên con dốc, không hỏi về cái bó cậu giấu. Trên đỉnh dốc: "đây không phải rút lui — rút lui thì người ta còn giữ lại cái gì đó để rút về." |
 | 5 | Nhận ra Merek để mắt tới Corin và cái bó → bắt đầu để ý Corin "mang theo rắc rối". Rạng sáng, khi Hộ Vệ xét hỏi đoàn người, lặng lẽ giấu bó kiếm của Corin xuống khoảng tối và phủ áo tơi bà lão lên — không nói một lời. |
 | 6 | Nói dối Hộ Vệ: cái bó là đồ của "chồng tôi chết ở tường đông" — che cho Corin qua cuộc xét hỏi. Sau đó nói với Corin: "tôi vẫn sẽ không hỏi trong đó là gì, nhưng cậu nợ tôi một lời nói dối — lần sau đến lượt cậu." |
+| 7 | Đêm trại: băng chân cho Corin; kể đời mình (Harrow, chồng/con đã mất, lý do theo quân). Cho Corin biết cậu gọi tên "Ashcombe" trong lúc ngủ mê. Không ép cậu kể bí mật, chỉ nói: "gánh một mình không làm cậu tử tế hơn — chỉ làm cậu cô đơn hơn." |
