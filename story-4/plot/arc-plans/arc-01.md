@@ -88,7 +88,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Adrenaline thoát hiểm → hiểu ra lạnh người (bị cô lập).
 - **Xuất hiện:** nhân vật: Corin, Maren, Hộ Vệ (phụ) | phe: Giáo Hội Bảy Ngọn Lửa | địa danh: đường tị nạn | hệ thống: Bảy Thánh Kiếm
 - **Điểm kết chương (bắt buộc giữ):** Corin hiểu thứ trong túi mình biến cậu thành mục tiêu của chính phe mình.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-006.md; giữ đúng điểm kết. Thêm: (a) chính thanh kiếm "lặng đi" khi Hộ Vệ lần tay qua chuôi — nâng nhẹ agency của Dawn, giữ mơ hồ "hay chỉ là cậu tưởng tượng"; (b) Hộ Vệ nghi thanh kiếm "bị làm rơi có chủ đích" — hint sớm về `noi-ay-cua-that-thanh-kiem`, đóng gói như chính trị nội bộ Giáo Hội (misdirect), Corin không hiểu hết. Maren nói dối → mở thread "Corin nợ Maren một lời nói dối".)
 
 ### Chương 7: Điều Maren Không Hỏi
 - **Mục tiêu chương:** Chương tĩnh. Đêm trại. Maren không hỏi cậu giấu gì; kể về đời mình (một làng, một nghề, những người đã mất). Khoảnh khắc ấm hiếm hoi — đời thường mà Corin muốn. Cậu suýt kể, không kể. Dawn lại ấm lên đúng lúc cậu tuyệt vọng nhất — giờ điều đó khiến cậu hơi bất an, nhưng phần lớn vẫn biết ơn.

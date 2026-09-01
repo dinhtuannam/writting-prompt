@@ -2,7 +2,7 @@
 loại: nhân-vật
 trạng-thái: còn-sống
 xuất-hiện-đầu: chương 1
-cập-nhật-cuối: chương 5
+cập-nhật-cuối: chương 6
 ---
 
 # Corin
@@ -26,3 +26,4 @@ cập-nhật-cuối: chương 5
 | 3 | Được "người đàn ông không tuổi" cứu; đáp "chỉ muốn sống, muốn về nhà"; nhận lời dặn đường + cảnh báo. Thử buông kiếm, không làm được. Rời Cindergate về đông nam. |
 | 4 | Băng qua Vùng Tĩnh Lặng; quấn giấu kiếm trong vỏ của Aldous + áo choàng; nói dối "chăn với đồ khô". Tái ngộ Maren trong nhóm sống sót. "Giọng an ủi" của Dawn thành hiện diện thường trực — cậu vừa dựa vào vừa bất an. Trên đỉnh dốc chứng kiến cả vùng biên cháy thành một dải. |
 | 5 | Nhập đoàn tị nạn lớn về Marrenhold. Bị Merek (tùy viên Corvane) để mắt và đánh dấu. Nghe bà lão xâu nến kể chuyện con trai Aldwin. Rạng sáng: toán Hộ Vệ xét hỏi đoàn người về "thanh kiếm lấy từ chiến trường"; Maren giấu bó kiếm giúp cậu. |
+| 6 | Qua được cuộc xét hỏi của Hộ Vệ (Maren nói dối "chồng chị chết ở tường đông"; kiếm "lặng đi" khi Hộ Vệ lần tay qua chuôi). Nghe lỏm lệnh Giáo Hội: thu kiếm "kín" + thủ tiêu người cầm. Đi qua từng lựa chọn thoát thân, không cái nào an toàn. Hiểu: phe của chính cậu sẽ giết cậu. Nợ Maren một lời nói dối. |

@@ -2,7 +2,7 @@
 loại: nhân-vật
 trạng-thái: còn-sống
 xuất-hiện-đầu: chương 1
-cập-nhật-cuối: chương 5
+cập-nhật-cuối: chương 6
 ---
 
 # Maren
@@ -25,3 +25,4 @@ cập-nhật-cuối: chương 5
 | 2 | Lùa một nhóm người bị thương xuống hầm kho rồi cúi theo; Corin thấy thoáng qua và ghi vị trí cửa hầm. |
 | 4 | Tái ngộ Corin trong nhóm sống sót ở lòng suối; kể đã chui lên qua lỗ thông gió khi Ma tộc dạt sang tường bắc. Ủng hộ bám gờ đá thay vì đường cái. Chia nước cho Corin trên con dốc, không hỏi về cái bó cậu giấu. Trên đỉnh dốc: "đây không phải rút lui — rút lui thì người ta còn giữ lại cái gì đó để rút về." |
 | 5 | Nhận ra Merek để mắt tới Corin và cái bó → bắt đầu để ý Corin "mang theo rắc rối". Rạng sáng, khi Hộ Vệ xét hỏi đoàn người, lặng lẽ giấu bó kiếm của Corin xuống khoảng tối và phủ áo tơi bà lão lên — không nói một lời. |
+| 6 | Nói dối Hộ Vệ: cái bó là đồ của "chồng tôi chết ở tường đông" — che cho Corin qua cuộc xét hỏi. Sau đó nói với Corin: "tôi vẫn sẽ không hỏi trong đó là gì, nhưng cậu nợ tôi một lời nói dối — lần sau đến lượt cậu." |

@@ -4,9 +4,11 @@
 
 | Thread | Mở ở chương | Trạng thái | Dự kiến trả (chương) | Ghi chú |
 |---|---|---|---|---|
-| Thanh kiếm Dawn là gì / vì sao Corin cầm được mà không chết | 1 | Đang mở — tiến triển | (hé dần cả Arc 1; sâu hơn Arc 8) | Ch.2: sống qua phản chiêu = được chọn. Ch.3: người đàn ông nói "nó chọn ngươi vì ngươi vừa nói cái điều ngươi vừa nói". Ch.4: "giọng an ủi" của kiếm thành hiện diện thường trực, luôn hướng "cứ đi tiếp". |
+| Thanh kiếm Dawn là gì / vì sao Corin cầm được mà không chết | 1 | Đang mở — tiến triển | (hé dần cả Arc 1; sâu hơn Arc 8) | Ch.2: sống qua phản chiêu = được chọn. Ch.3: "nó chọn ngươi vì ngươi vừa nói...". Ch.4: "giọng an ủi" thành hiện diện thường trực. Ch.6: kiếm "lặng đi" khi Hộ Vệ lần tay qua chuôi — Corin không chắc là thật. |
 | Số phận mẹ và em gái Corin ở Ashcombe | 1 | Đang mở | (chưa định) | Ch.3: Corin thừa nhận "nó không còn ở đó nữa". |
-| "Người đàn ông không tuổi / không có bóng" là ai, vì sao cứu Corin | 3 | Đang mở | (hé dần Arc 1; trả trọn Arc 8; động cơ đầy đủ Arc 9–10) | Không dấu chân/hơi thở/mùi; "không qua sông"; biến mất tức thì. Corin cảm thấy "không hoàn toàn là một sinh vật". |
-| Cảnh báo "người của chính ngươi" sẽ đến tìm thanh kiếm | 3 | Đang mở | 5–6 (chốt xét hỏi của Hộ Vệ) | Gieo Engine 4 (Giáo Hội vs người cầm kiếm mới). Ch.4: đoàn tị nạn sắp gặp Hộ Vệ. |
-| Corin che giấu thanh kiếm giữa đám đông — bao lâu thì lộ | 4 | Đang mở — căng | 8 (dùng kiếm công khai) | Ch.4: nói dối "chăn với đồ khô" trót lọt. Ch.5: Merek để mắt tới cái bó; toán Hộ Vệ đang xét hỏi từng cụm về "một thanh kiếm lấy từ chiến trường". |
-| Merek / Corvane muốn gì ở Corin | 5 | Đang mở | (chưa định — tuyến Corvane thu nạp, đỉnh ~Ch.9) | Merek đánh dấu Corin là "người đáng ghi lại"; Corvane đang chờ thừa kế đất Vaelmark. |
+| "Người đàn ông không tuổi / không có bóng" là ai, vì sao cứu Corin | 3 | Đang mở | (hé dần Arc 1; trả trọn Arc 8; động cơ đầy đủ Arc 9–10) | Không dấu chân/hơi thở/mùi; "không qua sông"; biến mất tức thì. |
+| Giáo Hội truy tìm thanh kiếm & sẽ thủ tiêu người cầm | 3 (cảnh báo) / 6 (xác nhận) | Đang mở — Engine 4 active | (căng thẳng chạy suốt Arc 1–2; tuyến này lớn dần) | Ch.6: nghe lỏm — lệnh Marrenhold thu kiếm "kín", "mang luôn người cầm về, không để nó ở lại kể chuyện". Corin không thể giao nộp cho bất kỳ ai. |
+| Ai/vì sao "làm rơi" thanh kiếm ở Cindergate có chủ đích | 6 | Đang mở | (hé Saga 4; nối `noi-ay-cua-that-thanh-kiem`) | Ch.6: Hộ Vệ nghi "có đứa ở trên muốn nó ra ngoài" — Corin không hiểu hết. (Sự thật: mạng lưới người-mang-kiếm của Ngũ Long, không phải chính trị nội bộ Giáo Hội.) |
+| Corin che giấu thanh kiếm giữa đám đông — bao lâu thì lộ | 4 | Đang mở — căng | 8 (dùng kiếm công khai) | Ch.6: qua được cuộc xét hỏi nhờ lời nói dối của Maren + kiếm "lặng đi". |
+| Merek / Corvane muốn gì ở Corin | 5 | Đang mở | (đỉnh ~Ch.9) | Merek đánh dấu Corin; Corvane chờ thừa kế đất Vaelmark. |
+| Corin nợ Maren "một lời nói dối" | 6 | Đang mở | (chưa định) | Maren nói dối có chồng chết ở tường đông để che cho Corin; "lần sau đến lượt cậu". |
