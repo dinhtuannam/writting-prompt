@@ -5,7 +5,7 @@ xuất-hiện-đầu: (chưa có chương)
 cập-nhật-cuối: (chưa có chương)
 ---
 
-# đồn Cindergate
+# Cindergate
 
 - **Đặc trưng kinh tế / văn hóa:** Pháo đài biên giới của Vương quốc Vaelmark, xây trên nền tro núi lửa cũ từ chiến tranh khởi nguyên — đất ở đây không mọc được cây lâu năm. Đồn trú chủ yếu là lính nghĩa vụ mới bắt, chỉ huy luân phiên vì tỷ lệ tử trận cao.
 - **Chất liệu cảm quan (tối thiểu 2 chi tiết):** Mùi tro lẫn sắt gỉ và máu khô bám vào mọi bức tường; tiếng chuông báo động rung liên hồi mỗi khi Ma tộc vượt sông; ánh đuốc đỏ quạch hắt lên tường đá đen suốt đêm canh gác.

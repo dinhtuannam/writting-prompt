@@ -4,11 +4,11 @@
 
 | Slug | Tên phe | Tóm tắt 1 dòng | Trạng thái |
 |---|---|---|---|
-| `vuong-quoc-tan-duong` | Vương quốc Vaelmark | Vương quốc nhân tộc tiền tuyến, nữ vương Isolde đàm phán ngầm với Ma tộc để sống sót | Đang hoạt động |
-| `de-quoc-cau-van` | Đế quốc Corvane | Đế quốc nhân tộc hậu phương, dùng Vaelmark làm lá chắn tiêu hao | Đang hoạt động |
-| `giao-hoi-that-dieu` | Giáo Hội Bảy Ngọn Lửa | Giáo hội thờ Bảy Anh Hùng, săn lùng Thánh Kiếm mới xuất hiện để "an trí" | Đang hoạt động |
-| `tong-huyet-gioi` | Huyết Môn | Phe Ma tộc cực đoan trung thành với Ma Thần, do Zerach Vorn dẫn dắt | Đang hoạt động |
-| `nghi-hoi-vuc-sau` | Nghị Hội Vực Thẳm | Phe quý tộc Ma tộc mưu lược, đang cân nhắc phế truất Ma Thần | Đang hoạt động |
+| `vuong-quoc-vaelmark` | Vương quốc Vaelmark | Vương quốc nhân tộc tiền tuyến, nữ vương Isolde đàm phán ngầm với Ma tộc để sống sót | Đang hoạt động |
+| `de-quoc-corvane` | Đế quốc Corvane | Đế quốc nhân tộc hậu phương, dùng Vaelmark làm lá chắn tiêu hao | Đang hoạt động |
+| `giao-hoi-bay-ngon-lua` | Giáo Hội Bảy Ngọn Lửa | Giáo hội thờ Bảy Anh Hùng, săn lùng Thánh Kiếm mới xuất hiện để "an trí" | Đang hoạt động |
+| `huyet-mon` | Huyết Môn | Phe Ma tộc cực đoan trung thành với Ma Thần, do Zerach Vorn dẫn dắt | Đang hoạt động |
+| `nghi-hoi-vuc-tham` | Nghị Hội Vực Thẳm | Phe quý tộc Ma tộc mưu lược, đang cân nhắc phế truất Ma Thần | Đang hoạt động |
 
 ## Bảng quan hệ phe-phe
 > 1 dòng cho mỗi cặp phe có tương tác đáng kể. Chi tiết nằm trong file từng phe.

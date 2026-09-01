@@ -3,7 +3,7 @@
 > Sinh bởi `/plan-arc`. Beat là KIM CHỈ NAM, không phải xiềng xích: `/next-chapter` được lệch dàn cảnh nhưng PHẢI giữ "Điểm kết chương"; muốn lệch cả điểm kết → hỏi người dùng trước.
 
 - **Khớp mục skeleton:** Arc 1 — "Người Sống Sót" (ch. 1–20 ước; arc này plan 15 chương, phần dôi dồn sang đầu Arc 2 nếu cần).
-- **Trạng thái mở đầu arc:** Corin — lính nghĩa vụ vô danh của Vương quốc Vaelmark, đóng tại đồn Cindergate. Chỉ muốn sống sót và về nhà. Chưa cầm Thánh Kiếm. Chưa biết gì về tầng bí ẩn.
+- **Trạng thái mở đầu arc:** Corin — lính nghĩa vụ vô danh của Vương quốc Vaelmark, đóng tại Cindergate. Chỉ muốn sống sót và về nhà. Chưa cầm Thánh Kiếm. Chưa biết gì về tầng bí ẩn.
 - **Trạng thái khi arc đóng:** Không còn nhà để về (vùng biên ngoài đã mất chính thức). Cầm Thánh Kiếm Dawn, giấu kín. Bị săn bởi cả Giáo Hội Bảy Ngọn Lửa (mất di-vật, phải truy hồi + bịt miệng) lẫn press-gang Vaelmark (nghi đào ngũ). Mọi người cậu từng biết đã chết hoặc chia tay (Bregan†, Aldous†, Maren chia tay). Bước lên đường có chủ đích lần đầu, theo hướng "người đàn ông không tuổi" chỉ. Bắt đầu cảm nhận "giọng an ủi" của Dawn — chưa nhận ra nguy hiểm.
 
 ## Nhìn lại arc trước
@@ -30,13 +30,13 @@ Không áp dụng — đây là arc 1.
 
 ## Beat từng chương
 
-### Chương 1: đồn Cindergate
+### Chương 1: Cindergate
 - **Mục tiêu chương:** Giới thiệu Corin (lính nghĩa vụ ~19–20 tuổi, có mẹ/em ở một làng nay đã nằm sau lằn địch — muốn: sống sót, về nhà), pháo đài, đội trưởng Bregan, nữ cứu thương Maren, toán Hộ Vệ của Aldous hộ tống một thanh kiếm dùng làm quân kỳ tinh thần (lính đồn là một trong Thất Kiếm, phần lớn nghĩ là bản sao).
 - **Xung đột / trở ngại:** Nỗi sợ trước trận; Ma tộc bắt đầu tấn công cuối chương.
 - **Bước ngoặt / thông tin mới:** Thiết lập thanh kiếm-quân-kỳ và việc Aldous "cầm được mà không chết" (Giáo Hội tưởng do đức tin).
 - **Thread tiến/đóng:** Mở — "thanh kiếm ở Chốt Biên là gì".
 - **Cảm xúc chủ đạo:** Dồn nén, kinh hãi tăng dần.
-- **Xuất hiện:** nhân vật: Corin, Bregan, Maren, Aldous | phe: Huyết Môn | địa danh: đồn Cindergate | hệ thống: kiếm thuật (lính thường)
+- **Xuất hiện:** nhân vật: Corin, Bregan, Maren, Aldous | phe: Huyết Môn | địa danh: Cindergate | hệ thống: kiếm thuật (lính thường)
 - **Điểm kết chương (bắt buộc giữ):** Tường ngoài vỡ; Bregan dồn nhóm Corin vào lũy trong.
 - **Trạng thái beat:** đã viết (chapter-001.md; giữ đúng điểm kết; đặt tên lão lính "Garrick", làng Corin "Ashcombe")
 
@@ -46,7 +46,7 @@ Không áp dụng — đây là arc 1.
 - **Bước ngoặt / thông tin mới:** Corin cầm Thánh Kiếm và sống — điều "lẽ ra phải giết cậu".
 - **Thread tiến/đóng:** Tiến — "thanh kiếm là gì" (giờ nó ở tay Corin).
 - **Cảm xúc chủ đạo:** Khiếp sợ → quyết tâm nghiệt ngã.
-- **Xuất hiện:** nhân vật: Corin, Bregan†, Aldous† | phe: Huyết Môn | địa danh: đồn Cindergate | hệ thống: Bảy Thánh Kiếm (phản chiêu)
+- **Xuất hiện:** nhân vật: Corin, Bregan†, Aldous† | phe: Huyết Môn | địa danh: Cindergate | hệ thống: Bảy Thánh Kiếm (phản chiêu)
 - **Điểm kết chương (bắt buộc giữ):** Corin đứng dậy, kiếm trong tay — "không phải vì can đảm, vì không còn cách nào khác" — và kỵ sĩ Ma tộc đầu tiên lao tới.
 - **Trạng thái beat:** đã viết (chapter-002.md; giữ đúng điểm kết. Thêm chi tiết: Maren lùa nhóm bị thương xuống hầm kho Cindergate — Corin ghi vị trí cửa hầm, chuẩn bị cho tái ngộ Ch.4; gieo lần đầu "hơi ấm không lời" của Dawn ngay khoảnh khắc được chọn — bản rất nhẹ, khớp thread cám dỗ Arc 1.)
 
@@ -56,7 +56,7 @@ Không áp dụng — đây là arc 1.
 - **Bước ngoặt / thông tin mới:** Có một thế lực phi thường vừa cứu cậu và biến mất.
 - **Thread tiến/đóng:** Mở — "người đàn ông không có bóng là ai, vì sao cứu mình".
 - **Cảm xúc chủ đạo:** Hoang mang, kính sợ kỳ dị → sợ hãi mới.
-- **Xuất hiện:** nhân vật: Corin, người đàn ông không tuổi | phe: — | địa danh: đồn Cindergate (đang cháy) | hệ thống: Bảy Thánh Kiếm
+- **Xuất hiện:** nhân vật: Corin, người đàn ông không tuổi | phe: — | địa danh: Cindergate (đang cháy) | hệ thống: Bảy Thánh Kiếm
 - **Điểm kết chương (bắt buộc giữ):** Corin một mình trong pháo đài cháy, tay không buông được kiếm; tiếng quân Ma tộc nhặt xác tiến qua đống đổ nát.
 - **Trạng thái beat:** đã viết (chapter-003.md; giữ đúng điểm kết, kết thúc bằng việc Corin quay đi về đông nam — nối thẳng Ch.4. Lệch dàn cảnh nhỏ: người đàn ông nói thêm vài câu ngoài "một câu hỏi" — thêm "nó chọn ngươi vì ngươi vừa nói..." và cảnh báo mơ hồ "người của chính ngươi" sẽ đến tìm kiếm — gieo Engine 4 sớm, KHÔNG nêu tên Giáo Hội. Tạo file nhân vật `nguoi-khong-tuoi.md`.)
 
@@ -68,7 +68,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Nhẹ nhõm kiệt sức (tìm thấy Maren) → kinh hoàng (quy mô sụp đổ).
 - **Xuất hiện:** nhân vật: Corin, Maren | phe: Huyết Môn (qua tin đồn) | địa danh: đồng tro biên giới | hệ thống: Bảy Thánh Kiếm (Dawn)
 - **Điểm kết chương (bắt buộc giữ):** Lên tới đỉnh dốc, nhìn lại thấy vùng biên phía sau đã cháy rực.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-004.md; giữ đúng điểm kết. Đặt tên: bà lão xâu nến vụn, gã trai trẻ hoài nghi, cha xứ làng, người lính lớn tuổi — tất cả nhân vật quần chúng chưa cần file. Vùng đất chết = "Vùng Tĩnh Lặng"; đèo Corvane quay đầu = "Dryfork".)
 
 ### Chương 5: Đoàn Người
 - **Mục tiêu chương:** Nhóm rút nhập vào đoàn tị nạn dân sự; texture đường tị nạn (nến cho lính chưa về, tem phiếu, bạc mất giá). Merek — tùy viên quan sát Corvane — đi cùng, lạnh lùng, ghi chép, không chia phần ăn. Đồn: đoàn cứu viện Corvane "đã quay đầu".
@@ -77,7 +77,7 @@ Không áp dụng — đây là arc 1.
 - **Thread tiến/đóng:** Mở — "Merek và Corvane muốn gì".
 - **Cảm xúc chủ đạo:** Mệt mỏi đường trường → gai người vì nguy hiểm cá nhân.
 - **Xuất hiện:** nhân vật: Corin, Maren, Merek | phe: Corvane, Vaelmark | địa danh: đường về Marrenhold | hệ thống: —
-- **Điểm kết chương (bắt buộc giữ):** Một toán Hộ Vệ cưỡi ngựa bắt kịp, hỏi từng nhóm có ai từ đồn Cindergate không, và có ai thấy "một thanh kiếm lấy từ chiến trường".
+- **Điểm kết chương (bắt buộc giữ):** Một toán Hộ Vệ cưỡi ngựa bắt kịp, hỏi từng nhóm có ai từ Cindergate không, và có ai thấy "một thanh kiếm lấy từ chiến trường".
 - **Trạng thái beat:** chưa viết
 
 ### Chương 6: Câu Hỏi Của Hộ Vệ

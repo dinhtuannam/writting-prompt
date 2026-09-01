@@ -20,7 +20,7 @@ Nhân vật chính sống sót — không phải vì mạnh nhất, mà vì Dawn
 ## Danh sách arc dự kiến (12 arc ≈ 12 Saga, ~25 chương/arc)
 | Arc | Chương (ước) | Mục tiêu tự sự | Xung đột chính | Thay đổi khi arc đóng | Bí ẩn tiến triển |
 |---|---|---|---|---|---|
-| 1. Người Sống Sót | 1–20 | Mở màn; Dawn chọn cậu; được cứu | Sống sót + giấu thân phận | Không thể quay về đời lính; buộc rời đồn Cindergate | `danh-tinh-nguoi-cuu-mc` (hé), `noi-ay-cua-that-thanh-kiem` (hé qua trải nghiệm), `ban-chat-ngu-long` (hé) |
+| 1. Người Sống Sót | 1–20 | Mở màn; Dawn chọn cậu; được cứu | Sống sót + giấu thân phận | Không thể quay về đời lính; buộc rời Cindergate | `danh-tinh-nguoi-cuu-mc` (hé), `noi-ay-cua-that-thanh-kiem` (hé qua trải nghiệm), `ban-chat-ngu-long` (hé) |
 | 2. Thành Đô Của Những Lời Dối | 21–45 | Tới Marrenhold; đụng chính trị triều đình | Trốn Giáo Hội + bị lôi vào âm mưu | Rời vùng an toàn; có đồng hành đầu tiên | `vi-sao-ma-thuat-yeu-dan` (hé), Giáo Hội đang kiểm soát (không cố ý bóp méo) lịch sử |
 | 3. Máu Chung Dòng | 46–70 | Gặp Ma tộc không phải kẻ thù | Lòng tin xuyên chủng tộc giữa chiến tranh | Có đồng minh Ma tộc đầu tiên | `hanh-vi-that-thuong-cua-ma-than` (hé qua đồn đại) |
 | 4. Kiếm Thứ Hai | 71–95 | Tìm ra người cầm Grave/Mộ Phần | Tranh giành 3 phía cho thanh kiếm | Nhóm 2 người cầm kiếm; biết có tiền nhiệm | `noi-ay-cua-that-thanh-kiem` (hé mạnh), `danh-tinh-nguoi-cuu-mc` (nghi ngờ tăng) |

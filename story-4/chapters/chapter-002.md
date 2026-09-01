@@ -6,7 +6,7 @@ Cậu vẫn nghĩ mình sẽ đi con đường ấy. Không phải đêm nay —
 
 Từ tường ngoài xuống tới cổng lũy trong chỉ có một khoảng sân rộng bằng ba lần sân đập lúa. Corin chạy hết khoảng ấy trong một hơi thở duy nhất mà cậu quên hít vào, tay vẫn nắm cây giáo dù giáo lúc này chẳng để làm gì, chỉ vì buông nó ra giống như thừa nhận một điều gì đó. Quanh cậu, người ngã. Không phải ai cũng bị đánh ngã — có người chỉ vấp vào người đã ngã, rồi không đứng dậy nữa, vì đứng dậy cần một lý do mà đêm nay đã lấy đi của họ.
 
-Cậu bị dòng người cuốn qua cổng. Bregan đứng ngay bên trong khung cổng, một tay bám mép gỗ, tay kia túm và đẩy từng người vào, miệng đếm — không đếm số, đếm tên, cái danh sách trong đầu ông ta mà đêm nay đang ngắn lại từng nhịp. "Vào, Đắc. Vào. Sổ. Cúi đầu xuống, thằng ranh." Garrick lọt qua trước Corin nửa bước, thở khò khè như bễ lò rèn thủng. Bàn tay Bregan đập vào lưng Corin đẩy cậu vào trong, và cùng lúc ấy ông ta ngoái ra sau nhìn khoảng sân còn lại — vẫn còn người đang chạy tới, chưa tới nơi — và Corin thấy mặt ông ta làm cái phép tính mà không đội trưởng nào muốn làm.
+Cậu bị dòng người cuốn qua cổng. Bregan đứng ngay bên trong khung cổng, một tay bám mép gỗ, tay kia túm và đẩy từng người vào, miệng đếm — không đếm số, đếm tên, cái danh sách trong đầu ông ta mà đêm nay đang ngắn lại từng nhịp. "Vào, Wat. Vào. Osric. Cúi đầu xuống, thằng ranh." Garrick lọt qua trước Corin nửa bước, thở khò khè như bễ lò rèn thủng. Bàn tay Bregan đập vào lưng Corin đẩy cậu vào trong, và cùng lúc ấy ông ta ngoái ra sau nhìn khoảng sân còn lại — vẫn còn người đang chạy tới, chưa tới nơi — và Corin thấy mặt ông ta làm cái phép tính mà không đội trưởng nào muốn làm.
 
 — Hạ then! — Bregan gào. — Hạ đi!
 
@@ -32,7 +32,7 @@ Trong cái sân hẹp ấy không còn chỗ cho chiến thuật. Không còn h�
 
 Một thứ tối màu và to lớn dựng lên trước mặt Corin, gần đến mức cậu ngửi thấy nó — một mùi như đá ướt và lông thú cháy. Cậu đâm cây giáo vào giữa cái khối ấy. Mũi giáo mắc vào giáp hay vào xương gì đó, cậu không biết; cậu chỉ biết có một lực giật ngược lại dọc cán gỗ, mạnh đến mức nhấc cả hai chân cậu khỏi đất, và khi cậu tiếp đất và giật lại thì cán giáo gãy ngang, để lại trong tay cậu một khúc gỗ cụt dài bằng cẳng tay. Cái khối tối màu loạng choạng lùi, rồi bị dòng người phía sau đẩy tràn qua, và Corin mất dấu nó.
 
-Cậu nghe tiếng Bregan ở đâu đó bên phải, vẫn đang gọi tên người, cái giọng như vừa thức dậy giờ đã vỡ ra thành tiếng khản. "Sổ! Lùi vào bậc thềm! Sổ, nghe ta không—"
+Cậu nghe tiếng Bregan ở đâu đó bên phải, vẫn đang gọi tên người, cái giọng như vừa thức dậy giờ đã vỡ ra thành tiếng khản. "Osric! Lùi vào bậc thềm! Osric, nghe ta không—"
 
 Rồi cậu không nghe tên mình được gọi nữa, vì Bregan không còn ở đó để gọi. Corin quay sang thì thấy ông ta đang khuỵu xuống trên hai đầu gối, một bên vai không còn hình dạng của một bên vai, đầu cúi gằm như một người đang cố nhớ ra mình định làm gì. Rồi ông ta đổ nghiêng. Cái danh sách tên trong đầu ông ta tắt cùng lúc với ông ta, và hàng người ông ta vừa còn giữ được gập lại như một tờ giấy ướt.
 

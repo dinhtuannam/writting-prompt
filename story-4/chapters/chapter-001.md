@@ -1,6 +1,6 @@
-Chương 1: đồn Cindergate
+Chương 1: Cindergate
 
-đồn Cindergate được dựng trên một vùng đất không chịu mọc gì. Người ta bảo dưới lớp tro xám ấy từng là một ngọn núi lửa, chết từ thời các vị thần còn đánh nhau, và cái chết đó chưa bao giờ tan hết — nó ngấm vào đá, vào nước giếng, vào phổi những người phải sống ở đây. Corin đã đứng gác trên bức tường phía đông ba mươi mốt ngày, và trong cả ba mươi mốt ngày cậu không ngửi thấy gì khác ngoài tro lẫn sắt gỉ, và bên dưới cả hai, rất mỏng, cái mùi ngòn ngọt của máu khô mà không ai buồn rửa đi.
+Cindergate được dựng trên một vùng đất không chịu mọc gì. Người ta bảo dưới lớp tro xám ấy từng là một ngọn núi lửa, chết từ thời các vị thần còn đánh nhau, và cái chết đó chưa bao giờ tan hết — nó ngấm vào đá, vào nước giếng, vào phổi những người phải sống ở đây. Corin đã đứng gác trên bức tường phía đông ba mươi mốt ngày, và trong cả ba mươi mốt ngày cậu không ngửi thấy gì khác ngoài tro lẫn sắt gỉ, và bên dưới cả hai, rất mỏng, cái mùi ngòn ngọt của máu khô mà không ai buồn rửa đi.
 
 Bên kia con sông cạn là Ma Đại Lục. Từ chỗ cậu đứng, nó chỉ là một dải đất tối hơn bầu trời tối, không đèn, không khói, như thể phía ấy người ta đã học được cách sống mà không cần lửa. Ban ngày cậu thấy được bờ bên kia rõ hơn — những cồn cát đen, một hàng cây cụt ngọn, và xa nữa là cái gì đó cậu không gọi tên được, cứ đứng im như đã đứng im từ trước khi có cậu.
 
@@ -118,7 +118,7 @@ Vài mũi tên bay về phía giọng nói. Giọng nói khựng nửa nhịp, r
 
 Đội trưởng Bregan đi dọc mặt tường, không cúi, kéo người từ chỗ đông sang chỗ thủng, quát tên từng người như thể việc nhớ tên có thể giữ họ đứng nguyên chỗ.
 
-— Corin! Sang trái ba bước, chỗ thằng Húc vừa ngã! Giáo chúc xuống! Đừng phóng, chờ chúng bám thang!
+— Corin! Sang trái ba bước, chỗ thằng Perrin vừa ngã! Giáo chúc xuống! Đừng phóng, chờ chúng bám thang!
 
 Corin sang trái ba bước. Cậu chúc mũi giáo xuống qua lỗ châu mai. Tay cậu ướt tới mức cậu phải siết chặt đến đau mới giữ được cán. Bên dưới, cái đầu tiên bám được vào chân tường, và cậu thấy bàn tay nó — năm ngón, có móng, quá lớn — bấu vào mép đá ngay dưới chỗ cậu đứng.
 

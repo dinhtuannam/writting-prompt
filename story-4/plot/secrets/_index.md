@@ -1,4 +1,4 @@
-# Sổ Bí Mật — Index
+# Osric Bí Mật — Index
 
 > CHỈ AI ĐỌC khi lên kế hoạch và viết chương. KHÔNG BAO GIỜ trích nguyên văn vào chương. KHÔNG reveal vượt lịch. Mỗi bí ẩn 1 file riêng (slug kebab-case, khuôn `_template.md`).
 

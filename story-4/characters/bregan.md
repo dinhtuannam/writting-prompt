@@ -7,7 +7,7 @@ cập-nhật-cuối: chương 2
 
 # Bregan
 
-- **Vai trò trong truyện:** Phụ. Đội trưởng của Corin tại đồn Cindergate. Dự kiến chết ở Ch.2 (theo `../plot/arc-plans/arc-01.md`).
+- **Vai trò trong truyện:** Phụ. Đội trưởng của Corin tại Cindergate. Dự kiến chết ở Ch.2 (theo `../plot/arc-plans/arc-01.md`).
 - **Ngoại hình:** Tầm 40 tuổi, vai xuôi "vì đã mang quá nhiều thứ quá lâu", mặt hay lấm tro.
 - **Tính cách:** Mệt mỏi, thực tế, không tàn nhẫn. Người chỉ huy thứ tư của Cindergate trong một năm — ở lại lâu nhất trong một chỗ chẳng ai trụ được lâu. Giữ lính bằng cách nhớ tên từng người.
 - **Động cơ / mục tiêu:** Giữ được càng nhiều lính của mình sống sót càng tốt, trong một mặt trận ai cũng biết là đang thua.

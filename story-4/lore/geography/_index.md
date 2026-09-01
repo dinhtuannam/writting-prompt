@@ -4,11 +4,11 @@
 
 | Slug | Địa danh | Tóm tắt 1 dòng | File chi tiết |
 |---|---|---|---|
-| `chot-bien-ha-than` | đồn Cindergate | Pháo đài biên giới Vaelmark, nơi truyện mở màn | `chot-bien-ha-than.md` |
+| `cindergate` | Cindergate | Pháo đài biên giới Vaelmark, nơi truyện mở màn | `cindergate.md` |
 | — | Ashcombe | Làng quê của Corin; đã nằm sau lằn địch sau khi pháo đài phía bắc thất thủ (mẹ và em gái Corin ở đây) | (chưa có) |
-| `mien-kinh` | Marrenhold | Kinh đô Vương quốc Vaelmark | `mien-kinh.md` |
-| `vung-dat-tro-cam` | Vùng Tĩnh Lặng | Vùng đất chết, một trong các phong ấn, gần "đường nối" | `vung-dat-tro-cam.md` |
-| `thanh-huyet-an` | Bloodmark | Căn cứ tiền tuyến của Huyết Môn | `thanh-huyet-an.md` |
+| `marrenhold` | Marrenhold | Kinh đô Vương quốc Vaelmark | `marrenhold.md` |
+| `vung-tinh-lang` | Vùng Tĩnh Lặng | Vùng đất chết, một trong các phong ấn, gần "đường nối" | `vung-tinh-lang.md` |
+| `bloodmark` | Bloodmark | Căn cứ tiền tuyến của Huyết Môn | `bloodmark.md` |
 | — | Nhân Đại Lục | Đại lục chính của nhân tộc, gồm Vaelmark, Corvane và nhiều thế lực khác | (chưa có) |
 | — | Ma Đại Lục | Đại lục chính của Ma tộc, phân mảnh thành nhiều quốc gia/thế lực | (chưa có) |
 | — | Đại Dương Trung Tâm | Vùng biển khổng lồ ngăn cách các đại lục, lãnh thổ Hải tộc | (chưa có) |

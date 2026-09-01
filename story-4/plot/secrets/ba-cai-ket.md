@@ -18,3 +18,4 @@
 | Chương | Phần đã hé lộ |
 |---|---|
 | 2 | Bản rất nhẹ, khoảnh khắc Dawn chọn Corin: cậu cảm thấy "một thứ giống như hơi ấm", "một cảm giác không lời" đại loại "đứng dậy — còn sáng ở phía kia — cứ đi tiếp". Chưa phải giọng nói thành lời; mới chỉ là "giọng an ủi" của xung lực-sống (gương mặt dễ thương của KHÓA CỨNG). Không hé gì về ba cái kết. |
+| 4 | "Giọng an ủi" thành hiện diện thường trực trên đường đi: mỗi lần Corin muốn dừng lại, nó dâng lên — "chưa đâu; còn sáng ở phía kia; rồi sẽ khá hơn". Corin nhận ra cậu thấy DỄ CHỊU vì nó và BẤT AN vì mình thấy dễ chịu ("cả đời cậu chưa có ai nói rồi sẽ khá hơn mà cậu tin được"). Vẫn chưa thành lời rõ ràng; vẫn không hé ba cái kết. Gieo mầm: sức quyến rũ của xung lực-sống là ở chỗ nó an ủi thật. |

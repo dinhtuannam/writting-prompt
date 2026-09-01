@@ -7,7 +7,7 @@ cập-nhật-cuối: chương 2
 
 # Aldous
 
-- **Vai trò trong truyện:** Phụ. Hộ Vệ (kỵ sĩ Giáo Hội Bảy Ngọn Lửa), chỉ huy toán hộ tống thanh kiếm-quân-kỳ tới đồn Cindergate. Dự kiến chết ở Ch.2; Corin giật lấy thanh kiếm từ tay ông.
+- **Vai trò trong truyện:** Phụ. Hộ Vệ (kỵ sĩ Giáo Hội Bảy Ngọn Lửa), chỉ huy toán hộ tống thanh kiếm-quân-kỳ tới Cindergate. Dự kiến chết ở Ch.2; Corin giật lấy thanh kiếm từ tay ông.
 - **Ngoại hình:** Còn trẻ, "có lẽ chỉ hơn Corin vài tuổi", áo choàng trắng đã ngả màu tro vì đường xa. Đứng "như một người chưa bao giờ nghi ngờ mình đứng ở đâu".
 - **Tính cách:** Sùng tín chân thành, tự tin tuyệt đối. Tin thật vào giáo lý Bảy Ngọn Lửa và vào việc đức tin cho phép ông cầm thanh kiếm bằng tay trần.
 - **Động cơ / mục tiêu:** Hộ tống an toàn thanh kiếm; dùng nó nâng tinh thần các đơn vị tiền tuyến.

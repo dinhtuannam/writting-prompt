@@ -17,7 +17,7 @@ cập-nhật-cuối: chương 3
 - **Mối quan hệ với nhân vật khác:** Với Corin — ân nhân xa cách, dẫn đường mà không cho biết đích. Với Ngũ Long còn lại — đồng loại nhưng bất đồng (ông thuộc thiểu số; xem secrets).
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Ông là một trong Ngũ Long — mảnh vụn Long Thần — thuộc nhánh "lạc quan" ủng hộ kết cục CHÉM ĐỨT CẢ HAI. Xem `../plot/secrets/danh-tinh-nguoi-cuu-mc.md`, `ban-chat-ngu-long.md`, `noi-ay-cua-that-thanh-kiem.md`. Ông không nói ra kế hoạch vì ý thức trong kiếm đọc được cam kết có ý thức của người cầm — Corin phải TỰ đi tới lựa chọn.
 - **Giọng nói / cách nói chuyện đặc trưng:** Câu ngắn, phẳng. "Ta không cứu ngươi. Ngươi đã tự không chết." "Phần lớn mọi thứ đều thế." Trả lời câu hỏi bằng một câu đóng lại chứ không mở ra.
-- **Trạng thái hiện tại:** còn tồn tại — đã rời đồn Cindergate (biến mất tức thì).
+- **Trạng thái hiện tại:** còn tồn tại — đã rời Cindergate (biến mất tức thì).
 - **Xuất hiện lần cuối:** chương 3
 
 ## Lịch sử xuất hiện
