@@ -168,7 +168,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Căng thẳng trốn thoát → cái giá trống rỗng (người bị bắt đi).
 - **Xuất hiện:** nhân vật: Corin, trung sĩ press-gang (phụ), nhóm đào ngũ (phụ) | phe: Vaelmark | địa danh: trạm press-gang ven đường | hệ thống: Bảy Thánh Kiếm (kiềm chế không dùng)
 - **Điểm kết chương (bắt buộc giữ):** Tự do, nhưng giờ thật sự bị săn bởi cả vương quốc LẪN Giáo Hội, và không còn nơi nào phía sau tuyến là "nhà".
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-014.md; giữ đúng điểm kết. Trung sĩ = **Wick** (~50, mệt, không ác — một Bregan khác). Người trong nhóm đào ngũ không thoát = **Holt** (bị nhận dạng qua tai xẻo); Pip (cháu, 16) còn lại → Corin bảo Pip vào thành tìm Maren (khép nhẹ nhánh Pip, không để dàng dở). Đá lửa của Maren = khoản hối lộ (Chekhov Ch.10 → bắn Ch.14). Corin CHỌN KHÔNG rút Dawn = mốc kiềm chế đối trọng Ch.8, articulate được "cái giọng không bao giờ thiếu một lý do".)
 
 ### Chương 15: Bình Minh
 - **Mục tiêu chương:** Đóng arc. Corin tới rìa nơi người đàn ông chỉ (một thị trấn / một người trên đường tới Marrenhold — ngưỡng cửa thế giới Arc 2). Đêm trước, điểm thấp nhất: mọi người cậu từng biết đã chết hoặc đã đi, cậu bị săn tứ phía, cậu không muốn bất kỳ điều gì trong chuyện này. Hơi ấm Dawn dâng lên — và lần đầu cậu gần như nghe được nó thành lời: ngày mai sẽ tốt hơn, cứ đi tiếp. Cậu thấy nó vững lòng, chưa biết đó là điều nguy hiểm nhất ở nó.
