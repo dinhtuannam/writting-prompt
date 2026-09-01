@@ -147,45 +147,6 @@ Mỗi Selector luôn có quyền lựa chọn.
 
 ---
 
-# Lời Thì Thầm
-
-Mỗi Selector đều có thể nghe thấy một "Lời Thì Thầm".
-
-Lời Thì Thầm KHÔNG phải:
-
-- Thần
-- Ác quỷ
-- Linh hồn
-- Nhân cách thứ hai
-
-Nó chỉ là một giọng nói rất nhỏ.
-
-Nhiệm vụ duy nhất của nó là thôi thúc Selector tiến gần hơn đến cực hạn của Dấu Ấn.
-
-Lời Thì Thầm:
-
-- Không xuất hiện thường xuyên.
-- Chỉ xuất hiện khi Selector đứng trước một lựa chọn quan trọng.
-- Không ra lệnh.
-- Không ép buộc.
-- Chỉ gợi ý hoặc dẫn dắt suy nghĩ.
-
-Đôi khi nó đúng.
-
-Đôi khi nó sai.
-
-Đôi khi nó giúp bạn vượt qua tử nạn
-
-Đôi khi nó đẩy bạn vào ngọn lửa
-
-Đôi khi phải rất lâu sau hậu quả mới xuất hiện.
-
-Đừng lạm dụng Lời Thì Thầm.
-
-Nó chỉ nên xuất hiện ở những thời điểm thật sự có ý nghĩa.
-
----
-
 # Chủ đề
 
 Đây không phải là câu chuyện về thiện và ác.
@@ -340,7 +301,7 @@ Mỗi Thiên Quyền có 3 chốt:
    - Đọc theo **nghĩa đen** (mặt cạn): mạnh nhanh, bạo phát bạo tàn, ăn mòn người mang. Phần lớn Selector trong lịch sử chết ở mặt này — đó chính là nguồn định kiến của thế giới về Đại Tội/Đức Hạnh.
    - Tự ngộ ra **nghĩa sâu** (mặt thật, không ai dạy được): mở dạng quyền năng bền, độc nhất của riêng đời mình.
 
-**Lời Thì Thầm cắm thẳng vào cơ chế:** nó luôn gợi ý cách dùng theo nghĩa đen cực hạn — nghe theo là mạnh ngay lập tức, giá đến sau, đôi khi rất lâu sau. Đôi khi nó cứu mạng. Đôi khi nó đẩy vào lửa.
+**Cám dỗ nằm sẵn trong chính cơ chế:** nghĩa đen luôn là lối tắt hấp dẫn hơn — mạnh ngay lập tức, giá đến sau, đôi khi rất lâu sau. Không cần ai xúi giục từ bên ngoài; bản thân việc nghĩa đen "hiệu quả tức thì" đã đủ để kéo Selector lại gần nó mỗi khi họ yếu đuối hoặc tuyệt vọng.
 
 **Nhịp vận hành:** mỗi Thiên Quyền có nhịp riêng hiện thân từ khái niệm của nó (Phẫn Nộ = Tích/Phát, Kiêu Ngạo = Cược/Thực hiện, Phàm Ăn = Nuốt/Tiêu hóa...). KHÔNG dùng chung một nhịp — nhờ vậy mỗi trận Selector-vs-Selector là một bài toán khác nhau: đấu trí quanh điều kiện của nhau, ép đối thủ ra ngoài điều kiện của hắn, giữ mình trong điều kiện của mình.
 
@@ -374,7 +335,7 @@ Không dàn dựng được — dấu ấn phân biệt thật giả.
 
 ## Hai mặt
 
-- **Nghĩa đen** (Lời Thì Thầm sẽ xúi): nuôi cơn giận CỦA CHÍNH MÌNH, tự tìm đau đớn để nạp nhanh gấp bội — mỗi lần như thế ranh giới kiểm soát mòn đi một chút. Đây là con đường đã biến những đời Phẫn Nộ trước thành kẻ hủy diệt.
+- **Nghĩa đen** (cám dỗ tự nhiên khi dồn nén hoặc tuyệt vọng): nuôi cơn giận CỦA CHÍNH MÌNH, tự tìm đau đớn để nạp nhanh gấp bội — mỗi lần như thế ranh giới kiểm soát mòn đi một chút. Đây là con đường đã biến những đời Phẫn Nộ trước thành kẻ hủy diệt.
 - **Nghĩa sâu** (Elk sẽ tự ngộ dần qua truyện): Phẫn Nộ thật sự là **cơn giận thay cho kẻ không thể tự giận** — gánh bất công của người khác. Ở tầng này, tích từ bất công chứng kiến hiệu suất vượt trội, và "nhiệt" được xoa dịu bằng việc GIẢI QUYẾT bất công thay vì chỉ phát nổ.
 
 ## Trần

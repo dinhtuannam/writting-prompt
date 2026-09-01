@@ -9,6 +9,7 @@
 |---|---|---|
 | `story-1/` | Đã reset (2026-08-31) — chỉ còn `raw-idea.md` | Chờ chạy `/expand-lore story-1` để bắt đầu lại pipeline |
 | `story-2/` | Đã reset (2026-08-31) — chỉ còn `raw-idea.md` | Chờ chạy `/expand-lore story-2` để bắt đầu lại pipeline |
+| `story-4/` | Chưa khởi tạo | Mới tạo |
 
 ## Dự án đang active
 Xem `ACTIVE-STORY.md`. Mọi skill mặc định thao tác trên dự án active, trừ khi người dùng chỉ định rõ thư mục khác (vd `/next-chapter story-2`).

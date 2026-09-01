@@ -1,0 +1,16 @@
+# Bí ẩn: Bảy Thánh Kiếm biến mất đi đâu suốt 300 năm?
+
+- **Đáp án thật (đầy đủ, viết sẵn từ ngày 0):** Sau khi Bảy Anh Hùng đời đầu chết (~năm 1100), chính Ngũ Long đã phân tán 7 thanh kiếm khắp thế giới — QUA TAY NGƯỜI PHÀM — vì họ thấy hiệu ứng "cột thu lôi" bắt đầu và giữ kiếm tách xa nhau là cách làm chậm chu kỳ. Đã có những "người-mang-kiếm" trước MC, nhiều thế kỷ, làm tác nhân bí mật của rồng, chưa bao giờ công khai, phần lớn chết trên nhiệm vụ. "Cầm kiếm là chết, kiếm thất truyền" (định kiến dân gian) chỉ là bản mặt ngoài — công chúng qua các đời chỉ chứng kiến những kẻ KHÔNG xứng giật kiếm rồi chết tại chỗ. MC không xứng hơn những người-mang-kiếm trước — chỉ rơi đúng thời điểm chu kỳ tới hạn, khi lịch sử (chiến tranh, di dân) bắt đầu kéo 7 thanh kiếm tụ lại tự nhiên.
+- **Ai biết gì:** Chỉ Ngũ Long biết toàn bộ mạng lưới người-mang-kiếm quá khứ. Giáo Hội Thất Diệu ngờ vực có "một trật tự bí ẩn" đằng sau việc kiếm biến mất nhưng không có bằng chứng, chỉ có truyền thuyết mơ hồ. MC không biết mình có tiền nhiệm cho tới Arc 4 (hé) và Arc 8 (trả trọn).
+- **Lịch reveal (arc nào hé phần nào, trả trọn ở arc nào):** Arc 4 — khi tìm thấy thanh kiếm thứ hai, MC/nhóm phát hiện dấu vết của một người từng cố mang nó đi trước đó (một bộ xương, một cuốn nhật ký nửa cháy) — biết có tiền nhiệm nhưng chưa biết ai đứng sau. Arc 8 — trả trọn: con rồng thừa nhận đã dùng và tiêu hao nhiều người-mang-kiếm trước MC, đây chính là "sai lầm/phản bội" khiến MC cắt đứt niềm tin.
+- **Foreshadow cần gieo:**
+  - [ ] Arc 2 — một truyền thuyết dân gian ở Miên Kinh về "những bóng ma cầm kiếm sáng" xuất hiện rồi biến mất qua nhiều thế hệ — bị coi là chuyện cổ tích.
+  - [ ] Arc 3 — một pháp sư Ma tộc già kể đã từng thấy "một người cầm ánh sáng" đi qua Ma Đại Lục khi bà còn nhỏ — không rõ là ai.
+  - [ ] Arc 4 — bộ xương/nhật ký nửa cháy tại nơi tìm thấy thanh kiếm thứ hai, ghi vài dòng nhắc tới "người đàn ông không tuổi đã chỉ đường" — gieo hình ảnh trùng với con rồng cứu MC mà độc giả tinh có thể nhận ra trước MC.
+  - [ ] Arc 6-7 — rải thêm 1-2 chi tiết tương tự ở các vùng khác (Thú Nhân, Ma tộc) để cho thấy mạng lưới người-mang-kiếm từng phủ khắp thế giới, không chỉ Nhân Đại Lục.
+
+## Nhật ký reveal thực tế
+| Chương | Phần đã hé lộ |
+|---|---|
+| 1 | Hé qua trải nghiệm/định kiến dân gian: Vện kể "kẻ không được chọn cầm kiếm thật là chết ngay tại chỗ — đó là lý do cả bảy thanh đều thất truyền, người tìm thấy đều thành cái xác nằm cạnh nó". Giáo Hội đang dùng MỘT thanh kiếm cũ làm quân kỳ tinh thần; Đàm Lộ tuyên bố cầm nó tay trần bốn tháng không chết. Trì cảm nhận "một khoảng lặng tuyệt đối" quanh lưỡi thép. CHƯA hé: rồng phân tán kiếm / người-mang-kiếm tiền nhiệm. |
+| 2 | Trì giật lấy thanh kiếm chờ chết theo lời đồn, nhưng phản chiêu chỉ "xé qua rồi dừng lại — như một câu hỏi đã hỏi và tạm bỏ ngỏ". Xác nhận (với người đọc) thanh kiếm là thật và đã chọn Trì. Đàm Lộ dùng nó chiến đấu mà không có hiệu ứng siêu nhiên nào — gieo ngầm rằng "cầm được" và "dùng được sức mạnh" là hai chuyện khác nhau. CHƯA hé cơ chế/lý do. |
