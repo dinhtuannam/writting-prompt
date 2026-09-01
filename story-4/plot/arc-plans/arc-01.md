@@ -78,7 +78,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Mệt mỏi đường trường → gai người vì nguy hiểm cá nhân.
 - **Xuất hiện:** nhân vật: Corin, Maren, Merek | phe: Corvane, Vaelmark | địa danh: đường về Marrenhold | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Một toán Hộ Vệ cưỡi ngựa bắt kịp, hỏi từng nhóm có ai từ Cindergate không, và có ai thấy "một thanh kiếm lấy từ chiến trường".
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-005.md; giữ đúng điểm kết — kết ở lúc Hộ Vệ còn cách cụm Corin hai đám lửa, Maren vừa giấu bó kiếm → nối thẳng Ch.6. Merek tự giới thiệu tên + đánh dấu Corin trực tiếp hơn beat gốc. Nhân vật phụ mới: bà lão xâu nến + con trai Aldwin; trạm chẩn "Fordham".)
 
 ### Chương 6: Câu Hỏi Của Hộ Vệ
 - **Mục tiêu chương:** Corin phải qua cửa xét hỏi của Hộ Vệ; họ lục hành lý. Maren (không biết cậu giấu gì nhưng biết cậu sợ) che cho cậu. Qua được. Corin nghe lỏm: Giáo Hội đang chuyển thanh kiếm đó, nó ĐƯỢC coi là một trong Thất Kiếm, mất nó là bê bối họ sẽ bịt bằng cách thu hồi — cùng với người cầm.

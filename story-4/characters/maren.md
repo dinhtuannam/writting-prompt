@@ -2,7 +2,7 @@
 loại: nhân-vật
 trạng-thái: còn-sống
 xuất-hiện-đầu: chương 1
-cập-nhật-cuối: chương 4
+cập-nhật-cuối: chương 5
 ---
 
 # Maren
@@ -24,3 +24,4 @@ cập-nhật-cuối: chương 4
 | 1 | Cho Corin phần cháy nồi ở sân; nói trước rằng tường đông sẽ bị đánh trước. |
 | 2 | Lùa một nhóm người bị thương xuống hầm kho rồi cúi theo; Corin thấy thoáng qua và ghi vị trí cửa hầm. |
 | 4 | Tái ngộ Corin trong nhóm sống sót ở lòng suối; kể đã chui lên qua lỗ thông gió khi Ma tộc dạt sang tường bắc. Ủng hộ bám gờ đá thay vì đường cái. Chia nước cho Corin trên con dốc, không hỏi về cái bó cậu giấu. Trên đỉnh dốc: "đây không phải rút lui — rút lui thì người ta còn giữ lại cái gì đó để rút về." |
+| 5 | Nhận ra Merek để mắt tới Corin và cái bó → bắt đầu để ý Corin "mang theo rắc rối". Rạng sáng, khi Hộ Vệ xét hỏi đoàn người, lặng lẽ giấu bó kiếm của Corin xuống khoảng tối và phủ áo tơi bà lão lên — không nói một lời. |
