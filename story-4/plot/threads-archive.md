@@ -4,4 +4,4 @@
 
 | Thread | Mở ở chương | Đóng ở chương | Cách giải quyết |
 |---|---|---|---|
-| Hạ Than có trụ được đêm nay không | 1 | 2 | Không. Tường ngoài rồi lũy trong đều thất thủ; Cẩn và Đàm Lộ tử trận; pháo đài rơi vào tay Ma tộc. |
+| Cindergate có trụ được đêm nay không | 1 | 2 | Không. Tường ngoài rồi lũy trong đều thất thủ; Bregan và Aldous tử trận; pháo đài rơi vào tay Ma tộc. |

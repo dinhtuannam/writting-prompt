@@ -5,7 +5,7 @@ xuất-hiện-đầu: (chưa có chương)
 cập-nhật-cuối: (chưa có chương)
 ---
 
-# Vùng Đất Tro Câm
+# Vùng Tĩnh Lặng
 
 - **Đặc trưng kinh tế / văn hóa:** Một trong các "vùng đất chết hình thành từ chiến tranh khởi nguyên" — không nền văn minh nào định cư được. Bị mọi phe né tránh, kể cả những đoàn thám hiểm liều lĩnh nhất.
 - **Chất liệu cảm quan (tối thiểu 2 chi tiết):** Sự im lặng gần như tuyệt đối — không tiếng côn trùng, không gió; ánh sáng ban ngày ở đây nhợt nhạt như bị lọc qua một lớp vải mỏng, không đổ bóng rõ ràng.

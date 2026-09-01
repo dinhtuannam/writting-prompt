@@ -4,7 +4,7 @@
 
 ## Thông số cơ bản
 - **Thể loại:** Dark Fantasy · Medieval Fantasy · Adventure · Mystery · War
-- **Ngôi kể (POV):** Ngôi thứ 3 giới hạn (limited third), chủ yếu bám sát nhân vật chính. Cho phép đổi POV sang nhân vật khác (Miên Khanh, Lilaia, các người cầm kiếm...) ở những chương world-turn cần thiết — đánh dấu rõ tên POV ngay đầu chương.
+- **Ngôi kể (POV):** Ngôi thứ 3 giới hạn (limited third), chủ yếu bám sát nhân vật chính. Cho phép đổi POV sang nhân vật khác (Isolde, Lilaia, các người cầm kiếm...) ở những chương world-turn cần thiết — đánh dấu rõ tên POV ngay đầu chương.
 - **Thì:** Quá khứ.
 - **Độ dài mỗi chương mục tiêu:** 2000-3000 từ (đếm thật, không ước lượng).
 - **Quy cách format:** Tiêu đề chương dạng "Chương N: [Tên chương]", đối thoại dùng dấu gạch ngang —.
@@ -34,8 +34,8 @@ Nhưng cơn đau chỉ đi qua, như một câu hỏi đã được hỏi và t�
 
 Cậu ôm lấy thanh kiếm, và lần đầu tiên trong đời, cậu không biết mình còn muốn sống hay không.
 
-### Anchor 2 — cảnh tĩnh/texture đời sống (chợ đêm Miên Kinh)
-Chợ đêm Miên Kinh không còn tiếng cười.
+### Anchor 2 — cảnh tĩnh/texture đời sống (chợ đêm Marrenhold)
+Chợ đêm Marrenhold không còn tiếng cười.
 
 Người ta vẫn rao hàng, vẫn mặc cả, vẫn xếp hàng trước nồi cháo cứu tế bốc khói — nhưng tất cả làm điều đó bằng một thứ im lặng đã quen thuộc, như thể tiếng ồn từng có ở đây đã bị mượn đi cùng với những người trai tráng chưa trở về.
 

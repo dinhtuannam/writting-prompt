@@ -4,12 +4,12 @@
 
 | Slug | Địa danh | Tóm tắt 1 dòng | File chi tiết |
 |---|---|---|---|
-| `chot-bien-ha-than` | Chốt Biên Hạ Than | Pháo đài biên giới Tàn Dương, nơi truyện mở màn | `chot-bien-ha-than.md` |
-| — | Gò Sẩm | Làng quê của Trì; đã nằm sau lằn địch sau khi pháo đài phía bắc thất thủ (mẹ và em gái Trì ở đây) | (chưa có) |
-| `mien-kinh` | Miên Kinh | Kinh đô Vương quốc Tàn Dương | `mien-kinh.md` |
-| `vung-dat-tro-cam` | Vùng Đất Tro Câm | Vùng đất chết, một trong các phong ấn, gần "đường nối" | `vung-dat-tro-cam.md` |
-| `thanh-huyet-an` | Thành Huyết Ấn | Căn cứ tiền tuyến của Tông Huyết Giới | `thanh-huyet-an.md` |
-| — | Nhân Đại Lục | Đại lục chính của nhân tộc, gồm Tàn Dương, Câu Vân và nhiều thế lực khác | (chưa có) |
+| `chot-bien-ha-than` | đồn Cindergate | Pháo đài biên giới Vaelmark, nơi truyện mở màn | `chot-bien-ha-than.md` |
+| — | Ashcombe | Làng quê của Corin; đã nằm sau lằn địch sau khi pháo đài phía bắc thất thủ (mẹ và em gái Corin ở đây) | (chưa có) |
+| `mien-kinh` | Marrenhold | Kinh đô Vương quốc Vaelmark | `mien-kinh.md` |
+| `vung-dat-tro-cam` | Vùng Tĩnh Lặng | Vùng đất chết, một trong các phong ấn, gần "đường nối" | `vung-dat-tro-cam.md` |
+| `thanh-huyet-an` | Bloodmark | Căn cứ tiền tuyến của Huyết Môn | `thanh-huyet-an.md` |
+| — | Nhân Đại Lục | Đại lục chính của nhân tộc, gồm Vaelmark, Corvane và nhiều thế lực khác | (chưa có) |
 | — | Ma Đại Lục | Đại lục chính của Ma tộc, phân mảnh thành nhiều quốc gia/thế lực | (chưa có) |
 | — | Đại Dương Trung Tâm | Vùng biển khổng lồ ngăn cách các đại lục, lãnh thổ Hải tộc | (chưa có) |
 | — | Lục địa Thú Nhân | Quê hương hàng trăm bộ tộc Thú nhân, không quốc gia thống nhất | (chưa có) |

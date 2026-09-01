@@ -1,12 +1,12 @@
 # Bí ẩn: Cái kết thật sự đang chờ cuối hành trình 7 thanh kiếm là gì?
 
-- **Đáp án thật (đầy đủ, viết sẵn từ ngày 0):** Ba cái kết khả dĩ, tất cả đi qua cùng một điểm nghẽn — chở đủ 7 Thánh Kiếm tới Vực Khởi Nguyên ("đường nối"):
+- **Đáp án thật (đầy đủ, viết sẵn từ ngày 0):** Ba cái kết khả dĩ, tất cả đi qua cùng một điểm nghẽn — chở đủ 7 Thánh Kiếm tới Vết Thương Đầu Tiên ("đường nối"):
   1. **CHÉM ĐỨT CẢ HAI** — cắt cả xung lực-sống lẫn xung lực-ngừng ra khỏi thế giới vĩnh viễn, chấm dứt bản chất-thần của nó. Giá: ma thuật tắt hẳn, tuổi thọ thế giới hữu hạn, 7 người cầm kiếm gần như chắc chết, Ngũ Long tắt ngay. Mọi giống loài mang linh hồn có đúng một thế hệ cuối. Đây là cách DUY NHẤT phá luật "hai nửa luôn quay lại". Advocate: nhánh rồng lạc quan.
   2. **RESET** — ép hai nửa tái hợp ngay, sạch, trên điều kiện chủ động, thay vì để nó xảy ra kiểu hư-vô-thụ-động (tái hợp bạo lực kéo dài). Advocate: nhánh rồng bi quan (đa số) — bi quan có cơ sở kinh nghiệm, không phải bỏ cuộc.
   3. **KHÓA CỨNG XUNG LỰC-SỐNG** — hợp nhất xung lực-sống vĩnh viễn, dìm chết xung lực-ngừng. Kết quả: utopia đông cứng bất tử, không gì kết thúc được nữa. Advocate: ý thức Nhân Thần trong 7 Thánh Kiếm (tin thật đây là lòng trắc ẩn) + một nhân vật NGƯỜI mất tất cả, vận động vì lòng trắc ẩn thật.
   Bảy Thánh Kiếm với CHÉM ĐỨT: Grave (III) và Ruin (VII) không kháng; năm thanh còn lại (Dawn, Crown, Fang, Oath, Mercy) kháng vì THẬT SỰ tin vào KHÓA CỨNG. Truyện đi tới kết cục **CHÉM ĐỨT** — nhân vật chính, người nghe tiếng gọi KHÓA CỨNG to nhất (qua Dawn), là người duy nhất đủ tư cách dẫn 5 người kia tới đồng thuận buông tay.
 - **Ai biết gì:** Ngũ Long biết toàn bộ ba lựa chọn. Ý thức trong mỗi thanh kiếm chỉ biết/tin vào lập trường của chính nó. MC dần hiểu qua hành trình, biết trọn khi tất cả 7 kiếm hội tụ ở Arc 11.
-- **Lịch reveal (arc nào hé phần nào, trả trọn ở arc nào):** Rải suốt Act 2 (Arc 5-9) qua việc mỗi thanh kiếm mới được tìm thấy bộc lộ một phần "quan điểm" của nó (kháng hay không kháng một ý tưởng mơ hồ về "chấm dứt mọi thứ" mà MC chưa hiểu hết) — đặc biệt rõ ở Arc 6 (trận nội tâm đầu tiên) và Arc 9 (đỉnh điểm cám dỗ KHÓA CỨNG). Arc 10 — con rồng phải nói rõ ba lựa chọn khi đoàn chuẩn bị vào Vực Khởi Nguyên. Arc 11 — trả trọn qua chính hành động.
+- **Lịch reveal (arc nào hé phần nào, trả trọn ở arc nào):** Rải suốt Act 2 (Arc 5-9) qua việc mỗi thanh kiếm mới được tìm thấy bộc lộ một phần "quan điểm" của nó (kháng hay không kháng một ý tưởng mơ hồ về "chấm dứt mọi thứ" mà MC chưa hiểu hết) — đặc biệt rõ ở Arc 6 (trận nội tâm đầu tiên) và Arc 9 (đỉnh điểm cám dỗ KHÓA CỨNG). Arc 10 — con rồng phải nói rõ ba lựa chọn khi đoàn chuẩn bị vào Vết Thương Đầu Tiên. Arc 11 — trả trọn qua chính hành động.
 - **Foreshadow cần gieo:**
   - [ ] Arc 4 — người cầm Grave (thanh kiếm thứ hai) có một khoảnh khắc chấp nhận một mất mát cá nhân một cách kỳ lạ bình thản — gieo "thành phần chấp nhận kết thúc" mà chưa giải thích.
   - [ ] Arc 6 — người cầm Fang phản đối dữ dội một gợi ý mơ hồ về "để mọi thứ dừng lại" — gieo ý chí kháng.
@@ -17,4 +17,4 @@
 ## Nhật ký reveal thực tế
 | Chương | Phần đã hé lộ |
 |---|---|
-| 2 | Bản rất nhẹ, khoảnh khắc Dawn chọn Trì: cậu cảm thấy "một thứ giống như hơi ấm", "một cảm giác không lời" đại loại "đứng dậy — còn sáng ở phía kia — cứ đi tiếp". Chưa phải giọng nói thành lời; mới chỉ là "giọng an ủi" của xung lực-sống (gương mặt dễ thương của KHÓA CỨNG). Không hé gì về ba cái kết. |
+| 2 | Bản rất nhẹ, khoảnh khắc Dawn chọn Corin: cậu cảm thấy "một thứ giống như hơi ấm", "một cảm giác không lời" đại loại "đứng dậy — còn sáng ở phía kia — cứ đi tiếp". Chưa phải giọng nói thành lời; mới chỉ là "giọng an ủi" của xung lực-sống (gương mặt dễ thương của KHÓA CỨNG). Không hé gì về ba cái kết. |
