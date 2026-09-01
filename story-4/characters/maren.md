@@ -2,7 +2,7 @@
 loại: nhân-vật
 trạng-thái: còn-sống
 xuất-hiện-đầu: chương 1
-cập-nhật-cuối: chương 8
+cập-nhật-cuối: chương 9
 ---
 
 # Maren
@@ -28,3 +28,4 @@ cập-nhật-cuối: chương 8
 | 6 | Nói dối Hộ Vệ: cái bó là đồ của "chồng tôi chết ở tường đông" — che cho Corin qua cuộc xét hỏi. Sau đó nói với Corin: "tôi vẫn sẽ không hỏi trong đó là gì, nhưng cậu nợ tôi một lời nói dối — lần sau đến lượt cậu." |
 | 7 | Đêm trại: băng chân cho Corin; kể đời mình (Harrow, chồng/con đã mất, lý do theo quân). Cho Corin biết cậu gọi tên "Ashcombe" trong lúc ngủ mê. Không ép cậu kể bí mật, chỉ nói: "gánh một mình không làm cậu tử tế hơn — chỉ làm cậu cô đơn hơn." |
 | 8 | Ở chỗ đường hẹp, lấy thân chắn cho người đàn bà bế con → chính là lý do Corin rút Dawn. Suýt bị chính Dawn cắt trúng. Sau đó tới ngồi cạnh Corin: "vậy đó là cái cậu suýt kể với tôi tối qua... bây giờ thì cậu không cần kể nữa — cả đoàn vừa xem rồi." |
+| 9 | Cho đứa bé ốm thuốc (đỡ vài hôm; để mẹ nó tự nghĩ ra phần cần nghĩ). Nói thẳng với Corin: không sợ cậu làm hại mình, mà sợ MẶT cậu lúc vung kiếm — "nhẹ nhõm... nó cho cậu cảm giác nhẹ nhõm khi đang giết. Tôi không muốn nhìn cậu đi tới chỗ đó." |

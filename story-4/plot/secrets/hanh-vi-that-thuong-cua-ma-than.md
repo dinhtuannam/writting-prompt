@@ -12,3 +12,4 @@
 ## Nhật ký reveal thực tế
 | Chương | Phần đã hé lộ |
 |---|---|
+| 9 | Foreshadow đầu tiên: tin (qua kỵ sĩ Vaelmark) rằng Ma Thần bị trông thấy KHÔNG ở mặt trận mà sâu trong đất Vaelmark, giữa đồng, một mình, đang đi bộ — không quân đội, không mục tiêu chiến lược. Gieo "hành vi vô nghĩa về mặt quân sự". CHƯA hé nguyên nhân (phong ấn nứt → Ma Thần dần nhớ ra mình là gì / đi về phía các phong ấn). |

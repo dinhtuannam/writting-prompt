@@ -2,7 +2,7 @@
 loại: nhân-vật
 trạng-thái: còn-sống
 xuất-hiện-đầu: chương 5
-cập-nhật-cuối: chương 8
+cập-nhật-cuối: chương 9
 ---
 
 # Merek
@@ -23,3 +23,4 @@ cập-nhật-cuối: chương 8
 |---|---|
 | 5 | Cưỡi ngựa dọc đoàn tị nạn ghi chép; hỏi nhóm Maren có từ Cindergate không; để mắt tới cái bó của Corin; nói tên mình cho Corin và đánh dấu cậu là "người đáng để ai đó ghi lại". |
 | 8 | Quay ngược lên đoàn người sau trận ở chỗ hẹp; chứng kiến hiện trường Corin dùng Dawn (rãnh trên đường, Ma tộc bị cắt, cây bị xén); ghi chép rất lâu; rồi quay ngựa mang báo cáo về nam (Corvane) — nhanh hơn lúc tới. |
+| 9 | Quay lại (4 kỵ sĩ) chuyển lời mời chính thức của Corvane cho Corin: qua đèo tối nay → mái nhà/ăn đủ/thầy thuốc/không Hộ Vệ, có thể khóa kiếm vào rương; đổi lại Corin thành "hằng số" Corvane biết vị trí. "Corvane không thích biến số." Lời mời để ngỏ; ghìm ngựa lại cho Corin đi lên. |

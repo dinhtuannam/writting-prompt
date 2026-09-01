@@ -13,3 +13,4 @@
 ## Nhật ký reveal thực tế
 | Chương | Phần đã hé lộ |
 |---|---|
+| 9 | Foreshadow đã gieo (đúng lịch Arc 1): Dawn NÓNG LÊN THẬT (lần đầu trong 8 ngày Corin mang nó) khi có tin / khi tên "Ma Thần" được nhắc; nóng thêm mỗi lần cái tên chạy qua đoàn người; ấn tượng của Corin: "như thể một thứ ở xa về phía nam vừa quay đầu và đi về hướng này". CHỈ là ấn tượng/hiện tượng — KHÔNG hé cơ chế cột thu lôi / thần tính Nhân Thần ↔ xung lực-ngừng. Cùng chương: tin Ma Thần đi bộ sâu trong đất Vaelmark giữa đồng (cũng là foreshadow `hanh-vi-that-thuong-cua-ma-than`). |

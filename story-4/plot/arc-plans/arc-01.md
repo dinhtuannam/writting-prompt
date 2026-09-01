@@ -118,7 +118,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Áp lực tứ phía, lạc lõng → điềm gở.
 - **Xuất hiện:** nhân vật: Corin, Maren, Merek, bà mẹ tị nạn (phụ), kỵ sĩ đưa tin (phụ) | phe: Corvane | địa danh: đường tị nạn | hệ thống: Bảy Thánh Kiếm (Dawn)
 - **Điểm kết chương (bắt buộc giữ):** Hoàng hôn, thanh kiếm tự nóng lên — nóng hơn bao giờ hết — cùng tin Ma Thần đã bị trông thấy ở tiền tuyến.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-009.md; giữ đúng điểm kết. Điều chỉnh: tin không phải "Ma Thần ở tiền tuyến" mà "Ma Thần SÂU trong đất Vaelmark, giữa đồng, đang đi bộ" — mạnh hơn cho foreshadow `hanh-vi-that-thuong-cua-ma-than` + `ai-hoi-sinh-ma-than`. Merek quay lại (đã đi nam Ch.8) với lời mời — hợp lý vì Corvane forward command gần đèo. Maren nói ra nỗi sợ về "mặt Corin lúc dùng kiếm" — nối mầm sa ngã.)
 
 ### Chương 10: Marrenhold Ở Phía Xa
 - **Mục tiêu chương:** Đoàn tới rìa lãnh thổ kinh đô. Corin quyết tách ra trước cổng — quá nhiều mắt, Hộ Vệ dày, Merek dò xét. Cậu và Maren chia tay: cô vào hệ thống cứu tế thành phố; cậu không thể. Lời tạm biệt thật — cô đưa cậu áo choàng dự phòng và đá lửa, không hỏi cậu giải thích.
