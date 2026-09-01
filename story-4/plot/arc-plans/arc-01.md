@@ -108,7 +108,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Kinh hãi → xả bạo lực → ghê sợ chính mình + bị phơi bày.
 - **Xuất hiện:** nhân vật: Corin, Maren, Merek, chỉ huy quân cướp Ma tộc (phụ) | phe: Huyết Môn | địa danh: đoạn đường bị chặn | hệ thống: Bảy Thánh Kiếm (Dawn, dùng thật lần đầu)
 - **Điểm kết chương (bắt buộc giữ):** Người sống sót nhìn cậu chằm chằm. Merek nhìn lâu nhất, và ghi chép.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-008.md; giữ đúng điểm kết. Merek (đã đi nam ở Ch.5) quay ngược lên đoàn người để ghi chép sự kiện chỗ hẹp — hợp lý với vai trò của ông ta; ghi xong thì mang báo cáo về nam. Thêm: nhấn mầm sa ngã — Corin nhận ra "xả bạo lực bằng Dawn = lần đầu hết sợ, và một phần cậu muốn làm lại" → mở thread "Corin bị cám dỗ bởi Dawn". Dawn "không có khái niệm chỉ tới đây thôi" — cắt qua cả vật vô can, suýt trúng Maren.)
 
 ### Chương 9: Kẻ Cầm Ánh Sáng
 - **Mục tiêu chương:** Hệ quả. Tin lan khắp đoàn: có người cầm kiếm. Kẻ nhìn cậu như cứu tinh, kẻ khiếp sợ. Merek đưa lời mời ngọt: về Đế quốc, được "bảo vệ". Một bà mẹ tị nạn cầu xin cậu làm anh hùng. Corin không muốn gì hết. Maren lặng đi, hoang mang về cậu.
