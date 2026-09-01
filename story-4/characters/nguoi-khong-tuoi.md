@@ -2,7 +2,7 @@
 loại: nhân-vật
 trạng-thái: còn-tồn-tại
 xuất-hiện-đầu: chương 3
-cập-nhật-cuối: chương 3
+cập-nhật-cuối: chương 10
 ---
 
 # Người Đàn Ông Không Tuổi ("Người Không Có Bóng")
@@ -24,3 +24,4 @@ cập-nhật-cuối: chương 3
 | Chương | Sự kiện liên quan đến nhân vật |
 |---|---|
 | 3 | Hạ gục kỵ sĩ Ma tộc bằng cách Corin không thấy được; hỏi Corin có muốn thanh kiếm không; dặn đường + cảnh báo "người của chính ngươi"; biến mất không để lại dấu vết vật lý. |
+| 10 | Tái xuất thoáng ở bìa rừng phía tây rìa Marrenhold, đứng nhìn Corin (không phải nhìn về phía cậu — nhìn thẳng cậu, đã đứng đó một lúc). Chớp mắt → biến mất, không dấu vết, không tiếng lá. Dẫn Corin đi theo (Ch.11). |

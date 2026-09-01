@@ -2,7 +2,7 @@
 loại: nhân-vật
 trạng-thái: còn-sống
 xuất-hiện-đầu: chương 1
-cập-nhật-cuối: chương 9
+cập-nhật-cuối: chương 10
 ---
 
 # Corin
@@ -15,8 +15,8 @@ cập-nhật-cuối: chương 9
 - **Mối quan hệ với nhân vật khác:** Đội trưởng Bregan (cấp trên, tôn trọng lặng lẽ). Garrick (lão lính cùng tường đông, cố vấn sinh tồn cộc cằn). Maren (nữ cứu thương, mối dây người duy nhất còn lại — sẽ chia tay Ch.10). "Người đàn ông không tuổi" (ân nhân bí ẩn, chưa gặp lại).
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Dawn chọn cậu vì cậu KHÔNG muốn làm anh hùng — và ý thức trong kiếm có thể đang chọn lọc người dễ lái về phía KHÓA CỨNG (xem `../plot/secrets/ba-cai-ket.md`, `danh-tinh-nguoi-cuu-mc.md`). Phẩm chất giúp cậu về sau kháng được cám dỗ: cậu đã tận mắt thấy cái giá của "mọi người phải sống sót" khi nó thất bại.
 - **Giọng nói / cách nói chuyện đặc trưng:** Câu ngắn, trả lời tối thiểu. Hỏi lại để phá vỡ im lặng khó chịu hơn là vì tò mò.
-- **Trạng thái hiện tại:** còn sống — trong đoàn tị nạn về Marrenhold (chiều tối ngày thứ năm), đã bị phơi bày công khai là người cầm một trong Bảy. Thanh kiếm Dawn (giấu trong bó áo choàng) đang NÓNG LÊN phản ứng với sự hiện diện/tên của Ma Thần. Có lời mời Corvane còn ngỏ (qua đèo, đổi lấy tự do).
-- **Xuất hiện lần cuối:** chương 9
+- **Trạng thái hiện tại:** còn sống — đi bộ một mình men bìa rừng phía tây rìa Marrenhold (chiều muộn ngày thứ sáu), hướng về đèo Corvane nhưng chưa quyết. Đã chia tay Maren (cô vào thành). Mang thêm áo choàng + đá lửa Maren cho. Vừa thấy "người đàn ông không tuổi" ở bìa rừng, đang đi về phía đó. Lời mời Corvane còn ngỏ.
+- **Xuất hiện lần cuối:** chương 10
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -30,3 +30,4 @@ cập-nhật-cuối: chương 9
 | 7 | Đêm trại: nghe Maren kể đời mình; suýt kể sự thật về thanh kiếm, dừng lại. Chủ động thử nghiệm "giọng an ủi" của Dawn — xác nhận nó chỉ thức dậy khi cậu tuyệt vọng ("như có ai cúi xuống nghe nhịp thở"); bất an nhưng vẫn để nó nói. Sáng: biết đường về Marrenhold đã bị Ma tộc chốt. |
 | 8 | Ở chỗ đường hẹp, để cứu Maren, RÚT DAWN dùng thật lần đầu. Kiếm áp đảo, cắt qua cả vật vô can, suýt trúng Maren. Bị phơi bày công khai là người cầm một trong Bảy. Quỳ sụp, run — nhận ra một phần trong cậu đã thấy dễ chịu, hết sợ, và muốn làm lại. Merek ghi chép rồi mang báo cáo về Corvane. |
 | 9 | Bị cả đoàn coi là anh hùng/hiểm họa; từ chối cầu xin của người đàn bà có con ốm (quay lại giết Ma Thần). Nghe lời mời Corvane từ Merek (qua đèo → tự do, đổi lấy làm "hằng số"), chưa trả lời. Maren nói ra nỗi sợ về "mặt cậu lúc dùng kiếm". Chiều tối: tin Ma Thần đi bộ sâu trong đất Vaelmark → Dawn nóng lên thật lần đầu; Corin lần đầu sợ chính thanh kiếm. |
+| 10 | Không vào được chốt kiểm soát Marrenhold (sẽ bị kéo sang khoảnh nghĩa vụ kép + khám kỹ). Chia tay Maren (nhận áo choàng + đá lửa; nghe cảnh báo "dây cương"). Đi một mình men rừng về tây. Thấy người đàn ông không tuổi ở bìa rừng → biến mất; Corin đi về phía đó. |

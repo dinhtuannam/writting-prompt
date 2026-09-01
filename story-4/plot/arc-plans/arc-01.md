@@ -128,7 +128,7 @@ Không áp dụng — đây là arc 1.
 - **Cảm xúc chủ đạo:** Chia ly buồn → nhắc nhở rợn người rằng cậu đang bị theo dõi.
 - **Xuất hiện:** nhân vật: Corin, Maren, người đàn ông không tuổi (thoáng) | phe: Giáo Hội (hiện diện nền) | địa danh: rìa Marrenhold | hệ thống: —
 - **Điểm kết chương (bắt buộc giữ):** Lúc chia tay, Corin thấy ở bìa rừng người đàn ông không có bóng đang nhìn — quay lại thì mất.
-- **Trạng thái beat:** chưa viết
+- **Trạng thái beat:** đã viết (chapter-010.md; giữ đúng điểm kết. Merek không xuất hiện trực tiếp Ch.10 (chỉ "hiện diện nền" qua chốt Hộ Vệ + lời mời còn ngỏ từ Ch.9). Maren cho Corin cả áo choàng + đá lửa (đá lửa sẽ dùng để hối lộ ở Ch.14). Maren nói câu "dây cương" — khung để Corin kháng Dawn về sau. Chia tay để ngỏ tái ngộ "khi cái gì đó xong".)
 
 ### Chương 11: Người Đàn Ông Không Tuổi
 - **Mục tiêu chương:** Corin đuổi theo. Người đàn ông không giải thích kế hoạch (không thể) nhưng nói vài điều thật dưới dạng cảnh báo: thanh kiếm sẽ kéo tới những thứ khác giống nó và tệ hơn; Giáo Hội là thứ nhỏ nhất sẽ đến; muốn sống thì phải học xem mình đang mang gì — có người dạy được, ở một nơi (một cái tên/địa điểm — setup Arc 2). Ông né tránh về bản thân. Corin hỏi vì sao được cứu; ông trả lời một điều thật nhưng không trọn.

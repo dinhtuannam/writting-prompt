@@ -2,7 +2,7 @@
 loại: nhân-vật
 trạng-thái: còn-sống
 xuất-hiện-đầu: chương 1
-cập-nhật-cuối: chương 9
+cập-nhật-cuối: chương 10
 ---
 
 # Maren
@@ -15,8 +15,8 @@ cập-nhật-cuối: chương 9
 - **Mối quan hệ với nhân vật khác:** Corin (dần thân, rồi hoang mang về cậu sau khi cậu dùng kiếm công khai ở Ch.8).
 - **Bí mật / thông tin ẩn (chưa lộ cho người đọc):** Chưa có.
 - **Giọng nói / cách nói chuyện đặc trưng:** Cộc, gọn, hay hạ thấp công của mình ("cảm ơn cái nồi ấy, nó nấu, tôi chỉ khuấy"). "Có những thứ mình không cần hiểu cũng biết."
-- **Trạng thái hiện tại:** còn sống — đã thoát khỏi hầm kho Cindergate qua lỗ thông gió (nhóm mất 4 người), đang đi cùng một nhóm sống sót và Corin trên đường về tuyến sau Vaelmark.
-- **Xuất hiện lần cuối:** chương 4
+- **Trạng thái hiện tại:** còn sống — đã vào Marrenhold qua chốt kiểm soát (chiều muộn ngày thứ sáu); dự kiến kiếm được một chỗ trong hệ thống cứu tế thành phố. Đã chia tay Corin ở gò đất trước chốt; hẹn tái ngộ "ở chỗ nào có người bị thương và một cái nồi".
+- **Xuất hiện lần cuối:** chương 10
 
 ## Lịch sử xuất hiện
 | Chương | Sự kiện liên quan đến nhân vật |
@@ -29,3 +29,4 @@ cập-nhật-cuối: chương 9
 | 7 | Đêm trại: băng chân cho Corin; kể đời mình (Harrow, chồng/con đã mất, lý do theo quân). Cho Corin biết cậu gọi tên "Ashcombe" trong lúc ngủ mê. Không ép cậu kể bí mật, chỉ nói: "gánh một mình không làm cậu tử tế hơn — chỉ làm cậu cô đơn hơn." |
 | 8 | Ở chỗ đường hẹp, lấy thân chắn cho người đàn bà bế con → chính là lý do Corin rút Dawn. Suýt bị chính Dawn cắt trúng. Sau đó tới ngồi cạnh Corin: "vậy đó là cái cậu suýt kể với tôi tối qua... bây giờ thì cậu không cần kể nữa — cả đoàn vừa xem rồi." |
 | 9 | Cho đứa bé ốm thuốc (đỡ vài hôm; để mẹ nó tự nghĩ ra phần cần nghĩ). Nói thẳng với Corin: không sợ cậu làm hại mình, mà sợ MẶT cậu lúc vung kiếm — "nhẹ nhõm... nó cho cậu cảm giác nhẹ nhõm khi đang giết. Tôi không muốn nhìn cậu đi tới chỗ đó." |
+| 10 | Chia tay Corin ở gò đất trước chốt Marrenhold. Tặng cậu một áo choàng đàn ông dày + đá lửa và thép mồi. Cảnh báo về "dây cương" của thanh kiếm ("cái gì cứ nhẹ nhàng đẩy cậu đi mãi một hướng thì đó không phải bạn"). Vẫn nhắc "cậu nợ tôi một lời nói dối". Vào thành. |
