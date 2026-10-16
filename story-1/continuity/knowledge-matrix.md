@@ -36,6 +36,8 @@ Theo dõi sự thật và thông tin theo từng nhân vật. Một nhân vật 
 | FACT-016 | Cha mẹ Elk tìm cách ngăn một điều liên quan tới "nghi thức" khi một Selector chết — chưa rõ chi tiết | K (nghe lời cuối Teodor) | U | U | U | U | U | K | chapter-014 (EVT-024); liên quan THREAD-002/008 |
 | FACT-017 | Ghi chú đầy đủ của Teodor giấu dưới tấm ván sàn thứ ba từ cửa phòng ông thuê | K | U | U | U | U | U | K | chapter-014 (EVT-024); chưa lấy |
 
+| FACT-018 | Lý thuyết của Teodor: khi Selector chết, một "khoảng trống" trong Chu Kỳ cộng hưởng với di tích cổ; từng có "nghi thức" đóng khoảng trống đó, nay đã mất; Harlan Dray chết không có nghi thức | K | L (nghe Elk kể) | K (cùng đọc) | U | U | U | K | chapter-015 (EVT-025); HYPOTHESIS học thuật, chưa xác nhận là sự thật khách quan |
+
 ## Kiểm tra trước khi viết
 
 - Nhân vật nhận thông tin bằng cách nào và vào lúc nào?

@@ -11,7 +11,7 @@ Theo dõi câu hỏi, manh mối, lời hứa và tình tiết chưa được gi
 | THREAD-005 | Vết nứt/ánh sáng lạ Sable thấy trong Vực Khuyết — có liên quan tới "Vực thở" không? | chapter-003 (EVT-009) | Chương 8: chuyến lặn điều tra được lên kế hoạch (EVT-017), thực hiện Chương 9 | IN_PROGRESS |
 | THREAD-006 | Ai/tổ chức nào sẽ tiếp tục tới tìm Elk sau học viện (Ch.10) và giáo hội (Ch.11)? Quý tộc/vương triều vẫn chưa xuất hiện | chapter-006 (EVT-013) | Chương 10-11: Học viện (Teodor) và Giáo Hội Vòng Lặp (Avelina) đã tới; quý tộc/vương triều còn lại | IN_PROGRESS |
 | THREAD-007 | "Thư Ký" là ai thật, và cha mẹ Elk tìm gì trong Vực Khuyết? | chapter-007 (EVT-015) | Chương 14: họ tìm cách ngăn điều gì đó liên quan tới "nghi thức" khi Selector chết (FACT-016) — vẫn chưa rõ chi tiết; ghi chú của Teodor (FACT-017) có thể giải thích thêm | IN_PROGRESS |
-| THREAD-008 | "Nghi thức" khi một Selector chết là gì, và điều gì xảy ra nếu không được thực hiện đúng — có liên quan tới sự bất ổn của Vực Khuyết và/hoặc cái chết của Harlan Dray không? | chapter-014 (EVT-024) | PLANNED — cần đọc ghi chú của Teodor | OPEN |
+| THREAD-008 | "Nghi thức" khi một Selector chết thực chất là gì (cách thực hiện, không chỉ lý thuyết) — và có thể phục hồi được không? | chapter-014 (EVT-024) | Chương 15: lý thuyết đã rõ qua ghi chú Teodor (FACT-018); cách thực hiện cụ thể vẫn chưa biết | IN_PROGRESS |
 
 ## Trạng thái
 

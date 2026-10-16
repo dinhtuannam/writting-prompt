@@ -37,6 +37,9 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 
 | EVT-024 | Ngày 16 | Elk cứu được Oren (bị thương, sống); Teodor bị chèn dưới khối đá lớn trong khoang tầng 3, không thể cứu được (Thiên Quyền không phản hồi với việc nâng vật tĩnh, chỉ với va chạm/lực đỡ được); trước khi chết, Teodor nói cha mẹ Elk từng tìm cách ngăn một điều gì đó liên quan tới "nghi thức" khi một Selector chết, và để lại ghi chú dưới tấm ván sàn thứ ba từ cửa phòng ông thuê | CHAR-001, CHAR-007, Oren | CHAR-001 (trực tiếp), Oren (một phần), dân trấn (qua lời Elk báo) | Teodor tử trận; mở THREAD-008; ghi chú của ông (chưa lấy) là manh mối quan trọng | chapter-014 |
 
+| EVT-025 | Ngày 17-19 | Elk và Sable lấy ghi chú của Teodor từ dưới ván sàn phòng ông thuê; nội dung: khi một Selector chết, một "khoảng trống" trong Chu Kỳ bị bỏ lại, cộng hưởng với di tích cổ như Vực Khuyết; từng có "nghi thức" để đóng khoảng trống đó đúng cách, nay đã mất; Harlan Dray chết không có nghi thức, có thể là một phần lý do Vực Khuyết bất ổn hơn đúng lúc Elk (Selector mới) khuấy động nó | CHAR-001, CHAR-003 | CHAR-001, CHAR-003 | Giải thích lý thuyết cho THREAD-008; xác nhận cha mẹ Elk tìm lại nghi thức đã mất, không phải phế vật | chapter-015 |
+| EVT-026 | Ngày 17-19 | Odalie Varnes ra lệnh đóng toàn bộ Vực Khuyết vô thời hạn sau cái chết của Teodor; gây chia rẽ nội bộ Hội Giá Vực vì mất nguồn thu chính của trấn | CHAR-001, CHAR-004, CHAR-005, FAC-001 | CHAR-001, CHAR-004, CHAR-005, dân trấn | Khủng hoảng kinh tế mới cho Trấn Rỉ Than; đặt nền cho quyết định lớn ở cao trào ARC-001 | chapter-015 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.
