@@ -10,18 +10,20 @@ Theo dõi sự thật và thông tin theo từng nhân vật. Một nhân vật 
 - `U`: chưa biết; không được viết như thể họ đã biết.
 - `L`: biết một phần; mô tả rõ phần nào.
 
-| Fact ID | Sự thật/bí mật | CHAR-001 (Elk) | CHAR-002 (Corvin) | CHAR-003 (Sable) | CHAR-004 (Garrity) | Độc giả | Nguồn/ghi chú |
-|---|---|---|---|---|---|---|---|
-| FACT-001 | Một Selector (biệt danh "Rùa Già" trong lời đồn) vừa tử trận ở phương xa | L (nghe Sable nhắc 2 lần, không rõ chi tiết) | L (nghe cùng Elk) | K một phần (nghe từ đoàn buôn trước khi lặn, nhớ không mạch lạc do mê sảng) | U | L (biết nhiều hơn nhân vật qua world-building nhưng chưa có xác nhận trong truyện là ai) | chapter-001; THREAD-001 |
-| FACT-002 | Elk sẽ/sắp là một Selector mang Dấu Ấn Phẫn Nộ | U | U | U | U | K (qua seed/lore, biết trước nhân vật) | seed.md; chưa xảy ra trong canon truyện |
-| FACT-003 | Niềm tin của Elk: không chủ động phản ứng/gây hại = an toàn | B (chính Elk tin, chưa bị thử thách tới giới hạn) | S (Corvin nghi ngờ niềm tin này sẽ không bền, chưa nói ra) | U | U | L (thấy rõ qua hành vi Elk, chưa được xác nhận trực tiếp bằng lời) | CHAR-001 profile; chapter-001 |
-| FACT-004 | Sable nợ Hội Giá Vực 2 bộ dây lặn + 1 đèn tín hiệu | K (nghe Garrity nói) | K (ngầm hiểu qua nghề) | K (là người nợ) | K (là người đi thu) | K | chapter-001 |
-| FACT-005 | Cuộn giấy dive-rights của Sable vẫn còn nguyên sau đối đầu | K | K | U (chưa tỉnh hẳn để biết) | K | K | chapter-001 |
+| Fact ID | Sự thật/bí mật | CHAR-001 | CHAR-002 | CHAR-003 | CHAR-004 | CHAR-005 | CHAR-006 | Độc giả | Nguồn/ghi chú |
+|---|---|---|---|---|---|---|---|---|---|
+| FACT-001 | Harlan Dray ("Rùa Già"), Selector Nhẫn Nại, tử trận ở cửa biên xa | K | K (qua Elk kể lại) | K (nguồn gốc tin) | U | U | U | K | chapter-002 (EVT-006) |
+| FACT-002 | Elk mang Dấu Ấn Phẫn Nộ, là Selector | K (từ EVT-012) | K (chứng kiến) | K (chứng kiến) | K (thấy dấu, Chương 6) | U (chưa nghe báo cáo trong phạm vi đã viết) | K (chứng kiến) | K (biết trước qua lore, nay đã thành canon trong truyện) | chapter-005, chapter-006 |
+| FACT-003 | Niềm tin cũ của Elk: không phản ứng = an toàn | B → đang lung lay mạnh sau EVT-011/012 | S (nghi ngờ từ đầu) | U | U | U | U | L | CHAR-001 profile; chương 4-6 trực tiếp thử thách niềm tin này |
+| FACT-004 | Sable nợ Hội Giá Vực | K (đã XÓA, EVT-010 — nay là sự thật đã qua) | K | K | K | K | K | K | chapter-001, chapter-004 |
+| FACT-005 | Cuộn giấy dive-rights của Sable còn nguyên | K (không còn quan trọng sau EVT-010) | K | U lúc đầu, K sau khi tỉnh | K | — | — | K | chapter-001 |
+| FACT-006 | Sable thấy một vết nứt sâu có ánh sáng lạ trong Vực Khuyết trước khi gặp nạn | K | L (nghe Elk kể lại) | K (người chứng kiến) | U | U | U | K | chapter-003 (EVT-009); liên quan THREAD-005 |
+| FACT-007 | Elk mang dấu rồng vĩnh viễn trên cẳng tay phải (mờ khi không kích hoạt) | K | K | K | K | U | K | K | chapter-005, chapter-006 |
 
 ## Kiểm tra trước khi viết
 
 - Nhân vật nhận thông tin bằng cách nào và vào lúc nào?
 - Họ có thể hiểu sai, bỏ sót hoặc không tin nguồn không?
 - Nếu là suy luận, căn cứ cụ thể là gì?
-- Việc tác giả/độc giả biết điều này có khiến AI vô tình cho nhân vật biết không? — Đặc biệt lưu ý FACT-002: không để Elk hành động như thể cậu biết/nghi ngờ mình là Selector cho tới khi có cảnh xác nhận rõ ràng.
+- Việc tác giả/độc giả biết điều này có khiến AI vô tình cho nhân vật biết không? — Đặc biệt: Odalie Varnes (CHAR-005) CHƯA biết FACT-002 trong phạm vi đã viết; không để cô hành động như đã biết cho tới khi có cảnh Garrity báo cáo.
 - Có cần cập nhật ma trận sau chương mới không?

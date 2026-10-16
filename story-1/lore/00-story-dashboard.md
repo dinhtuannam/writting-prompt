@@ -17,9 +17,9 @@
 
 - **Trạng thái:** DRAFTING
 - **Arc hiện tại:** ARC-001 — "Trấn Rỉ Than"
-- **Số chương hoàn chỉnh đã audit:** 1
-- **Chương đang soạn:** Chương 2 (chưa bắt đầu)
-- **Mốc tiếp theo:** Viết plan Chương 2 — phản ứng của Elk/Corvin sau tin đồn về Selector đã ngã, và dấu hiệu bất thường đầu tiên nơi Elk.
+- **Số chương hoàn chỉnh đã audit:** 6
+- **Chương đang soạn:** Chương 7 (chưa bắt đầu)
+- **Mốc tiếp theo:** Viết plan Chương 7 — phản ứng của Odalie Varnes khi biết Elk là Selector; có thể mở rộng ra ngoài Trấn Rỉ Than (THREAD-006).
 - **Quyết định đột phá đang chờ tác giả:** (không có)
 
 ## Logline
@@ -28,12 +28,12 @@ Elk Vantry, một vệ y hiền lành ở trấn khai quật đổ nát Rỉ Tha
 
 ## Snapshot canon hiện tại
 
-- **Mốc thời gian:** Năm Lịch Vực 643, Kỳ XIV — Ngày 1 (đêm)
-- **Địa điểm tuyến chính:** LOC-002 Trấn Rỉ Than (ven LOC-001 Vực Khuyết)
-- **Tình trạng nhân vật chính:** Elk (CHAR-001) không bị thương nặng, tâm lý bất an mơ hồ sau cảnh đối đầu với Hội Giá Vực và tin tức về Selector đã mất.
-- **Mối nguy tức thời:** Hội Giá Vực (FAC-001) mất mặt, có thể trả đũa; Sable (CHAR-003) đang hấp hối, mang thông tin giá trị.
-- **Bí mật độc giả biết, nhân vật chưa biết:** Elk sắp là một Selector (mang Dấu Ấn Phẫn Nộ) — độc giả biết qua seed/lore, Elk trong truyện hoàn toàn chưa biết (FACT-002: U với Elk).
-- **Bí mật nhân vật biết, độc giả chưa biết:** Sable biết chi tiết cụ thể về cái chết của Selector phương xa (danh tính, hoàn cảnh) nhưng chưa kể hết — độc giả chỉ nghe phần cậu ta lảm nhảm.
+- **Mốc thời gian:** Năm Lịch Vực 643, Kỳ XIV — Ngày 4 (đêm)
+- **Địa điểm tuyến chính:** LOC-002 Nhà Corvin, Trấn Rỉ Than (ven LOC-001 Vực Khuyết)
+- **Tình trạng nhân vật chính:** Elk (CHAR-001) đã chính thức là Selector mang Dấu Ấn Phẫn Nộ (EVT-012); cổ tay phải còn đau nhẹ, tâm lý đang xử lý danh tính mới. Corvin (CHAR-002) đang hồi phục sau vết thương cánh tay.
+- **Mối nguy tức thời:** Hội Giá Vực đã biết Elk là Selector (qua Garrity); Odalie Varnes sắp biết, phản ứng của bà chưa viết (THREAD-006).
+- **Bí mật độc giả biết, nhân vật chưa biết:** (không còn khoảng cách lớn — FACT-002 nay đã là sự thật cả độc giả và các nhân vật chính đều biết)
+- **Bí mật nhân vật biết, độc giả chưa biết:** Odalie Varnes chưa xuất hiện lại sau khi biết tin — phản ứng của bà là ẩn số cho cả độc giả và Elk.
 - **Canon conflict đang mở:** (không có)
 
 ## Tài liệu quan trọng
@@ -62,6 +62,8 @@ Elk Vantry, một vệ y hiền lành ở trấn khai quật đổ nát Rỉ Tha
 | DEC-001 | Elk mang họ "Vantry"; tuổi 19 khi truyện mở đầu | 2026-10-17 | Seed chỉ định tên "Elk", họ và tuổi do AI tự quyết | Có (chỉ nếu tác giả yêu cầu) |
 | DEC-002 | Bối cảnh mở đầu là trấn khai quật di tích "Rỉ Than" ven chasm "Vực Khuyết", không dùng mô-típ học viện/kinh đô mở đầu | 2026-10-17 | Tránh hội/học viện rập khuôn đã được ghi nhận là rủi ro sameness; tạo chất liệu kinh tế-xã hội cụ thể (kinh tế khai quật, nợ, syndicate) | Có |
 | DEC-003 | Elk chưa biểu hiện Dấu Ấn ở Chương 1; mở đầu bằng đời thường + tin đồn Selector tử trận làm hook, giữ nhịp chậm theo yêu cầu phong cách kể | 2026-10-17 | seed.md "Phong cách kể chuyện": nhịp chậm, xây nhân vật trước cốt truyện | Có |
+| DEC-004 | "Rùa Già" = Harlan Dray, Selector Nhẫn Nại của Kỳ XIV, đã tử trận trước truyện — gương đối ứng trực tiếp của Elk | 2026-10-17 | Tạo chất xúc tác chủ đề (gương Đức Hạnh ngã trước khi gương Đại Tội thức tỉnh) mà không cần lộ hết lore Selector sống | Có |
+| DEC-005 | Dấu Ấn Phẫn Nộ của Elk thức tỉnh sớm — Chương 5 (trong 6 chương đầu) — khi bảo vệ Corvin khỏi một cuộc tấn công trả thù cá nhân (Dask), không phải từ Hội Giá Vực chính thức | 2026-10-17 | Giữ nhân quả chặt (Garrity cảnh báo trước, Dask có động cơ từ Chương 1) thay vì trì hoãn máy móc theo số chương ước tính ban đầu | Có, nhưng ảnh hưởng lớn nếu đổi — đã audit continuity đầy đủ |
 
 ## Câu hỏi đang mở
 

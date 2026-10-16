@@ -30,7 +30,8 @@ Vực Nguyên là một lục địa rộng, nơi các nền văn minh cổ đ�
 ## Trạng thái thông tin
 
 - **CANON:** Chu Kỳ 1000 năm/14 Selector/triết lý Dấu Ấn không phán xét đạo đức (từ seed.md); Kỳ hiện tại là Kỳ XIV, năm Lịch Vực 643; Trấn Rỉ Than và Vực Khuyết; hệ 3-class (Đấu sĩ/Pháp sư nguyên tố/Pháp sư cổ ngữ).
-- **PLANNED:** Danh tính cụ thể của vương triều cai quản danh nghĩa vùng biên; các Selector khác của Kỳ XIV sẽ xuất hiện trực tiếp trong truyện.
+- **PLANNED:** Danh tính cụ thể của vương triều cai quản danh nghĩa vùng biên; các Selector khác (còn sống) của Kỳ XIV sẽ xuất hiện trực tiếp trong truyện; phản ứng của Odalie Varnes/thế giới rộng hơn khi biết Elk là Selector.
+- **CANON (bổ sung):** Elk Vantry (CHAR-001) đã chính thức là Selector mang Dấu Ấn Phẫn Nộ từ Chương 5 (EVT-012); Harlan Dray ("Rùa Già"), Selector Nhẫn Nại của Kỳ XIV, đã tử trận trước truyện (xem `worldbuilding/history.md`).
 - **HYPOTHESIS:** Dân thường tin rằng Selector mang Đại Tội "dễ" trở thành kẻ hủy diệt hơn — đây là định kiến (`IN_WORLD_BELIEF`), không phải sự thật khách quan theo triết lý cốt lõi của seed.
 - **CONFLICT:** (không có)
 

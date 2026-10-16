@@ -9,13 +9,13 @@
 - **Loài/quốc tịch/nguồn gốc:** Người, mồ côi, lớn lên tại Trấn Rỉ Than; gốc gác cha mẹ chưa xác định (PLANNED — mối dây mở, THREAD-002)
 - **Vai trò/POV:** Nhân vật chính; POV mặc định các chương đầu
 - **Lần xuất hiện đầu:** Chương 1
-- **Trạng thái hiện tại:** Sống, không bị thương nặng; chưa biểu hiện Dấu Ấn (EVT-003)
+- **Trạng thái hiện tại:** Sống; Dấu Ấn Phẫn Nộ đã thức tỉnh (EVT-012, Chương 5) — chính thức là Selector mang Thiên Quyền Rồng Phản Kích/signature skill Tam Hồi Phản Trảm
 
 ## Ngoại hình và biểu hiện
 
 - **Dáng vóc, mặt, tóc, mắt:** Gầy nhưng dẻo dai hơn vẻ ngoài cho thấy, tay đầy sẹo nhỏ (vết kim khâu, vết dao mổ, vết bỏng nhẹ), tóc nâu sẫm cắt ngắn cho tiện việc, mắt nâu điềm đạm, hay nhìn tay/vũ khí đối phương trước khi nhìn mặt.
 - **Trang phục thường dùng:** Áo khoác da dày có nhiều túi nhỏ đựng dụng cụ khâu/băng, tạp dề lót phía trong để tránh máu dính da, một con dao ngắn quen tay hơn kiếm dài (dùng cả để mổ lẫn để tự vệ).
-- **Dấu hiệu nhận biết:** Không có hình xăm nào ở Chương 1 — chưa là Selector. (Khi Dấu Ấn Rồng xuất hiện ở chương sau, vị trí/thời điểm sẽ ghi EVT riêng.)
+- **Dấu hiệu nhận biết:** Từ Chương 5 (EVT-012): hình xăm Rồng tĩnh trên cẳng tay phải (cổ tay tới khuỷu tay), mờ/sẫm màu da khi không kích hoạt, phát sáng đỏ-cam khi dùng Thiên Quyền/signature skill. Trước Chương 5: không có hình xăm nào.
 - **Cử chỉ/thói quen:** Vô thức lau tay vào tạp dề khi căng thẳng; nói chậm hơn khi đang tính toán; cúi người thấp hơn cần thiết khi nói với người đang nằm, như một phép lịch sự nghề nghiệp.
 - **Ấn tượng người khác có:** Dân trấn thấy cậu "hiền quá mức cần thiết cho cái nghề này"; Hội Giá Vực coi cậu là trở ngại nhỏ, dễ bỏ qua — đánh giá sai.
 - **Thay đổi theo thời gian:** (chưa có, Chương 1)
@@ -40,8 +40,9 @@
 | Kiếm thuật phòng ngự/đỡ-phản (do Corvin dạy) | Khá tốt cho tuổi, chưa ở mức cao thủ | Không có Mạch, không phép thuật, thể lực trung bình | Đối đầu số đông hoặc đối thủ có kỹ năng vượt trội vẫn có thể hại cậu nặng | Luyện tập, kinh nghiệm thực chiến |
 | Y thuật dã chiến (khâu vết thương, cầm máu, nắn khớp) | Thành thục với vết thương phổ biến ở thợ lặn | Không xử lý được độc lạ/vết thương phép thuật phức tạp | Sai sót có thể gây hại thật cho bệnh nhân | Corvin hướng dẫn tiếp |
 | Đọc trận/tâm lý đối phương | Sắc sảo, điểm mạnh nổi bật nhất | Vẫn có thể bị đánh lạc hướng bởi đối thủ kỷ luật cao | Đoán sai dẫn tới quyết định sai thời điểm | Kinh nghiệm |
+| Thiên Quyền Rồng Phản Kích / signature skill Tam Hồi Phản Trảm (từ EVT-012) | Mới thức tỉnh, chưa qua luyện tập có ý thức — lần đầu dùng mới đạt 2/3 Hồi | Phải đỡ bằng kiếm đúng góc/thời điểm; tối đa 3 Hồi; giải phóng sớm giảm uy lực; có phản lực lên tay/kiếm sau khi giải phóng; không phán xét đạo đức, không tự chọn mục tiêu | Đỡ sai vẫn bị thương; đòn quá mạnh có thể gãy kiếm/chấn thương tay; lộ nhịp tích lực cho đối thủ qua vệt sáng trên kiếm | Cần luyện tập có ý thức — hiện tại hoàn toàn là phản xạ, Elk chưa hiểu cơ chế bằng lý trí |
 
-- **Điểm yếu thực tế:** Không có Mạch, không có sức mạnh siêu nhiên ở Chương 1; thua kém thể chất nhiều đối thủ chuyên nghiệp.
+- **Điểm yếu thực tế:** Không có Mạch; Thiên Quyền không bù được chênh lệch thể chất/kỹ năng với đối thủ mạnh hơn; vẫn thua kém nhiều đối thủ chuyên nghiệp về sức mạnh thuần.
 - **Nguồn lực:** Uy tín cá nhân với dân trấn, kiến thức y thuật, quan hệ với Corvin.
 - **Điều không thể tự làm:** Không thể một mình chống lại một cuộc tấn công có tổ chức quy mô lớn từ Hội Giá Vực.
 
@@ -68,24 +69,23 @@
 - **Biết chắc:** Cách vận hành của nợ-vay thiết bị với Hội Giá Vực; kiến thức y thuật/kiếm thuật Corvin dạy.
 - **Tin nhưng sai:** Tin rằng sự im lặng/nhẫn nhịn của mình luôn là lựa chọn an toàn nhất (FACT-003, B).
 - **Nghi ngờ:** (chưa có gì đáng kể ở Chương 1)
-- **Chưa biết:** Mình sắp/sẽ là một Selector mang Dấu Ấn Phẫn Nộ (FACT-002, U); danh tính Selector vừa tử trận mà Sable lảm nhảm nhắc tới (FACT-001, U, chỉ nghe mảnh vụn).
-- **Đang che giấu:** (không có gì lớn ở Chương 1)
-- **Người biết bí mật của họ:** (không áp dụng — Elk chưa có bí mật lớn ở Chương 1)
+- **Chưa biết:** Gốc gác thật của cha mẹ mình (THREAD-002); ý nghĩa của vết nứt/ánh sáng lạ Sable thấy trong Vực Khuyết (THREAD-005); Odalie Varnes đã biết cậu là Selector hay chưa (chưa thấy phản ứng của bà).
+- **Đang che giấu:** (không chủ động giấu — nhưng chưa kể hết cảm giác lạ ở tay cho Corvin/Sable trước khi nó bùng phát ở Chương 5)
+- **Người biết bí mật của họ:** CHAR-002, CHAR-003, CHAR-004, CHAR-006 đều đã chứng kiến Dấu Ấn (từ Chương 5-6).
 
 ## Arc nhân vật
 
 - **Trạng thái đầu:** Tin rằng an toàn = không chủ động phản ứng/gây hại.
-- **Áp lực thử thách:** Phải tự đối đầu Hội Giá Vực một mình, không có Corvin đứng sau, buộc cậu hành động chủ động hơn mức quen thuộc.
-- **Điểm không thể quay lại:** (sẽ tới ở chương sau — Dấu Ấn thức tỉnh lần đầu, PLANNED)
-- **Trạng thái cuối dự kiến:** (PLANNED, không phải canon) — học cách "đứng chắn đúng lúc" là một lựa chọn chủ động, không phải thất bại của sự nhẫn nhịn.
-- **Phí tổn của thay đổi:** (PLANNED)
-- **Hành động chứng minh thay đổi thuyết phục:** (PLANNED)
+- **Áp lực thử thách:** Phải tự đối đầu Hội Giá Vực một mình (Chương 1), rồi đối đầu một cuộc tấn công sinh tử thật nhằm vào Corvin (Chương 4).
+- **Điểm không thể quay lại:** EVT-012 (Chương 5) — Dấu Ấn Phẫn Nộ thức tỉnh lần đầu; Elk không còn có thể là "chỉ một người thường" nữa, với chính mình hay với thế giới.
+- **Trạng thái cuối dự kiến (PLANNED, không phải canon):** Học cách "đứng chắn đúng lúc" và dùng Thiên Quyền là một lựa chọn chủ động, không phải thất bại của sự nhẫn nhịn hay bằng chứng cậu sẽ thành "kẻ hủy diệt".
+- **Phí tổn của thay đổi:** Đã mất sự vô danh với Hội Giá Vực; sắp phải đối mặt với cách thế giới nhìn một Selector mang Đại Tội (định kiến xã hội, THREAD-006).
+- **Hành động chứng minh thay đổi thuyết phục:** (PLANNED — chương sau)
 
 ## Snapshot continuity
 
-- **Vị trí cuối:** LOC-002 Nhà Corvin, đêm Ngày 1, sau EVT-004.
-- **Tình trạng cơ thể:** Không bị thương nặng; vài vết bầm nhẹ ở cẳng tay từ việc khống chế Garrity; mỏi do căng thẳng kéo dài.
-- **Vật phẩm đang giữ/mang:** Dao ngắn quen dùng (ITEM-001), túi dụng cụ y tế (ITEM-002).
-- **Trang phục/cải trang:** Áo khoác da, tạp dề dính máu nhẹ (của Sable), chưa thay.
-- **Nợ, lời hứa, đe dọa:** Garrity rời đi với lời đe dọa ngầm sẽ trở lại/báo cáo lên Odalie Varnes (THREAD-003).
-- **Cập nhật gần nhất:** Chương 1.
+- **Vị trí cuối:** LOC-002 Nhà Corvin, đêm Ngày 4, sau EVT-013.
+- **Tình trạng cơ thể:** Không nguy hiểm tính mạng; cổ tay phải còn đau nhẹ do phản lực Tam Hồi Phản Trảm; hình xăm Rồng mờ cố định trên cẳng tay phải.
+- **Vật phẩm đang giữ/mang:** Dao ngắn (ITEM-001), túi dụng cụ y tế (ITEM-002), kiếm ngắn cũ của Corvin (ITEM-005, nay Elk giữ dùng).
+- **Nợ, lời hứa, đe dọa:** Hợp đồng tư vấn giới hạn với Hội Giá Vực (EVT-008/010); Hội đã biết cậu là Selector, Odalie Varnes sắp biết (THREAD-006).
+- **Cập nhật gần nhất:** Chương 6.

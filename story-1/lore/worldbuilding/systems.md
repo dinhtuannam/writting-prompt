@@ -12,7 +12,7 @@ Xem đầy đủ trong seed.md phần "Chu Kỳ", "Selector", "Triết lý cốt
 
 ## WB-SYS-003 — Thiên Quyền Rồng Phản Kích + signature skill Tam Hồi Phản Trảm (CANON, nguồn: seed.md)
 
-Dấu Ấn Phẫn Nộ của Elk. Cơ chế, giới hạn và cách khắc chế giữ nguyên như seed.md quy định, không diễn giải lại khác đi. Elk CHƯA biểu hiện năng lực này trong canon hiện tại (xem `development-queue.md` và chapter plan 001) — chỉ là tiềm năng tiềm ẩn, chưa ai (kể cả Elk) biết.
+Dấu Ấn Phẫn Nộ của Elk. Cơ chế, giới hạn và cách khắc chế giữ nguyên như seed.md quy định, không diễn giải lại khác đi. Đã thức tỉnh trong canon tại EVT-012 (Chương 5) — Elk đỡ 2 đòn bằng kiếm (ITEM-005), ghi 2 Hồi, chọn giải phóng sớm (không chờ đủ 3 Hồi) để ưu tiên cứu Corvin ngay, đúng quy tắc "uy lực giảm theo số Hồi đã tích" trong seed. Chịu phản lực lên tay/kiếm sau khi giải phóng, đúng như seed quy định. Elk hiện chưa hiểu cơ chế bằng lý trí — lần đầu dùng hoàn toàn là phản xạ, chưa qua luyện tập có ý thức.
 
 ## WB-SYS-004 — 13 Thiên Quyền còn lại (DRAFT/PLANNED, nguồn: seed.md)
 
@@ -20,5 +20,5 @@ Vẫn ở dạng bản nháp cơ chế như seed.md ghi; chưa chuyển thành s
 
 ## Ghi chú cho AI
 
-- Không cho Elk biết hoặc sử dụng Thiên Quyền trước khi có một cảnh kích hoạt rõ ràng, có setup, trong bản chương hoàn chỉnh.
-- Khi viết cảnh chiến đấu của Elk ở các chương chưa có Dấu Ấn (như Chương 1), sức mạnh của cậu chỉ đến từ kỹ thuật kiếm thực tế Corvin dạy + tư duy đọc trận, không phải phép hay Thiên Quyền.
+- Từ Chương 5 trở đi, Elk CÓ THỂ dùng Thiên Quyền, nhưng chỉ khi đỡ đòn bằng một vũ khí dạng kiếm (không phải dao ngắn ITEM-001) và trong tình huống đủ nghiêm trọng để kích hoạt bản năng — không biến nó thành công cụ giải quyết mọi xung đột nhỏ. Elk chưa luyện tập có ý thức; các chương sau nên thể hiện cậu dần học kiểm soát nó, không phải đã thành thục ngay.
+- Ở các chương trước Chương 5 (như Chương 1-4), sức mạnh của Elk chỉ đến từ kỹ thuật thực tế Corvin dạy + tư duy đọc trận, không phải phép hay Thiên Quyền — giữ nguyên khi hồi tưởng/nhắc lại các chương đó.

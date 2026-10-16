@@ -6,13 +6,13 @@
 
 - **Story ID:** story-1
 - **Tên:** Tam Hồi Phản Trảm (tên làm việc)
-- **Index version:** 2
+- **Index version:** 3
 - **Ý tưởng sơ khai gốc:** `seed.md`
 - **Bản sao seed trong novel:** `seed.md` (giữ bản gốc không chỉnh sửa; ghi diễn giải phát triển ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chapter 001 / EVT-005
-- **Chương tiếp theo cần viết:** 002
+- **Canon cập nhật đến:** Chapter 006 / EVT-013
+- **Chương tiếp theo cần viết:** 007
 - **Index cập nhật lần cuối:** 2026-10-17
 - **Conflict đang chặn tiến độ:** (không có)
 
@@ -132,14 +132,22 @@ Không tái sử dụng ID đã retired. Bảng entity index dưới đây phả
 | CHAR-004 | Garrity | Character | CANON | `lore/characters/CHAR-004-garrity.md` | chapter-001 |
 | LOC-001 | Vực Khuyết | Location | CANON | `lore/locations/LOC-001-vuc-khuyet.md` | chapter-001 |
 | LOC-002 | Nhà Corvin | Location | CANON | `lore/locations/LOC-002-nha-corvin.md` | chapter-001 |
+| LOC-003 | Trụ sở Hội Giá Vực | Location | CANON | `lore/locations/LOC-003-tru-so-hoi.md` | chapter-003 |
 | FAC-001 | Hội Giá Vực | Faction | CANON | `lore/factions/FAC-001-hoi-gia-vuc.md` | chapter-001 |
+| CHAR-005 | Odalie Varnes | Character | CANON | `lore/characters/CHAR-005-odalie-varnes.md` | chapter-003 |
+| CHAR-006 | Dask | Character | CANON | `lore/characters/CHAR-006-dask.md` | chapter-006 |
 
 ## Chỉ mục arc/chương
 
 | Arc/Chapter | Trạng thái | Mục tiêu/biến cố | Plan | Summary | Canon đến |
 |---|---|---|---|---|---|
-| ARC-001 | IN_PROGRESS | Elk giữ Nhà Corvin an toàn trước Hội Giá Vực; gieo mầm Dấu Ấn thức tỉnh | `planning/arcs/arc-001.md` | (chưa có arc summary, arc chưa đóng) | EVT-005 |
+| ARC-001 | IN_PROGRESS | Elk giữ Nhà Corvin an toàn trước Hội Giá Vực; Dấu Ấn Phẫn Nộ đã thức tỉnh (Ngoặt 1 đạt được) | `planning/arcs/arc-001.md` | (chưa có arc summary, arc chưa đóng) | EVT-013 |
 | Chapter 001 | DONE | Elk đối đầu Hội Giá Vực một mình; tin Selector tử trận lan tới | `planning/chapters/chapter-001.md` | `summaries/chapters/chapter-001.md` | EVT-005 |
+| Chapter 002 | DONE | Xác nhận danh tính Harlan Dray; Odalie Varnes mời gặp | `planning/chapters/chapter-002.md` | `summaries/chapters/chapter-002.md` | EVT-007 |
+| Chapter 003 | DONE | Thương lượng hợp đồng với Odalie Varnes | `planning/chapters/chapter-003.md` | `summaries/chapters/chapter-003.md` | EVT-009 |
+| Chapter 004 | DONE | Hợp đồng ký; Dask tấn công trả thù, Corvin bị thương | `planning/chapters/chapter-004.md` | `summaries/chapters/chapter-004.md` | EVT-011 |
+| Chapter 005 | DONE | Dấu Ấn Phẫn Nộ thức tỉnh lần đầu (Ngoặt 1) | `planning/chapters/chapter-005.md` | `summaries/chapters/chapter-005.md` | EVT-012 |
+| Chapter 006 | DONE | Hậu quả; Hội Giá Vực chính thức biết Elk là Selector | `planning/chapters/chapter-006.md` | `summaries/chapters/chapter-006.md` | EVT-013 |
 
 ## Ranh giới sáng tạo
 

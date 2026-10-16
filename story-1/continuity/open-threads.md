@@ -2,12 +2,14 @@
 
 Theo dõi câu hỏi, manh mối, lời hứa và tình tiết chưa được giải quyết. Chỉ đóng mối dây khi đối chiếu bản thảo hoàn chỉnh, không chỉ dựa vào outline.
 
-| Thread ID | Câu hỏi/lời hứa | Gieo tại | Ai biết? | Hướng trả lời dự kiến | Hạn/arc | Trạng thái |
-|---|---|---|---|---|---|---|
-| THREAD-001 | Selector nào vừa tử trận ("Rùa Già"), và tại sao tin đó quan trọng đủ để lan tới một vùng biên xa xôi? | chapter-001 (EVT-004) | CHAR-001, CHAR-002 (L); CHAR-003 (K một phần); độc giả (L) | PLANNED — sẽ hé lộ dần qua tin tức/đoàn buôn trước khi gặp trực tiếp một Selector khác | ARC-001/002 | OPEN |
-| THREAD-002 | Elk là con của ai; vì sao cha mẹ cậu ở Vực Khuyết lúc gặp nạn? | chapter-001 (nhắc nền qua EVT-002) | CHAR-001, CHAR-002 (biết một phần) | PLANNED — chưa cần trả lời sớm | Chưa gán arc cụ thể | OPEN |
-| THREAD-003 | Hội Giá Vực (Garrity/Odalie Varnes) sẽ trả đũa/quay lại thế nào sau khi bị Elk làm mất mặt? | chapter-001 (EVT-003) | CHAR-001, CHAR-002, CHAR-004, FAC-001 | PLANNED — hạn cụ thể 3 ngày trong truyện | ARC-001 | OPEN |
-| THREAD-004 | Cảm giác bất thường ở cẳng tay Elk (tiền đề Dấu Ấn Phẫn Nộ) là gì? | chapter-001 (EVT-005) | Chỉ CHAR-001 (chưa kể ai); độc giả biết nhiều hơn qua lore | PLANNED — Dấu Ấn sẽ thức tỉnh rõ ràng ở một chương sau, có setup | ARC-001 | OPEN |
+| Thread ID | Câu hỏi/lời hứa | Gieo tại | Hướng trả lời/trạng thái | Trạng thái |
+|---|---|---|---|---|
+| THREAD-001 | Selector nào vừa tử trận ("Rùa Già")? | chapter-001 | Trả lời: Harlan Dray, Nhẫn Nại (EVT-006) | ANSWERED |
+| THREAD-002 | Elk là con của ai; vì sao cha mẹ cậu ở Vực Khuyết lúc gặp nạn? | chapter-001 | Chưa trả lời, chưa cần sớm | OPEN |
+| THREAD-003 | Hội Giá Vực sẽ trả đũa thế nào sau khi bị Elk làm mất mặt ở Chương 1? | chapter-001 | Trả đũa chính thức không xảy ra — thay vào đó một cấp dưới (Dask) hành động một mình, ngoài tầm kiểm soát của Hội (EVT-011); Hội xử lý nội bộ (EVT-013) | ANSWERED (rẽ hướng, xem THREAD-006 cho hệ quả tiếp theo) |
+| THREAD-004 | Cảm giác bất thường ở cẳng tay Elk là gì? | chapter-001 | Trả lời: tiền đề Dấu Ấn Phẫn Nộ, thức tỉnh ở EVT-012 | ANSWERED |
+| THREAD-005 | Vết nứt/ánh sáng lạ Sable thấy trong Vực Khuyết — có liên quan tới "Vực thở" không? | chapter-003 (EVT-009) | PLANNED — chưa trả lời, giữ cho arc sau hoặc cuối ARC-001 | OPEN |
+| THREAD-006 | Hội Giá Vực (và sắp tới, Odalie Varnes) giờ biết Elk là Selector mang Dấu Ấn Phẫn Nộ — điều này sẽ thay đổi quan hệ/tính toán của họ với Elk thế nào? Tin tức có lan ra ngoài Trấn Rỉ Than không? | chapter-006 (EVT-013) | PLANNED — hướng chính cho phần còn lại của ARC-001 | OPEN |
 
 ## Trạng thái
 
