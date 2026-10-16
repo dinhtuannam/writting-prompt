@@ -28,6 +28,8 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 
 | EVT-019 | Ngày 10 | Teodor Linden (cổ ngữ sư, Học Viện Giải Ngữ) tới Trấn Rỉ Than, nhận ra Elk là Selector, xem ITEM-006: xác nhận cổ ngữ trên đó cổ hơn nền văn minh Hội vẫn khai quật, ký hiệu lặp theo chu kỳ 7/14 trùng số Tội/Hạnh/tổng Selector; xác nhận "Thư Ký" là biệt danh một cổ ngữ sư của Học Viện từng nghiên cứu mối liên hệ cổ ngữ/Selector, bị cấm, rời đi ~20 năm trước; đồng ý ở lại nghiên cứu cùng Elk, không mang ITEM-006 đi | CHAR-001, CHAR-002, CHAR-007 | CHAR-001, CHAR-002, CHAR-007, CHAR-005 (qua Elk báo lại) | Mở hướng điều tra "Thư Ký"/cha mẹ Elk qua Học Viện; Teodor ở lại Rỉ Than | chapter-010 |
 
+| EVT-020 | Ngày 10-12 | Avelina Rourke (Biên Lục viên, Giáo Hội Vòng Lặp) tới ghi hồ sơ chính thức cho Elk; Elk đồng ý kể phiên bản chọn lọc (không gồm ITEM-006/"Thư Ký"); Avelina tiết lộ bà là người ghi hồ sơ cuối của Harlan Dray, 3 tháng trước khi ông chết | CHAR-001, CHAR-002, CHAR-007, CHAR-008 | CHAR-001, CHAR-002, CHAR-007, CHAR-008 | Elk chính thức có hồ sơ giáo hội; kết nối cảm xúc với gương đối ứng Harlan Dray | chapter-011 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.
