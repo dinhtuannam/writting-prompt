@@ -30,6 +30,9 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 
 | EVT-020 | Ngày 10-12 | Avelina Rourke (Biên Lục viên, Giáo Hội Vòng Lặp) tới ghi hồ sơ chính thức cho Elk; Elk đồng ý kể phiên bản chọn lọc (không gồm ITEM-006/"Thư Ký"); Avelina tiết lộ bà là người ghi hồ sơ cuối của Harlan Dray, 3 tháng trước khi ông chết | CHAR-001, CHAR-002, CHAR-007, CHAR-008 | CHAR-001, CHAR-002, CHAR-007, CHAR-008 | Elk chính thức có hồ sơ giáo hội; kết nối cảm xúc với gương đối ứng Harlan Dray | chapter-011 |
 
+| EVT-021 | Ngày 12-13 | Teodor giải mã thêm một dòng trên ITEM-006 — có thể là chữ ký của một "người canh giữ", không phải trang trí | CHAR-001, CHAR-007 | CHAR-001, CHAR-007 | Củng cố giả thuyết ITEM-006 là thông báo cố ý, không phải phế vật ngẫu nhiên | chapter-012 |
+| EVT-022 | Ngày 13 | Tầng 2 Vực Khuyết sập một phần, kẹt 3 người (gồm con trai bà Hask); Elk chui vào cứu, dùng kiếm đỡ một tảng đá lớn đang rơi (Thiên Quyền phản hồi với trọng lượng vật lý thật, không chỉ đòn tấn công) — cả 3 sống, một người gãy chân | CHAR-001, CHAR-004, CHAR-005, Oren | CHAR-001, CHAR-004, CHAR-005, dân trấn chứng kiến | Odalie nghi ngờ vụ sập liên quan tới việc khuấy động tầng 3 (EVT-018) | chapter-012 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.

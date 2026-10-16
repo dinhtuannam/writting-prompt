@@ -30,6 +30,9 @@ Theo dõi sự thật và thông tin theo từng nhân vật. Một nhân vật 
 | FACT-012 | "Thư Ký" là biệt danh không chính thức của một cổ ngữ sư của Học Viện Giải Ngữ, nghiên cứu mối liên hệ cổ ngữ tiền-sụp-đổ/Selector, bị cấm, rời đi ~20 năm trước | K | K | U | U | U | U | K | chapter-010 (EVT-019); CHAR-007 là nguồn |
 | FACT-013 | Ký hiệu trên ITEM-006 lặp theo chu kỳ 7 và 14, trùng số Đại Tội/Đức Hạnh/tổng Selector mỗi Kỳ — có thể không phải tình cờ | K (qua Teodor) | K | U | U | U | U | K | chapter-010 (EVT-019); HYPOTHESIS, chưa xác nhận ý nghĩa đầy đủ |
 
+| FACT-014 | ITEM-006 có thể mang chữ ký của một "người canh giữ" cố ý để lại — không phải phế vật ngẫu nhiên | K | U | U | U | U | U | K | chapter-012 (EVT-021); CHAR-007 là nguồn; HYPOTHESIS |
+| FACT-015 | Tầng 2 Vực Khuyết sập bất thường ngay sau khi tầng 3 bị khuấy động (EVT-018) — có thể liên quan | S (nghi ngờ) | U | U | S | S (người đặt giả thuyết) | U | K | chapter-012 (EVT-022); HYPOTHESIS, chưa xác nhận |
+
 ## Kiểm tra trước khi viết
 
 - Nhân vật nhận thông tin bằng cách nào và vào lúc nào?
