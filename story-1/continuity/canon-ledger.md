@@ -18,6 +18,9 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-012 | Ngày 3, chiều (ngay sau EVT-011) | Dấu Ấn Phẫn Nộ của Elk thức tỉnh lần đầu: hình xăm Rồng xuất hiện trên cẳng tay phải; Elk dùng Thiên Quyền Rồng Phản Kích, giải phóng 2 Hồi qua Tam Hồi Phản Trảm, hất bay vũ khí và quật ngã một trong hai thuộc hạ còn lại của Dask | CHAR-001 | CHAR-001, CHAR-002, CHAR-003, CHAR-006, 1 thuộc hạ chứng kiến (trốn ngay sau đó) | Elk chính thức là Selector từ đây; cẳng tay mang dấu rồng vĩnh viễn (mờ khi không kích hoạt) | chapter-005 |
 | EVT-013 | Ngày 4 | Garrity tới xác nhận sự việc, nhìn thấy dấu rồng trên tay Elk, đưa Dask về để Hội xử lý nội bộ; xác nhận Hội Giá Vực giờ biết Elk là Selector | CHAR-001, CHAR-002, CHAR-004, CHAR-006 | CHAR-001, CHAR-002, CHAR-004, CHAR-006, FAC-001 (qua Garrity, Odalie sẽ biết ngay sau đó, ngoài cảnh) | Thay đổi hẳn cách Hội Giá Vực tính toán quan hệ với Elk | chapter-006 |
 
+| EVT-014 | Ngày 4-5 | Odalie Varnes tới trực tiếp Nhà Corvin, cảnh báo tin Selector sẽ lan ra ngoài Rỉ Than, đề nghị điều khoản bảo lãnh nợ mới đổi lấy việc Elk báo trước nếu có bên ngoài liên hệ; xác nhận Dask bị tước việc, cấm làm cho Hội, phải rời trấn trong 3 ngày | CHAR-001, CHAR-002, CHAR-005 | CHAR-001, CHAR-002, CHAR-005 | Mở rộng quan hệ Elk/Hội; đóng số phận Dask | chapter-007 |
+| EVT-015 | Ngày 4-5 | Corvin kể lại: cha mẹ Elk không phải thợ lặn thường, họ tìm một thứ cụ thể trong Vực Khuyết; một cổ ngữ sư tự gọi là "Thư Ký" đã đưa Elk (2 tuổi) tới cho Corvin ngay sau tai nạn | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Mở lại THREAD-002 với chi tiết mới; mở THREAD-007 | chapter-007 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.

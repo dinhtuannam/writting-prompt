@@ -8,8 +8,8 @@ Cập nhật snapshot cho mỗi nhân vật đang hoạt động sau mỗi chư�
 | CHAR-002 (Corvin) | Ngày 4, đêm | LOC-002 | Vết rạch cánh tay trái, 11 mũi khâu, cần hạn chế vận động tay đó vài tuần; mệt nhưng tỉnh táo | — | Biết Elk là Selector; quan hệ thầy-học trò chuyển sang một tầng mới (lo lắng + tự hào) | chapter-006 |
 | CHAR-003 (Sable) | Ngày 4, chiều | LOC-002 | Sườn trái đang hồi phục, đi lại được nhưng còn yếu; nợ Hội đã xóa (EVT-010) | ITEM-003 (giấy dive-rights, nay không còn ràng buộc nợ) | Hết nợ; thân thiết hơn với Elk/Corvin; biết Elk là Selector | chapter-006 |
 | CHAR-004 (Garrity) | Ngày 4, sáng | Rời LOC-002, về trụ sở Hội | Không thương tích; tâm lý cảnh giác/nể trọng mới với Elk | ITEM-004 (cuốn sổ da, không mang theo lần tới LOC-002 ở Chương 6) | Biết Elk là Selector; sẽ báo lại Odalie Varnes (ngoài cảnh) | chapter-006 |
-| CHAR-005 (Odalie Varnes) | Ngày 2-3, sau EVT-008 | LOC-003 | Không thương tích | Hồ sơ hợp đồng Elk/Sable | Vừa nhận ít hơn đề nghị ban đầu từ Elk; chưa biết Elk là Selector (tính đến hết Chương 6 — Garrity vừa rời đi để báo, ngoài cảnh) | chapter-003 |
-| CHAR-006 (Dask) | Ngày 4, sáng | Bị Garrity dẫn về trụ sở Hội để xử lý nội bộ | Không thương tích nặng (bị quật ngã do phản lực Tam Hồi Phản Trảm, không phải đòn trực tiếp); tâm lý hối hận/sợ hãi | — | Hành động một mình, không có lệnh Hội; chờ Hội xử lý kỷ luật | chapter-006 |
+| CHAR-005 (Odalie Varnes) | Ngày 4-5, sau EVT-014 | Rời LOC-002, về LOC-003 | Không thương tích | Hồ sơ hợp đồng mở rộng với Elk | Biết Elk là Selector; đã lập điều khoản ưu tiên báo trước nếu có bên ngoài liên hệ; xử lý Dask | chapter-007 |
+| CHAR-006 (Dask) | Ngày 4-5 | Rời Trấn Rỉ Than (hạn 3 ngày, ngoài cảnh) | Không thương tích nặng; bị tước việc, cấm làm cho Hội | — | Số phận đã đóng (EVT-014) — có thể dùng lại nếu cốt truyện cần | chapter-007 |
 
 ## Vật phẩm và tài sản đang theo dõi
 

@@ -32,6 +32,9 @@
 | Ngày 4, chiều | — | Sable rời giường, nói chuyện với Elk | LOC-002 | CHAR-001, CHAR-003 | chapter-006 |
 | Ngày 4, đêm | — | Elk nhìn về Vực Khuyết, suy ngẫm | LOC-002 | CHAR-001 | chapter-006 |
 
+| Ngày 4-5 | EVT-014 | Odalie Varnes tới Nhà Corvin trực tiếp, điều khoản mới + số phận Dask | LOC-002 | CHAR-001, CHAR-002, CHAR-005 | chapter-007 |
+| Ngày 4-5 | EVT-015 | Corvin kể về cha mẹ Elk và "Thư Ký" | LOC-002 | CHAR-001, CHAR-002 | chapter-007 |
+
 ## Các tuyến song song
 
 | Mốc | POV/tuyến | Sự kiện | Trùng thời gian với | Ghi chú |

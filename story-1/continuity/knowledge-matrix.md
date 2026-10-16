@@ -20,6 +20,9 @@ Theo dõi sự thật và thông tin theo từng nhân vật. Một nhân vật 
 | FACT-006 | Sable thấy một vết nứt sâu có ánh sáng lạ trong Vực Khuyết trước khi gặp nạn | K | L (nghe Elk kể lại) | K (người chứng kiến) | U | U | U | K | chapter-003 (EVT-009); liên quan THREAD-005 |
 | FACT-007 | Elk mang dấu rồng vĩnh viễn trên cẳng tay phải (mờ khi không kích hoạt) | K | K | K | K | U | K | K | chapter-005, chapter-006 |
 
+| FACT-008 | Cha mẹ Elk không phải thợ lặn thường — họ tìm một thứ cụ thể trong Vực Khuyết khi gặp nạn | K | K | U | U | U | U | K | chapter-007 (EVT-015); liên quan THREAD-002 |
+| FACT-009 | Một cổ ngữ sư tự gọi là "Thư Ký" đã đưa Elk (2 tuổi) tới cho Corvin ngay sau tai nạn, không phải dân trấn | K | K | U | U | U | U | K | chapter-007 (EVT-015); liên quan THREAD-007 |
+
 ## Kiểm tra trước khi viết
 
 - Nhân vật nhận thông tin bằng cách nào và vào lúc nào?
