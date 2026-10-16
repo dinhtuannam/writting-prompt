@@ -20,6 +20,7 @@ Cập nhật snapshot cho mỗi nhân vật đang hoạt động sau mỗi chư�
 | ITEM-003 | Cuộn giấy dive-rights của Sable | CHAR-003 | Còn, không còn ràng buộc nợ sau EVT-010 | EVT-010 | chapter-001, chapter-004 |
 | ITEM-004 | Cuốn sổ da của Garrity | CHAR-004 | Còn | — | chapter-001 |
 | ITEM-006 | Vật hình trụ kim loại xám xanh, khắc cổ ngữ, lạnh, từng phát sáng nhịp đều | CHAR-001 | Còn, chưa giải mã | EVT-018 | chapter-009 |
+| ITEM-007 | Mảnh kim loại tròn cũ của Corvin (kỷ vật thời quân y), khắc mờ một biểu tượng, đeo dây da | CHAR-001 (Corvin trao, Chương 17) | Còn, Elk đang đeo | EVT-030 | chapter-017 |
 | ITEM-005 | Kiếm ngắn cũ của Corvin (treo cạnh cửa gian ngoài, kỷ vật thời quân y) | CHAR-001 (giữ sau EVT-012, trước đó treo ở LOC-002) | Còn, nay là vũ khí Elk dùng khi kích hoạt Thiên Quyền | EVT-012 | chapter-005 |
 
 ## Chi tiết cần cập nhật

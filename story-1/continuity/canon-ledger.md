@@ -44,6 +44,8 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-028 | Ngày 20-33 | Khủng hoảng kinh tế ở Trấn Rỉ Than do đóng cửa Vực Khuyết; Odalie đồng ý mở lại tầng 1 (an toàn nhất, ít giá trị nhất) sau khi Elk xác nhận không có dấu hiệu bất thường bằng cảm nhận Dấu Ấn | CHAR-001, CHAR-004, CHAR-005 | CHAR-001, CHAR-004, CHAR-005, dân trấn | Giảm bớt khủng hoảng kinh tế; xác lập vai trò mới của Elk — "cảm biến" an toàn cho Hội | chapter-016 |
 | EVT-029 | Ngày 33 | Elk quyết định sẽ tìm cách tiếp cận lại khoang tầng 3 để thử "đáp lại" khoảng trống bằng chính sự hiện diện Selector của mình, dù không biết nghi thức thật; Corvin đồng ý có điều kiện — chuẩn bị kỹ, không đi một mình | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Đặt nền cho cao trào ARC-001 | chapter-016 |
 
+| EVT-030 | Ngày 33-36 | Chuẩn bị cho chuyến xuống tầng 3 lần nữa: Oren đồng ý dẫn đường sau 3 ngày đối mặt chấn thương tâm lý; Sable xin đi xa hơn (tới tầng 2); Corvin trao Elk kỷ vật quân y (ITEM-007); Odalie/Garrity bày tỏ ủng hộ | CHAR-001, CHAR-002, CHAR-003, Oren, CHAR-004, CHAR-005 | Tất cả người liên quan | Đặt nền cảm xúc/hậu cần cho cao trào | chapter-017 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.
