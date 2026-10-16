@@ -46,6 +46,8 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 
 | EVT-030 | Ngày 33-36 | Chuẩn bị cho chuyến xuống tầng 3 lần nữa: Oren đồng ý dẫn đường sau 3 ngày đối mặt chấn thương tâm lý; Sable xin đi xa hơn (tới tầng 2); Corvin trao Elk kỷ vật quân y (ITEM-007); Odalie/Garrity bày tỏ ủng hộ | CHAR-001, CHAR-002, CHAR-003, Oren, CHAR-004, CHAR-005 | Tất cả người liên quan | Đặt nền cảm xúc/hậu cần cho cao trào | chapter-017 |
 
+| EVT-031 | Ngày 36 | Elk và Oren xuống lại khoang tầng 3, thu được thi thể Teodor; Elk chủ động chạm vào tường để gọi năng lượng còn tích tụ trồi lên, dùng kiếm đỡ nó như một cú va chạm thật (đúng cơ chế Rồng Phản Kích/Tam Hồi Phản Trảm), ghi 1 Hồi, giải phóng ngược vào đúng lỗ trống trên tường — ổn định tạm thời sự bất ổn của khoang, không còn rung chuyển/ánh sáng dồn nén | CHAR-001, CHAR-009 (Oren) | CHAR-001, CHAR-009, CHAR-003 (qua chứng kiến khi lên), dân trấn (qua kể lại) | Ổn định tạm thời Vực Khuyết (không phải giải pháp vĩnh viễn); thu hồi được thi thể Teodor cho an táng đầy đủ | chapter-018 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.

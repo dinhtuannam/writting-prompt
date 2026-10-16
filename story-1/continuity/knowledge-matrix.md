@@ -38,6 +38,8 @@ Theo dõi sự thật và thông tin theo từng nhân vật. Một nhân vật 
 
 | FACT-018 | Lý thuyết của Teodor: khi Selector chết, một "khoảng trống" trong Chu Kỳ cộng hưởng với di tích cổ; từng có "nghi thức" đóng khoảng trống đó, nay đã mất; Harlan Dray chết không có nghi thức | K | L (nghe Elk kể) | K (cùng đọc) | U | U | U | K | chapter-015 (EVT-025); HYPOTHESIS học thuật, chưa xác nhận là sự thật khách quan |
 
+| FACT-019 | Elk có thể dùng Thiên Quyền để đỡ và trả lại năng lượng dồn tích trong khoang tầng 3, ổn định tạm thời sự bất ổn — không phải nghi thức thật đã mất, chỉ là giải pháp tạm | K | L (nghe kể) | L (nghe kể) | U | U | U | K | chapter-018 (EVT-031); THREAD-008 vẫn mở, giải pháp này không khép lại hoàn toàn |
+
 ## Kiểm tra trước khi viết
 
 - Nhân vật nhận thông tin bằng cách nào và vào lúc nào?
