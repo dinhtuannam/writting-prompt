@@ -40,6 +40,10 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-025 | Ngày 17-19 | Elk và Sable lấy ghi chú của Teodor từ dưới ván sàn phòng ông thuê; nội dung: khi một Selector chết, một "khoảng trống" trong Chu Kỳ bị bỏ lại, cộng hưởng với di tích cổ như Vực Khuyết; từng có "nghi thức" để đóng khoảng trống đó đúng cách, nay đã mất; Harlan Dray chết không có nghi thức, có thể là một phần lý do Vực Khuyết bất ổn hơn đúng lúc Elk (Selector mới) khuấy động nó | CHAR-001, CHAR-003 | CHAR-001, CHAR-003 | Giải thích lý thuyết cho THREAD-008; xác nhận cha mẹ Elk tìm lại nghi thức đã mất, không phải phế vật | chapter-015 |
 | EVT-026 | Ngày 17-19 | Odalie Varnes ra lệnh đóng toàn bộ Vực Khuyết vô thời hạn sau cái chết của Teodor; gây chia rẽ nội bộ Hội Giá Vực vì mất nguồn thu chính của trấn | CHAR-001, CHAR-004, CHAR-005, FAC-001 | CHAR-001, CHAR-004, CHAR-005, dân trấn | Khủng hoảng kinh tế mới cho Trấn Rỉ Than; đặt nền cho quyết định lớn ở cao trào ARC-001 | chapter-015 |
 
+| EVT-027 | Ngày 20 | An táng Teodor; Elk đặt bản sao ghi chép xuống mộ, giữ nguyên bản | CHAR-001, CHAR-002, CHAR-003 | Dân trấn tham dự | Khép lại tang lễ, không khép lại câu hỏi | chapter-016 |
+| EVT-028 | Ngày 20-33 | Khủng hoảng kinh tế ở Trấn Rỉ Than do đóng cửa Vực Khuyết; Odalie đồng ý mở lại tầng 1 (an toàn nhất, ít giá trị nhất) sau khi Elk xác nhận không có dấu hiệu bất thường bằng cảm nhận Dấu Ấn | CHAR-001, CHAR-004, CHAR-005 | CHAR-001, CHAR-004, CHAR-005, dân trấn | Giảm bớt khủng hoảng kinh tế; xác lập vai trò mới của Elk — "cảm biến" an toàn cho Hội | chapter-016 |
+| EVT-029 | Ngày 33 | Elk quyết định sẽ tìm cách tiếp cận lại khoang tầng 3 để thử "đáp lại" khoảng trống bằng chính sự hiện diện Selector của mình, dù không biết nghi thức thật; Corvin đồng ý có điều kiện — chuẩn bị kỹ, không đi một mình | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Đặt nền cho cao trào ARC-001 | chapter-016 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.
