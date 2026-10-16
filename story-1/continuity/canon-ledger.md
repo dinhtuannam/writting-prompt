@@ -26,6 +26,8 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 
 | EVT-018 | Ngày 9 | Elk (dẫn đường: Oren) lặn tới tầng 3 Vực Khuyết, vào một khoang khắc ký tự cổ quanh một vật hình trụ phát sáng nhịp đều; cẳng tay Elk ấm lên gần vật đó; chạm vào mép tường khiến ký tự sáng đồng loạt và có tiếng rạn lớn; Elk lấy vật hình trụ (ITEM-006) rồi rút lên ngay | CHAR-001, Oren (phụ, không có CHAR-ID riêng — vai trò kỹ thuật) | CHAR-001, Oren, CHAR-003 (qua kể lại) | Mở khả năng liên hệ giữa Selector/Chu Kỳ và nền văn minh cổ; vật ITEM-006 cần người biết cổ ngữ để giải mã | chapter-009 |
 
+| EVT-019 | Ngày 10 | Teodor Linden (cổ ngữ sư, Học Viện Giải Ngữ) tới Trấn Rỉ Than, nhận ra Elk là Selector, xem ITEM-006: xác nhận cổ ngữ trên đó cổ hơn nền văn minh Hội vẫn khai quật, ký hiệu lặp theo chu kỳ 7/14 trùng số Tội/Hạnh/tổng Selector; xác nhận "Thư Ký" là biệt danh một cổ ngữ sư của Học Viện từng nghiên cứu mối liên hệ cổ ngữ/Selector, bị cấm, rời đi ~20 năm trước; đồng ý ở lại nghiên cứu cùng Elk, không mang ITEM-006 đi | CHAR-001, CHAR-002, CHAR-007 | CHAR-001, CHAR-002, CHAR-007, CHAR-005 (qua Elk báo lại) | Mở hướng điều tra "Thư Ký"/cha mẹ Elk qua Học Viện; Teodor ở lại Rỉ Than | chapter-010 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.

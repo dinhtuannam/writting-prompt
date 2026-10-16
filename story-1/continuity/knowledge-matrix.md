@@ -27,6 +27,9 @@ Theo dõi sự thật và thông tin theo từng nhân vật. Một nhân vật 
 
 | FACT-011 | Cẳng tay mang Dấu Ấn của Elk ấm lên gần vật hình trụ cổ trong Vực Khuyết — có thể Selector/Chu Kỳ liên quan tới nền văn minh cổ đã sụp đổ | K | L (nghe kể) | L (nghe kể) | U | U | U | K | chapter-009 (EVT-018); HYPOTHESIS trong thế giới, chưa xác nhận cơ chế |
 
+| FACT-012 | "Thư Ký" là biệt danh không chính thức của một cổ ngữ sư của Học Viện Giải Ngữ, nghiên cứu mối liên hệ cổ ngữ tiền-sụp-đổ/Selector, bị cấm, rời đi ~20 năm trước | K | K | U | U | U | U | K | chapter-010 (EVT-019); CHAR-007 là nguồn |
+| FACT-013 | Ký hiệu trên ITEM-006 lặp theo chu kỳ 7 và 14, trùng số Đại Tội/Đức Hạnh/tổng Selector mỗi Kỳ — có thể không phải tình cờ | K (qua Teodor) | K | U | U | U | U | K | chapter-010 (EVT-019); HYPOTHESIS, chưa xác nhận ý nghĩa đầy đủ |
+
 ## Kiểm tra trước khi viết
 
 - Nhân vật nhận thông tin bằng cách nào và vào lúc nào?

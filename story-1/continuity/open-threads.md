@@ -10,7 +10,7 @@ Theo dõi câu hỏi, manh mối, lời hứa và tình tiết chưa được gi
 | THREAD-004 | Cảm giác bất thường ở cẳng tay Elk là gì? | chapter-001 | Trả lời: tiền đề Dấu Ấn Phẫn Nộ, thức tỉnh ở EVT-012 | ANSWERED |
 | THREAD-005 | Vết nứt/ánh sáng lạ Sable thấy trong Vực Khuyết — có liên quan tới "Vực thở" không? | chapter-003 (EVT-009) | Chương 8: chuyến lặn điều tra được lên kế hoạch (EVT-017), thực hiện Chương 9 | IN_PROGRESS |
 | THREAD-006 | Hội Giá Vực/Odalie Varnes giờ biết Elk là Selector — tin tức có lan ra ngoài Trấn Rỉ Than không, ai sẽ tới tìm Elk? | chapter-006 (EVT-013) | Chương 7: Odalie xác nhận tin sẽ lan trong 1-2 tháng; học viện/giáo hội/quý tộc đều là khả năng | IN_PROGRESS |
-| THREAD-007 | "Thư Ký" là ai — cổ ngữ sư đã đưa Elk tới cho Corvin — và cha mẹ Elk tìm gì trong Vực Khuyết? | chapter-007 (EVT-015) | PLANNED — có thể cần tìm manh mối ở học viện | OPEN |
+| THREAD-007 | "Thư Ký" là ai thật, và cha mẹ Elk tìm gì trong Vực Khuyết? | chapter-007 (EVT-015) | Chương 10: xác nhận bà là cổ ngữ sư Học Viện Giải Ngữ bị cấm nghiên cứu, rời đi ~20 năm trước (FACT-012) — danh tính thật vẫn chưa rõ | IN_PROGRESS |
 
 ## Trạng thái
 
