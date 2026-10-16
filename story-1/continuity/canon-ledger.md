@@ -48,6 +48,10 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 
 | EVT-031 | Ngày 36 | Elk và Oren xuống lại khoang tầng 3, thu được thi thể Teodor; Elk chủ động chạm vào tường để gọi năng lượng còn tích tụ trồi lên, dùng kiếm đỡ nó như một cú va chạm thật (đúng cơ chế Rồng Phản Kích/Tam Hồi Phản Trảm), ghi 1 Hồi, giải phóng ngược vào đúng lỗ trống trên tường — ổn định tạm thời sự bất ổn của khoang, không còn rung chuyển/ánh sáng dồn nén | CHAR-001, CHAR-009 (Oren) | CHAR-001, CHAR-009, CHAR-003 (qua chứng kiến khi lên), dân trấn (qua kể lại) | Ổn định tạm thời Vực Khuyết (không phải giải pháp vĩnh viễn); thu hồi được thi thể Teodor cho an táng đầy đủ | chapter-018 |
 
+| EVT-032 | Ngày 38 | An táng đầy đủ Teodor Linden; trấn tham dự đông, hòa giải phần lớn sự e dè với Elk sau tin ổn định Vực Khuyết lan ra | CHAR-001, CHAR-002, CHAR-003, dân trấn | Dân trấn | Phục hồi uy tín của Elk trong mắt trấn | chapter-019 |
+| EVT-033 | Ngày 38-48 | Odalie mở lại tầng 2 (chậm, cẩn trọng); tầng 3 giữ đóng vô thời hạn; vai trò xác nhận an toàn của Elk chính thức hóa trong quy trình Hội | CHAR-001, CHAR-005, FAC-001 | CHAR-001, CHAR-005, dân trấn | Phục hồi một phần kinh tế trấn | chapter-019 |
+| EVT-034 | Ngày 48 | Elk nói với Odalie (và sau đó với chính mình) rằng cậu sẽ cần rời Trấn Rỉ Than để tìm "Thư Ký"/phần còn lại của câu trả lời, dù chưa định ngày; Sable quyết định học nghề y từ Corvin để kế tục Nhà Corvin | CHAR-001, CHAR-002, CHAR-003, CHAR-005 | CHAR-001, CHAR-002, CHAR-003, CHAR-005 | Đặt hướng đi cho giai đoạn tiếp theo của truyện (ngoài phạm vi ARC-001 hiện đang viết) | chapter-019 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.
