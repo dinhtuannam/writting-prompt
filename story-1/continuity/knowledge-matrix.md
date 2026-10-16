@@ -25,6 +25,8 @@ Theo dõi sự thật và thông tin theo từng nhân vật. Một nhân vật 
 
 | FACT-010 | Thiên Quyền của Elk chỉ phản hồi khi chấp nhận rủi ro thật, không phản hồi với nguy hiểm giả/dàn dựng | K | K | U | U | U | U | K | chapter-008 (EVT-016) |
 
+| FACT-011 | Cẳng tay mang Dấu Ấn của Elk ấm lên gần vật hình trụ cổ trong Vực Khuyết — có thể Selector/Chu Kỳ liên quan tới nền văn minh cổ đã sụp đổ | K | L (nghe kể) | L (nghe kể) | U | U | U | K | chapter-009 (EVT-018); HYPOTHESIS trong thế giới, chưa xác nhận cơ chế |
+
 ## Kiểm tra trước khi viết
 
 - Nhân vật nhận thông tin bằng cách nào và vào lúc nào?
