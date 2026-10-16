@@ -21,6 +21,9 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-014 | Ngày 4-5 | Odalie Varnes tới trực tiếp Nhà Corvin, cảnh báo tin Selector sẽ lan ra ngoài Rỉ Than, đề nghị điều khoản bảo lãnh nợ mới đổi lấy việc Elk báo trước nếu có bên ngoài liên hệ; xác nhận Dask bị tước việc, cấm làm cho Hội, phải rời trấn trong 3 ngày | CHAR-001, CHAR-002, CHAR-005 | CHAR-001, CHAR-002, CHAR-005 | Mở rộng quan hệ Elk/Hội; đóng số phận Dask | chapter-007 |
 | EVT-015 | Ngày 4-5 | Corvin kể lại: cha mẹ Elk không phải thợ lặn thường, họ tìm một thứ cụ thể trong Vực Khuyết; một cổ ngữ sư tự gọi là "Thư Ký" đã đưa Elk (2 tuổi) tới cho Corvin ngay sau tai nạn | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Mở lại THREAD-002 với chi tiết mới; mở THREAD-007 | chapter-007 |
 
+| EVT-016 | Ngày 5-8 | Elk tập luyện có ý thức với Corvin; phát hiện Thiên Quyền chỉ phản hồi khi chấp nhận rủi ro thật, không phản hồi với nguy hiểm giả/dàn dựng | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Giới hạn luyện tập được xác lập (FACT-010) | chapter-008 |
+| EVT-017 | Ngày 8 | Sable đề xuất quay lại Vực Khuyết tới đúng vị trí vết nứt lạ; Odalie Varnes cấp thiết bị + người dẫn đường, đổi lấy quyền biết trước nếu tìm thấy tri thức giá trị | CHAR-001, CHAR-002, CHAR-003, CHAR-005 | CHAR-001, CHAR-002, CHAR-003, CHAR-005 | Dẫn tới chuyến lặn Chương 9 | chapter-008 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.

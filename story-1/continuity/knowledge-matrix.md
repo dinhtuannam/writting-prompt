@@ -23,6 +23,8 @@ Theo dõi sự thật và thông tin theo từng nhân vật. Một nhân vật 
 | FACT-008 | Cha mẹ Elk không phải thợ lặn thường — họ tìm một thứ cụ thể trong Vực Khuyết khi gặp nạn | K | K | U | U | U | U | K | chapter-007 (EVT-015); liên quan THREAD-002 |
 | FACT-009 | Một cổ ngữ sư tự gọi là "Thư Ký" đã đưa Elk (2 tuổi) tới cho Corvin ngay sau tai nạn, không phải dân trấn | K | K | U | U | U | U | K | chapter-007 (EVT-015); liên quan THREAD-007 |
 
+| FACT-010 | Thiên Quyền của Elk chỉ phản hồi khi chấp nhận rủi ro thật, không phản hồi với nguy hiểm giả/dàn dựng | K | K | U | U | U | U | K | chapter-008 (EVT-016) |
+
 ## Kiểm tra trước khi viết
 
 - Nhân vật nhận thông tin bằng cách nào và vào lúc nào?
