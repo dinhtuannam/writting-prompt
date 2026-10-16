@@ -17,9 +17,9 @@
 
 - **Trạng thái:** DRAFTING
 - **Arc hiện tại:** ARC-001 — "Trấn Rỉ Than"
-- **Số chương hoàn chỉnh đã audit:** 6
-- **Chương đang soạn:** Chương 7 (chưa bắt đầu)
-- **Mốc tiếp theo:** Viết plan Chương 7 — phản ứng của Odalie Varnes khi biết Elk là Selector; có thể mở rộng ra ngoài Trấn Rỉ Than (THREAD-006).
+- **Số chương hoàn chỉnh đã audit:** 20
+- **Chương đang soạn:** Chương 21 (chưa bắt đầu — cần plan ARC-002 trước)
+- **Mốc tiếp theo:** ARC-001 "Trấn Rỉ Than" đã HOÀN TẤT (Ch.1-20). Trước khi viết Chương 21: tạo `planning/arcs/arc-002.md` cho hành trình Elk tìm "Thư Ký" ngoài vùng biên.
 - **Quyết định đột phá đang chờ tác giả:** (không có)
 
 ## Logline
@@ -28,12 +28,12 @@ Elk Vantry, một vệ y hiền lành ở trấn khai quật đổ nát Rỉ Tha
 
 ## Snapshot canon hiện tại
 
-- **Mốc thời gian:** Năm Lịch Vực 643, Kỳ XIV — Ngày 4 (đêm)
-- **Địa điểm tuyến chính:** LOC-002 Nhà Corvin, Trấn Rỉ Than (ven LOC-001 Vực Khuyết)
-- **Tình trạng nhân vật chính:** Elk (CHAR-001) đã chính thức là Selector mang Dấu Ấn Phẫn Nộ (EVT-012); cổ tay phải còn đau nhẹ, tâm lý đang xử lý danh tính mới. Corvin (CHAR-002) đang hồi phục sau vết thương cánh tay.
-- **Mối nguy tức thời:** Hội Giá Vực đã biết Elk là Selector (qua Garrity); Odalie Varnes sắp biết, phản ứng của bà chưa viết (THREAD-006).
-- **Bí mật độc giả biết, nhân vật chưa biết:** (không còn khoảng cách lớn — FACT-002 nay đã là sự thật cả độc giả và các nhân vật chính đều biết)
-- **Bí mật nhân vật biết, độc giả chưa biết:** Odalie Varnes chưa xuất hiện lại sau khi biết tin — phản ứng của bà là ẩn số cho cả độc giả và Elk.
+- **Mốc thời gian:** Năm Lịch Vực 643, Kỳ XIV — khoảng Ngày 60
+- **Địa điểm tuyến chính:** LOC-002 Nhà Corvin, Trấn Rỉ Than — Elk chuẩn bị rời đi; ARC-002 (hành trình ngoài vùng biên) chưa viết
+- **Tình trạng nhân vật chính:** Elk (CHAR-001) đã kiểm soát Thiên Quyền qua thực chiến; không bị thương; tâm lý ổn định, hướng tới hành trình tìm "Thư Ký". Corvin đã hồi phục gần hết; Sable đang học nghề y để kế tục Nhà Corvin.
+- **Mối nguy tức thời:** Rủi ro từ lời nói dối với Học Viện Giải Ngữ (THREAD-009, chưa phát sinh hệ quả); "nghi thức" thật vẫn chưa tìm lại.
+- **Bí mật độc giả biết, nhân vật chưa biết:** (không còn khoảng cách lớn ở quy mô ARC-001)
+- **Bí mật nhân vật biết, độc giả chưa biết:** Danh tính/vị trí thật của "Thư Ký" — ẩn số cho cả Elk và độc giả, hướng chính của ARC-002.
 - **Canon conflict đang mở:** (không có)
 
 ## Tài liệu quan trọng

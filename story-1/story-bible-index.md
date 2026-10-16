@@ -6,13 +6,13 @@
 
 - **Story ID:** story-1
 - **Tên:** Tam Hồi Phản Trảm (tên làm việc)
-- **Index version:** 3
+- **Index version:** 4
 - **Ý tưởng sơ khai gốc:** `seed.md`
 - **Bản sao seed trong novel:** `seed.md` (giữ bản gốc không chỉnh sửa; ghi diễn giải phát triển ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chapter 006 / EVT-013
-- **Chương tiếp theo cần viết:** 007
+- **Canon cập nhật đến:** Chapter 020 / EVT-037 (ARC-001 hoàn tất)
+- **Chương tiếp theo cần viết:** 021 (cần `planning/arcs/arc-002.md` trước)
 - **Index cập nhật lần cuối:** 2026-10-17
 - **Conflict đang chặn tiến độ:** (không có)
 
@@ -134,20 +134,39 @@ Không tái sử dụng ID đã retired. Bảng entity index dưới đây phả
 | LOC-002 | Nhà Corvin | Location | CANON | `lore/locations/LOC-002-nha-corvin.md` | chapter-001 |
 | LOC-003 | Trụ sở Hội Giá Vực | Location | CANON | `lore/locations/LOC-003-tru-so-hoi.md` | chapter-003 |
 | FAC-001 | Hội Giá Vực | Faction | CANON | `lore/factions/FAC-001-hoi-gia-vuc.md` | chapter-001 |
+| FAC-002 | Học Viện Giải Ngữ | Faction | CANON | `lore/factions/README.md` | chapter-010 |
+| FAC-003 | Giáo Hội Vòng Lặp | Faction | CANON | `lore/factions/README.md` | chapter-011 |
 | CHAR-005 | Odalie Varnes | Character | CANON | `lore/characters/CHAR-005-odalie-varnes.md` | chapter-003 |
 | CHAR-006 | Dask | Character | CANON | `lore/characters/CHAR-006-dask.md` | chapter-006 |
+| CHAR-007 | Teodor Linden | Character | CANON (đã mất) | `lore/characters/CHAR-007-teodor-linden.md` | chapter-010, chapter-014 |
+| CHAR-008 | Avelina Rourke | Character | CANON | `lore/characters/CHAR-008-avelina-rourke.md` | chapter-011 |
+| CHAR-009 | Oren | Character | CANON | `lore/characters/CHAR-009-oren.md` | chapter-009 |
 
 ## Chỉ mục arc/chương
 
 | Arc/Chapter | Trạng thái | Mục tiêu/biến cố | Plan | Summary | Canon đến |
 |---|---|---|---|---|---|
-| ARC-001 | IN_PROGRESS | Elk giữ Nhà Corvin an toàn trước Hội Giá Vực; Dấu Ấn Phẫn Nộ đã thức tỉnh (Ngoặt 1 đạt được) | `planning/arcs/arc-001.md` | (chưa có arc summary, arc chưa đóng) | EVT-013 |
+| ARC-001 | COMPLETE | Elk giữ Nhà Corvin/Trấn Rỉ Than, Dấu Ấn thức tỉnh, vượt khủng hoảng Vực Khuyết, chuẩn bị rời trấn tìm "Thư Ký" | `planning/arcs/arc-001.md` | (chưa viết arc summary riêng — xem `summaries/story-so-far.md`) | EVT-037 |
 | Chapter 001 | DONE | Elk đối đầu Hội Giá Vực một mình; tin Selector tử trận lan tới | `planning/chapters/chapter-001.md` | `summaries/chapters/chapter-001.md` | EVT-005 |
 | Chapter 002 | DONE | Xác nhận danh tính Harlan Dray; Odalie Varnes mời gặp | `planning/chapters/chapter-002.md` | `summaries/chapters/chapter-002.md` | EVT-007 |
 | Chapter 003 | DONE | Thương lượng hợp đồng với Odalie Varnes | `planning/chapters/chapter-003.md` | `summaries/chapters/chapter-003.md` | EVT-009 |
 | Chapter 004 | DONE | Hợp đồng ký; Dask tấn công trả thù, Corvin bị thương | `planning/chapters/chapter-004.md` | `summaries/chapters/chapter-004.md` | EVT-011 |
 | Chapter 005 | DONE | Dấu Ấn Phẫn Nộ thức tỉnh lần đầu (Ngoặt 1) | `planning/chapters/chapter-005.md` | `summaries/chapters/chapter-005.md` | EVT-012 |
 | Chapter 006 | DONE | Hậu quả; Hội Giá Vực chính thức biết Elk là Selector | `planning/chapters/chapter-006.md` | `summaries/chapters/chapter-006.md` | EVT-013 |
+| Chapter 007 | DONE | Odalie mở rộng quan hệ; Corvin kể về cha mẹ Elk/"Thư Ký" | (retrofit, xem summary) | `summaries/chapters/chapter-007.md` | EVT-015 |
+| Chapter 008 | DONE | Tập luyện có ý thức; chuẩn bị chuyến lặn | (retrofit, xem summary) | `summaries/chapters/chapter-008.md` | EVT-017 |
+| Chapter 009 | DONE | Lặn tầng 3, tìm ITEM-006 | (retrofit, xem summary) | `summaries/chapters/chapter-009.md` | EVT-018 |
+| Chapter 010 | DONE | Teodor Linden xuất hiện, giải mã ITEM-006 một phần | (retrofit, xem summary) | `summaries/chapters/chapter-010.md` | EVT-019 |
+| Chapter 011 | DONE | Avelina Rourke ghi hồ sơ Selector chính thức | (retrofit, xem summary) | `summaries/chapters/chapter-011.md` | EVT-020 |
+| Chapter 012 | DONE | Teodor giải mã thêm; tầng 2 sập, Elk cứu 3 người | (retrofit, xem summary) | `summaries/chapters/chapter-012.md` | EVT-022 |
+| Chapter 013 | DONE | Teodor + Oren xuống lại bất chấp lệnh đóng; chấn động lớn | (retrofit, xem summary) | `summaries/chapters/chapter-013.md` | EVT-023 |
+| Chapter 014 | DONE | Teodor tử trận; giới hạn Thiên Quyền; lời cuối về "nghi thức" | (retrofit, xem summary) | `summaries/chapters/chapter-014.md` | EVT-024 |
+| Chapter 015 | DONE | Ghi chú Teodor; lý thuyết "khoảng trống Chu Kỳ"; đóng toàn bộ Vực Khuyết | (retrofit, xem summary) | `summaries/chapters/chapter-015.md` | EVT-026 |
+| Chapter 016 | DONE | Khủng hoảng kinh tế; mở lại tầng 1; Elk quyết định xuống lại | (retrofit, xem summary) | `summaries/chapters/chapter-016.md` | EVT-029 |
+| Chapter 017 | DONE | Chuẩn bị cao trào; kỷ vật Corvin | (retrofit, xem summary) | `summaries/chapters/chapter-017.md` | EVT-030 |
+| Chapter 018 | DONE | Cao trào — ổn định tạm Vực Khuyết bằng đúng cơ chế Thiên Quyền | (retrofit, xem summary) | `summaries/chapters/chapter-018.md` | EVT-031 |
+| Chapter 019 | DONE | Trấn hồi phục; Sable học nghề; Elk định rời đi | (retrofit, xem summary) | `summaries/chapters/chapter-019.md` | EVT-034 |
+| Chapter 020 | DONE | Học Viện đòi tài liệu, Elk từ chối; rời Trấn Rỉ Than | (retrofit, xem summary) | `summaries/chapters/chapter-020.md` | EVT-037 |
 
 ## Ranh giới sáng tạo
 

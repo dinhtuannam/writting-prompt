@@ -52,6 +52,10 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-033 | Ngày 38-48 | Odalie mở lại tầng 2 (chậm, cẩn trọng); tầng 3 giữ đóng vô thời hạn; vai trò xác nhận an toàn của Elk chính thức hóa trong quy trình Hội | CHAR-001, CHAR-005, FAC-001 | CHAR-001, CHAR-005, dân trấn | Phục hồi một phần kinh tế trấn | chapter-019 |
 | EVT-034 | Ngày 48 | Elk nói với Odalie (và sau đó với chính mình) rằng cậu sẽ cần rời Trấn Rỉ Than để tìm "Thư Ký"/phần còn lại của câu trả lời, dù chưa định ngày; Sable quyết định học nghề y từ Corvin để kế tục Nhà Corvin | CHAR-001, CHAR-002, CHAR-003, CHAR-005 | CHAR-001, CHAR-002, CHAR-003, CHAR-005 | Đặt hướng đi cho giai đoạn tiếp theo của truyện (ngoài phạm vi ARC-001 hiện đang viết) | chapter-019 |
 
+| EVT-035 | Ngày 52 | Học Viện Giải Ngữ gửi thư chính thức yêu cầu giao lại toàn bộ tài liệu nghiên cứu của Teodor; Elk trả lời rằng tài liệu đã mất trong vụ sập (không đúng sự thật — thực tế Elk giữ lại bản gốc) | CHAR-001, CHAR-002, FAC-002 | CHAR-001, CHAR-002, FAC-002 (tin vào lời Elk) | Elk giữ được tài liệu; có thể gây rủi ro quan hệ với Học Viện về sau | chapter-020 |
+| EVT-036 | Ngày 53 | Elk thông báo với Odalie Varnes ý định rời Trấn Rỉ Than sau khi tầng 2 ổn định hẳn; hợp đồng tư vấn vẫn giữ hiệu lực từ xa | CHAR-001, CHAR-005 | CHAR-001, CHAR-005 | Đóng ARC-001; mở hướng ARC-002 (ngoài phạm vi đang viết) | chapter-020 |
+| EVT-037 | Ngày ~60 (đêm trước khi rời đi) | Elk, Corvin, Sable cùng đứng ở cửa sau Nhà Corvin lần cuối trước khi Elk rời trấn lần đầu trong đời | CHAR-001, CHAR-002, CHAR-003 | CHAR-001, CHAR-002, CHAR-003 | Khép ARC-001 trên phương diện cảm xúc | chapter-020 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.

@@ -12,6 +12,7 @@ Theo dõi câu hỏi, manh mối, lời hứa và tình tiết chưa được gi
 | THREAD-006 | Ai/tổ chức nào sẽ tiếp tục tới tìm Elk sau học viện (Ch.10) và giáo hội (Ch.11)? Quý tộc/vương triều vẫn chưa xuất hiện | chapter-006 (EVT-013) | Chương 10-11: Học viện (Teodor) và Giáo Hội Vòng Lặp (Avelina) đã tới; quý tộc/vương triều còn lại | IN_PROGRESS |
 | THREAD-007 | "Thư Ký" là ai thật, và cha mẹ Elk tìm gì trong Vực Khuyết? | chapter-007 (EVT-015) | Chương 14: họ tìm cách ngăn điều gì đó liên quan tới "nghi thức" khi Selector chết (FACT-016) — vẫn chưa rõ chi tiết; ghi chú của Teodor (FACT-017) có thể giải thích thêm | IN_PROGRESS |
 | THREAD-008 | "Nghi thức" khi một Selector chết thực chất là gì, và có thể phục hồi được vĩnh viễn không? | chapter-014 (EVT-024) | Chương 18: Elk tìm được giải pháp tạm (đỡ/trả năng lượng bằng kiếm, FACT-019) — ổn định được Vực Khuyết hiện tại, nhưng KHÔNG phải nghi thức thật; vẫn mở cho các arc sau | IN_PROGRESS |
+| THREAD-009 | Học Viện Giải Ngữ tin tài liệu của Teodor đã mất (FACT-020) — rủi ro gì nếu họ phát hiện Elk nói dối? | chapter-020 (EVT-035) | PLANNED — rủi ro tiềm ẩn cho hành trình tiếp theo | OPEN |
 
 ## Trạng thái
 
