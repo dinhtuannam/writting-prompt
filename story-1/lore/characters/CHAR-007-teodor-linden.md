@@ -7,7 +7,7 @@
 - **Tuổi/ngày sinh/đại từ:** Khoảng 50 tuổi; nam
 - **Vai trò/POV:** Nhân vật phụ quan trọng, nguồn tri thức/mối dây; không là POV
 - **Lần xuất hiện đầu:** Chương 10
-- **Trạng thái hiện tại:** Sống, ở lại Trấn Rỉ Than để nghiên cứu ITEM-006 cùng Elk
+- **Trạng thái hiện tại:** ĐÃ CHẾT (EVT-024, Chương 14) — bị chèn dưới khối đá trong khoang tầng 3 Vực Khuyết, không thể cứu được; để lại ghi chú nghiên cứu giấu dưới ván sàn phòng thuê (FACT-017, chưa lấy)
 
 ## Tâm lý và động cơ
 

@@ -33,6 +33,9 @@ Theo dõi sự thật và thông tin theo từng nhân vật. Một nhân vật 
 | FACT-014 | ITEM-006 có thể mang chữ ký của một "người canh giữ" cố ý để lại — không phải phế vật ngẫu nhiên | K | U | U | U | U | U | K | chapter-012 (EVT-021); CHAR-007 là nguồn; HYPOTHESIS |
 | FACT-015 | Tầng 2 Vực Khuyết sập bất thường ngay sau khi tầng 3 bị khuấy động (EVT-018) — có thể liên quan | S (nghi ngờ) | U | U | S | S (người đặt giả thuyết) | U | K | chapter-012 (EVT-022); HYPOTHESIS, chưa xác nhận |
 
+| FACT-016 | Cha mẹ Elk tìm cách ngăn một điều liên quan tới "nghi thức" khi một Selector chết — chưa rõ chi tiết | K (nghe lời cuối Teodor) | U | U | U | U | U | K | chapter-014 (EVT-024); liên quan THREAD-002/008 |
+| FACT-017 | Ghi chú đầy đủ của Teodor giấu dưới tấm ván sàn thứ ba từ cửa phòng ông thuê | K | U | U | U | U | U | K | chapter-014 (EVT-024); chưa lấy |
+
 ## Kiểm tra trước khi viết
 
 - Nhân vật nhận thông tin bằng cách nào và vào lúc nào?

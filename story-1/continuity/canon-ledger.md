@@ -35,6 +35,8 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 
 | EVT-023 | Ngày 16 | Teodor (cùng Oren) xuống tầng 2 Vực Khuyết xem lại kết cấu sau vụ sập trước, bất chấp lệnh đóng cửa của Odalie; một chuỗi chấn động lớn xảy ra; dây liên lạc của Oren còn phản hồi, dây của Teodor không phản hồi; Elk chạy tới hiện trường, cẳng tay đau dữ dội bất thường | CHAR-001, CHAR-007, Oren | CHAR-001, CHAR-004, CHAR-005, dân trấn chứng kiến | Tình trạng Teodor chưa xác định — nguy cấp; mở khủng hoảng lớn nhất của ARC-001 | chapter-013 |
 
+| EVT-024 | Ngày 16 | Elk cứu được Oren (bị thương, sống); Teodor bị chèn dưới khối đá lớn trong khoang tầng 3, không thể cứu được (Thiên Quyền không phản hồi với việc nâng vật tĩnh, chỉ với va chạm/lực đỡ được); trước khi chết, Teodor nói cha mẹ Elk từng tìm cách ngăn một điều gì đó liên quan tới "nghi thức" khi một Selector chết, và để lại ghi chú dưới tấm ván sàn thứ ba từ cửa phòng ông thuê | CHAR-001, CHAR-007, Oren | CHAR-001 (trực tiếp), Oren (một phần), dân trấn (qua lời Elk báo) | Teodor tử trận; mở THREAD-008; ghi chú của ông (chưa lấy) là manh mối quan trọng | chapter-014 |
+
 ## Cách ghi
 
 - Một sự kiện mỗi dòng nếu có thể; tách ID nếu khác nhau về thông tin/người biết.
