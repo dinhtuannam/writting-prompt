@@ -79,6 +79,13 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-073 | 5/11 | Bice dạy Hennes kiếm cơ bản bằng cành sồi | CHAR-004, 001 | — | Hennes bắt đầu học kiếm | chapter-011 |
 | EVT-074 | 5/11 tối | Bàn đường tới cảng Sal de Ocre; Hennes nhận ra bán kiếm là bán người; Bice thừa nhận | CHAR-001, 004 | Hai người | THREAD-014 | chapter-011 |
 | EVT-075 | 6/11 sáng | Thấy một làng chết bảy vạch đang thắp đèn giữa ban ngày | CHAR-001, 004 | Hai người | Chương 012 | chapter-011 |
+| EVT-076 | 6/11 sáng | Hennes và Bice vào làng Tàn Đăng xin nước | CHAR-001, 004 | Làng | — | chapter-012 |
+| EVT-077 | 6/11 sáng | Walram yêu cầu không mang vũ khí; Bice để kiếm ở rìa làng; Hennes quấn kín Dawn | Walram, CHAR-001, 004 | Walram biết kiếm nguy hiểm khi chạm | — | chapter-012 |
+| EVT-078 | 6/11 | Walram giải thích tục thắp đèn cho người hấp hối và niềm tin của phái Tàn Đăng | Walram | Hennes, Bice | — | chapter-012 |
+| EVT-079 | 6/11 chạng vạng | Bà Oria (91 tuổi) bảo Hennes đừng đổ dầu vào đèn của bà | Bà Oria, CHAR-001 | Hennes | — | chapter-012 |
+| EVT-080 | Đêm 6→7/11 | Hennes và Dawn cùng muốn hoãn cái chết của bà Oria, thất bại; cậu cầm bình dầu, bà ngăn, cậu đặt xuống; bà mất gần sáng khi đèn tắt | CHAR-001, ITEM-001, bà Oria | Walram, Hennes | Dawn "giận"; Hennes lần đầu buông theo ý người khác | chapter-012 |
+| EVT-081 | 7/11 rạng sáng | Bice nói mana đã chảy về phía kiếm lúc nửa đêm | CHAR-004, 001 | Hennes, Bice | CLUE-014 | chapter-012 |
+| EVT-082 | 7/11 rạng sáng | Kỵ binh Wendmark và chó săn xuất hiện trên đồi phía đông làng | CHAR-005 (người của hắn) | Cả làng | Chương 013 | chapter-012 |
 
 ## Cách ghi
 

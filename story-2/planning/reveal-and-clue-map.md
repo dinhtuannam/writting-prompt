@@ -16,6 +16,7 @@ Ghi cả setup và payoff. Phân biệt điều độc giả có thể suy ra, �
 | CLUE-010 | Giấc mơ về một cánh đồng ánh sáng sớm không có ai | 003+ (lặp lại) | Hennes | Ác mộng sau trận | Hình ảnh thế giới KHÓA CỨNG: sáng mãi, không ai đi, không ai đến | ARC-010 | PLANNED |
 | CLUE-011 | Tranh thánh Dawn lưỡi màu rạng đông trong sổ của Bertolt | 005 | Hennes | — | SWD-07; báo trước chương 021 | 021 | PLANNED |
 | CLUE-012 | Người Tàn Đăng ở làng bảy vạch; một bà già xin được chết | 012 | Hennes | Dị giáo | Tiếng vọng xung lực-ngừng; tiếng nói RESET đời thường | ARC-005, ARC-010 | PLANNED |
+| CLUE-014 | Khi Hennes và Dawn cùng "muốn" hoãn cho bà Oria (thất bại), Bice cảm thấy mana quanh làng chảy về phía kiếm rồi dừng | 012 | Bice | "Kiếm câm nhưng có thể chạm vào mana" | Kiếm vươn ra là hút trao đổi chất của thế giới; ma thuật tàn vì vậy (REV-007, seed XV); đồng thời báo trước năng lực hoãn cho người khác (ARC-005) | ARC-005, ARC-007 | PLANNED |
 | CLUE-013 | Hennes khó để lửa tắt, khó kết thúc câu chuyện, khó ngủ khi đang cầm kiếm | ARC-001 trở đi | Bice | Tật lạ | Dawn đang thay đổi cậu | ARC-007 | PLANNED |
 
 ## Kế hoạch tiết lộ
