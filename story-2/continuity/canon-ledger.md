@@ -4,7 +4,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 
 | ID | Thời điểm trong truyện | Sự kiện canon | Người liên quan | Ai biết sau sự kiện? | Hệ quả còn hoạt động | Nguồn |
 |---|---|---|---|---|---|---|
-| — | — | Chưa có chương hoàn chỉnh | — | — | — | — |
+| EVT-001 | 14/10/1442 rạng sáng | Hennes ngửi thấy khói gỗ tươi của một đạo quân lớn ở phía nam, báo Meinhard | CHAR-001, 002 | Hennes, Meinhard | — | chapter-001 |
+| EVT-002 | 14/10 sáng | Bastl định chạm chuôi kiếm của Meinhard; Meinhard chụp cổ tay nó (để lại vết bầm): "Đứa nào động vào kiếm tao thì chết." Hennes thấy vệt đỏ trên lòng tay Meinhard | CHAR-002, 008, 001 | Cả đội (câu nói); Hennes (vệt đỏ) | Bastl bầm cổ tay | chapter-001 |
+| EVT-003 | 14/10 giữa sáng | Ottmar von Selbach ra lệnh đội giữ bến "cho tới khi kỵ binh quay lại", rồi dẫn hơn 40 kỵ sĩ về bắc, về trại. Hầu cận nói về tiệc trưa của sứ giả tuyển hầu | CHAR-005, 002, 001 | Cả đội thấy kỵ binh đi; chỉ Hennes nghe lỏm chuyện sứ giả | Đội bị bỏ lại; Hennes là nhân chứng | chapter-001 |
+| EVT-004 | 14/10 trưa | Cả đội chọn ở lại; Meinhard đọc tên 38 người | Cả đội | Cả đội | Danh sách tên trong CHAR-001 | chapter-001 |
+| EVT-005 | 14/10 trưa | Meinhard dặn Hennes không ai được đụng vào lưng ông nếu ông ngã, "kể cả mày"; nói với trời phía bắc "Muộn rồi đấy, ông già" | CHAR-002, 001 | Hennes | Hennes được giao nhiệm vụ nhắc | chapter-001 |
+| EVT-006 | 14/10 chiều | Ma tộc dập lửa trại; trống; Người Sừng hiện ra trong sương bờ nam; đất rung theo lời xướng của một pháp sư Đất; Meinhard rút kiếm | FAC-010, cả đội | Cả đội | Trận bắt đầu (chương 002) | chapter-001 |
 
 ## Cách ghi
 

@@ -15,11 +15,11 @@
 
 ## Trạng thái dự án
 
-- **Trạng thái:** DEVELOPMENT
-- **Arc hiện tại:** ARC-001 "Thuế Máu" (PLANNED)
-- **Số chương hoàn chỉnh đã audit:** 0
-- **Chương đang soạn:** chưa có (tiếp theo: 001)
-- **Mốc tiếp theo:** Viết chương 001
+- **Trạng thái:** DRAFTING
+- **Arc hiện tại:** ARC-001 "Thuế Máu" (IN_PROGRESS)
+- **Số chương hoàn chỉnh đã audit:** 1 (001)
+- **Chương đang soạn:** tiếp theo 002
+- **Mốc tiếp theo:** Viết chương 002
 - **Quyết định đột phá đang chờ tác giả:** không có
 
 ## Logline

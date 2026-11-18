@@ -97,6 +97,10 @@
 - **Phí tổn của thay đổi:** Có thể là mạng sống; chắc chắn là ma thuật của thế giới và Halvard.
 - **Hành động chứng minh thay đổi thuyết phục:** Ở đường nối, cậu đọc tên ba mươi bảy người ở Haselfurt, rồi để lửa tắt.
 
+## Danh sách đội Meinhard Asch (38 người, CANON chương 001)
+
+Meinhard Asch (đội trưởng); Jörg Haller; Ulrich Dài; Ulrich Lùn; Kuno; Ruprecht; Wendel; Götz; Lenz; Matthes; Veit; Kaspar (gãy răng cửa); Dietrich (cầm giáo tay trái); Hilpert (hát dở); Eberhard (vợ đang mang thai); Konz; Seitz; Heinz; Wolf; Lutz; Michel; Peter Krumm (ho như khóc); Klaus; Jakob; Rudolf; Benedikt (biết đọc); Simon; Endres; Gerlach; Hartmann; Reinhold; Thomas Đỏ; Bartel; Fritz; Ambros; Steffen; Bastl; Hennes.
+
 ## Snapshot continuity
 
 - **Vị trí cuối:** LOC-001, sáng 14/10/1442 (trước chương 1)

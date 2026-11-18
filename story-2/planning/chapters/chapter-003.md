@@ -13,7 +13,7 @@ Trạng thái: PLANNED.
 - **Cản trở:** Thân thể; quạ và chó hoang; luật đào ngũ.
 - **Rủi ro/cái giá:** Nếu ở lại thì chết đói; nếu chạy thì bị treo; nếu về trại thì phải nói gì?
 - **Kết quả chương:** Hennes quyết định quay về trại để báo tên người chết cho gia đình họ, và vì đó là con đường duy nhất có bánh mì.
-- **Hook cuối chương:** Tới trại lúc chạng vạng, cậu thấy ngựa kỵ binh khô ráo, chải lông bóng: chúng chưa từng ra trận.
+- **Hook cuối chương:** Tới gần trại lúc chiều muộn, cậu thấy kỵ binh đang đấu thương mua vui cho sứ giả tuyển hầu trên bãi trước cổng trại: lành lặn, sạch sẽ, cờ không rách. (Đã đổi so với bản đầu "ngựa khô ráo", vì sau hai ngày ngựa nào cũng đã được chải. Đấu thương nối thẳng với lời hầu cận ở chương 001.)
 
 ## Beat sheet
 
