@@ -58,6 +58,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-052 | 28/10 đêm | Tobi say, rút kiếm nửa chừng, chết đứng vì phản chiêu trước cả trại | Tobi, ITEM-001 | Cả Đoàn | Đoàn biết đây là Thánh Kiếm thật (hoặc kiếm bị nguyền) | chapter-008 |
 | EVT-053 | 28/10 đêm | Rutger tới, nhìn Hennes khác đi; Lamprecht dùng chân đẩy kiếm vào vỏ | Rutger, Lamprecht | Đoàn | Rutger tính lại giá | chapter-008 |
 | EVT-054 | 28/10 đêm | Bice cảm thấy "câm" quanh kiếm, thấy vệt đỏ trên tay Hennes, hỏi cậu cầm nó bao lâu rồi | CHAR-004, 001 | Bice | Bice nhận ra Hennes là người được chọn | chapter-008 |
+| EVT-055 | 28/10 đêm | Bice giải thích "chỗ câm" quanh kiếm: thứ duy nhất mana không chạm được; liên hệ với việc anh hùng giết Ma Thần | CHAR-004, 001 | Hennes, Bice | Hennes biết rõ hơn kiếm là gì | chapter-009 |
+| EVT-056 | 28→29/10 đêm | Hennes thèm cái ấm của kiếm; mơ cánh đồng rạng đông có một bóng người ở xa | CHAR-001 | Hennes | CLUE-010, 013 | chapter-009 |
+| EVT-057 | 29/10 sáng | Bice dùng một lời Gió ngắn chứng minh trước 12 người: bụi tách ra quanh vỏ kiếm, để lại viền sạch | CHAR-004, FAC-008 | Hội đồng Đoàn | Đoàn tin đây là Thánh Kiếm | chapter-009 |
+| EVT-058 | 29/10 trưa–chiều | Rutger quyết giữ Hennes sống; gửi Lamprecht về đông dò giá Ottmar, Nello về nam dò Monteagra, thư qua thương nhân về tây tới Lucenza | Rutger | Đoàn | Đồng hồ đếm ngược 4–5 ngày | chapter-009 |
+| EVT-059 | 29/10 chiều | Bice nói riêng: khế ước hết hạn đúng ngày hưu chiến; sau đó cô "được làm gì tôi muốn" | CHAR-004, 001 | Hennes | Hứa hẹn ngầm | chapter-009 |
 
 ## Cách ghi
 

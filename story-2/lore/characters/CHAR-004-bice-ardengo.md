@@ -5,7 +5,7 @@
 - **ID/trạng thái dữ liệu:** CHAR-004 / CANON (nền), PLANNED (xuất hiện từ khoảng chương 008)
 - **Tên đầy đủ/tên gọi/biệt danh:** Beatrice "Bice" Ardengo. Lính Đoàn Cối Xay gọi là "Bà Sét" sau lưng.
 - **Tuổi/đại từ:** 31 / cô (tự xưng "chị" khi trêu Hennes)
-- **Loài/quốc tịch/nguồn gốc:** Nhân tộc; người Lucenza (thành Porto Ardengo, PLANNED); con gái một thợ nhuộm.
+- **Loài/quốc tịch/nguồn gốc:** Nhân tộc; người Lucenza, thành Porto Ardengo (CANON chương 009). Trẻ bị bỏ ở cửa nhà thờ Thánh Biển nên mang họ của thành; được một ông thợ nhuộm nhặt về nuôi, làm thợ nhuộm tới năm 12 tuổi thì Phường Ngôn sư nhận vì "hát được một chuỗi âm không vấp". Đã hành nghề 19 năm. Điếc tai trái từ năm 25 tuổi. Biết gia đình Ugo Fassi (con bà bán cá ở bến Muối).
 - **Vai trò/POV:** Đồng hành chính từ ARC-001. Ứng viên người cầm Oath (SWD-V, ARC-003).
 - **Trạng thái hiện tại:** Pháp sư Sét làm thuê cho Đoàn Cối Xay (FAC-008). Đoàn đang thất nghiệp và đói vì sắp tới hưu chiến.
 
