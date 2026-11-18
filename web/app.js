@@ -80,6 +80,46 @@ function clamp(value, min, max) {
   return Math.min(max, Math.max(min, value));
 }
 
+// Gom các mảnh liền nhau thành đoạn không dài quá maxLen.
+function packPieces(pieces, maxLen, joiner) {
+  const out = [];
+  let current = '';
+  for (const piece of pieces) {
+    if (!piece) continue;
+    if (current && (current + joiner + piece).length > maxLen) {
+      out.push(current);
+      current = piece;
+    } else {
+      current = current ? current + joiner + piece : piece;
+    }
+  }
+  if (current) out.push(current);
+  return out;
+}
+
+// Chia một đoạn văn thành các đoạn ngắn để đọc to. Chrome hay tự dừng giữa chừng
+// với câu nói dài, nên cắt theo câu, rồi theo dấu phẩy, cuối cùng theo từ.
+function splitForSpeech(text, maxLen) {
+  const clean = text.replace(/\s+/g, ' ').trim();
+  if (!clean) return [];
+  if (clean.length <= maxLen) return [clean];
+  const sentences = clean.match(/[^.!?…]+(?:[.!?…]+["'”»)]*|$)/g) || [clean];
+  const pieces = [];
+  for (const raw of sentences) {
+    const sentence = raw.trim();
+    if (sentence.length <= maxLen) {
+      pieces.push(sentence);
+      continue;
+    }
+    const clauses = sentence.replace(/([,;:])\s+/g, '$1\n').split('\n');
+    for (const clause of packPieces(clauses, maxLen, ' ')) {
+      if (clause.length <= maxLen) pieces.push(clause);
+      else pieces.push(...packPieces(clause.split(' '), maxLen, ' '));
+    }
+  }
+  return packPieces(pieces, maxLen, ' ');
+}
+
 // ===== GitHub fetch + cache (impure) =====
 
 const CACHE_KEY = 'reader:cache:tree';
@@ -170,6 +210,238 @@ function debounce(fn, delay) {
   };
 }
 
+// ===== Đọc to (sách nói) bằng Web Speech API (impure) =====
+
+const TTS_RATE_KEY = 'reader:ttsRate';
+const TTS_VOICE_KEY = 'reader:ttsVoice';
+const TTS_AUTONEXT_KEY = 'reader:ttsAutoNext';
+const TTS_RATES = [0.8, 1, 1.2, 1.4, 1.6, 2];
+const TTS_CHUNK_LEN = 220;
+
+const tts = { blocks: [], index: 0, chunk: 0, playing: false, started: false, token: 0, nextHref: null };
+let ttsResumeOnLoad = false;
+
+function ttsSupported() {
+  return typeof window !== 'undefined' && 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
+}
+
+function readSetting(key, fallback) {
+  try {
+    const value = localStorage.getItem(key);
+    return value === null ? fallback : value;
+  } catch (e) {
+    return fallback;
+  }
+}
+
+function writeSetting(key, value) {
+  try {
+    localStorage.setItem(key, value);
+  } catch (e) {
+    // localStorage may be unavailable; the setting just won't persist.
+  }
+}
+
+function ttsVoices() {
+  const all = window.speechSynthesis.getVoices();
+  const vi = all.filter((v) => v.lang.toLowerCase().startsWith('vi'));
+  // Giọng "Online (Natural)" của Edge nghe tự nhiên hơn hẳn, đưa lên đầu.
+  vi.sort((a, b) => Number(/natural|online/i.test(b.name)) - Number(/natural|online/i.test(a.name)));
+  return { vi, all };
+}
+
+function ttsSelectedVoice() {
+  const { vi, all } = ttsVoices();
+  const saved = readSetting(TTS_VOICE_KEY, '');
+  return all.find((v) => v.name === saved) || vi[0] || null;
+}
+
+function ttsFillVoices() {
+  const select = document.getElementById('tts-voice');
+  const note = document.getElementById('tts-note');
+  if (!select) return;
+  const { vi, all } = ttsVoices();
+  const list = vi.length ? vi : all;
+  const current = ttsSelectedVoice();
+  select.innerHTML = list
+    .map((v) => `<option value="${escapeHtml(v.name)}"${current && v.name === current.name ? ' selected' : ''}>${escapeHtml(v.name)}</option>`)
+    .join('');
+  select.hidden = list.length === 0;
+  note.hidden = vi.length > 0 || all.length === 0;
+}
+
+function ttsHighlight() {
+  document.querySelectorAll('.tts-current').forEach((el) => el.classList.remove('tts-current'));
+  const block = tts.blocks[tts.index];
+  if (!block || !tts.started) return;
+  block.el.classList.add('tts-current');
+  const rect = block.el.getBoundingClientRect();
+  if (rect.top < 0 || rect.bottom > window.innerHeight - 120) {
+    block.el.scrollIntoView({ block: 'center', behavior: 'smooth' });
+  }
+}
+
+function ttsUpdateButton() {
+  const btn = document.getElementById('tts-play');
+  if (!btn) return;
+  btn.textContent = tts.playing ? 'Tạm dừng' : tts.started ? 'Đọc tiếp' : 'Nghe chương';
+  btn.setAttribute('aria-pressed', tts.playing ? 'true' : 'false');
+}
+
+function ttsSpeakCurrent() {
+  const token = ++tts.token;
+  const block = tts.blocks[tts.index];
+  if (!block) {
+    ttsFinish();
+    return;
+  }
+  ttsHighlight();
+  const utterance = new SpeechSynthesisUtterance(block.chunks[tts.chunk]);
+  const voice = ttsSelectedVoice();
+  if (voice) utterance.voice = voice;
+  utterance.lang = voice ? voice.lang : 'vi-VN';
+  utterance.rate = parseFloat(readSetting(TTS_RATE_KEY, '1')) || 1;
+  utterance.onend = () => {
+    if (token !== tts.token || !tts.playing) return;
+    if (tts.chunk < block.chunks.length - 1) {
+      tts.chunk += 1;
+    } else {
+      tts.index += 1;
+      tts.chunk = 0;
+    }
+    ttsSpeakCurrent();
+  };
+  utterance.onerror = (event) => {
+    if (token !== tts.token || event.error === 'interrupted' || event.error === 'canceled') return;
+    tts.playing = false;
+    ttsUpdateButton();
+  };
+  window.speechSynthesis.speak(utterance);
+}
+
+function ttsFirstVisibleIndex() {
+  const i = tts.blocks.findIndex((b) => b.el.getBoundingClientRect().bottom > 0);
+  return i < 0 ? 0 : i;
+}
+
+function ttsPlay() {
+  if (!tts.blocks.length) return;
+  if (!tts.started) {
+    tts.index = ttsFirstVisibleIndex();
+    tts.chunk = 0;
+    tts.started = true;
+  }
+  window.speechSynthesis.cancel();
+  tts.playing = true;
+  ttsUpdateButton();
+  ttsSpeakCurrent();
+}
+
+// Tạm dừng bằng cancel rồi đọc lại đoạn hiện tại: pause()/resume() của trình duyệt
+// không ổn định (nhất là Chrome Android).
+function ttsPause() {
+  tts.playing = false;
+  tts.token += 1;
+  if (ttsSupported()) window.speechSynthesis.cancel();
+  ttsUpdateButton();
+}
+
+function ttsJump(index) {
+  tts.index = clamp(index, 0, tts.blocks.length - 1);
+  tts.chunk = 0;
+  tts.started = true;
+  if (tts.playing) {
+    window.speechSynthesis.cancel();
+    ttsSpeakCurrent();
+  } else {
+    ttsHighlight();
+    ttsUpdateButton();
+  }
+}
+
+function ttsFinish() {
+  tts.playing = false;
+  tts.started = false;
+  ttsHighlight();
+  ttsUpdateButton();
+  if (tts.nextHref && readSetting(TTS_AUTONEXT_KEY, '1') === '1') {
+    ttsResumeOnLoad = true;
+    window.location.hash = tts.nextHref;
+  }
+}
+
+function ttsStop() {
+  ttsPause();
+  tts.blocks = [];
+  tts.started = false;
+}
+
+function ttsBarHtml() {
+  if (!ttsSupported()) return '';
+  const rate = readSetting(TTS_RATE_KEY, '1');
+  const autoNext = readSetting(TTS_AUTONEXT_KEY, '1') === '1';
+  return `
+    <div class="tts-bar" role="region" aria-label="Nghe đọc chương">
+      <div class="tts-main">
+        <button id="tts-prev" aria-label="Đoạn trước">‹‹</button>
+        <button id="tts-play" class="tts-play" aria-pressed="false">Nghe chương</button>
+        <button id="tts-next" aria-label="Đoạn sau">››</button>
+        <select id="tts-rate" aria-label="Tốc độ đọc">
+          ${TTS_RATES.map((r) => `<option value="${r}"${String(r) === rate ? ' selected' : ''}>${r}×</option>`).join('')}
+        </select>
+      </div>
+      <div class="tts-extra">
+        <select id="tts-voice" aria-label="Giọng đọc"></select>
+        <label><input type="checkbox" id="tts-autonext"${autoNext ? ' checked' : ''}> Tự sang chương sau</label>
+      </div>
+      <p id="tts-note" class="tts-note" hidden>Máy này chưa có giọng tiếng Việt nên sẽ đọc sai dấu. Dùng trình duyệt Edge (có giọng HoaiMy, NamMinh) hoặc cài gói giọng nói tiếng Việt trong cài đặt hệ điều hành.</p>
+    </div>
+  `;
+}
+
+function setupTts(nextHref) {
+  if (!ttsSupported()) return;
+  const blocks = Array.from(document.querySelectorAll('.chapter-content > h1, .chapter-content > h2, .chapter-content > h3, .chapter-content > p'));
+  tts.blocks = blocks
+    .map((el) => ({ el, chunks: splitForSpeech(el.innerText, TTS_CHUNK_LEN) }))
+    .filter((b) => b.chunks.length);
+  tts.index = 0;
+  tts.chunk = 0;
+  tts.started = false;
+  tts.nextHref = nextHref;
+
+  ttsFillVoices();
+  window.speechSynthesis.onvoiceschanged = ttsFillVoices;
+
+  document.getElementById('tts-play').addEventListener('click', () => (tts.playing ? ttsPause() : ttsPlay()));
+  document.getElementById('tts-prev').addEventListener('click', () => ttsJump(tts.index - 1));
+  document.getElementById('tts-next').addEventListener('click', () => ttsJump(tts.index + 1));
+  document.getElementById('tts-rate').addEventListener('change', (e) => {
+    writeSetting(TTS_RATE_KEY, e.target.value);
+    if (tts.playing) ttsJump(tts.index);
+  });
+  document.getElementById('tts-voice').addEventListener('change', (e) => {
+    writeSetting(TTS_VOICE_KEY, e.target.value);
+    if (tts.playing) ttsJump(tts.index);
+  });
+  document.getElementById('tts-autonext').addEventListener('change', (e) => {
+    writeSetting(TTS_AUTONEXT_KEY, e.target.checked ? '1' : '0');
+  });
+  // Đang nghe mà bấm vào một đoạn thì đọc từ đoạn đó.
+  tts.blocks.forEach((block, i) => {
+    block.el.addEventListener('click', () => {
+      if (tts.playing && !window.getSelection().toString()) ttsJump(i);
+    });
+  });
+
+  if (ttsResumeOnLoad) {
+    ttsResumeOnLoad = false;
+    window.scrollTo(0, 0);
+    tts.started = true;
+    ttsPlay();
+  }
+}
+
 // ===== Routing and DOM rendering (impure) =====
 
 let currentScrollHandler = null;
@@ -187,6 +459,7 @@ function clearScrollHandler() {
 
 async function render() {
   clearScrollHandler();
+  ttsStop();
   const hash = window.location.hash.replace(/^#\/?/, '');
   const parts = hash.split('/').filter(Boolean);
   try {
@@ -306,10 +579,12 @@ async function renderReader(storyId, chapterStem) {
     ${nav}
     <article class="chapter-content">${html}</article>
     ${nav}
+    ${ttsBarHtml()}
   `;
   document.getElementById('font-smaller').addEventListener('click', () => setFontSize(getFontSize() - 2));
   document.getElementById('font-larger').addEventListener('click', () => setFontSize(getFontSize() + 2));
-  restoreProgress(storyId, chapterStem);
+  if (!ttsResumeOnLoad) restoreProgress(storyId, chapterStem);
+  setupTts(next ? `#/${storyId}/${next.stem}` : null);
   currentScrollHandler = debounce(() => saveProgress(storyId, chapterStem), 300);
   window.addEventListener('scroll', currentScrollHandler);
 }
@@ -331,5 +606,6 @@ if (typeof module !== 'undefined' && module.exports) {
     renderMarkdownToHtml,
     parseWorldOverview,
     clamp,
+    splitForSpeech,
   };
 }
