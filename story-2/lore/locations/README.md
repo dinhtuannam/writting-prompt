@@ -11,6 +11,7 @@ Hồ sơ ngắn đặt ngay trong file này. Địa điểm dùng lâu dài thì
 | LOC-005 | Bá quốc biên Wendmark | Lãnh địa | Bá tước biên Lothar | Nhắc | CANON | dưới đây |
 | LOC-006 | Làng biên Valdesca | Làng biên | Danh nghĩa thuộc Albarra | ARC-001 (khoảng chương 014) | PLANNED | dưới đây |
 | LOC-007 | Biển Hẹp | Eo biển | — | Nhắc | CANON | `../worldbuilding/geography.md` GEO-003 |
+| LOC-008 | Tu viện đổ nát có tường ngôn sư (trại Đoàn Cối Xay) | Phế tích, trại lính | Đoàn Cối Xay (FAC-008) | Chương 008 | CANON | trong chương 008 |
 
 ## LOC-001 — Bến lội Haselfurt
 

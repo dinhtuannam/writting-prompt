@@ -52,6 +52,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-046 | 21–23/10 | Hennes đặt tên "Hoãn" và "nợ ngày mai"; cảm nhận lời thì thầm "Cứ đậy lại. Để mai." | CHAR-001 | Hennes | CLUE-013 | chapter-007 |
 | EVT-047 | 24/10 | Thấy kỵ binh Ottmar tuần trên đường về bắc; Hennes chọn đi về tây, sang Albarra | CHAR-001 | Hennes | Hướng hành trình đổi | chapter-007 |
 | EVT-048 | 28/10 sáng | Hennes bị năm người của Đoàn Cối Xay bắt khi đang đặt bẫy, gần đất Albarra | CHAR-001, FAC-008 | Đoàn Cối Xay | Bị giữ làm hàng đổi tiền thưởng | chapter-007 |
+| EVT-049 | 28/10 sáng | Lamprecht lấy kiếm của Hennes qua vỏ, không chạm chuôi | FAC-008, CHAR-001 | Đoàn Cối Xay | Kiếm rời Hennes | chapter-008 |
+| EVT-050 | 28/10 chiều | Rutger Kalb nhận diện Hennes là đối tượng Ottmar treo thưởng (2 đồng sư tử, giao kiếm "trong vỏ"); kể Meinhard từng là người sống sót duy nhất của Đoàn Thép Đỏ ở Grauheide 14 năm trước; cấm rút kiếm | Rutger, CHAR-001 | Đoàn | Hennes bị giữ làm hàng | chapter-008 |
+| EVT-051 | 28/10 tối | Hennes bị trói trong nhà nguyện; thấy "Bà Sét" (Bice) ngồi riêng nhìn về kho đồ ngựa | CHAR-004, 001 | — | — | chapter-008 |
+| EVT-052 | 28/10 đêm | Tobi say, rút kiếm nửa chừng, chết đứng vì phản chiêu trước cả trại | Tobi, ITEM-001 | Cả Đoàn | Đoàn biết đây là Thánh Kiếm thật (hoặc kiếm bị nguyền) | chapter-008 |
+| EVT-053 | 28/10 đêm | Rutger tới, nhìn Hennes khác đi; Lamprecht dùng chân đẩy kiếm vào vỏ | Rutger, Lamprecht | Đoàn | Rutger tính lại giá | chapter-008 |
+| EVT-054 | 28/10 đêm | Bice cảm thấy "câm" quanh kiếm, thấy vệt đỏ trên tay Hennes, hỏi cậu cầm nó bao lâu rồi | CHAR-004, 001 | Bice | Bice nhận ra Hennes là người được chọn | chapter-008 |
 
 ## Cách ghi
 
