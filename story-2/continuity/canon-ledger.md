@@ -72,6 +72,13 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-066 | 1/11 đêm | Hennes trúng tên nỏ ở vai trái khi chắn cho Bice, không ngã; Bice xướng Sét, trượt ba bước, làm ngựa hoảng; Bice chảy máu tai, thêm sẹo | CHAR-001, 004, Lamprecht | Ba người của Lamprecht | Thương tích; Bice cạn sức | chapter-010 |
 | EVT-067 | 1/11 đêm | Rutger đứng trên tường nhìn họ đi, không cho bắn, giơ tay "không mua nữa" | Rutger | Hennes | Đoàn Cối Xay không truy đuổi | chapter-010 |
 | EVT-068 | Rạng sáng 2/11 | Bice nói thật mục tiêu vườn nho; "Tôi sẽ bán thanh kiếm đó. Tôi không bán cậu." Hennes buông kiếm, ngất | CHAR-004, 001 | Hennes | Liên minh tạm có điều kiện | chapter-010 |
+| EVT-069 | 3/11 | Bice đã rút tên khỏi vai Hennes; Hennes dạy Bice đốt lửa ít khói | CHAR-001, 004 | Hai người | — | chapter-011 |
+| EVT-070 | 4/11 tối | Hennes kể cho Bice về Hoãn và nợ (giấu cánh đồng rạng đông và lời thì thầm) | CHAR-001, 004 | Bice | Bice biết luật Hoãn | chapter-011 |
+| EVT-071 | 4/11 tối | Bice kể chuyện vết sẹo thòng lọng và hai lọn tóc bạc; "Phép nào cũng có hóa đơn"; gọi phần nặng thêm của nợ là lãi | CHAR-004 | Hennes | — | chapter-011 |
+| EVT-072 | Đêm 4→5/11 | Hennes vô thức không để lửa tắt; Bice ném cành đi | CHAR-001, 004 | Bice | Bice để ý dấu hiệu lạ (CLUE-013) | chapter-011 |
+| EVT-073 | 5/11 | Bice dạy Hennes kiếm cơ bản bằng cành sồi | CHAR-004, 001 | — | Hennes bắt đầu học kiếm | chapter-011 |
+| EVT-074 | 5/11 tối | Bàn đường tới cảng Sal de Ocre; Hennes nhận ra bán kiếm là bán người; Bice thừa nhận | CHAR-001, 004 | Hai người | THREAD-014 | chapter-011 |
+| EVT-075 | 6/11 sáng | Thấy một làng chết bảy vạch đang thắp đèn giữa ban ngày | CHAR-001, 004 | Hai người | Chương 012 | chapter-011 |
 
 ## Cách ghi
 
