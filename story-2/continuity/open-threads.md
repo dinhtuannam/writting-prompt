@@ -18,6 +18,7 @@ Theo dõi câu hỏi, manh mối, lời hứa và tình tiết chưa được gi
 | THREAD-012 | Ai tới trước: câu trả lời của Ottmar (Lamprecht về khoảng 2/11) hay tin hưu chiến (khế ước của Bice hết hạn)? | 009 | Hennes, Bice, Rutger | Tin hưu chiến tới trước một ngày; chương 010 | 010 | ANSWERED (chương 010) |
 | THREAD-013 | Ottmar biết gì về Thánh Kiếm, và từ đâu? | 010 (EVT-065) | Bice, Hennes (suy luận) | Nghe từ Bertolt ở bữa trưa 18/10, cộng với việc đào ụ đất không thấy kiếm; ông tự suy ra | ARC-001/ARC-004 | OPEN |
 | THREAD-014 | Bice muốn bán kiếm cho Lucenza; Hennes muốn về Lindhaag; bán kiếm tức là bán người cầm. Hai người sẽ giải quyết thế nào? | 011 (EVT-074) | Hennes, Bice | Bice từ bỏ ý bán sau Valdesca, hoặc Oath ràng buộc cô (ARC-003) | ARC-001 → ARC-003 | OPEN |
+| THREAD-015 | Báo cáo của Eckhart về Đà (khiên đứt hai mảnh) sẽ lan tới đâu, và Ottmar làm gì tiếp? | 013 (EVT-088) | Kỵ binh Ottmar | Tin đồn "Thánh..." lan; Ottmar đổi chiến thuật | ARC-001 (023) / ARC-004 | OPEN |
 
 ## Trạng thái
 

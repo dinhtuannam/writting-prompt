@@ -93,8 +93,8 @@ Ghi chú: để một Ma tộc cầm Ruin là quyết định có chủ đích. 
   - *Không thể:* chữa lành; hoãn cái chết tức thì (đầu lìa, tim bị xuyên); hoãn cho người khác (giai đoạn đầu); cho kỹ năng.
   - *Không hoãn được sự mệt của đầu óc* (CANON từ chương 006): thiếu ngủ vẫn gây ảo giác và lú lẫn dù thân thể không mỏi. Vết thương vẫn tự lành theo tốc độ bình thường bên dưới "cái nắp" (chương 004).
   - *Chi phí, "nợ ngày mai":* khi người cầm dừng lại (ngủ, buông kiếm, hoặc ý chí lơi), mọi thứ đã hoãn đổ xuống cùng lúc và nặng hơn lúc đầu. Hoãn càng lâu, nợ càng nặng. Nợ vượt sức chịu thì chết. Nợ đã trả thì xóa.
-- **Năng lực mở dần (PLANNED):**
-  - **"Đà"** (ARC-001/002): một cú vung bằng Dawn không mất đà khi va chạm, nên xuyên khiên và giáp như thể vật cản chưa từng ở đó.
+- **Năng lực mở dần:**
+  - **"Đà"** (CANON từ chương 013): một cú vung bằng Dawn không mất đà khi va chạm, nên xuyên khiên và giáp như thể vật cản chưa từng ở đó; vết cắt nhẵn như mặt vỡ tường ngôn sư. Đà không cho kỹ năng nhắm và không cho sức; người vung bị hụt chân vì không có lực cản. Đà không phải phép nên không chống được lực vật lý tác động lên người cầm (Hennes vẫn bị ngựa xô ngã).
   - **Hoãn cho người khác** (ARC-005/006): hoãn được cho người đang chạm vào Hennes. Đây là dấu hiệu cậu trượt về KHÓA CỨNG; mỗi lần dùng, Dawn ấm hơn và lời thì thầm rõ hơn.
 - **Ảnh hưởng tâm lý:** Một cảm giác không lời "cứ đi tiếp"; giấc mơ về ánh sáng sớm trên một cánh đồng không có ai. Càng lâu, Hennes càng khó chấp nhận mất mát và càng khó để thứ gì kết thúc (kể cả lửa, cuộc trò chuyện, giấc ngủ).
 - **Lý do chọn Hennes (AI-only):** Công khai là vì cậu không muốn làm anh hùng, chỉ muốn sống (seed X). Thực chất Dawn tưởng cậu dễ lái (SWD-09) và đã buông Meinhard để chọn cậu (DEC-006).

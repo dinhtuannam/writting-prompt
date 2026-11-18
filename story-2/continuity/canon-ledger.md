@@ -86,6 +86,14 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-080 | Đêm 6→7/11 | Hennes và Dawn cùng muốn hoãn cái chết của bà Oria, thất bại; cậu cầm bình dầu, bà ngăn, cậu đặt xuống; bà mất gần sáng khi đèn tắt | CHAR-001, ITEM-001, bà Oria | Walram, Hennes | Dawn "giận"; Hennes lần đầu buông theo ý người khác | chapter-012 |
 | EVT-081 | 7/11 rạng sáng | Bice nói mana đã chảy về phía kiếm lúc nửa đêm | CHAR-004, 001 | Hennes, Bice | CLUE-014 | chapter-012 |
 | EVT-082 | 7/11 rạng sáng | Kỵ binh Wendmark và chó săn xuất hiện trên đồi phía đông làng | CHAR-005 (người của hắn) | Cả làng | Chương 013 | chapter-012 |
+| EVT-083 | 7/11 rạng sáng | Hennes ra đứng ở cột mốc đầu làng Tàn Đăng để kỵ binh không cần vào làng; Bice theo | CHAR-001, 004 | Làng | — | chapter-013 |
+| EVT-084 | 7/11 sáng | Eckhart von Lohe cùng bảy lính tới, lệnh bắt sống Hennes và không chạm kiếm; nhận ra làng dị giáo | Eckhart, CHAR-005 | — | — | chapter-013 |
+| EVT-085 | 7/11 sáng | Kỵ binh quăng dây, bắn nỏ; Hennes trúng tên ở đùi phải, bị dây giật cổ tay trái; Bice xướng Sét trúng ngựa nỏ thủ | CHAR-001, 004 | — | Thương tích | chapter-013 |
+| EVT-086 | 7/11 sáng | Đà lần đầu: Hennes vung kiếm xuyên khiên, tay và ngực một lính đang lao vào Bice (Bice bị chém đùi trái); lính chết; khiên đứt hai mảnh nhẵn | CHAR-001, ITEM-001 | Kỵ binh, Bice, làng | Cái chết đầu tiên do tay Hennes; Đà CANON | chapter-013 |
+| EVT-087 | 7/11 sáng | Hennes thấy con ngựa gỗ khắc tay trên thắt lưng người lính vô danh | CHAR-001 | Hennes | Gánh nặng không bị Hoãn đậy | chapter-013 |
+| EVT-088 | 7/11 sáng | Eckhart và bảy người rút lui, để lại xác, ngựa xám và khiên | Eckhart | Kỵ binh | Ottmar sẽ biết về Đà | chapter-013 |
+| EVT-089 | 7/11 sáng | Walram vuốt mắt người lính, hứa thắp đèn; làng sẽ dời đi | Walram | Hennes | Làng Tàn Đăng di chuyển | chapter-013 |
+| EVT-090 | 7/11 trưa | Hennes và Bice đi về tây; Hennes cưỡi ngựa xám của người lính (ITEM-007); đặt tên "Đà" | CHAR-001, 004 | — | — | chapter-013 |
 
 ## Cách ghi
 
