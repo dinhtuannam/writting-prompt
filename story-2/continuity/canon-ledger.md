@@ -34,6 +34,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-028 | 16/10 đêm | Thợ cạo rửa và băng vết thương, nắn và nẹp hai ngón tay trái | CHAR-001 | Thợ cạo | Đang hồi phục | chapter-004 |
 | EVT-029 | 17/10 sáng | Ottmar thẩm vấn; Hennes nói kỵ binh đi trước trống; Ottmar cho giam chờ tòa án quân sự sau khi sứ giả đi; từ chối ghi tên 37 người | CHAR-005, 001 | Ottmar, thư ký, lính gác | Hennes bị giam; Ottmar biết Ma tộc đi về phía đông | chapter-004 |
 | EVT-030 | 17/10 chiều–tối | Hennes ở "chuồng" cạnh cổng, thấy giá treo trống; Ugo báo sứ giả đi rạng sáng 19/10, và lão quạ (thầy dòng Kaltenbrunn) sắp tới hỏi về kiếm của Meinhard | Ugo, CHAR-001 | Hennes | Hạn chót là rạng sáng 19/10 | chapter-004 |
+| EVT-031 | 18/10 giữa sáng | Bertolt Ziegler tới trại Rabenau cùng hai người hầu đạo, gặp Ottmar | CHAR-006, 005 | Cả trại | Ottmar bắt đầu nghĩ tới thanh kiếm của Meinhard | chapter-005 |
+| EVT-032 | 18/10 trưa | Bertolt chép 37 cái tên kèm chi tiết từng người; hứa gửi thư cho các giáo xứ | CHAR-006, 001 | Hennes, Bertolt | Gia đình sẽ được báo tin (PLANNED) | chapter-005 |
+| EVT-033 | 18/10 trưa | Bertolt cho Hennes xem tranh Dawn lưỡi màu rạng đông và ghi chép về vệt đỏ trên tay người được chọn | CHAR-006, 001 | Hennes, Bertolt | Hennes gần như chắc kiếm là Dawn; Bertolt nghi Hennes | chapter-005 |
+| EVT-034 | 18/10 trưa | Bertolt đọc mảnh vải của Benedikt: ghi lệnh của Ottmar, kỵ binh quay về trại trước trưa, 38 tên, ký tên Benedikt (Brennau) | CHAR-006, 001, ITEM-005 | Hennes, Bertolt | Bằng chứng chống Ottmar; Bertolt biết | chapter-005 |
+| EVT-035 | 18/10 trưa | Bertolt báo Ottmar đã cho năm kỵ sĩ xuống Haselfurt tìm kiếm, và sẽ treo Hennes lúc rạng sáng 19/10 sau khi sứ giả đi | CHAR-006, 001 | Hennes | Hạn chót | chapter-005 |
+| EVT-036 | 18/10 tối | Năm kỵ sĩ về, người dính bùn và đất; một người dừng lại nhìn Hennes | CHAR-005 (người của hắn) | Ottmar (ngầm: đã đào ụ, không thấy kiếm) | Ottmar nghi Hennes giữ kiếm | chapter-005 |
 
 ## Cách ghi
 

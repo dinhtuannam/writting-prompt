@@ -12,7 +12,8 @@ Theo dõi câu hỏi, manh mối, lời hứa và tình tiết chưa được gi
 | THREAD-006 | Tên ba mươi bảy người: Hennes sẽ mang tới đâu? | 001–003 | Hennes | Đọc ở đường nối (IDEA-005) | ARC-012 | OPEN (PLANNED) |
 | THREAD-007 | Nợ Hoãn: Hennes sẽ phải trả bao nhiêu? | 002–003 | Hennes | Leo thang; suýt chết ở 022 và ARC-002 | Xuyên suốt | OPEN (PLANNED) |
 | THREAD-008 | "Đừng tin cái ấm" nghĩa là gì? | 002 (EVT-012) | Hennes | Cái ấm là sức quyến rũ của Dawn (REV-005); hiểu lại ở ARC-006/007 | ARC-006/007 | OPEN |
-| THREAD-009 | Benedikt đã viết gì trên mảnh vải lót mũ? | 001 (gieo), 003 (EVT-019) | Hennes (không đọc được) | Danh sách cả đội và dòng "bị bỏ lại ở Haselfurt theo lệnh ngài Selbach"; được đọc lên ở khoảng chương 005–011; bằng chứng cho ARC-004 | ARC-001 → ARC-004 | OPEN |
+| THREAD-009 | Benedikt đã viết gì trên mảnh vải lót mũ? | 001, 003 | Hennes, Bertolt | Đã đọc ở chương 005 (EVT-034) | — | ANSWERED |
+| THREAD-010 | Mảnh vải của Benedikt là bằng chứng chống Ottmar: ai sẽ dùng nó, khi nào? | 005 | Hennes, Bertolt | Dùng ở ARC-004 (cùng nhân chứng Ugo) | ARC-004 | OPEN |
 
 ## Trạng thái
 
