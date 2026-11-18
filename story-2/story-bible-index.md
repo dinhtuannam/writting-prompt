@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; phần diễn giải phát triển ghi ở premise/dashboard)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 001 (EVT-006)
-- **Chương tiếp theo cần viết:** 002
+- **Canon cập nhật đến:** Chương 002 (EVT-016)
+- **Chương tiếp theo cần viết:** 003
 - **Index cập nhật lần cuối:** 2026-11-19
 - **Conflict đang chặn tiến độ:** không có
 
@@ -154,10 +154,8 @@ Không tái sử dụng ID đã retired.
 
 | Arc/Chapter | Trạng thái | Mục tiêu/biến cố | Plan | Summary | Canon đến |
 |---|---|---|---|---|---|
-| ARC-001 "Thuế Máu" | PLANNED | Hennes sống sót trận Haselfurt, được Dawn chọn, trốn khỏi trại, tới làng biên Valdesca và bị lộ là người cầm kiếm | `planning/arcs/arc-001.md` | `summaries/arcs/arc-001.md` | — |
-| Chapter 001 "Bến Lội" | COMPLETE | Buổi sáng ở bến lội Haselfurt; kỵ binh rút; tiếng trống bên kia sông | `planning/chapters/chapter-001.md` | `summaries/chapters/chapter-001.md` | EVT-006 |
-| Chapter 002 | PLANNED | Thảm sát; Hennes giật Dawn; người áo xám | `planning/chapters/chapter-002.md` | — | — |
-| Chapter 003 | PLANNED | Nợ ngày mai; tỉnh dậy giữa xác chết; quyết định quay về trại | `planning/chapters/chapter-003.md` | — | — |
+| ARC-001 "Thuế Máu" | IN_PROGRESS | Hennes sống sót trận Haselfurt, được Dawn chọn, trốn khỏi trại, tới làng biên Valdesca và bị lộ là người cầm kiếm | `planning/arcs/arc-001.md` | `summaries/arcs/arc-001.md` | — |
+| Chapters 001–002 | COMPLETE | Đã viết và audit; chi tiết xem summary từng chương | `planning/arcs/arc-001.md` | `summaries/chapters/` | EVT-016 |
 | ARC-002 → ARC-012 | PLANNED (phác) | Xem master outline | `planning/outline.md` | — | — |
 
 ## Ranh giới sáng tạo

@@ -10,6 +10,16 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-004 | 14/10 trưa | Cả đội chọn ở lại; Meinhard đọc tên 38 người | Cả đội | Cả đội | Danh sách tên trong CHAR-001 | chapter-001 |
 | EVT-005 | 14/10 trưa | Meinhard dặn Hennes không ai được đụng vào lưng ông nếu ông ngã, "kể cả mày"; nói với trời phía bắc "Muộn rồi đấy, ông già" | CHAR-002, 001 | Hennes | Hennes được giao nhiệm vụ nhắc | chapter-001 |
 | EVT-006 | 14/10 chiều | Ma tộc dập lửa trại; trống; Người Sừng hiện ra trong sương bờ nam; đất rung theo lời xướng của một pháp sư Đất; Meinhard rút kiếm | FAC-010, cả đội | Cả đội | Trận bắt đầu (chương 002) | chapter-001 |
+| EVT-007 | 14/10 chiều | Pháp sư Đất Ma tộc làm bờ bắc mềm thành bùn; hàng cọc đổ; Peter Krumm chết đuối trong bùn | FAC-010 | Hennes | — | chapter-002 |
+| EVT-008 | 14/10 chiều | Jörg chết khi chắn cho Bastl; Bastl chết ngay sau | CHAR-007, 008 | Hennes | — | chapter-002 |
+| EVT-009 | 14/10 chiều | Hennes bị đâm sườn trái, gãy hai ngón tay trái, lùi về rặng liễu | CHAR-001 | Hennes | Thương tích | chapter-002 |
+| EVT-010 | 14/10 chiều | Phần lớn đạo quân Ma tộc qua sông rồi đi ngược dòng về phía đông dọc bờ bắc, không đánh trại Rabenau; toán đuôi kết liễu người bị thương | FAC-010 | Hennes | CLUE-005 | chapter-002 |
+| EVT-011 | 14/10 chạng vạng | Meinhard đứng vững dù nhiều vết thương chí mạng, rồi đột ngột gục như cây bị cưa, không có vết thương mới | CHAR-002 | Hennes | AI-only: Dawn buông ông (DEC-006) | chapter-002 |
+| EVT-012 | 14/10 chạng vạng | Lời cuối của Meinhard: "Đọc tên... bọn nó. Và đừng... tin cái ấm." Meinhard chết | CHAR-002, 001 | Hennes | THREAD-008 | chapter-002 |
+| EVT-013 | 14/10 chạng vạng | Hennes nắm chuôi Dawn, sống qua phản chiêu; vệt đỏ trên cánh tay phải; kiếm ấm | CHAR-001, ITEM-001 | Hennes; người Sừng chứng kiến | Hennes là người cầm Dawn | chapter-002 |
+| EVT-014 | 14/10 chạng vạng | Hoãn lần đầu (bản năng); Hennes bị chém vai trái, bị đập vào mũ mà không ngã; bị pháp sư Đất làm lún tới đùi | CHAR-001 | Hennes | Nợ Hoãn | chapter-002 |
+| EVT-015 | 14/10 chạng vạng | Người đàn ông áo xám, chân đất, đi qua sông; không khí nặng xuống; ông giết pháp sư và ba Người Sừng bằng tay không | CHAR-003 | Hennes | THREAD-003 | chapter-002 |
+| EVT-016 | 14/10 chạng vạng | Hennes buông kiếm, nợ đổ xuống, gục. Người áo xám kéo cậu khỏi bùn, dùng giáo của Dietrich đẩy kiếm vào tay cậu mà không chạm, rồi đi về bắc không nói gì | CHAR-003, 001 | Hennes (lờ mờ) | CLUE-004 | chapter-002 |
 
 ## Cách ghi
 
