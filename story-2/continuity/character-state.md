@@ -4,33 +4,36 @@ Cập nhật snapshot cho mỗi nhân vật đang hoạt động sau mỗi chư�
 
 | Character ID | Mốc cuối | Vị trí | Cơ thể/tâm lý | Vật phẩm | Quan hệ/nợ/lời hứa | Nguồn |
 |---|---|---|---|---|---|---|
-| CHAR-001 Hennes | Hoàng hôn 16/10/1442 (EVT-024) | Chân đồi Rabenau, ngoài cổng trại | Vết đâm sườn trái (đóng vảy, sưng nóng); vết chém vai trái; gãy hai ngón tay trái (chưa nắn); ù một bên tai; sốt; đói hai ngày; mang nợ Hoãn cả ngày đi bộ. Tâm lý: tê dại, choáng vì thấy kỵ binh đấu thương | ITEM-001 Dawn (vỏ da của Meinhard, đeo lưng, chuôi quấn thêm vải); ITEM-002 ngỗng gỗ; ITEM-005 vải của Benedikt | Tự nhận nhiệm vụ báo 37 cái tên cho gia đình họ. Lời hứa với mẹ | chapter-003 |
-| CHAR-002 Meinhard | Chết 14/10 (EVT-012) | Ụ đất trên gò Haselfurt | — | — | — | chapter-002/003 |
-| CHAR-003 Halvard | Chạng vạng 14/10 (EVT-016) | Đi về bắc từ Haselfurt; không rõ | — | — | — | chapter-002 |
-| CHAR-004 Bice | Trước chương 001 | Dải Cháy phía tây, Đoàn Cối Xay | Hai lọn tóc bạc, điếc tai trái, sẹo Sét | Kiếm ngắn | Khế ước với Rutger Kalb tới khi hưu chiến | nền |
-| CHAR-005 Ottmar | Hoàng hôn 16/10 (EVT-024) | Trại Rabenau, bãi đấu thương | Khỏe, đắc thắng | ITEM-003 | Phục vụ sứ giả tuyển hầu | chapter-003 |
-| CHAR-006 Bertolt | Ngoài trang | Trên đường tới LOC-002 (tới khoảng 17/10) | — | ITEM-004 | — | nền |
-| CHAR-007 Jörg, CHAR-008 Bastl | Chết 14/10 (EVT-008) | Ụ đất trên gò Haselfurt | — | — | — | chapter-002/003 |
+| CHAR-001 Hennes | Rạng sáng 2/11/1442 (EVT-068) | Khe suối phía tây LOC-008 | Vết đâm sườn trái đang lành; vết rìu vai trái đã khép; **mũi tên nỏ cắm ở vai trái (chưa rút)**; hai ngón tay trái đang liền, còn nẹp; bất tỉnh trả nợ của đêm trốn chạy. Tâm lý: sợ chính mình vì thèm cái ấm của kiếm | ITEM-001 Dawn (vỏ Meinhard); ITEM-002; ITEM-005 | Đồng hành với Bice (cô sẽ bán kiếm, không bán cậu). Bị Ottmar (5 đồng sư tử) và lệnh đào ngũ truy đuổi | chapter-010 |
+| CHAR-002 Meinhard | Chết 14/10 | Ụ đất Haselfurt (bị kỵ sĩ Ottmar đào lên ngày 18/10) | — | — | Sống sót duy nhất của Đoàn Thép Đỏ ở Grauheide (1428) | chapter-008 |
+| CHAR-003 Halvard | 14/10 | Không rõ | — | — | — | chapter-002 |
+| CHAR-004 Bice | Rạng sáng 2/11 (EVT-068) | Cùng Hennes | Hai lọn tóc bạc; điếc tai trái (vừa chảy máu); sẹo Sét có thêm một nhánh ở ngón trỏ phải; kiệt sức sau hai lần xướng Sét | Kiếm ngắn, dao, ngựa nâu, hai túi da | Hết khế ước với Đoàn Cối Xay (1/11); muốn bán Dawn cho Lucenza; bị Ottmar truy | chapter-010 |
+| CHAR-005 Ottmar | Khoảng 1–2/11 | Đang dẫn 20 kỵ sĩ tới LOC-008 | — | ITEM-003 | Biết (hoặc đoán chắc) kiếm là Thánh Kiếm; cần Hennes sống | chapter-010 |
+| CHAR-006 Bertolt | 19/10 (EVT-041) | Đi về tây nam theo dấu Hennes; vị trí hiện tại không rõ | — | ITEM-004; sổ có 37 tên | Đã để Hennes trốn (Hennes chưa biết) | chapter-006 |
+| Rutger Kalb | 1/11 | LOC-008 | — | Sổ | Bỏ không mua; sắp phải đối mặt Ottmar | chapter-010 |
+| Lamprecht | 1/11 | LOC-008 | — | — | Thù Bice | chapter-010 |
+| Ugo Fassi | 17/10 | LOC-002 | — | — | Nhân chứng | chapter-004 |
 
 ## Nợ Hoãn (riêng cho Dawn)
 
 | Người cầm | Đã hoãn gì | Từ lúc nào | Đã trả? | Hệ quả khi trả | Nguồn |
 |---|---|---|---|---|---|
-| CHAR-002 | Mệt mỏi và vết thương tích lũy nhiều năm, cộng các vết chí mạng ở Haselfurt | 1428 → 14/10/1442 | Đổ xuống toàn bộ khi Dawn buông ông | Chết | chapter-002 |
-| CHAR-001 | Mất máu, kiệt sức, các vết thương ở Haselfurt | 14/10 chạng vạng | Đã trả: bất tỉnh khoảng 36 giờ | — | chapter-002/003 |
-| CHAR-001 | Cơn sốt và cơn kiệt sức của 9 dặm đi bộ | 16/10 cả ngày | **CHƯA TRẢ.** Sẽ đổ xuống khi cậu buông kiếm để giấu nó (chương 004) | Dự kiến: sốt cao, ngất vài giờ | chapter-003 |
+| CHAR-001 | Đêm trốn chạy 18→19/10 + ngày 19/10 | 18/10 đêm | Đã trả 19→21/10 (ngất ~36 giờ, nhiễm trùng bùng) | — | chapter-007 |
+| CHAR-001 | Đau khi tự mổ áp xe | 21/10 | Trả từng phần khi ngủ ngồi (21–23/10) | — | chapter-007 |
+| CHAR-001 | Mũi tên ở vai trái + đường cưỡi ngựa đêm 1→2/11 | 1/11 đêm | **Đang trả** (ngất rạng sáng 2/11) | Dự kiến: ngất nửa ngày, sốt nhẹ; Bice rút tên khi cậu đã buông kiếm | chapter-010 |
 
-Quy tắc đã lộ trên trang: nắm chuôi thì Hoãn trọn; kiếm chạm người qua vỏ (đeo lưng) thì Hoãn một nửa; buông thì nợ quay lại nặng hơn lúc nhận.
+Quy tắc đã lộ trên trang: nắm chuôi thì Hoãn trọn; qua vỏ (đeo lưng) thì một nửa; buông thì nợ quay lại nặng hơn lúc nhận; trả từng phần bằng cách ngủ ngồi; không hoãn được sự mệt của đầu óc; vết thương vẫn tự lành bình thường bên dưới.
 
 ## Vật phẩm và tài sản đang theo dõi
 
 | Item ID | Mô tả | Đang ở đâu/ai giữ | Trạng thái | Chuyển giao tại EVT | Nguồn |
 |---|---|---|---|---|---|
-| ITEM-001 | Dawn / Bình Minh, Kiếm I | CHAR-001, trong vỏ của Meinhard | Nguyên vẹn; chưa sáng lần nào | EVT-013 | chapter-002 |
+| ITEM-001 | Dawn / Bình Minh, Kiếm I | CHAR-001 | Nguyên vẹn; chưa sáng lần nào | EVT-063 (lấy lại) | chapter-010 |
 | ITEM-002 | Con ngỗng gỗ Liesl khắc | CHAR-001 | Còn | — | chapter-001 |
 | ITEM-003 | Mặt dây chuyền "mảnh Thánh Kiếm" giả | CHAR-005 | Còn | — | chapter-001 |
-| ITEM-004 | Sổ chép tay tranh thánh Thất Thánh | CHAR-006 | Còn | — | nền |
-| ITEM-005 | Mảnh vải lót mũ Benedikt viết bằng than | CHAR-001 | Ẩm, nhòe ở mép, còn đọc được | EVT-019 | chapter-003 |
+| ITEM-004 | Sổ tranh thánh Thất Thánh | CHAR-006 | Còn | — | chapter-005 |
+| ITEM-005 | Vải lót mũ của Benedikt (bằng chứng) | CHAR-001 | Còn | — | chapter-005 |
+| ITEM-006 | Ngựa nâu nhỏ của Bice | CHAR-004 | Mang hai người | — | chapter-010 |
 
 ## Chi tiết cần cập nhật
 

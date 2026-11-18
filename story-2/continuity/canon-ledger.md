@@ -63,6 +63,15 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-057 | 29/10 sáng | Bice dùng một lời Gió ngắn chứng minh trước 12 người: bụi tách ra quanh vỏ kiếm, để lại viền sạch | CHAR-004, FAC-008 | Hội đồng Đoàn | Đoàn tin đây là Thánh Kiếm | chapter-009 |
 | EVT-058 | 29/10 trưa–chiều | Rutger quyết giữ Hennes sống; gửi Lamprecht về đông dò giá Ottmar, Nello về nam dò Monteagra, thư qua thương nhân về tây tới Lucenza | Rutger | Đoàn | Đồng hồ đếm ngược 4–5 ngày | chapter-009 |
 | EVT-059 | 29/10 chiều | Bice nói riêng: khế ước hết hạn đúng ngày hưu chiến; sau đó cô "được làm gì tôi muốn" | CHAR-004, 001 | Hennes | Hứa hẹn ngầm | chapter-009 |
+| EVT-060 | 29–31/10 | Hedwig (dì của Tobi) chăm sóc Hennes; Gaspard một mắt nói chuyện về Bảy Thánh và sự xứng đáng | Hedwig, Gaspard, CHAR-001 | Hennes | — | chapter-010 |
+| EVT-061 | 1/11 (lễ Bảy Thánh) chiều | Người đưa tin của bá quốc Wendmark tuyên hưu chiến toàn tuyến Dải Cháy từ trưa 1/11 tới lễ Phục Sinh của Thánh Thứ Nhất; khế ước Đoàn Tự Do chấm dứt; lương nợ tới mùa xuân | FAC-001, FAC-008 | Toàn mặt trận | Hưu chiến mùa đông | chapter-010 |
+| EVT-062 | 1/11 chiều | Bice báo hết khế ước; Rutger gạch tên cô | CHAR-004, Rutger | Đoàn | Bice tự do | chapter-010 |
+| EVT-063 | 1/11 đêm | Bice đánh ngất người canh Jost bằng một âm Sét nhỏ, cắt dây cho Hennes; Hennes lấy lại kiếm | CHAR-004, 001 | — | — | chapter-010 |
+| EVT-064 | 1/11 đêm | Hai người ra qua mảng tường ngôn sư vỡ góc tây nam, tới ngựa của Bice | CHAR-004, 001 | — | — | chapter-010 |
+| EVT-065 | 1/11 đêm | Lamprecht về sớm, báo Ottmar trả 5 đồng sư tử, hỏi nhiều về Hennes và chuôi kiếm, sẽ tự tới với 20 kỵ sĩ sau một ngày | Lamprecht, CHAR-005 | Bice, Hennes, Lamprecht | Ottmar biết kiếm là gì (suy luận) | chapter-010 |
+| EVT-066 | 1/11 đêm | Hennes trúng tên nỏ ở vai trái khi chắn cho Bice, không ngã; Bice xướng Sét, trượt ba bước, làm ngựa hoảng; Bice chảy máu tai, thêm sẹo | CHAR-001, 004, Lamprecht | Ba người của Lamprecht | Thương tích; Bice cạn sức | chapter-010 |
+| EVT-067 | 1/11 đêm | Rutger đứng trên tường nhìn họ đi, không cho bắn, giơ tay "không mua nữa" | Rutger | Hennes | Đoàn Cối Xay không truy đuổi | chapter-010 |
+| EVT-068 | Rạng sáng 2/11 | Bice nói thật mục tiêu vườn nho; "Tôi sẽ bán thanh kiếm đó. Tôi không bán cậu." Hennes buông kiếm, ngất | CHAR-004, 001 | Hennes | Liên minh tạm có điều kiện | chapter-010 |
 
 ## Cách ghi
 

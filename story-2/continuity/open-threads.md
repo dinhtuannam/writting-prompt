@@ -15,7 +15,8 @@ Theo dõi câu hỏi, manh mối, lời hứa và tình tiết chưa được gi
 | THREAD-009 | Benedikt đã viết gì trên mảnh vải lót mũ? | 001, 003 | Hennes, Bertolt | Đã đọc ở chương 005 (EVT-034) | — | ANSWERED |
 | THREAD-010 | Mảnh vải của Benedikt là bằng chứng chống Ottmar: ai sẽ dùng nó, khi nào? | 005 | Hennes, Bertolt | Dùng ở ARC-004 (cùng nhân chứng Ugo) | ARC-004 | OPEN |
 | THREAD-011 | Ai đã mở khóa chuồng cho Hennes? | 006 (EVT-037) | Hennes (nghi người áo xám), độc giả (manh mối Bertolt) | Bertolt, lộ ở chương 017 | 017 | OPEN |
-| THREAD-012 | Ai tới trước: câu trả lời của Ottmar (Lamprecht về khoảng 2/11) hay tin hưu chiến (khế ước của Bice hết hạn)? | 009 | Hennes, Bice, Rutger | Tin hưu chiến tới trước một ngày; chương 010 | 010 | OPEN |
+| THREAD-012 | Ai tới trước: câu trả lời của Ottmar (Lamprecht về khoảng 2/11) hay tin hưu chiến (khế ước của Bice hết hạn)? | 009 | Hennes, Bice, Rutger | Tin hưu chiến tới trước một ngày; chương 010 | 010 | ANSWERED (chương 010) |
+| THREAD-013 | Ottmar biết gì về Thánh Kiếm, và từ đâu? | 010 (EVT-065) | Bice, Hennes (suy luận) | Nghe từ Bertolt ở bữa trưa 18/10, cộng với việc đào ụ đất không thấy kiếm; ông tự suy ra | ARC-001/ARC-004 | OPEN |
 
 ## Trạng thái
 
