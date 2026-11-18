@@ -20,6 +20,14 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-014 | 14/10 chạng vạng | Hoãn lần đầu (bản năng); Hennes bị chém vai trái, bị đập vào mũ mà không ngã; bị pháp sư Đất làm lún tới đùi | CHAR-001 | Hennes | Nợ Hoãn | chapter-002 |
 | EVT-015 | 14/10 chạng vạng | Người đàn ông áo xám, chân đất, đi qua sông; không khí nặng xuống; ông giết pháp sư và ba Người Sừng bằng tay không | CHAR-003 | Hennes | THREAD-003 | chapter-002 |
 | EVT-016 | 14/10 chạng vạng | Hennes buông kiếm, nợ đổ xuống, gục. Người áo xám kéo cậu khỏi bùn, dùng giáo của Dietrich đẩy kiếm vào tay cậu mà không chạm, rồi đi về bắc không nói gì | CHAR-003, 001 | Hennes (lờ mờ) | CLUE-004 | chapter-002 |
+| EVT-017 | 16/10/1442 rạng sáng | Hennes tỉnh sau khoảng 36 giờ, sốt; tự kiểm chứng: nắm chuôi thì sốt lùi, buông thì quay lại nặng hơn | CHAR-001 | Hennes | Hiểu sơ bộ luật Hoãn và nợ | chapter-003 |
+| EVT-018 | 16/10 sáng | Hennes đọc tên 36 người và Meinhard (37) | CHAR-001 | Hennes | THREAD-006 | chapter-003 |
+| EVT-019 | 16/10 sáng | Hennes lấy mảnh vải lót mũ có chữ viết bằng than của Benedikt (ITEM-005), không đọc được | CHAR-001 | Hennes | THREAD-009 | chapter-003 |
+| EVT-020 | 16/10 trưa | Hennes lấy vỏ kiếm của Meinhard, lật xác ông lên, vuốt mắt; vệt đỏ trên tay Meinhard đã nhạt | CHAR-001, 002 | Hennes | Hennes có vỏ kiếm | chapter-003 |
+| EVT-021 | 16/10 trưa–chiều | Hennes đắp Bastl, Jörg, Meinhard thành ụ đất kiểu lò than giữa gò, để lỗ thở | CHAR-001 | Hennes | Mộ ở LOC-001 | chapter-003 |
+| EVT-022 | 16/10 chiều | Hennes đọc dấu: đạo quân Ma tộc đi về phía đông dọc sông, đốt các làng bỏ hoang, không rẽ về trại | CHAR-001 | Hennes | CLUE-005 | chapter-003 |
+| EVT-023 | 16/10 chiều | Hennes chọn về trại; phát hiện kiếm đeo lưng chỉ Hoãn được một nửa; quấn thêm vải quanh chuôi | CHAR-001 | Hennes | Mang nợ Hoãn (sốt và vết thương) suốt chặng đường | chapter-003 |
+| EVT-024 | 16/10 hoàng hôn | Kỵ binh đấu thương mua vui cho sứ giả tuyển hầu trước cổng Rabenau; Ottmar thắng một lượt; Hennes chứng kiến | CHAR-005, 001 | Hennes; cả trại | THREAD-002 | chapter-003 |
 
 ## Cách ghi
 
