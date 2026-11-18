@@ -9,7 +9,7 @@ Hồ sơ ngắn đặt ngay trong file này. Địa điểm dùng lâu dài thì
 | LOC-003 | Dải Cháy | Vùng | Không ai | Chương 001 | CANON | dưới đây |
 | LOC-004 | Làng Lindhaag | Làng rừng | Công quốc Brennau (Velmark) | Hồi ức | CANON | dưới đây |
 | LOC-005 | Bá quốc biên Wendmark | Lãnh địa | Bá tước biên Lothar | Nhắc | CANON | dưới đây |
-| LOC-006 | Làng biên Valdesca | Làng biên | Danh nghĩa thuộc Albarra | ARC-001 (khoảng chương 014) | PLANNED | dưới đây |
+| LOC-006 | Làng biên Valdesca | Làng biên | Danh nghĩa thuộc Albarra | Chương 014 | CANON | dưới đây |
 | LOC-007 | Biển Hẹp | Eo biển | — | Nhắc | CANON | `../worldbuilding/geography.md` GEO-003 |
 | LOC-008 | Tu viện đổ nát có tường ngôn sư (trại Đoàn Cối Xay) | Phế tích, trại lính | Đoàn Cối Xay (FAC-008) | Chương 008 | CANON | trong chương 008 |
 | LOC-009 | Làng Tàn Đăng (làng chết bảy vạch) | Làng | Phái Tàn Đăng (Walram) | Chương 012 | CANON | trong chương 012 |
@@ -48,9 +48,10 @@ Hồ sơ ngắn đặt ngay trong file này. Địa điểm dùng lâu dài thì
 - Lãnh địa quân sự phía nam Velmark, giáp Dải Cháy.
 - Bá tước biên Lothar von Wendmark ở thành Wendburg (PLANNED), cách Rabenau 3 ngày ngựa.
 
-## LOC-006 — Làng biên Valdesca (PLANNED)
+## LOC-006 — Làng biên Valdesca (CANON từ chương 014)
 
 - Làng Albarra ở rìa tây Dải Cháy, gần Biển Hẹp, khoảng 6–8 ngày đi bộ về phía tây từ Haselfurt.
 - Khoảng 200 người, gồm người và một nhánh Người Sừng cùng vài gia đình Witchborn đã sống chung ba thế hệ, có hôn nhân hỗn hợp.
 - Có một nhà thờ Thất Thánh với bức tường ngôn sư cổ.
 - Nơi Hennes dùng Dawn công khai ở cuối ARC-001.
+- Chi tiết canon chương 014: nhà trát vôi trắng, mái ngói đỏ; ruộng muối ở mép nước; nhìn ra Biển Hẹp; Sal de Ocre cách 3 ngày đi bộ về nam. Người: Gorun (thợ rèn, Người Sừng), Nuria (người chữa, Witchborn, không đeo dải vải vàng), Tico (cậu bé Người Sừng), cha xứ già.

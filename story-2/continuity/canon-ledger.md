@@ -94,6 +94,13 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-088 | 7/11 sáng | Eckhart và bảy người rút lui, để lại xác, ngựa xám và khiên | Eckhart | Kỵ binh | Ottmar sẽ biết về Đà | chapter-013 |
 | EVT-089 | 7/11 sáng | Walram vuốt mắt người lính, hứa thắp đèn; làng sẽ dời đi | Walram | Hennes | Làng Tàn Đăng di chuyển | chapter-013 |
 | EVT-090 | 7/11 trưa | Hennes và Bice đi về tây; Hennes cưỡi ngựa xám của người lính (ITEM-007); đặt tên "Đà" | CHAR-001, 004 | — | — | chapter-013 |
+| EVT-091 | 7→8/11 | Hennes buông kiếm trong hốc đá, ngất một ngày; Bice rút tên ở đùi phải | CHAR-001, 004 | — | — | chapter-014 |
+| EVT-092 | 9/11 chiều | Hennes thấy biển (Biển Hẹp) lần đầu | CHAR-001 | — | — | chapter-014 |
+| EVT-093 | 9/11 chiều | Tới Valdesca; Hennes theo phản xạ nắm chuôi kiếm khi thấy Gorun bế trẻ; Bice bảo buông, cậu buông | CHAR-001, 004, Gorun | Gorun, Bice | Định kiến bị thử thách | chapter-014 |
+| EVT-094 | 9/11 chiều | Cha xứ cho ở lại; Hennes thú nhận đã cố giết Ma tộc ở bến lội nhưng không giết được; Gorun kể anh trai đi lính cho bên kia không về | CHAR-001, Gorun, cha xứ | Người làng | Được nhận ở tạm | chapter-014 |
+| EVT-095 | 9/11 tối | Nuria (Witchborn) dùng Khế Ngôn Nước làm sạch vết thương của Bice, trả bằng bể sống | Nuria, CHAR-004 | Hennes, Bice | Bice nợ Nuria | chapter-014 |
+| EVT-096 | 9/11 tối | Nuria thấy vệt đỏ và nói "Cái thứ ở góc nhà không hát" | Nuria, CHAR-001 | Nuria (nghi), Bice | Nuria biết có thứ lạ | chapter-014 |
+| EVT-097 | 9/11 đêm | Tico mời Hennes chạm vào sừng mình | Tico, CHAR-001 | — | Chương 015 | chapter-014 |
 
 ## Cách ghi
 
