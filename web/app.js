@@ -251,23 +251,30 @@ function ttsVoices() {
 }
 
 function ttsSelectedVoice() {
-  const { vi, all } = ttsVoices();
+  const { vi } = ttsVoices();
   const saved = readSetting(TTS_VOICE_KEY, '');
-  return all.find((v) => v.name === saved) || vi[0] || null;
+  return vi.find((v) => v.name === saved) || vi[0] || null;
+}
+
+// Máy đã nạp danh sách giọng mà không có giọng tiếng Việt nào. Danh sách rỗng
+// thì chưa kết luận được (Chrome nạp giọng trễ; vài trình duyệt Android trả rỗng
+// nhưng vẫn đọc được theo lang).
+function ttsMissingVietnamese() {
+  const { vi, all } = ttsVoices();
+  return all.length > 0 && vi.length === 0;
 }
 
 function ttsFillVoices() {
   const select = document.getElementById('tts-voice');
   const note = document.getElementById('tts-note');
   if (!select) return;
-  const { vi, all } = ttsVoices();
-  const list = vi.length ? vi : all;
+  const { vi } = ttsVoices();
   const current = ttsSelectedVoice();
-  select.innerHTML = list
+  select.innerHTML = vi
     .map((v) => `<option value="${escapeHtml(v.name)}"${current && v.name === current.name ? ' selected' : ''}>${escapeHtml(v.name)}</option>`)
     .join('');
-  select.hidden = list.length === 0;
-  note.hidden = vi.length > 0 || all.length === 0;
+  select.hidden = vi.length === 0;
+  note.hidden = !ttsMissingVietnamese();
 }
 
 function ttsHighlight() {
@@ -326,6 +333,11 @@ function ttsFirstVisibleIndex() {
 
 function ttsPlay() {
   if (!tts.blocks.length) return;
+  // Không có giọng Việt thì trình duyệt sẽ đọc bằng giọng Anh, nghe sai hoàn toàn.
+  if (ttsMissingVietnamese()) {
+    ttsFillVoices();
+    return;
+  }
   if (!tts.started) {
     tts.index = ttsFirstVisibleIndex();
     tts.chunk = 0;
@@ -394,7 +406,7 @@ function ttsBarHtml() {
         <select id="tts-voice" aria-label="Giọng đọc"></select>
         <label><input type="checkbox" id="tts-autonext"${autoNext ? ' checked' : ''}> Tự sang chương sau</label>
       </div>
-      <p id="tts-note" class="tts-note" hidden>Máy này chưa có giọng tiếng Việt nên sẽ đọc sai dấu. Dùng trình duyệt Edge (có giọng HoaiMy, NamMinh) hoặc cài gói giọng nói tiếng Việt trong cài đặt hệ điều hành.</p>
+      <p id="tts-note" class="tts-note" role="alert" hidden><strong>Trình duyệt này chưa có giọng đọc tiếng Việt.</strong> Trên máy tính, mở trang bằng Microsoft Edge (có sẵn giọng HoaiMy, NamMinh). Trên điện thoại Android, dùng Chrome và cài "Tiếng Việt" trong Cài đặt → Chuyển văn bản thành giọng nói. Trên iPhone, thêm giọng "Linh" trong Cài đặt → Trợ năng → Nội dung được đọc.</p>
     </div>
   `;
 }

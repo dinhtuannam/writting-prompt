@@ -212,8 +212,9 @@ button:hover {
   flex-basis: 100%;
   margin: 0;
   text-align: center;
-  color: var(--muted);
-  font-size: 0.8rem;
+  color: var(--fg);
+  font-size: 0.85rem;
+  line-height: 1.45;
 }
 
 [hidden] {
