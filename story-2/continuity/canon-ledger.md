@@ -114,6 +114,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-108 | 16/11 trưa | Bice nói dối Diego rằng thằng nhóc Velmark đã đi về bắc; Diego biết mà vẫn gật đầu | CHAR-004, Diego Arnau | Bice | Diego để ngỏ đường biển | chapter-016 |
 | EVT-109 | 16/11 chiều | Hennes quyết ở lại ba ngày và đắp lò than cho Gorun | CHAR-001, 004 | Bice | — | chapter-016 |
 | EVT-110 | 16/11 đêm | Bertolt cùng hai người hầu đạo qua chốt bằng giấy tờ, vào Valdesca | CHAR-006 | Lính canh, Hennes (nhìn từ xa) | Chương 017 | chapter-016 |
+| EVT-111 | 17/11 rạng sáng | Hennes bắt đầu đắp lò than trên đồi phía đông Valdesca; Bertolt tới ngồi xem | CHAR-001, 006 | — | — | chapter-017 |
+| EVT-112 | 17/11 sáng | Bertolt thú nhận người của ông (Odo) mở khóa chuồng, và câu hỏi của ông khiến Ottmar biết về kiếm | CHAR-006, 001 | Hennes | THREAD-011, 013 trả lời | chapter-017 |
+| EVT-113 | 17/11 sáng | Bertolt kể: Rutger chỉ hướng cho Ottmar để đổi lấy an toàn, và chỉ cho ông miễn phí; làng Tàn Đăng đã dời, mộ người lính có đèn | CHAR-006 | Hennes | — | chapter-017 |
+| EVT-114 | 17/11 sáng | Bertolt đọc bản chép lệnh thanh lọc của Tòa Dị giáo Monteagra | CHAR-006 | Hennes | Valdesca chắc chắn bị nhắm | chapter-017 |
+| EVT-115 | 17/11 sáng | Hennes cho Bertolt xem vệt đỏ; nói kiếm "muốn đèn đừng tắt"; Bertolt ghi vào sổ | CHAR-001, 006 | Bertolt | CLUE-015 | chapter-017 |
+| EVT-116 | 17/11 trưa | Bertolt dạy Hennes viết chữ "Bastl" trên đất | CHAR-006, 001 | — | Hennes viết được chữ đầu tiên | chapter-017 |
 
 ## Cách ghi
 
