@@ -107,6 +107,13 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-101 | 12/11 tối | Nuria kể lịch sử Valdesca: năm 1384, 15 Người Sừng dạt vào bờ; cha Ramiro nhận họ | Nuria | Hennes, Bice | HIST-023 | chapter-015 |
 | EVT-102 | 10–14/11 | Hennes và Tico chặt gỗ sồi chết đứng; Tico tặng tượng gỗ (ITEM-008); Hennes không cầm kiếm ở Valdesca | CHAR-001, Tico | — | Chuẩn bị lò than | chapter-015 |
 | EVT-103 | 14/11 chiều | Người buôn muối báo: Tòa Dị giáo Monteagra truy nã Hennes (do Nello tố cáo); Dòng Hiệp sĩ Muối thanh tra các làng biên, một đội tuần đã rời Sal de Ocre hai ngày trước | Nello, FAC-006, FAC-011 | Bice, Hennes, Gorun | Nguy cơ thanh lọc Valdesca | chapter-015 |
+| EVT-104 | 15/11 | Hội đồng Valdesca họp trong nhà thờ; tục lệ trốn vào Hang Muối mỗi lần thanh tra; lần này khác vì có người bị tìm | Cha Velasco, Gorun, Nuria, Begoña, CHAR-004, 001 | Hội đồng | — | chapter-016 |
+| EVT-105 | 15/11 | Cha Velasco quyết: Hennes vào hang cùng mọi người | Cha Velasco | Hội đồng | Làng nhận rủi ro vì Hennes | chapter-016 |
+| EVT-106 | 15/11 | Bice và Hennes cãi nhau; Bice muốn đi bằng thuyền, Hennes ở lại; Bice nói sẽ đi nếu mọi chuyện xấu | CHAR-004, 001 | Hai người | THREAD-014 căng | chapter-016 |
+| EVT-107 | 16/11 trưa | Toán tiền trạm Dòng Hiệp sĩ Muối (Diego Arnau, 8 người) báo đoàn thanh tra chính cùng thầy dòng Tello sẽ tới trong ba ngày; cấm rời làng; canh hai đường bộ | Diego Arnau, FAC-011 | Cả làng | Làng bị phong tỏa (trừ biển) | chapter-016 |
+| EVT-108 | 16/11 trưa | Bice nói dối Diego rằng thằng nhóc Velmark đã đi về bắc; Diego biết mà vẫn gật đầu | CHAR-004, Diego Arnau | Bice | Diego để ngỏ đường biển | chapter-016 |
+| EVT-109 | 16/11 chiều | Hennes quyết ở lại ba ngày và đắp lò than cho Gorun | CHAR-001, 004 | Bice | — | chapter-016 |
+| EVT-110 | 16/11 đêm | Bertolt cùng hai người hầu đạo qua chốt bằng giấy tờ, vào Valdesca | CHAR-006 | Lính canh, Hennes (nhìn từ xa) | Chương 017 | chapter-016 |
 
 ## Cách ghi
 
