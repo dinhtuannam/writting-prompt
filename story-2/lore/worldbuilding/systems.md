@@ -65,7 +65,7 @@ Nguồn gốc là seed Phần V, VIII, IX, XV, XVIII. File này tóm tắt thàn
 | SWD-04 | Ý thức Nhân Thần trong kiếm đọc được quyết tâm nội tâm của người đang gắn với nó về một trong ba cái kết. Nó không đọc hành động bên ngoài | Không | CANON (AI-only, seed XVIII) |
 | SWD-05 | Mỗi lần kiếm được dùng ở sức mạnh thật, hoặc bị gom gần nhau, Ma Thần tái tạo nhanh hơn và phong ấn nứt thêm | Không | CANON (AI-only, seed XV) |
 | SWD-06 | Gắn kết: một kiếm chỉ gắn với một người. Gắn kết kéo dài tới khi người cầm chết hoặc kiếm tự "buông" người đó. Người cầm có thể rời xa kiếm, nhưng cảm thấy nó như một chỗ ấm thiếu hụt | Không | CANON (AI chốt) |
-| SWD-07 | Kiếm không gỉ, không mẻ, trông như một thanh kiếm cũ bình thường. Chỉ khi phát lực thật, lưỡi mới sáng màu riêng; tranh thánh của Giáo hội vẽ đúng các màu ấy | Có (tranh thánh) | CANON (AI chốt) |
+| SWD-07 | Kiếm không gỉ, không mẻ, không vật gì bám được lâu trên lưỡi (bùn, máu, tro tự sạch; CANON chương 007), trông như một thanh kiếm cũ bình thường. Chỉ khi phát lực thật, lưỡi mới sáng màu riêng; tranh thánh của Giáo hội vẽ đúng các màu ấy | Có (tranh thánh) | CANON (AI chốt) |
 | SWD-08 | Lúc được chọn, người cầm chịu một cơn đau đốt chạy từ tay lên ngực rồi sống. Người không được chọn chết trong cùng cơn đau đó | Có (huyền thoại) | CANON (AI chốt) |
 | SWD-09 | Ý thức trong kiếm muốn KHÓA CỨNG. Qua hơn 300 năm, nó đã học cách chọn những người cầm dễ lái | Không | CANON (AI-only, seed XVIII) |
 

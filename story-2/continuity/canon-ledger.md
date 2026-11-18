@@ -46,6 +46,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-040 | Rạng sáng 19/10 | Đoàn sứ giả rời trại về bắc; tù và báo động; kỵ binh tỏa ra; toán phía tây tìm thấy hố trong tro; chó mất dấu ở suối | CHAR-005 | Cả trại | Hennes chính thức là kẻ đào ngũ (LAW-001) | chapter-006 |
 | EVT-041 | Sáng 19/10 | Bertolt và hai người hầu đạo tách khỏi kỵ binh, đi theo suối về tây nam | CHAR-006 | Hennes (nhìn từ xa) | Bertolt theo dấu Hennes | chapter-006 |
 | EVT-042 | Chiều 19/10 | Hennes ảo giác vì thiếu ngủ, rồi trú trong một lò than cổ trên sườn đồi phía tây nam Rabenau, vẫn nắm kiếm | CHAR-001 | Hennes | Nợ Hoãn rất lớn, chưa trả | chapter-006 |
+| EVT-043 | 19/10 tối → 21/10 sáng | Hennes buông kiếm trong lò than cổ; nợ đổ xuống (nhiễm trùng, sốt); bất tỉnh khoảng 36 giờ; mơ cánh đồng rạng đông trống | CHAR-001 | Hennes | CLUE-010 | chapter-007 |
+| EVT-044 | 21/10 | Hennes đốt than cổ không khói, tự mổ áp xe ở sườn bằng mũi Dawn với Hoãn có chủ đích; rửa, áp đá nóng, đắp tro | CHAR-001 | Hennes | Vết sườn hết nhiễm trùng | chapter-007 |
+| EVT-045 | 21/10 | Hennes hiểu kỹ thuật trả nợ từng phần của Meinhard (đeo lưng, ngủ ngồi) và bắt đầu dùng nó | CHAR-001 | Hennes | Quản lý được nợ | chapter-007 |
+| EVT-046 | 21–23/10 | Hennes đặt tên "Hoãn" và "nợ ngày mai"; cảm nhận lời thì thầm "Cứ đậy lại. Để mai." | CHAR-001 | Hennes | CLUE-013 | chapter-007 |
+| EVT-047 | 24/10 | Thấy kỵ binh Ottmar tuần trên đường về bắc; Hennes chọn đi về tây, sang Albarra | CHAR-001 | Hennes | Hướng hành trình đổi | chapter-007 |
+| EVT-048 | 28/10 sáng | Hennes bị năm người của Đoàn Cối Xay bắt khi đang đặt bẫy, gần đất Albarra | CHAR-001, FAC-008 | Đoàn Cối Xay | Bị giữ làm hàng đổi tiền thưởng | chapter-007 |
 
 ## Cách ghi
 
