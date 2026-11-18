@@ -33,6 +33,7 @@ Cột "Phiên bản công khai" là điều người phàm biết. Sự thật A
 | HIST-017 | 1438 | Hennes tròn 13 tuổi; cha chết vì sập lò than; Hennes nối nghề cha | — | Gia đình nghèo nhất làng | Chuyện làng | CANON (AI chốt) |
 | HIST-018 | 1441 | Hoàng đế Velmark Albrecht IV lâm bệnh | Tuổi già | Chuẩn bị bầu kế vị | — | CANON (AI chốt) |
 | HIST-019 | Tháng Sáu 1442 | Lindhaag nộp Hennes làm thuế máu; cậu vào đội của Meinhard thuộc quân bá quốc biên Wendmark | Hạn ngạch trưng binh | — | — | CANON (AI chốt) |
+| HIST-023 | 1384 | Mười lăm lính Người Sừng của Ma Thần bị bão đánh dạt vào bờ, tới Valdesca (làng gần chết sau Dịch Tro); cha xứ Ramiro nhận họ | Bão | Valdesca thành làng biên hỗn hợp | Không được ghi chính thức; Monteagra biết nhưng làm ngơ | CANON (chương 015) |
 | HIST-020 | Tháng Chín–Mười 1442 | Ma tộc mở mũi tấn công bất thường vào Dải Cháy, đốt rồi bỏ đi | AI-only: Ma Thần mộng du về phía một phong ấn (seed XVI) | — | "Ma tộc điên cuồng trả thù" | CANON (AI chốt) |
 
 ## Các giai đoạn lịch sử

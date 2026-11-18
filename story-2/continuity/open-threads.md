@@ -19,6 +19,7 @@ Theo dõi câu hỏi, manh mối, lời hứa và tình tiết chưa được gi
 | THREAD-013 | Ottmar biết gì về Thánh Kiếm, và từ đâu? | 010 (EVT-065) | Bice, Hennes (suy luận) | Nghe từ Bertolt ở bữa trưa 18/10, cộng với việc đào ụ đất không thấy kiếm; ông tự suy ra | ARC-001/ARC-004 | OPEN |
 | THREAD-014 | Bice muốn bán kiếm cho Lucenza; Hennes muốn về Lindhaag; bán kiếm tức là bán người cầm. Hai người sẽ giải quyết thế nào? | 011 (EVT-074) | Hennes, Bice | Bice từ bỏ ý bán sau Valdesca, hoặc Oath ràng buộc cô (ARC-003) | ARC-001 → ARC-003 | OPEN |
 | THREAD-015 | Báo cáo của Eckhart về Đà (khiên đứt hai mảnh) sẽ lan tới đâu, và Ottmar làm gì tiếp? | 013 (EVT-088) | Kỵ binh Ottmar | Tin đồn "Thánh..." lan; Ottmar đổi chiến thuật | ARC-001 (023) / ARC-004 | OPEN |
+| THREAD-016 | Valdesca có bị Dòng Hiệp sĩ Muối thanh lọc vì Hennes không? | 015 (EVT-103) | Hennes, Bice, Gorun, Nuria | Cao trào chương 019–021; Hennes đổi tự do lấy làng (024) | 019–024 | OPEN |
 
 ## Trạng thái
 

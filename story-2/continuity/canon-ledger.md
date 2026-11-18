@@ -101,6 +101,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-095 | 9/11 tối | Nuria (Witchborn) dùng Khế Ngôn Nước làm sạch vết thương của Bice, trả bằng bể sống | Nuria, CHAR-004 | Hennes, Bice | Bice nợ Nuria | chapter-014 |
 | EVT-096 | 9/11 tối | Nuria thấy vệt đỏ và nói "Cái thứ ở góc nhà không hát" | Nuria, CHAR-001 | Nuria (nghi), Bice | Nuria biết có thứ lạ | chapter-014 |
 | EVT-097 | 9/11 đêm | Tico mời Hennes chạm vào sừng mình | Tico, CHAR-001 | — | Chương 015 | chapter-014 |
+| EVT-098 | 9/11 đêm | Hennes chạm vào sừng Tico; hai người học tiếng của nhau; Hennes nhắc tên Bastl | CHAR-001, Tico | — | Định kiến nứt | chapter-015 |
+| EVT-099 | 10/11 | Hennes chỉ ra than tồi của lò rèn Gorun, bắt đầu thổi bễ cho ông | CHAR-001, Gorun | — | Gắn bó qua nghề | chapter-015 |
+| EVT-100 | 12/11 | Gorun hát khi rèn; Hennes hoảng vì tưởng là lời xướng; Bice giải thích khác biệt giữa hát (có nghĩa) và Khế Ngôn (không nghĩa) | Gorun, CHAR-001, 004 | — | — | chapter-015 |
+| EVT-101 | 12/11 tối | Nuria kể lịch sử Valdesca: năm 1384, 15 Người Sừng dạt vào bờ; cha Ramiro nhận họ | Nuria | Hennes, Bice | HIST-023 | chapter-015 |
+| EVT-102 | 10–14/11 | Hennes và Tico chặt gỗ sồi chết đứng; Tico tặng tượng gỗ (ITEM-008); Hennes không cầm kiếm ở Valdesca | CHAR-001, Tico | — | Chuẩn bị lò than | chapter-015 |
+| EVT-103 | 14/11 chiều | Người buôn muối báo: Tòa Dị giáo Monteagra truy nã Hennes (do Nello tố cáo); Dòng Hiệp sĩ Muối thanh tra các làng biên, một đội tuần đã rời Sal de Ocre hai ngày trước | Nello, FAC-006, FAC-011 | Bice, Hennes, Gorun | Nguy cơ thanh lọc Valdesca | chapter-015 |
 
 ## Cách ghi
 
