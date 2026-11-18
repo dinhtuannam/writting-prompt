@@ -28,6 +28,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-022 | 16/10 chiều | Hennes đọc dấu: đạo quân Ma tộc đi về phía đông dọc sông, đốt các làng bỏ hoang, không rẽ về trại | CHAR-001 | Hennes | CLUE-005 | chapter-003 |
 | EVT-023 | 16/10 chiều | Hennes chọn về trại; phát hiện kiếm đeo lưng chỉ Hoãn được một nửa; quấn thêm vải quanh chuôi | CHAR-001 | Hennes | Mang nợ Hoãn (sốt và vết thương) suốt chặng đường | chapter-003 |
 | EVT-024 | 16/10 hoàng hôn | Kỵ binh đấu thương mua vui cho sứ giả tuyển hầu trước cổng Rabenau; Ottmar thắng một lượt; Hennes chứng kiến | CHAR-005, 001 | Hennes; cả trại | THREAD-002 | chapter-003 |
+| EVT-025 | 16/10 hoàng hôn | Hennes chôn Dawn (cuộn trong áo khoác vải dầu) trong đống tro lò rèn bìa tây trại Rabenau, đánh dấu ba hòn đá tam giác | CHAR-001, ITEM-001 | Chỉ Hennes | Kiếm ở ngoài trại | chapter-004 |
+| EVT-026 | 16/10 tối | Buông kiếm, nợ đổ xuống, Hennes ngất vài canh giờ; rút ra tỉ lệ nợ | CHAR-001 | Hennes | Nợ đã trả phần lớn | chapter-004 |
+| EVT-027 | 16/10 đêm | Ugo Fassi nói riêng với Hennes: kỵ binh về trước trưa 14/10, không ai ra cổng khi trống vang | Ugo, CHAR-001 | Hennes, Ugo | Nhân chứng thứ hai | chapter-004 |
+| EVT-028 | 16/10 đêm | Thợ cạo rửa và băng vết thương, nắn và nẹp hai ngón tay trái | CHAR-001 | Thợ cạo | Đang hồi phục | chapter-004 |
+| EVT-029 | 17/10 sáng | Ottmar thẩm vấn; Hennes nói kỵ binh đi trước trống; Ottmar cho giam chờ tòa án quân sự sau khi sứ giả đi; từ chối ghi tên 37 người | CHAR-005, 001 | Ottmar, thư ký, lính gác | Hennes bị giam; Ottmar biết Ma tộc đi về phía đông | chapter-004 |
+| EVT-030 | 17/10 chiều–tối | Hennes ở "chuồng" cạnh cổng, thấy giá treo trống; Ugo báo sứ giả đi rạng sáng 19/10, và lão quạ (thầy dòng Kaltenbrunn) sắp tới hỏi về kiếm của Meinhard | Ugo, CHAR-001 | Hennes | Hạn chót là rạng sáng 19/10 | chapter-004 |
 
 ## Cách ghi
 
