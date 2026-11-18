@@ -91,6 +91,7 @@ Ghi chú: để một Ma tộc cầm Ruin là quyết định có chủ đích. 
   - *Có thể:* hoãn kết cục của một quá trình đang diễn ra trong chính cơ thể người cầm: kiệt sức, ngất, gục vì đau, mất máu tới chết. Vết thương vẫn còn, máu vẫn chảy, nhưng cú gục bị đẩy lùi về sau.
   - *Điều kiện:* tay phải nắm chuôi, hoặc kiếm phải chạm vào người (đeo sát lưng thì được, nhưng yếu hơn).
   - *Không thể:* chữa lành; hoãn cái chết tức thì (đầu lìa, tim bị xuyên); hoãn cho người khác (giai đoạn đầu); cho kỹ năng.
+  - *Không hoãn được sự mệt của đầu óc* (CANON từ chương 006): thiếu ngủ vẫn gây ảo giác và lú lẫn dù thân thể không mỏi. Vết thương vẫn tự lành theo tốc độ bình thường bên dưới "cái nắp" (chương 004).
   - *Chi phí, "nợ ngày mai":* khi người cầm dừng lại (ngủ, buông kiếm, hoặc ý chí lơi), mọi thứ đã hoãn đổ xuống cùng lúc và nặng hơn lúc đầu. Hoãn càng lâu, nợ càng nặng. Nợ vượt sức chịu thì chết. Nợ đã trả thì xóa.
 - **Năng lực mở dần (PLANNED):**
   - **"Đà"** (ARC-001/002): một cú vung bằng Dawn không mất đà khi va chạm, nên xuyên khiên và giáp như thể vật cản chưa từng ở đó.

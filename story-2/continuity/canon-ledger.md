@@ -40,6 +40,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-034 | 18/10 trưa | Bertolt đọc mảnh vải của Benedikt: ghi lệnh của Ottmar, kỵ binh quay về trại trước trưa, 38 tên, ký tên Benedikt (Brennau) | CHAR-006, 001, ITEM-005 | Hennes, Bertolt | Bằng chứng chống Ottmar; Bertolt biết | chapter-005 |
 | EVT-035 | 18/10 trưa | Bertolt báo Ottmar đã cho năm kỵ sĩ xuống Haselfurt tìm kiếm, và sẽ treo Hennes lúc rạng sáng 19/10 sau khi sứ giả đi | CHAR-006, 001 | Hennes | Hạn chót | chapter-005 |
 | EVT-036 | 18/10 tối | Năm kỵ sĩ về, người dính bùn và đất; một người dừng lại nhìn Hennes | CHAR-005 (người của hắn) | Ottmar (ngầm: đã đào ụ, không thấy kiếm) | Ottmar nghi Hennes giữ kiếm | chapter-005 |
+| EVT-037 | Đêm 18→19/10 | Lính gác chuồng ngủ say bên túi rượu có dấu Thánh tòa; khóa chuồng được mở từ phía tối bởi một bàn tay áo len xám | Người hầu đạo của CHAR-006 (Hennes không biết) | Hennes (thấy tay áo) | THREAD-011 | chapter-006 |
+| EVT-038 | Đêm 18→19/10 | Hennes trốn qua lối hở hàng rào phía tây, đào lại Dawn ở đống tro, không lấp hố | CHAR-001 | Hennes | Hố để lộ chỗ giấu | chapter-006 |
+| EVT-039 | Đêm 18→19/10 | Hennes chạy về tây, lội suối về tây nam để cắt mùi chó; Hoãn có chủ ý lần đầu | CHAR-001 | Hennes | Nợ Hoãn tích lũy | chapter-006 |
+| EVT-040 | Rạng sáng 19/10 | Đoàn sứ giả rời trại về bắc; tù và báo động; kỵ binh tỏa ra; toán phía tây tìm thấy hố trong tro; chó mất dấu ở suối | CHAR-005 | Cả trại | Hennes chính thức là kẻ đào ngũ (LAW-001) | chapter-006 |
+| EVT-041 | Sáng 19/10 | Bertolt và hai người hầu đạo tách khỏi kỵ binh, đi theo suối về tây nam | CHAR-006 | Hennes (nhìn từ xa) | Bertolt theo dấu Hennes | chapter-006 |
+| EVT-042 | Chiều 19/10 | Hennes ảo giác vì thiếu ngủ, rồi trú trong một lò than cổ trên sườn đồi phía tây nam Rabenau, vẫn nắm kiếm | CHAR-001 | Hennes | Nợ Hoãn rất lớn, chưa trả | chapter-006 |
 
 ## Cách ghi
 

@@ -14,6 +14,7 @@ Theo dõi câu hỏi, manh mối, lời hứa và tình tiết chưa được gi
 | THREAD-008 | "Đừng tin cái ấm" nghĩa là gì? | 002 (EVT-012) | Hennes | Cái ấm là sức quyến rũ của Dawn (REV-005); hiểu lại ở ARC-006/007 | ARC-006/007 | OPEN |
 | THREAD-009 | Benedikt đã viết gì trên mảnh vải lót mũ? | 001, 003 | Hennes, Bertolt | Đã đọc ở chương 005 (EVT-034) | — | ANSWERED |
 | THREAD-010 | Mảnh vải của Benedikt là bằng chứng chống Ottmar: ai sẽ dùng nó, khi nào? | 005 | Hennes, Bertolt | Dùng ở ARC-004 (cùng nhân chứng Ugo) | ARC-004 | OPEN |
+| THREAD-011 | Ai đã mở khóa chuồng cho Hennes? | 006 (EVT-037) | Hennes (nghi người áo xám), độc giả (manh mối Bertolt) | Bertolt, lộ ở chương 017 | 017 | OPEN |
 
 ## Trạng thái
 

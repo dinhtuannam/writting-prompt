@@ -17,9 +17,9 @@
 
 - **Trạng thái:** DRAFTING
 - **Arc hiện tại:** ARC-001 "Thuế Máu" (IN_PROGRESS)
-- **Số chương hoàn chỉnh đã audit:** 5 (001–005)
-- **Chương đang soạn:** tiếp theo 006
-- **Mốc tiếp theo:** Viết chương 006
+- **Số chương hoàn chỉnh đã audit:** 6 (001–006)
+- **Chương đang soạn:** tiếp theo 007
+- **Mốc tiếp theo:** Viết chương 007
 - **Quyết định đột phá đang chờ tác giả:** không có
 
 ## Logline
