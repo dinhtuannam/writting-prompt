@@ -25,6 +25,7 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của Ma thần
 - Ch.7 – Lẻn vào Brennock bị đốt nửa, đọc lời nhắn than của Lise (đi Durnholm); trên đường tị nạn cứu gia đình người cắt sừng khỏi bốn lính đào ngũ bằng bao kiếm và một luồng gió nhỏ; cầu Lennmouth cấm người sừng cụt; tin mẹ bệnh nặng, Lise kéo mẹ về Durnholm (EVT-040→045).
 - Ch.8 – Qua cầu bị bắt vì nghi đào ngũ; Brandt thẩm vấn; quân y Ysolde Kramm xác nhận thương tích, thấy bao kiếm ấm mà không có ma pháp; Pell còn sống, sẽ làm chứng (lệnh rút lui cứu 7 người); lão giữ kho thấy chuôi kiếm, Người Giữ Giá Cả lên lâu đài Bá tước (EVT-046→050).
 - Ch.9 – Tội đào ngũ được bỏ; tại sảnh lớn thầy Aldric xác nhận Bình Minh thật; Lambert Tolle viện Luật Di Vật, nắm chuôi kiếm và chết ngay; Edran cầm kiếm trước mọi người để chứng minh, bị tống xuống ngục cùng thanh kiếm (EVT-051→055).
+- Ch.10 – Ysolde tin và thành đồng minh; Bá tước Ansgar mặc cả: Edran làm 'ngọn cờ' Bình Minh trên tường thành, nhận vì muốn bảo vệ dân, không hứa gì sau trận; lễ trước 3.000 người; Dhurgal lệnh Kesh dựng trận Hỏa cấp Thánh trên đồi Kraehe (EVT-056→060).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

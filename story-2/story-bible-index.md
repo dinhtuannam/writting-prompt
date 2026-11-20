@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 9 (EVT-055)
-- **Chương tiếp theo cần viết:** 10
+- **Canon cập nhật đến:** Chương 10 (EVT-060)
+- **Chương tiếp theo cần viết:** 11
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -148,6 +148,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 007 | COMPLETE | Đường Tị Nạn | — | `summaries/chapters/chapter-007.md` | EVT-045 |
 | Chapter 008 | COMPLETE | Durnholm | — | `summaries/chapters/chapter-008.md` | EVT-050 |
 | Chapter 009 | COMPLETE | Luật Di Vật | — | `summaries/chapters/chapter-009.md` | EVT-055 |
+| Chapter 010 | COMPLETE | Ngọn Cờ | — | `summaries/chapters/chapter-010.md` | EVT-060 |
 
 ## Ranh giới sáng tạo
 

@@ -49,6 +49,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-053 | 11/1/HC 703 | Lambert Tolle nắm chuôi Bình Minh trái lệnh chú và chết ngay; lòng bàn tay in hình mặt trời mọc | CHAR-010 | Toàn bộ sảnh | Ansgar mất người thừa kế | ch.9 |
 | EVT-054 | 11/1/HC 703 | Theo lệnh Ansgar, Edran cầm kiếm bằng chuôi trước mọi người, không sao | CHAR-001, CHAR-007 | Toàn bộ sảnh | Bằng chứng công khai Edran là chủ nhân | ch.9 |
 | EVT-055 | 11/1/HC 703 | Edran bị tống xuống ngục dưới lâu đài cùng thanh kiếm | CHAR-001 | Triều thần | THREAD-012 | ch.9 |
+| EVT-056 | Đêm 11/1/HC 703 | Ysolde (đã khám xác Lambert) xuống ngục, thừa nhận tin sai; kể về trận phòng thủ của Orsk; hỏi về trận Hỏa ở Hắc Thạch | CHAR-001, CHAR-005 | CHAR-001, CHAR-005 | Ysolde đồng minh | ch.10 |
+| EVT-057 | 12/1/HC 703 | Ansgar đề nghị Edran làm "ngọn cờ"; Edran nhận đứng trên tường đến hết trận, không hứa gì sau | CHAR-001, CHAR-007 | CHAR-001, CHAR-007 | Edran được thả; Ansgar cho người tìm mẹ/em | ch.10 |
+| EVT-058 | 13/1/HC 703 | Lễ ban bố trên bậc đền trước ~3.000 người; Edran giơ Bình Minh; dân hát | CHAR-001, CHAR-007, CHAR-016 | Toàn Durnholm | Tin lan sang bờ bắc | ch.10 |
+| EVT-059 | 14/1/HC 703 | Chỉ điểm báo tin cho Dhurgal; Dhurgal ra lệnh Kesh dựng trận Hỏa cấp Thánh trên đồi Kraehe | CHAR-006, CHAR-011 | Hắc Nha | THREAD-013 | ch.10 |
+| EVT-060 | Đêm 14/1/HC 703 | Kesh bắt đầu vẽ trận đồ trên đồi Kraehe; Edran thấy vệt đỏ từ tường bắc | CHAR-001, CHAR-006 | CHAR-001 (thấy), CHAR-006 | Trận cần ~4 ngày | ch.10 |
 
 ## Cách ghi
 
