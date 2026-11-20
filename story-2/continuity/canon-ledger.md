@@ -10,6 +10,10 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-014 | 23/11/HC 702, đêm | Ma tộc sừng gãy (CHAR-013) đấm vào bụng Edran (vệt nóng rát – dấu truy vết, chưa ai biết) và đá vỡ gối phải | CHAR-001, CHAR-013 | CHAR-001 (chỉ biết bị đánh) | Gối phải vỡ; CLUE-001 | ch.1 |
 | EVT-015 | 23/11/HC 702, đêm | Vaelthar chặn rìu và nghiền chết ba ma tộc bằng áp lực vô chú; một chó săn tro chạy thoát | CHAR-002, CHAR-013 | CHAR-001, CHAR-002 | Xác ba ma tộc trong khe núi; con chó là đầu mối cho Hắc Nha | ch.1 |
 | EVT-016 | 23/11/HC 702, đêm | Vaelthar nhận ra Bình Minh, giữ mạng Edran (không chữa lành), xưng tên và là long tộc | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Edran biết ông là rồng | ch.1 |
+| EVT-017 | 26/11/HC 702 | Edran tỉnh ở nhà đá; Vaelthar cho xem bản đồ da: dấu phía bắc sáng mờ từ đêm 23/11, sáu dấu tối | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Edran biết vị trí gần đúng sáu kiếm | ch.2 |
+| EVT-018 | 26/11/HC 702 | Vaelthar giao nhiệm vụ tìm sáu kiếm và chủ nhân; giải thích ông sẽ chết nếu nắm chuôi | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Nhiệm vụ chính | ch.2 |
+| EVT-019 | 26/11/HC 702 | Vaelthar thừa nhận đã thử giết Ma thần và thất bại; nói Ma thần mất lý trí; hàm ý đã biết Ma thần từ Đại chiến I | CHAR-002 | CHAR-001 | THREAD-006 | ch.2 |
+| EVT-020 | Đêm 26/11/HC 702 | Vaelthar rời nhà không nói đi đâu; Bình Minh thì thầm với Edran về dũng khí | CHAR-001 | CHAR-001 | Kiếm có tiếng nói | ch.2 |
 
 ## Cách ghi
 

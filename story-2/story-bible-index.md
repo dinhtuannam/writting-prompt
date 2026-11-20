@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 1 (EVT-016)
-- **Chương tiếp theo cần viết:** 2
+- **Canon cập nhật đến:** Chương 2 (EVT-020)
+- **Chương tiếp theo cần viết:** 3
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -140,7 +140,7 @@ Không tái sử dụng ID đã retired.
 |---|---|---|---|---|---|
 | ARC-001 (Quyển I: Tàn Dưới Bình Minh) | PLANNED | Edran sống sót, học cách dùng Bình Minh, rời phương Bắc | `planning/arcs/arc-001.md` | `summaries/arcs/arc-001.md` | — |
 | Chapter 001 | COMPLETE | Ngày Phòng Tuyến Phía Bắc Sụp Đổ | `planning/chapters/chapter-001.md` | `summaries/chapters/chapter-001.md` | EVT-016 |
-| Chapter 002 | PLANNED | Tỉnh dậy ở nhà đá; bản đồ sáu thanh kiếm | `planning/chapters/chapter-002.md` | — | — |
+| Chapter 002 | COMPLETE | Bản Đồ Của Sáu Thanh Kiếm | `planning/chapters/chapter-002.md` | `summaries/chapters/chapter-002.md` | EVT-020 |
 | Chapter 003 | PLANNED | Đá thử nguyên; cái giá của Bình Minh; dấu hiệu bị săn đuổi | `planning/chapters/chapter-003.md` | — | — |
 
 ## Ranh giới sáng tạo

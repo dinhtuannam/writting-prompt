@@ -17,6 +17,7 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của Ma thần
 
 - Nền: EVT-001 → EVT-010b (xem `continuity/canon-ledger.md`).
 - Ch.1 – Hắc Thạch thất thủ; Edran bỏ lại người sống, chạy vào khe núi; Bình Minh công nhận anh; ma tộc sừng gãy đánh vỡ gối; Vaelthar nghiền chết ba ma tộc, xưng là long tộc (EVT-011→016).
+- Ch.2 – Tỉnh ở nhà đá; bản đồ da với bảy dấu kiếm (dấu bắc sáng); nhiệm vụ tìm sáu chủ nhân; Vaelthar thừa nhận từng thua Ma thần; kiếm thì thầm về dũng khí (EVT-017→020).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

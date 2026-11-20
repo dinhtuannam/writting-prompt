@@ -28,6 +28,8 @@
 | 23/11/HC 702, sáng → chiều | EVT-011 | Hắc Nha công phá Hắc Thạch; tường đông nổ | LOC-001 | CHAR-001, CHAR-004, CHAR-009 | Cả ngày | ch.1 |
 | 23/11/HC 702, tối | EVT-012 | Edran tỉnh, chạy vào rừng Hắc Tùng | LOC-001 → LOC-002 | CHAR-001 | ~2 dặm | ch.1 |
 | 23/11/HC 702, đêm | EVT-013 → 016 | Bình Minh; ba ma tộc; Vaelthar | LOC-003 | CHAR-001, CHAR-002, CHAR-013 | — | ch.1 |
+| 23→26/11/HC 702 | — | Edran bất tỉnh; Vaelthar mang anh tới nhà đá (cách thức chưa tiết lộ) | LOC-003 → LOC-004 | CHAR-001, CHAR-002 | 3 ngày | ch.2 |
+| 26/11/HC 702 | EVT-017 → 020 | Bản đồ, nhiệm vụ, thất bại của Vaelthar; tiếng nói của kiếm | LOC-004 | CHAR-001, CHAR-002 | 1 ngày | ch.2 |
 
 ## Các tuyến song song
 
