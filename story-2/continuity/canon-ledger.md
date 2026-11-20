@@ -58,6 +58,14 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-062 | 18/1/HC 703 | Hội đồng chiến tranh; Ansgar cho Edran dẫn 40 người + Ysolde xuất kích phá trận | CHAR-001, CHAR-007, CHAR-014 | Hội đồng | Đội xuất kích | ch.11 |
 | EVT-063 | 18/1/HC 703 | Edran biết mẹ chết ngày 19/12 ở ngoại thành (sổ điểm cháo 7), thấy xác bà; Lise đã nhận xác, sống nhưng chưa tìm thấy | CHAR-001, CHAR-012, CHAR-008 | CHAR-001, CHAR-004 | THREAD-005 | ch.11 |
 | EVT-064 | Đêm 18/1/HC 703 | 41 người vượt băng, tới chân sườn tây đồi Kraehe, bắt đầu leo | CHAR-001, CHAR-005 + 39 | Họ | — | ch.11 |
+| EVT-065 | Đêm 18/1/HC 703 | Đội xuất kích lên đỉnh Kraehe; Ysolde làm rối vòng ngoài trận đồ bằng Thủy | CHAR-005 | Đội; Hắc Nha | Trận không bắn thẳng được | ch.12 |
+| EVT-066 | Đêm 18/1/HC 703 | Kesh bắn sớm với 22 điểm nút; cột lửa lắc, nghiêng về Durnholm | CHAR-006 | Mọi người hai bờ | — | ch.12 |
+| EVT-067 | Đêm 18/1/HC 703 | Edran đi xuyên trận đồ trong lớp ánh sáng Bình Minh tới tâm; bỏng mặt, mất lông mày, tóc trái cháy | CHAR-001 | CHAR-001, CHAR-006 | Thương tích mới | ch.12 |
+| EVT-068 | Đêm 18/1/HC 703 | Kesh, dưới mũi kiếm, chọn nghiêng cột lửa xuống sông | CHAR-006, CHAR-001 | CHAR-001, CHAR-006 | — | ch.12 |
+| EVT-069 | Đêm 18/1/HC 703 | Cột lửa phá băng sông Lenne (vết rách lớn, 300 bước thượng nguồn cầu); đuôi lửa đốt một dải góc tây bắc ngoại thành | — | Toàn vùng | Quân đoàn không qua sông được ở đó; thương vong dân thường | ch.12 |
+| EVT-070 | Đêm 18/1/HC 703 | Trận vỡ; Kesh hứng phần lớn phản phệ (hai tay đen tới vai), sống; Edran tha hắn | CHAR-006, CHAR-001 | CHAR-001, CHAR-006 | THREAD-014 | ch.12 |
+| EVT-071 | Rạng sáng 19/1/HC 703 | Rút lui: 41 đi, 27 về; Harald chết; Edran kiệt sức, Brunn cõng; Ysolde kiệt lực | CHAR-001, CHAR-005 + đội | Durnholm | — | ch.12 |
+| EVT-072 | ~22/1/HC 703 | Edran tỉnh ở trại thương binh ngoại thành; Lise đang thay băng cho cậu | CHAR-001, CHAR-008 | Họ | Đoàn tụ | ch.12 |
 
 ## Cách ghi
 

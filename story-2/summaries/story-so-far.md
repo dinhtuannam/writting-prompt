@@ -29,6 +29,7 @@ _Đồng bộ đến chương 10._
 - Ch.9 – Tội đào ngũ được bỏ; tại sảnh lớn thầy Aldric xác nhận Bình Minh thật; Lambert Tolle viện Luật Di Vật, nắm chuôi kiếm và chết ngay; Edran cầm kiếm trước mọi người để chứng minh, bị tống xuống ngục cùng thanh kiếm (EVT-051→055).
 - Ch.10 – Ysolde tin và thành đồng minh; Bá tước Ansgar mặc cả: Edran làm 'ngọn cờ' Bình Minh trên tường thành, nhận vì muốn bảo vệ dân, không hứa gì sau trận; lễ trước 3.000 người; Dhurgal lệnh Kesh dựng trận Hỏa cấp Thánh trên đồi Kraehe (EVT-056→060).
 - Ch.11 – Trận Hỏa trên đồi Kraehe có 30 điểm nút (Thánh cấp); Orsk gạt đi; Edran thuyết phục Bá tước cho 40 người xuất kích phá trận bằng Thủy; Edran biết mẹ đã chết 19/12, Lise còn sống ở ngoại thành; đêm 18/1 đội áo trắng vượt băng, leo đồi (EVT-061→064).
+- Ch.12 – Đột kích đồi Kraehe: Ysolde làm rối trận đồ; Kesh bắn sớm; Edran đi xuyên lửa trong ánh sáng Bình Minh tới tâm; Kesh dưới mũi kiếm nghiêng cột lửa xuống sông Lenne (băng nổ, một dải ngoại thành cháy) và hứng phản phệ; Edran tha hắn; 41 đi 27 về; tỉnh dậy thấy Lise (EVT-065→072).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính
