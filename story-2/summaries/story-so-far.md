@@ -23,6 +23,7 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của Ma thần
 - Ch.5 – Huấn luyện đứng/thở và tập Phong; vết bầm là dấu nanh Hỏa truy vết; Edran dùng Bình Minh bẻ vỡ dấu (kiếm 'hỏi lại' lần đầu); đá nanh của Kesh nứt, toán Hắc Nha rút xuống núi (EVT-030→032).
 - Ch.6 – Tắt được ngọn nến; Edran chọn về Durnholm tìm mẹ và em; Vaelthar cảnh báo Luật Di Vật, kể Brennock bị đốt nửa, trao bản đồ và bao kiếm da xám, lộ vết thương do Varkhaz; hiện dạng rồng chở Edran ra khỏi núi (EVT-033→039).
 - Ch.7 – Lẻn vào Brennock bị đốt nửa, đọc lời nhắn than của Lise (đi Durnholm); trên đường tị nạn cứu gia đình người cắt sừng khỏi bốn lính đào ngũ bằng bao kiếm và một luồng gió nhỏ; cầu Lennmouth cấm người sừng cụt; tin mẹ bệnh nặng, Lise kéo mẹ về Durnholm (EVT-040→045).
+- Ch.8 – Qua cầu bị bắt vì nghi đào ngũ; Brandt thẩm vấn; quân y Ysolde Kramm xác nhận thương tích, thấy bao kiếm ấm mà không có ma pháp; Pell còn sống, sẽ làm chứng (lệnh rút lui cứu 7 người); lão giữ kho thấy chuôi kiếm, Người Giữ Giá Cả lên lâu đài Bá tước (EVT-046→050).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

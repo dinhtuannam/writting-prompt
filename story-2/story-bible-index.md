@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 7 (EVT-045)
-- **Chương tiếp theo cần viết:** 8
+- **Canon cập nhật đến:** Chương 8 (EVT-050)
+- **Chương tiếp theo cần viết:** 9
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -146,6 +146,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 005 | COMPLETE | Dấu Nanh | — | `summaries/chapters/chapter-005.md` | EVT-032 |
 | Chapter 006 | COMPLETE | Lựa Chọn Hướng Nam | — | `summaries/chapters/chapter-006.md` | EVT-039 |
 | Chapter 007 | COMPLETE | Đường Tị Nạn | — | `summaries/chapters/chapter-007.md` | EVT-045 |
+| Chapter 008 | COMPLETE | Durnholm | — | `summaries/chapters/chapter-008.md` | EVT-050 |
 
 ## Ranh giới sáng tạo
 

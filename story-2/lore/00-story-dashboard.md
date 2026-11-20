@@ -17,9 +17,9 @@
 
 - **Trạng thái:** DRAFTING
 - **Arc hiện tại:** ARC-001 – Quyển I: Tàn Dưới Bình Minh
-- **Số chương hoàn chỉnh đã audit:** 7
-- **Chương đang soạn:** 8
-- **Mốc tiếp theo:** Viết chương 8
+- **Số chương hoàn chỉnh đã audit:** 8
+- **Chương đang soạn:** 9
+- **Mốc tiếp theo:** Viết chương 9
 - **Quyết định đột phá đang chờ tác giả:** không có
 
 ## Logline

@@ -16,7 +16,10 @@ Tạo file `CHAR-###-short-name.md` cho mỗi nhân vật trọng yếu, sao ch�
 | CHAR-010 | Lambert Tolle | Cháu Bá tước, hiệp sĩ trẻ | Không | PLANNED | (bên dưới) |
 | CHAR-011 | Dhurgal | Tướng quân đoàn Hắc Nha | Không | PLANNED | (bên dưới) |
 | CHAR-012 | Hedda Veyl | Mẹ Edran | Không | PLANNED | (bên dưới) |
-| CHAR-013 | Ma tộc sừng gãy | Chỉ huy toán truy đuổi ba người ở khe núi; chết dưới tay Vaelthar | Không | CANON (seed) | (bên dưới) |
+| CHAR-014 | Henrik Brandt | Đại úy quân pháp Durnholm, gầy, tóc bạc cắt sát, mệt mỏi, theo luật | Không | CANON (ch.8) | (dòng này) |
+| CHAR-015 | Bertil (Marta, Senn) | Gia đình người cắt sừng làng Hollen; Edran cứu ở ch.7; đi đò Kessel | Không | CANON (ch.7) | (dòng này) |
+| CHAR-016 | Người Giữ Giá Cả | Người đứng đầu đền Giá Bảy Chỗ Trống Durnholm | Không | CANON (ch.8) | (dòng này) |
+| CHAR-013 | Gorrun Sừng Gãy (ma tộc sừng gãy) | Chỉ huy toán truy đuổi ba người ở khe núi; chết dưới tay Vaelthar | Không | CANON (seed) | (bên dưới) |
 
 ## Hồ sơ ngắn
 
