@@ -1,26 +1,48 @@
-Bạn là 1 tác giả hay novel hãy viết 1 novel lấy bối cảnh châu âu trung cổ , dark fantasy , kiếm sĩ , pháp sư
-Truyện nói về 1 thế giới tồn tại nhiều chúng tộc ma tộc , nhân tộc , thú tộc , elf tộc , long tộc
-Trong đó long tộc là tồn tại đặc biệt trên thế giới chỉ còn 5 long tộc tồn tại , họ có sức mạnh đặc biệt có thể hủy diệt vương quốc nhỏ (nhưng họ k bất khả chiến bại , k thể tự mình chinh phục 1 đế quốc hay 1 lục địa)
-Trong các chủng tộc thì nhân tộc và ma tộc chiếm đa số và có ảnh hưởng đến địa chính trị thế giới
-Cả 2 đã giao chiến thông qua đại chiến nhân ma lần 1 , phe ma tộc với sự dẫn dắt của ma thần và phe nhân tộc với sự dẫn dắt của 7 thất kiếm anh hùng
-Kết quả phe nhân tộc tiêu diệt đc ma thần , lấy đc phần lớn lãnh thổ của ma tộc nhưng 7 anh hùng đã chết và 7 thanh kiếm huyền thoại của nhân tộc cũng bị phân tán khắp thế giới
-700 năm sau thông qua 1 bí kĩ ma thần đã hồi sinh với sự điên loạn , hắn dùng sức mạnh để thống nhất các vương quốc ma tộc và 1 lần nữa bất đầu đại chiến nhân ma lần 2
-Lần này do phe nhân tộc đã để lạc mất 7 thanh kiếm nên nhanh chóng bị phe ma tộc áp đảo
-Nhân vật chính là 1 kiếm sĩ đang chiến đấu bảo vệ phòng tuyến phía bắc nhưng đã thất thủ , trong quá trình bị địch truy cùng và sắp chết anh đã đi vào 1 hẻm núi và tìm thấy thanh kiếm bình minh , anh cầm lấy thanh kiếm mà k bị nó giết chết (phẩm chất đc công nhận)
-Tuy lấy đc thanh kiếm nhưng do đã yếu anh vẫn bị hạ nhanh chóng nhưng 1 long tộc đã xuất hiện và giải cứu
-Cảm thấy đc tiềm năng kết thúc cuộc chiến mang lại hòa bình của người thanh niên , ông đã đưa cho cậu tấm bản đồ vị trí của 6 thanh kiếm còn lại và cậu sẽ bắt đầu cuộc hành trình đi thu thập và tìm kiếm chù nhân của 6 thanh còn lại
-Lưu ý chủ nhân của thanh kiếm k nhất thiết là nhân tộc , chỉ cần phẩm chất của bạn đc nó chấp nhận , người k đc chấp nhận khi cầm sẽ ngay lập tức bị quyền năng của nó giết chết
-7 thanh kiếm dựa trên 7 phẩm giá con người
+# Seed Story-2: Thất Kiếm – Tàn Dưới Bình Minh
+
+## Ý tưởng sơ khai
+
+**Thể loại/tông:** Dark fantasy, bối cảnh châu Âu trung cổ; kiếm sĩ và pháp sư; chiến tranh – phiêu lưu – chính trị – huyền thoại.
+
+**Thế giới và các chủng tộc**
+
+- Thế giới có nhiều chủng tộc: **nhân tộc, ma tộc, thú tộc, elf tộc, long tộc** (và hải tộc ở quần đảo phía đông).
+- **Nhân tộc và ma tộc** chiếm đa số, chi phối địa chính trị thế giới.
+- **Long tộc** là tồn tại đặc biệt, **chỉ còn 5 cá thể**. Mỗi con có thể hủy diệt một vương quốc nhỏ, nhưng **không bất khả chiến bại** và không thể tự mình chinh phục một đế quốc hay một lục địa.
+
+**Lịch sử**
+
+- **Đại chiến Nhân Ma lần 1:** ma tộc do **Ma thần** dẫn dắt, nhân tộc do **Thất Kiếm Anh Hùng** dẫn dắt.
+- Nhân tộc tiêu diệt được Ma thần và chiếm phần lớn lãnh thổ ma tộc; nhưng **cả 7 anh hùng đều chết** và **7 thanh kiếm huyền thoại thất lạc khắp thế giới**.
+- **700 năm sau**, nhờ một bí thuật, **Ma thần hồi sinh trong điên loạn**, thống nhất các vương quốc ma tộc và mở **Đại chiến Nhân Ma lần 2**.
+- Vì đã mất 7 thanh kiếm, nhân tộc nhanh chóng bị ma tộc áp đảo.
+
+**Nhân vật chính và mở đầu**
+
+- Nhân vật chính là **một kiếm sĩ bảo vệ phòng tuyến phía bắc**. Phòng tuyến thất thủ, anh bị truy đuổi đến gần chết, chạy vào một hẻm núi và tìm thấy **thanh kiếm Bình Minh**. Anh cầm kiếm mà không bị giết – phẩm chất được công nhận.
+- Dù có kiếm, anh vẫn quá yếu và bị hạ nhanh chóng; **một long tộc xuất hiện và cứu anh**.
+- Nhận ra ở người thanh niên tiềm năng **kết thúc chiến tranh và mang lại hòa bình**, con rồng trao cho anh **tấm bản đồ vị trí 6 thanh kiếm còn lại**. Hành trình của anh là **tìm 6 thanh kiếm và tìm chủ nhân của chúng**.
+
+**Luật bảy thanh kiếm**
+
+- 7 thanh kiếm dựa trên **7 phẩm giá con người**.
+- Chủ nhân **không nhất thiết là nhân tộc** – chỉ cần phẩm chất được thanh kiếm chấp nhận.
+- Người **không được chấp nhận mà cầm kiếm sẽ bị quyền năng của nó giết chết ngay lập tức**.
+
+**Ma pháp:** Hệ Thất Nguyên Tố (Hỏa, Thủy, Lôi, Nham, Phong, Mộc, Băng*) và bảy cấp độ (Cơ bản → Thần cấp) – chi tiết ở mục IV cuối file.
+
+_\*Nguyên tố thứ bảy tạm đặt là Băng, chờ tác giả xác nhận (danh sách gốc ghi "Phong" hai lần)._
+
+## Quyền sáng tạo
+
+- AI được toàn quyền phát triển thế giới, nhân vật, xung đột, tuyến truyện, twist, diễn biến chương và kết thúc trong phạm vi seed này.
+- Các phần dưới đây (lời dẫn, chương 1–2 phác thảo, hồ sơ bảy thanh kiếm, nguyên tắc thế giới, hướng 7 quyển, hệ thống ma pháp) là **ý tưởng và giới hạn của tác giả**; AI bám theo nhưng được viết lại văn bản chương cho hoàn chỉnh.
 
 ---
 
 # **THẤT KIẾM – TÀN DƯỚI BÌNH MINH**
 
 _Dark Fantasy | Medieval Epic | Chiến tranh – Phiêu lưu – Chính trị – Huyền thoại_
-
-[Dragon Age Origins Custom Game Builder | SEELE AI](https://images.openai.com/static-rsc-4/EhsMtRl0CiCEO0VluQUPZGOtfa2HLmX1We-cSUduwNq-GgZOs34NeCWjHonhDK280bN4cmvdQc70TKUj7R3slo7vd0d33_350E1IcfYB2MWIqtSeKOLmq7yDHLPw3P--8MbNJJhx68Ax1IXpSr8WGBNsxI74CxqaN9ZSHatFOkY?purpose=inline)
-
-[seeles.ai](https://www.seeles.ai/features/tools/dragon-age-origins-custom-game?utm_source=chatgpt.com)
 
 > _Bảy thanh kiếm không được tạo ra để tìm kiếm những kẻ mạnh nhất. Chúng được tạo ra để tìm kiếm những con người xứng đáng nhất._
 >
@@ -111,10 +133,6 @@ Và một lần nữa, chiến tranh bắt đầu.
 # **QUYỂN I: THANH KIẾM BÌNH MINH**
 
 ## **Chương 1: Ngày phòng tuyến phía bắc sụp đổ**
-
-[Medieval Castle Under Siege with Explosions and Smoke | Deep Dream Generator](https://images.openai.com/static-rsc-4/hm3WuOZ7vcjAhW7B9vFLF6tiudu1PHkjhZ7pJt9LOoX_7yiEKFMVVNOkctF-gDQWDpv3txbNkfzm2ax6qioov7dgTBMww6WMIgjXwpvq6xqB6v8e2hjPQ7r0zUz9fIxJABPjSHxwZ-pmDPqe_RX1WKxSC4o5n-fY7rMEdiRXTv8?purpose=inline)
-
-[deepdreamgenerator.com](https://deepdreamgenerator.com/ddream/tf0lkcyobyr?utm_source=chatgpt.com)
 
 Năm thứ ba của Đại chiến Nhân Ma lần thứ hai.
 
@@ -283,10 +301,6 @@ Nhưng đã quá muộn.
 Cột sáng giáng xuống.
 
 Bức tường phía đông nổ tung trong một biển lửa.
-
-[Medieval Castle Under Siege with Explosions and Smoke | Deep Dream Generator](https://images.openai.com/static-rsc-4/BTRNo-bdj5jlOS3e4LEeXuiwFg6JFf25h1tuhPWWg64tfcBqC5_vOg8ykAWR3ONdEx57YelowUKXWzPlEWZimzmLeuPsOvIj0eXOdm92_vcxvot-L5sQnmha48nMofW2oXR1sxNd9dFDPcm-g45tmxrSq6KqES8A4de1R2eHlLo?purpose=inline)
-
-[deepdreamgenerator.com](https://deepdreamgenerator.com/ddream/tf0lkcyobyr?utm_source=chatgpt.com)
 
 Khi Edran tỉnh lại, bầu trời đã tối.
 
@@ -514,10 +528,6 @@ Nhưng cuối cùng, anh vẫn trả lời.
 
 Trong khoảnh khắc ấy, ánh sáng bùng lên.
 
-[Memorable Magic. Making Magic Items in DnD 5e | by Jackson Haime | Medium](https://images.openai.com/static-rsc-4/W9BYTEHCt2o37mhKHmnBdZXZwYf7YVkBgiqRbSQU8l6v5cVTl1lTOaBwRg5cyAa-OLuXM-2L67Djn1Z1PRxY2co2aaC52f-7hV_4gJfozh7SYxtxvHtfgDN-iyIwb1go356heUsHoqd41W9rl2jnJ6IBgbXRXTmWg16Lk9fBRfg?purpose=inline)
-
-[medium.com](https://medium.com/%40jackson.haime/magic-items-are-one-of-the-core-engagements-of-dungeons-and-dragons-campaigns-82c81c4af969?utm_source=chatgpt.com)
-
 Tuyết trên mặt đất tan chảy.
 
 Những đường vân vàng chạy dọc lưỡi kiếm như những mạch máu sống.
@@ -739,10 +749,6 @@ Vaelthar mỉm cười.
 "Ít nhất là không thường xuyên."
 
 ## **Chương 2: Bản đồ của sáu thanh kiếm**
-
-[Tales from Underpeak Cave – Mistcharter Maps](https://images.openai.com/static-rsc-4/6OA7ZVbb4qqpW6YhOHkACV5WwK4MaiTU2bsnWvqVW5oU9G3lwHABy-qsAd75nHmZkPv-_llDDxfA9S1At5a38tF0BcvtQAGGWnwHl8ToA28C_YFHgzGLJkuBkhwM-eU9fiNL-ztH_lPTjlitpNzY8SJr0WhJl7ctlophi9SrHks?purpose=inline)
-
-[mistchartermaps.com](https://mistchartermaps.com/blogs/chronicles/tales-from-underpeak-cave?utm_source=chatgpt.com)
 
 Ba ngày sau.
 
@@ -1018,8 +1024,6 @@ Nhưng những đường vân vàng trên lưỡi kiếm đang phát sáng rất
 
 Bảy thanh kiếm không đại diện cho sức mạnh chiến đấu. Chúng đại diện cho bảy phẩm giá mà một con người có thể giữ lại ngay cả khi thế giới muốn tước đoạt chúng.
 
-[FLUX prompt: \*\*sword inspired by Ephesians 6:17 (KJV)\*\*, blendi...](https://images.openai.com/static-rsc-4/8UL43gtKIwNOsUzH1-zW0Q2wPX3vREF_X46wkUmtx4tdazPqUV241nPqYr1nWyRCOgxQD9ztI3yGsGXDuBvNcO29bvT2DBO7ObGvwiPwBiLWuPDGyxeVaLN5DdMpjsaLr_sY7Zp-aT3ic01yckKFlnM_raCXVaQchbKW-nIHA2k?purpose=inline)
-
 **1. Bình Minh – Dũng Khí**
 
 Đã tìm thấy
@@ -1028,43 +1032,31 @@ Bảy thanh kiếm không đại diện cho sức mạnh chiến đấu. Chúng 
 - Phẩm chất: Dám đối mặt với nỗi sợ để bảo vệ điều mình tin tưởng.
 - Quyền năng: Ánh sáng, khả năng phá vỡ bóng tối và ý chí áp chế.
 
-[Earth Sword by TrulyMalicious on DeviantArt](https://images.openai.com/static-rsc-4/i9HuYjc3Ro8TMVs2ISqt2HHLryWPe73EOi3CZP39fKFWGIJ5Mb9rL76b2guWKiyTVGTQ-PiXkeQqpkSPbByuiKkmtLyKvgOQ27UwIQXSI1kaW-W5Vms-qmm1uPkYwCzKgGnDabG-H-xSglLBPFtAv8qbSYtAgEwV7AM5tScdPW0?purpose=inline)
-
 **2. Sinh Mệnh – Lòng Trắc Ẩn**
 
 - Phẩm chất: Có thể nhìn thấy nỗi đau của kẻ khác mà không đánh mất bản thân.
 - Quyền năng: Sinh trưởng, chữa lành và bảo vệ.
 - Người được chọn có thể không phải nhân tộc.
 
-[Eindride Lone Wolf Sword With Scabbard - DS-1545 - Medieval Collectibles](https://images.openai.com/static-rsc-4/-30b9Ai_5-PSjVSvcJ4pgVODPHDJokpYv7LUU3qDgGS_lcu_ctWJjW6ye0KsXRZlmPh2qhPNB76Q1lD5Y-maElWMt6bc4r6UMOYGxEQvKBPdtdXfJUPiN4dU6AOO6AGa2PxbnVCWbU_wk_j8IgN1skmzFVCxbx5qKeNZj8-4Pnk?purpose=inline)
-
 **3. Thiết Luật – Chính Trực**
 
 - Phẩm chất: Không phản bội điều mình biết là đúng vì lợi ích cá nhân.
 - Quyền năng: Trọng lực, phán quyết và ràng buộc.
-
-[Infernal Greatsword - Item - The Bazaar](https://images.openai.com/static-rsc-4/JCnyK6cAaYh5gdieI9cHNH2yjBqs8c8sU4MoSC-lwmZnS5CGG_C5kKeo6J4H0txoiLp9Xihwlxw68np6U00O3o3AcwIlQPNID-59f457RWCbcAnfSCCYGklINnrHYZ5cUEiYHBctKQjpxHaVu_vYPc7TzCIf-9e99QOg9Qvuqls?purpose=inline)
 
 **4. Bất Khuất – Kiên Định**
 
 - Phẩm chất: Không từ bỏ lý tưởng chỉ vì phải chịu đựng đau đớn và thất bại.
 - Quyền năng: Chịu đựng, phòng ngự và sức mạnh bền bỉ.
 
-[Shadow elves Species in Kena'an | World Anvil](https://images.openai.com/static-rsc-4/Kfo7JJTNg_47Tuh7nKFQwYpNVcYOZwBv7N7468sfiLfLnviLnvFPTHn9ekgFwBbv1olAzM0efynsP6nceNgXknqzWKsgUj2ci9GTEFDi4JUYZTq7s80QCo75JBfxLx02VrFnExpweyltk2f39h0lK6jEgjn3BpvJudYaoSehQeQ?purpose=inline)
-
 **5. Vô Ngã – Khiêm Nhường**
 
 - Phẩm chất: Hiểu rõ giới hạn của bản thân, không để quyền lực làm mù mắt.
 - Quyền năng: Che giấu hiện diện, triệt tiêu và chuyển hướng ma lực.
 
-[Radiant Dominion Sword - 3D Model by JezerKwensi](https://images.openai.com/static-rsc-4/w1yrrraWjl0VDgYmxbM8Q8Btp76kXqwW6b_OGRLGjMuSzZpubcKakLtNXnACKm18Dl_Be5S7j4b2BsAIUHzvMzDSOCaIHQAjn0aarvwDRgLORN_oV0VogEyhatP2bpUrUKeDx9vStl7jmOP-cHX4jyTEPVui5CR_RjdXxOKdx3s?purpose=inline)
-
 **6. Thiên Bình – Công Bằng**
 
 - Phẩm chất: Không dùng tiêu chuẩn khác nhau để phán xét kẻ yếu và kẻ mạnh.
 - Quyền năng: Cân bằng, chia sẻ và phản hồi sức mạnh.
-
-[Rezak' which means Cutter is a sword of sharpness by MisterGnome on DeviantArt](https://images.openai.com/static-rsc-4/0rVg8LCi6C_BCoIq7BfvL2wkP0COJNzNJ9vgxXuxlCJ9cfTsKHAyVYzTSfJHGIi2l8BDDoJ84dg0XzgSjpNvpjlXVaw9-_tGTGYocdkilJmErMrL-cZLJykh5GI05-A3wZ3NBfxxE-kB4dyjKtGu2CpF384Y4S-TaPfddiNsJV0?purpose=inline)
 
 **7. Tinh Hỏa – Hy Vọng**
 
@@ -1100,3 +1092,162 @@ _Lưu ý: Những quyền năng trên là biểu hiện ban đầu, chưa phải
 **Một bí mật lớn sẽ được giữ lại:** Bảy thanh kiếm không được tạo ra chỉ để giết Ma thần. Sự thật về lý do chúng được tạo ra, sự hy sinh của bảy anh hùng và bản chất của nghi thức hồi sinh sẽ dần được hé lộ trong hành trình.
 
 Và quan trọng nhất, Edran sẽ không trở thành một vị cứu tinh chỉ vì được chọn. Anh sẽ phải học cách trở thành người xứng đáng với thanh kiếm ấy.
+
+## **IV. Hệ thống ma pháp – Thất Nguyên Tố**
+
+> _Ma pháp không phải phép màu. Nó là một món nợ mà cơ thể phải trả, và thế giới luôn đòi đủ._
+>
+> — Câu nói lưu truyền trong các học viện pháp thuật Arvend.
+
+### **1. Nguồn gốc của ma pháp**
+
+Ma pháp ở Aetherion được tạo thành từ hai thứ:
+
+- **Ma lực** – năng lượng sống tồn tại trong cơ thể mỗi sinh vật. Ai cũng có, nhưng phần lớn chỉ có rất ít, không đủ để làm gì.
+- **Nguyên khí** – năng lượng nguyên tố trôi nổi trong đất, nước, không khí, cây cối và bầu trời.
+
+Pháp sư dùng ma lực của chính mình làm "chìa khóa" để mở và dẫn nguyên khí xuyên qua cơ thể, rồi định hình nó thành phép thuật. Cơ thể pháp sư là ống dẫn. Ống dẫn càng mạnh, nguyên khí đi qua càng nhiều – nhưng một ống dẫn bị ép quá giới hạn sẽ nứt vỡ.
+
+Vì vậy, **sức mạnh của một pháp sư phụ thuộc vào ba yếu tố**: lượng ma lực bản thân, độ bền của cơ thể, và lượng nguyên khí có sẵn ở nơi họ đứng.
+
+### **2. Bảy nguyên tố cơ bản**
+
+Ma pháp được chia thành bảy nguyên tố cơ bản. Mọi phép thuật hợp pháp mà các học viện công nhận đều thuộc về một hoặc kết hợp nhiều nguyên tố trong số này.
+
+| Nguyên tố | Bản chất                          | Ứng dụng tiêu biểu                                                         | Nơi mạnh nhất                    | Điểm yếu / cái giá đặc trưng                                                    |
+| --------- | --------------------------------- | -------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------- |
+| **Hỏa**   | Hủy diệt, nhiệt, bùng phát        | Phá tường thành, đốt doanh trại, cầu lửa, sưởi ấm và cầm máu bằng nhiệt   | Vùng khô nóng, núi lửa, Ma giới  | Tiêu hao ma lực nhanh nhất; dùng quá sức để lại vết bỏng đen dọc mạch máu       |
+| **Thủy**  | Lưu chuyển, thích nghi, thanh tẩy | Điều khiển dòng nước, tạo sương mù, rửa độc, hỗ trợ chữa trị              | Sông, biển, quần đảo phía đông   | Gần như vô dụng ở sa mạc; cơ thể pháp sư dễ mất nước, khát triền miên            |
+| **Lôi**   | Tốc độ, xuyên phá, chấn động      | Đánh nhanh, làm tê liệt, phá giáp kim loại, truyền tin bằng tia sáng      | Đỉnh núi cao, trời giông bão     | Khó kiểm soát nhất; dễ phản phệ, pháp sư lâu năm thường bị run tay mãn tính      |
+| **Nham**  | Bền vững, trọng lượng, phòng ngự  | Dựng tường đất, gia cố công sự, gây địa chấn, tạo áp lực đè nén           | Núi đá, hang động, vùng cao nguyên | Chậm; cần tiếp xúc với mặt đất – trên thuyền hoặc trên tường cao sẽ yếu đi rõ rệt |
+| **Phong** | Tự do, vô hình, cắt xẻ            | Lưỡi gió, tăng tốc mũi tên, đẩy lùi kẻ địch, khuếch tán khói độc         | Thảo nguyên, vách núi, mặt biển  | Sát thương thấp nếu không có kỹ thuật; dùng lâu gây khó thở và choáng váng      |
+| **Mộc**   | Sinh trưởng, kết nối, hồi phục    | Chữa thương, trói buộc bằng rễ cây, nuôi trồng, cảm nhận sinh vật xung quanh | Rừng cổ, đồng ruộng, lãnh thổ elf | Rất chậm trong chiến đấu; vô dụng trên đất chết – chiến trường bị tro tàn hóa   |
+| **Băng**  | Đình trệ, bảo tồn, phong tỏa      | Đóng băng, làm chậm, bảo quản xác và lương thực, tạo cầu băng qua sông    | Phương bắc, núi tuyết, mùa đông  | Pháp sư dần mất cảm giác nóng lạnh; thân nhiệt hạ thấp vĩnh viễn                |
+
+_Ghi chú của tác giả: Danh sách gốc của tác giả liệt kê "Phong" hai lần. Nguyên tố thứ bảy được tạm đặt là **Băng** vì phù hợp với bối cảnh phương bắc phủ tuyết (phòng tuyến Hắc Thạch, rừng Hắc Tùng). Có thể đổi sang nguyên tố khác mà không ảnh hưởng đến phần còn lại của hệ thống._
+
+### **3. Tương tác giữa các nguyên tố**
+
+Aetherion **không có vòng tương sinh – tương khắc tuyệt đối**. Nguyên tố tương tác theo bản chất vật lý của chúng, và kết quả phụ thuộc vào cường độ, địa hình và người thi triển.
+
+- **Thủy dập Hỏa** – nhưng một ngọn lửa đủ lớn sẽ biến nước thành hơi nước bỏng rát, gây sát thương cho cả hai bên.
+- **Lôi truyền qua Thủy** – một pháp sư Thủy và một pháp sư Lôi phối hợp có thể quét sạch cả một đội hình đứng trên đất ẩm.
+- **Nham tiếp địa Lôi** – tường đất là cách phòng ngự sét hiệu quả nhất.
+- **Phong thổi bùng Hỏa** – hoặc thổi tắt nó, tùy vào ai mạnh hơn.
+- **Mộc hút Thủy và xuyên Nham** – rễ cây có thể làm nứt vỡ tường đá trong nhiều ngày, nhưng Mộc cháy rất nhanh trước Hỏa.
+- **Băng đóng Thủy** – biến dòng sông thành con đường hành quân; nhưng băng tan trước Hỏa và giòn vỡ trước Nham.
+
+Trên chiến trường, **sự phối hợp giữa các pháp sư khác nguyên tố quan trọng hơn sức mạnh của một cá nhân**. Một quân đoàn có pháp sư Thủy – Lôi phối hợp tốt đáng sợ hơn một pháp sư Hỏa Thánh cấp đơn độc.
+
+### **4. Thiên phú nguyên tố**
+
+- Chỉ khoảng **một trong ba mươi người** có đủ ma lực để học ma pháp ở mức sử dụng được.
+- Mỗi pháp sư thường chỉ có **thiên phú với một nguyên tố**. Có thể học nguyên tố khác, nhưng hiệu quả rất thấp và tiêu hao gấp nhiều lần.
+- **Song nguyên tố** hiếm gặp, thường trở thành nhân vật quan trọng trong quân đội hoặc học viện.
+- **Tam nguyên tố** chỉ xuất hiện vài lần trong một thế kỷ.
+- Thiên phú được kiểm tra bằng **đá thử nguyên** – một khối tinh thạch đổi màu khi tiếp xúc với ma lực của người chạm vào. Trẻ em ở các thành phố lớn thường được kiểm tra khi mười tuổi; con cái nông dân ở vùng biên thì hiếm khi có cơ hội đó.
+
+### **5. Ba cách thi triển ma pháp**
+
+| Cách thi triển | Mô tả                                                                                     | Ưu điểm                         | Nhược điểm                                       |
+| -------------- | ----------------------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------ |
+| **Ma pháp trận** | Vẽ hoặc khắc trận đồ, thường cần nhiều pháp sư cùng truyền ma lực                       | Uy lực lớn nhất, dùng cho công thành và phòng thủ | Chậm, dễ bị phá nếu trận đồ hư hỏng, cần chuẩn bị trước |
+| **Niệm chú**   | Dùng lời chú để định hình nguyên khí                                                      | Cân bằng giữa tốc độ và uy lực, phổ biến nhất | Không thể dùng khi bị bịt miệng hoặc mất giọng   |
+| **Vô chú**     | Định hình nguyên khí chỉ bằng ý chí, không cần trận đồ hay lời chú                       | Nhanh, không báo trước          | Cực kỳ hiếm ở phàm nhân; gần như chỉ long tộc và vài pháp sư Vương cấp trở lên làm được |
+
+_Liên hệ với chương 1: cột sáng đỏ phá hủy tường phía đông Hắc Thạch là một **ma pháp trận Hỏa** do pháp sư Cao cấp của quân đoàn Hắc Nha dẫn dắt. Vaelthar nghiền nát ba chiến binh ma tộc "không có ma pháp trận, không có câu thần chú, không có ánh sáng" – đó là **vô chú**._
+
+### **6. Bảy cấp độ ma pháp**
+
+Ma pháp được chia thành **bảy cấp độ**. Cùng một thang cấp độ được dùng để xếp hạng **pháp sư** và xếp hạng **phép thuật**. Một pháp sư được công nhận ở cấp nào khi có thể tự mình thi triển ổn định phép thuật cấp đó.
+
+**Cấp độ pháp sư**
+
+| Cấp độ        | Năng lực trên chiến trường                                                                                       | Độ hiếm                                                      |
+| ------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Cơ bản**    | Thắp lửa, làm lạnh nước, tạo làn gió nhẹ. Gần như vô dụng trong chiến đấu.                                       | Phần lớn những người có thiên phú dừng lại ở đây             |
+| **Trung cấp** | Có thể giết hoặc làm trọng thương vài binh sĩ trong một trận đánh trước khi cạn ma lực.                          | Lực lượng pháp sư chủ yếu của quân đội                       |
+| **Cao cấp**   | Thay đổi cục diện một trận đánh nhỏ; dẫn dắt ma pháp trận phá một đoạn tường thành.                              | Mỗi quân đoàn có vài người                                   |
+| **Thánh cấp** | Một mình cầm chân một đại đội; trụ cột của các ma pháp trận lớn.                                                 | Mỗi vương quốc có từ vài người đến vài chục người            |
+| **Vương cấp** | Một mình thay đổi cục diện một trận chiến lớn; chỉ huy các nhóm pháp sư Thánh cấp thi triển phép cấp Đế.        | Mỗi vương quốc lớn chỉ có một vài người, có nước không có ai |
+| **Đế cấp**    | Có thể tự mình thi triển phép cấp Đế quy mô nhỏ, nhưng sau đó cần nhiều tuần hồi phục.                           | Cả Aetherion chỉ có một số ít; tên tuổi được mọi triều đình biết đến |
+| **Thần cấp**  | Chỉ tồn tại trong sử sách và truyền thuyết. Không có ghi chép đáng tin nào về một phàm nhân đạt cấp này còn sống. | Các pháp sư đồng hành cùng Thất Kiếm Anh Hùng được cho là đã chạm tới ngưỡng này |
+
+**Cấp độ phép thuật**
+
+| Cấp phép                    | Quy mô                                                       | Cách thi triển thông thường                                                                 |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| **Cơ bản – Trung cấp**      | Một người đến vài người                                      | Niệm chú, một pháp sư                                                                       |
+| **Cao cấp**                 | Một tiểu đội, một đoạn tường                                 | Niệm chú dài hoặc ma pháp trận nhỏ                                                          |
+| **Thánh cấp**               | Một đại đội, một cổng thành                                  | Pháp sư Thánh cấp niệm chú, hoặc ma pháp trận do nhiều pháp sư Cao cấp hợp lực              |
+| **Vương cấp**               | Một chiến trường, một pháo đài                               | Pháp sư Vương cấp, hoặc ma pháp trận do nhiều pháp sư Thánh cấp hợp lực                     |
+| **Đế cấp**                  | Một thành phố, một đạo quân                                  | **Gần như luôn cần ma pháp trận** và nhiều pháp sư **Thánh cấp trở lên** cùng thi triển     |
+| **Thần cấp**                | Một vùng lãnh thổ; có thể thay đổi địa hình, khí hậu         | **Bắt buộc ma pháp trận khổng lồ** và hàng chục pháp sư **Thánh cấp trở lên**, thường do Vương cấp hoặc Đế cấp dẫn dắt |
+
+**Phép cấp Đế và cấp Thần** – do quy mô quá lớn và lượng ma lực tiêu hao quá nhiều, phần lớn đều không thể thi triển bởi một cá nhân:
+
+- **Ma pháp trận** phải được vẽ hoặc khắc trước – có khi mất nhiều ngày đến nhiều tháng – thường trên tường thành, quảng trường, hoặc những nơi nguyên khí dồi dào.
+- **Phép cấp Đế** cần một nhóm pháp sư **Thánh cấp trở lên** truyền ma lực đồng thời; chỉ cần một người gục ngã giữa chừng, trận đồ có thể mất kiểm soát và phản phệ lên tất cả.
+- **Phép cấp Thần** cần hàng chục pháp sư Thánh cấp trở lên, nguồn nguyên khí khổng lồ và cái giá cực đắt – không ít lần, những người thi triển đều chết hoặc mất vĩnh viễn khả năng sử dụng ma pháp. Trong lịch sử ghi nhận, phép cấp Thần chỉ được dùng vài lần, phần lớn trong Đại chiến Nhân Ma lần thứ nhất.
+- Vì vậy, phép cấp Đế và cấp Thần là **tài sản chiến lược của quốc gia**, không phải vũ khí của cá nhân. Một vương quốc mất đi nhóm pháp sư Thánh cấp của mình đồng nghĩa với mất khả năng phòng thủ trước các đòn ma pháp quy mô lớn.
+- Ma pháp trận cấp Đế và Thần cũng là **mục tiêu ưu tiên** của kẻ địch: phá hủy trận đồ, ám sát pháp sư trước khi nghi thức hoàn tất, hoặc cắt nguồn nguyên khí là những chiến thuật phổ biến.
+
+**Long tộc** là ngoại lệ đáng sợ nhất: bằng vô chú, một con rồng có thể tự mình tạo ra sức hủy diệt tương đương phép cấp Đế – đó là lý do một con rồng có thể thiêu rụi một vương quốc nhỏ. Nhưng ngay cả long tộc cũng không thể làm điều đó liên tục, và không con rồng nào một mình thi triển được phép cấp Thần.
+
+_Liên hệ với chương 1: cột sáng đỏ phá hủy tường phía đông Hắc Thạch là phép **Cao cấp** dưới dạng ma pháp trận Hỏa, do pháp sư Cao cấp của quân đoàn Hắc Nha dẫn dắt – đủ để phá một đoạn tường, nhưng chưa đến mức xóa sổ cả pháo đài._
+
+**Không pháp sư nào có thể chiến đấu liên tục.** Ngay cả pháp sư Vương cấp cũng cần binh sĩ bảo vệ khi đang niệm chú và khi đã cạn kiệt.
+
+### **7. Cái giá của ma pháp**
+
+Đây là thế giới dark fantasy. Ma pháp luôn có giá.
+
+- **Kiệt lực** – Dùng cạn ma lực khiến pháp sư choáng váng, ngất xỉu, hoặc không thể thi triển phép trong nhiều ngày.
+- **Bỏng mạch** – Dẫn quá nhiều nguyên khí qua cơ thể làm tổn thương các mạch ma lực. Vết thương có thể nhìn thấy dưới da như những đường vân sẫm màu. Bỏng mạch nặng có thể khiến pháp sư mất khả năng sử dụng ma pháp vĩnh viễn.
+- **Dấu vết nguyên tố** – Pháp sư dùng một nguyên tố lâu năm sẽ bị nó thay đổi: pháp sư Băng lạnh tay quanh năm, pháp sư Lôi run tay, pháp sư Hỏa có làn da khô nứt, pháp sư Phong thở gấp khi về già.
+- **Phụ thuộc môi trường** – Pháp sư Hỏa yếu đi giữa bão tuyết phương bắc; pháp sư Mộc gần như bất lực trên chiến trường đã cháy rụi. Tướng lĩnh giỏi luôn chọn chiến trường theo nguyên tố của pháp sư mình và của kẻ địch.
+
+### **8. Ma pháp theo chủng tộc**
+
+- **Nhân tộc** – Thiên phú phân bố đều ở cả bảy nguyên tố nhưng ma lực trung bình thấp. Bù lại, nhân tộc có hệ thống học viện, sách vở và ma pháp trận phát triển nhất.
+- **Ma tộc** – Ma lực dồi dào nhất trong các chủng tộc phàm nhân, thiên về **Hỏa** và **Lôi**. Một số tộc như **Hắc Giáp** gần như không dùng được ma pháp nhưng có lớp vảy kháng ma pháp tự nhiên.
+- **Elf tộc** – Thiên về **Mộc**, **Phong** và **Thủy**. Ma pháp chậm rãi, tinh tế, gắn liền với rừng cổ; elf có thể duy trì một phép trong nhiều năm nhưng hiếm khi bùng nổ trong chiến đấu.
+- **Thú tộc** – Rất ít pháp sư thực thụ. Thay vào đó, họ dẫn nguyên khí vào cơ thể để tăng cường sức mạnh, tốc độ và giác quan – một dạng ma pháp không cần lời chú mà các học viện nhân tộc từng coi thường.
+- **Hải tộc** – Gần như toàn bộ thiên về **Thủy**, một số ít về **Phong** và **Băng**.
+- **Long tộc** – Mỗi con rồng mang trong mình **một nguyên tố thuần khiết** và sử dụng nó bằng vô chú như hơi thở. Năm con rồng còn sống tương ứng với năm nguyên tố; hai nguyên tố còn lại không còn long tộc nào đại diện – vì sao, đó là một phần lịch sử long tộc chưa được kể. **Vaelthar là long tộc Nham**: áp lực đè nát kẻ thù trong khe núi chính là sức nặng của đất đá.
+
+### **9. Kiếm sĩ và ma pháp**
+
+Kiếm sĩ không niệm chú, nhưng kiếm sĩ giỏi có thể **dẫn một lượng nhỏ nguyên khí vào cơ thể và lưỡi kiếm** – gọi là **nguyên kiếm**. Lưỡi kiếm phủ gió để chém sắc hơn, cơ thể phủ đá để chịu đòn tốt hơn, bước chân mang sét để nhanh hơn.
+
+- Nguyên kiếm yếu hơn ma pháp thực thụ rất nhiều, nhưng nhanh và không cần lời chú.
+- Đa số binh sĩ thường không bao giờ học được. Chỉ kỵ sĩ, cận vệ và kiếm sĩ tinh nhuệ mới được huấn luyện.
+- **Edran có thiên phú nguyên tố thấp** và chưa từng được huấn luyện nguyên kiếm. Nguyên tố của anh sẽ được xác định trong quá trình viết, nhưng không được là thiên phú hiếm hay mạnh vượt trội – theo nguyên tắc "thanh kiếm không trao kinh nghiệm chiến đấu".
+
+### **10. Thất Kiếm nằm ngoài Thất Nguyên Tố**
+
+Quyền năng của bảy thanh kiếm **không phải ma pháp nguyên tố**.
+
+- Ánh sáng của Bình Minh, trọng lực của Thiết Luật, sự triệt tiêu ma lực của Vô Ngã… đều không thuộc bảy nguyên tố. Các học viện gọi chúng là **phẩm lực** – sức mạnh sinh ra từ phẩm giá của chủ nhân, không thể học, không thể sao chép.
+- Phẩm lực có thể **xuyên qua hoặc áp chế ma pháp nguyên tố**, nhưng tiêu hao ý chí và thể lực của chủ nhân thay vì ma lực.
+- Chủ nhân thanh kiếm **vẫn có thể học ma pháp nguyên tố** như người thường; hai hệ thống tồn tại song song.
+- Con số bảy trùng hợp giữa Thất Kiếm và Thất Nguyên Tố khiến nhiều học giả tin rằng bảy thanh kiếm được rèn từ bảy nguyên tố. **Điều đó chưa được xác nhận** – và có thể liên quan đến bí mật lớn về lý do bảy thanh kiếm được tạo ra.
+
+### **11. Cấm thuật**
+
+Ngoài bảy nguyên tố tồn tại những loại ma pháp bị mọi học viện và vương quốc cấm:
+
+- **Huyết thuật** – dùng máu và sinh mệnh của kẻ khác thay cho ma lực của bản thân. Mạnh vượt xa ma pháp thường, nhưng làm méo mó linh hồn người sử dụng.
+- **Hồn thuật** – thao túng hoặc trói buộc linh hồn người chết.
+
+**Nghi thức hồi sinh Ma thần** – máu của hàng nghìn ma tộc đổ vào bảy vòng ma pháp – là sự kết hợp của cả hai. Bảy vòng ma pháp ấy có tương ứng với bảy nguyên tố hay không, và vì sao nghi thức lại làm linh hồn Ma thần trở nên điên loạn, là những câu hỏi sẽ được trả lời dần trong trường thiên.
+
+### **12. Nguyên tắc khi viết ma pháp**
+
+1. **Ma pháp luôn có giá.** Không có phép thuật lớn nào được dùng mà không để lại hậu quả cho người thi triển.
+2. **Không thêm nguyên tố thứ tám.** Mọi hiện tượng siêu nhiên phải thuộc về bảy nguyên tố, phẩm lực của Thất Kiếm, long tộc, hoặc cấm thuật.
+3. **Ma pháp không thay thế quân đội.** Pháp sư cần được bảo vệ, cần thời gian hồi phục và phụ thuộc vào địa hình.
+4. **Chiến thắng đến từ phối hợp và chiến thuật**, không phải từ việc ai có phép mạnh hơn.
+5. **Nhân vật không đột ngột thức tỉnh nguyên tố mới** chỉ vì tình huống nguy cấp.
+6. **Không nhảy cấp đột ngột.** Lên một cấp độ pháp sư cần nhiều năm; từ Thánh cấp trở lên có thể mất cả đời.
+7. **Phép cấp Đế và cấp Thần phải có chuẩn bị.** Chúng cần ma pháp trận, nhiều pháp sư Thánh cấp trở lên và thời gian – không bao giờ là chiêu thức tung ra tùy hứng giữa trận đánh. Mỗi lần sử dụng phải là một sự kiện có hậu quả chính trị và quân sự.
