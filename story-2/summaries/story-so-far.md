@@ -1,6 +1,6 @@
 # Tóm Tắt Truyện Đến Hiện Tại
 
-Cập nhật sau mỗi chương được duyệt. Hiện **chưa có chương nào** – đây là trạng thái nền trước chương 1.
+Cập nhật sau mỗi chương được duyệt. Danh sách sự kiện theo chương được nối thêm mỗi chương; phần "Hiện trạng" và "Trạng thái nhân vật" được đồng bộ định kỳ (ít nhất mỗi 3–5 chương và ở cuối arc).
 
 ## Tiền đề trong một câu
 
@@ -15,7 +15,9 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của Ma thần
 
 ## Các sự kiện canon theo thứ tự
 
-1. EVT-001 → EVT-010b: sự kiện nền (xem `continuity/canon-ledger.md`).
+- Nền: EVT-001 → EVT-010b (xem `continuity/canon-ledger.md`).
+- Ch.1 – Hắc Thạch thất thủ; Edran bỏ lại người sống, chạy vào khe núi; Bình Minh công nhận anh; ma tộc sừng gãy đánh vỡ gối; Vaelthar nghiền chết ba ma tộc, xưng là long tộc (EVT-011→016).
+<!-- events-end -->
 
 ## Trạng thái nhân vật chính
 

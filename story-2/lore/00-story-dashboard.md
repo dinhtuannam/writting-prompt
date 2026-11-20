@@ -15,11 +15,11 @@
 
 ## Trạng thái dự án
 
-- **Trạng thái:** DEVELOPMENT
+- **Trạng thái:** DRAFTING
 - **Arc hiện tại:** ARC-001 – Quyển I: Tàn Dưới Bình Minh
-- **Số chương hoàn chỉnh đã audit:** 0
-- **Chương đang soạn:** 1 (chưa bắt đầu)
-- **Mốc tiếp theo:** Viết chương 1 theo `planning/chapters/chapter-001.md`
+- **Số chương hoàn chỉnh đã audit:** 1
+- **Chương đang soạn:** 2
+- **Mốc tiếp theo:** Viết chương 2
 - **Quyết định đột phá đang chờ tác giả:** không có
 
 ## Logline

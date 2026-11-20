@@ -4,7 +4,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 
 | ID | Thời điểm trong truyện | Sự kiện canon | Người liên quan | Ai biết sau sự kiện? | Hệ quả còn hoạt động | Nguồn |
 |---|---|---|---|---|---|---|
-| (chưa có – chương 1 chưa viết; sự kiện chương bắt đầu từ EVT-011) | | | | | | |
+| EVT-011 | 23/11/HC 702, chiều | Trận Hỏa của pháp sư áo đỏ Hắc Nha (vòng nhiều người trên đồi đông) nổ tung tường đông; Hắc Thạch thất thủ | CHAR-001, CHAR-004, CHAR-009, (CHAR-006) | Toàn quân | Cửa phương bắc mở; Hắc Nha chiếm pháo đài | ch.1 |
+| EVT-012 | 23/11/HC 702, tối | Edran tỉnh dậy, thấy Gerrit Moll bất động trên tường, không thấy Pell; bỏ lại những người còn sống không đứng dậy được, chạy về phía bắc | CHAR-001 | CHAR-001 | Tội lỗi (THREAD-003); Pell mất tích (THREAD-004) | ch.1 |
+| EVT-013 | 23/11/HC 702, đêm | Bình Minh công nhận Edran ở khe núi cuối rừng Hắc Tùng; kiếm rút khỏi đá để lại vết nứt tròn | CHAR-001 | CHAR-001, CHAR-002 | ITEM-001 có chủ | ch.1 |
+| EVT-014 | 23/11/HC 702, đêm | Ma tộc sừng gãy (CHAR-013) đấm vào bụng Edran (vệt nóng rát – dấu truy vết, chưa ai biết) và đá vỡ gối phải | CHAR-001, CHAR-013 | CHAR-001 (chỉ biết bị đánh) | Gối phải vỡ; CLUE-001 | ch.1 |
+| EVT-015 | 23/11/HC 702, đêm | Vaelthar chặn rìu và nghiền chết ba ma tộc bằng áp lực vô chú; một chó săn tro chạy thoát | CHAR-002, CHAR-013 | CHAR-001, CHAR-002 | Xác ba ma tộc trong khe núi; con chó là đầu mối cho Hắc Nha | ch.1 |
+| EVT-016 | 23/11/HC 702, đêm | Vaelthar nhận ra Bình Minh, giữ mạng Edran (không chữa lành), xưng tên và là long tộc | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Edran biết ông là rồng | ch.1 |
 
 ## Cách ghi
 

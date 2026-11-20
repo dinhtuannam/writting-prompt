@@ -25,7 +25,9 @@
 | HC 700 | EVT-010b | Phục kích Roven | LOC-008 | CHAR-001 | — | seed |
 | ~HC 701 | EVT-010a | Vaelthar thua Varkhaz | (PLANNED) | CHAR-002, CHAR-003 | — | seed |
 | Thu HC 702 | — | Lá thư cuối của Lise tới Edran | — | CHAR-001, CHAR-008 | — | AI |
-| 23/11/HC 702, sáng | — (chờ EVT-011) | Hắc Nha công phá Hắc Thạch – điểm mở đầu ch.1 | LOC-001 | CHAR-001, CHAR-004, CHAR-009 | — | seed (PLANNED ch.1) |
+| 23/11/HC 702, sáng → chiều | EVT-011 | Hắc Nha công phá Hắc Thạch; tường đông nổ | LOC-001 | CHAR-001, CHAR-004, CHAR-009 | Cả ngày | ch.1 |
+| 23/11/HC 702, tối | EVT-012 | Edran tỉnh, chạy vào rừng Hắc Tùng | LOC-001 → LOC-002 | CHAR-001 | ~2 dặm | ch.1 |
+| 23/11/HC 702, đêm | EVT-013 → 016 | Bình Minh; ba ma tộc; Vaelthar | LOC-003 | CHAR-001, CHAR-002, CHAR-013 | — | ch.1 |
 
 ## Các tuyến song song
 

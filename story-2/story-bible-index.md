@@ -10,9 +10,9 @@
 - **Ý tưởng sơ khai gốc:** `../story-seeds/story-2.md`
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
-- **Trạng thái dự án:** DEVELOPMENT (story bible + plan ARC-001 đã khởi tạo; sẵn sàng viết chương 1)
-- **Canon cập nhật đến:** Trước chương 1 (sự kiện nền EVT-001 → EVT-010)
-- **Chương tiếp theo cần viết:** 1
+- **Trạng thái dự án:** DRAFTING
+- **Canon cập nhật đến:** Chương 1 (EVT-016)
+- **Chương tiếp theo cần viết:** 2
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -139,7 +139,7 @@ Không tái sử dụng ID đã retired.
 | Arc/Chapter | Trạng thái | Mục tiêu/biến cố | Plan | Summary | Canon đến |
 |---|---|---|---|---|---|
 | ARC-001 (Quyển I: Tàn Dưới Bình Minh) | PLANNED | Edran sống sót, học cách dùng Bình Minh, rời phương Bắc | `planning/arcs/arc-001.md` | `summaries/arcs/arc-001.md` | — |
-| Chapter 001 | PLANNED | Phòng tuyến Hắc Thạch sụp đổ; Bình Minh công nhận Edran; Vaelthar xuất hiện | `planning/chapters/chapter-001.md` | — | — |
+| Chapter 001 | COMPLETE | Ngày Phòng Tuyến Phía Bắc Sụp Đổ | `planning/chapters/chapter-001.md` | `summaries/chapters/chapter-001.md` | EVT-016 |
 | Chapter 002 | PLANNED | Tỉnh dậy ở nhà đá; bản đồ sáu thanh kiếm | `planning/chapters/chapter-002.md` | — | — |
 | Chapter 003 | PLANNED | Đá thử nguyên; cái giá của Bình Minh; dấu hiệu bị săn đuổi | `planning/chapters/chapter-003.md` | — | — |
 
