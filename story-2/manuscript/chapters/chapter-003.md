@@ -2,17 +2,17 @@
 
 Mười bốn bước.
 
-Từ giường đến lò sưởi là mười bốn bước, nếu bước của một người có hai chân lành lặn. Với Edran, chống hai cây nạng gỗ thông mà Vaelthar đẽo cho anh từ một khúc củi, nó là hai mươi ba bước, và một lần dừng lại giữa chừng để thở.
+Từ giường đến lò sưởi là mười bốn bước, nếu bước của một người có hai chân lành lặn. Với Edran, chống hai cây nạng gỗ thông mà Vaelthar đẽo cho cậu từ một khúc củi, nó là hai mươi ba bước, và một lần dừng lại giữa chừng để thở.
 
-Anh đếm từng bước. Anh đếm mọi thứ.
+Cậu đếm từng bước. Cậu đếm mọi thứ.
 
-Hai tuần đã trôi qua kể từ khi anh tỉnh dậy trong ngôi nhà đá. Mười bảy ngày kể từ Hắc Thạch, nếu anh không đếm nhầm những lần ngủ thiếp đi giữa ngày. Xương sườn đã đỡ hơn – anh có thể thở sâu mà không thấy như có ai đang thọc dao vào ngực. Vết thương ở sườn đã khép miệng, để lại một đường thịt hồng gồ lên, to bằng ngón tay. Đầu gối thì không. Nó vẫn bị nẹp giữa hai thanh gỗ, vẫn sưng tím, vẫn không chịu nổi một chút sức nặng nào. Mỗi lần cây nạng trượt trên sàn đá, anh lại thấy mặt đất nghiêng đi.
+Hai tuần đã trôi qua kể từ khi cậu tỉnh dậy trong ngôi nhà đá. Mười bảy ngày kể từ Hắc Thạch, nếu cậu không đếm nhầm những lần ngủ thiếp đi giữa ngày. Xương sườn đã đỡ hơn – cậu có thể thở sâu mà không thấy như có ai đang thọc dao vào ngực. Vết thương ở sườn đã khép miệng, để lại một đường thịt hồng gồ lên, to bằng ngón tay. Đầu gối thì không. Nó vẫn bị nẹp giữa hai thanh gỗ, vẫn sưng tím, vẫn không chịu nổi một chút sức nặng nào. Mỗi lần cây nạng trượt trên sàn đá, cậu lại thấy mặt đất nghiêng đi.
 
 Hai mươi mốt. Hai mươi hai.
 
 Hai mươi ba.
 
-Anh buông mình xuống chiếc ghế bành sờn da của Vaelthar, thở hắt ra như vừa leo xong một bức tường thành.
+Cậu buông mình xuống chiếc ghế bành sờn da của Vaelthar, thở hắt ra như vừa leo xong một bức tường thành.
 
 Vaelthar đứng bên bàn, tay áo xắn tới khuỷu, đang nhồi bột. Ông nhồi như đánh nhau với nó.
 
@@ -22,7 +22,7 @@ Vaelthar đứng bên bàn, tay áo xắn tới khuỷu, đang nhồi bột. Ôn
 
 "Ngươi đếm thành tiếng."
 
-Edran không nhận ra. Anh im lặng, rồi bật cười khan.
+Edran không nhận ra. Cậu im lặng, rồi bật cười khan.
 
 "Thói quen ở trong quân."
 
@@ -34,19 +34,19 @@ Edran không nhận ra. Anh im lặng, rồi bật cười khan.
 
 Ông nhét nó vào lò. Mười lăm phút sau, cả căn nhà nồng mùi bánh mì cháy.
 
-Đó là ổ bánh thứ tư Vaelthar nướng trong hai tuần, và là ổ thứ tư bị cháy đen một mặt. Edran đã bắt đầu nghĩ rằng một con rồng nướng bánh thì không thể nào không làm cháy bánh – có lẽ ông thấy lửa lò quá nhỏ nên không tin nó làm cháy được thứ gì. Nhưng anh không nói ra. Anh đã học được rằng Vaelthar trả lời những câu hỏi ông muốn trả lời và lờ những câu còn lại như lờ tiếng gió.
+Đó là ổ bánh thứ tư Vaelthar nướng trong hai tuần, và là ổ thứ tư bị cháy đen một mặt. Edran đã bắt đầu nghĩ rằng một con rồng nướng bánh thì không thể nào không làm cháy bánh – có lẽ ông thấy lửa lò quá nhỏ nên không tin nó làm cháy được thứ gì. Nhưng cậu không nói ra. Cậu đã học được rằng Vaelthar trả lời những câu hỏi ông muốn trả lời và lờ những câu còn lại như lờ tiếng gió.
 
 ***
 
 Bình Minh vẫn nằm trên bàn.
 
-Hai tuần nay, Edran nhìn nó mỗi ngày. Mỗi sáng tỉnh dậy, việc đầu tiên anh làm sau khi đếm là tìm nó. Nó luôn ở đó, ở đúng chỗ Vaelthar đặt, bên cạnh chồng sách. Không vỏ, không bọc, không phủ bụi – bụi dường như không bám vào nó.
+Hai tuần nay, Edran nhìn nó mỗi ngày. Mỗi sáng tỉnh dậy, việc đầu tiên cậu làm sau khi đếm là tìm nó. Nó luôn ở đó, ở đúng chỗ Vaelthar đặt, bên cạnh chồng sách. Không vỏ, không bọc, không phủ bụi – bụi dường như không bám vào nó.
 
 Và nó im lặng.
 
 Sau đêm đầu tiên, sau câu thì thầm về dũng khí, nó không nói gì nữa. Vân vàng không sáng thêm lần nào. Edran đã thử nằm im trong bóng tối, chờ đợi, lắng tai. Không có gì. Chỉ có tiếng lửa, tiếng gió, và thỉnh thoảng tiếng Vaelthar lật sách.
 
-Chiều hôm đó, khi bánh đã nguội và đã được cạo bớt phần cháy, anh hỏi.
+Chiều hôm đó, khi bánh đã nguội và đã được cạo bớt phần cháy, cậu hỏi.
 
 "Làm sao để dùng nó?"
 
@@ -82,7 +82,7 @@ Vaelthar không trả lời. Ông chỉ nhìn Edran một lúc lâu hơn bình t
 
 Edran coi đó là một lời cho phép.
 
-Anh đã sai.
+Cậu đã sai.
 
 ***
 
@@ -92,19 +92,19 @@ Khi chỉ còn một mình, Edran chống nạng đến bên bàn.
 
 Mười một bước. Gần hơn lò sưởi.
 
-Anh đứng đó, tì người lên mép bàn, và nhìn thanh kiếm.
+Cậu đứng đó, tì người lên mép bàn, và nhìn thanh kiếm.
 
-Rồi anh vươn tay, nắm lấy chuôi.
+Rồi cậu vươn tay, nắm lấy chuôi.
 
 Không có gì xảy ra. Không có giọng nói. Không có ánh sáng. Chỉ có cảm giác của kim loại dưới lòng bàn tay – ấm, ấm hơn kim loại nên ấm trong một căn phòng chỉ có một lò sưởi, như một hòn đá phơi nắng.
 
-Anh nhấc nó lên.
+Cậu nhấc nó lên.
 
-Nó nhẹ. Nhẹ hơn thanh kiếm biên phòng anh đã đeo suốt sáu năm, dù dài hơn. Cân hoàn hảo, như được rèn cho chính bàn tay anh.
+Nó nhẹ. Nhẹ hơn thanh kiếm biên phòng cậu đã đeo suốt sáu năm, dù dài hơn. Cân hoàn hảo, như được rèn cho chính bàn tay cậu.
 
-Anh nhắm mắt và cố nhớ lại khoảnh khắc trong khe núi. Tên ma tộc sừng gãy, chiếc rìu, cái lạnh, nỗi sợ. Anh nhớ lại những gì mình cảm thấy khi giơ kiếm lên – không phải can đảm, mà là một thứ gì đó gần với sự bướng bỉnh của người sắp chết. _Ta chưa nằm xuống._
+Cậu nhắm mắt và cố nhớ lại khoảnh khắc trong khe núi. Tên ma tộc sừng gãy, chiếc rìu, cái lạnh, nỗi sợ. Cậu nhớ lại những gì mình cảm thấy khi giơ kiếm lên – không phải can đảm, mà là một thứ gì đó gần với sự bướng bỉnh của người sắp chết. _Ta chưa nằm xuống._
 
-Anh tập trung vào cảm giác đó. Dồn nó xuống cánh tay. Vào bàn tay. Vào chuôi kiếm.
+Cậu tập trung vào cảm giác đó. Dồn nó xuống cánh tay. Vào bàn tay. Vào chuôi kiếm.
 
 _Sáng lên._
 
@@ -112,21 +112,21 @@ Không có gì.
 
 _Sáng lên._
 
-Anh siết chặt hơn. Đầu gối nhói lên vì anh dồn trọng lượng sai chân. Mồ hôi rịn trên trán dù căn phòng không nóng.
+Cậu siết chặt hơn. Đầu gối nhói lên vì cậu dồn trọng lượng sai chân. Mồ hôi rịn trên trán dù căn phòng không nóng.
 
 Rồi, rất chậm, như bình minh thật, những đường vân vàng trên lưỡi kiếm bắt đầu sáng.
 
 Một chút. Rồi thêm một chút. Ánh sáng vàng nhạt lan ra từ thân kiếm, đẩy bóng tối trong góc phòng lùi lại, làm những gáy sách cũ trên kệ hiện rõ từng chữ nhũ bạc.
 
-Edran mở mắt. Anh suýt bật cười.
+Edran mở mắt. Cậu suýt bật cười.
 
-Rồi anh cảm thấy nó.
+Rồi cậu cảm thấy nó.
 
-Không phải đau. Không giống đau. Giống như có ai đó mở một cái nút ở đáy người anh, và mọi thứ bắt đầu chảy ra. Hơi ấm rút khỏi ngón chân trước, rồi khỏi bàn chân, rồi bắp chân. Hai bàn tay anh lạnh đi, tê đi, như bị ngâm vào nước suối mùa đông. Tim anh đập nhanh hơn, rồi nhanh hơn nữa, như tim của người vừa chạy hết một con dốc. Thế giới ở rìa mắt anh bắt đầu tối lại, tối từ ngoài vào trong.
+Không phải đau. Không giống đau. Giống như có ai đó mở một cái nút ở đáy người cậu, và mọi thứ bắt đầu chảy ra. Hơi ấm rút khỏi ngón chân trước, rồi khỏi bàn chân, rồi bắp chân. Hai bàn tay cậu lạnh đi, tê đi, như bị ngâm vào nước suối mùa đông. Tim cậu đập nhanh hơn, rồi nhanh hơn nữa, như tim của người vừa chạy hết một con dốc. Thế giới ở rìa mắt cậu bắt đầu tối lại, tối từ ngoài vào trong.
 
-Ánh sáng trên lưỡi kiếm càng sáng, thì anh càng tối đi.
+Ánh sáng trên lưỡi kiếm càng sáng, thì cậu càng tối đi.
 
-Anh muốn buông tay. Ngón tay không nghe lời.
+Cậu muốn buông tay. Ngón tay không nghe lời.
 
 _Dừng lại._
 
@@ -134,19 +134,19 @@ _Dừng lại._
 
 _Dừng lại—_
 
-Anh không nhớ mình ngã xuống như thế nào.
+Cậu không nhớ mình ngã xuống như thế nào.
 
 ***
 
-Khi tỉnh dậy, anh đang nằm trên sàn đá. Có ai đó đã đặt một tấm chăn lên người anh và một chiếc gối dưới đầu anh, nhưng không nhấc anh lên giường.
+Khi tỉnh dậy, cậu đang nằm trên sàn đá. Có ai đó đã đặt một tấm chăn lên người cậu và một chiếc gối dưới đầu cậu, nhưng không nhấc cậu lên giường.
 
-Vaelthar ngồi trên chiếc ghế đẩu bên cạnh, khuỷu tay chống lên đầu gối, nhìn xuống anh. Ông trông không giận. Ông trông như một người vừa thấy một đứa trẻ thò tay vào lửa sau khi đã được dặn đừng, và không ngạc nhiên chút nào.
+Vaelthar ngồi trên chiếc ghế đẩu bên cạnh, khuỷu tay chống lên đầu gối, nhìn xuống cậu. Ông trông không giận. Ông trông như một người vừa thấy một đứa trẻ thò tay vào lửa sau khi đã được dặn đừng, và không ngạc nhiên chút nào.
 
-"Bao lâu?" Edran hỏi. Giọng anh khàn như chưa dùng đến cả tuần.
+"Bao lâu?" Edran hỏi. Giọng cậu khàn như chưa dùng đến cả tuần.
 
 "Cả đêm. Gần trưa rồi."
 
-Edran cố ngồi dậy. Cơn chóng mặt ập tới như sóng, và anh nằm xuống lại. Bên sườn có cái gì ươn ướt. Anh chạm vào. Máu. Vết thương đã khép miệng hai ngày nay giờ đã rỉ máu lại qua lớp băng, ở một góc.
+Edran cố ngồi dậy. Cơn chóng mặt ập tới như sóng, và cậu nằm xuống lại. Bên sườn có cái gì ươn ướt. Cậu chạm vào. Máu. Vết thương đã khép miệng hai ngày nay giờ đã rỉ máu lại qua lớp băng, ở một góc.
 
 "Ngươi ngã vào cạnh bàn," Vaelthar nói. "Ta đã băng lại. Ngươi mất thêm năm ngày cho cái đầu gối, và có lẽ một tuần cho cái sườn. Chúc mừng."
 
@@ -164,19 +164,19 @@ Edran im lặng.
 
 Edran nhìn lên trần nhà. Đen bóng khói.
 
-"Trong khe núi," anh nói chậm, "nó sáng mà tôi không thấy gì. Không lạnh. Không tối."
+"Trong khe núi," cậu nói chậm, "nó sáng mà tôi không thấy gì. Không lạnh. Không tối."
 
 "Trong khe núi, ngươi đã gần chết rồi. Một người đang chết thì không thấy thêm được bao nhiêu." Vaelthar đứng dậy. "Và trong khe núi, ngươi không bắt nó sáng. Ngươi chỉ không buông nó ra. Hai điều đó khác nhau hơn ngươi nghĩ."
 
 ***
 
-Hai ngày sau, khi Edran đã có thể ngồi dậy mà không thấy căn phòng quay, Vaelthar đặt một thứ lên bàn trước mặt anh.
+Hai ngày sau, khi Edran đã có thể ngồi dậy mà không thấy căn phòng quay, Vaelthar đặt một thứ lên bàn trước mặt cậu.
 
-Một khối đá cỡ nắm tay, màu xám đục như sữa pha tro, mặt nhẵn như đã được mài qua hàng nghìn bàn tay. Nó trông giống thạch anh nhưng không trong. Bên trong có những vân mờ xoắn lại, như khói bị đông cứng.
+Một khối đá cỡ nắm tay, màu xám đục như sữa pha tro, mặt nhẵn như đã được mài qua hàng nghìn bàn tay. Nó trông giống thạch cậu nhưng không trong. Bên trong có những vân mờ xoắn lại, như khói bị đông cứng.
 
 "Ngươi đã từng thấy thứ này chưa?"
 
-Edran lắc đầu. Rồi anh dừng lại.
+Edran lắc đầu. Rồi cậu dừng lại.
 
 "Có. Một lần. Hồi tôi chín, mười tuổi gì đó. Có một ông thầy pháp ở Durnholm đi qua làng, mang theo một cục giống thế này. Ông ấy bắt bọn trẻ con nhà lãnh chúa đặt tay lên. Một đứa làm nó sáng đỏ lên, và cả làng nói về chuyện đó suốt một tháng."
 
@@ -188,11 +188,11 @@ Edran lắc đầu. Rồi anh dừng lại.
 
 "Còn ông?"
 
-"Ta không cần đá để biết." Vaelthar đẩy khối đá về phía anh. "Đặt tay lên."
+"Ta không cần đá để biết." Vaelthar đẩy khối đá về phía cậu. "Đặt tay lên."
 
-Edran nhìn khối đá. Anh nhận ra tim mình đang đập nhanh, như hồi chín tuổi, đứng ở rìa đám đông nhìn đứa con nhà lãnh chúa làm khối đá đỏ rực. Anh đã muốn được đặt tay lên. Anh đã về nhà và giận dỗi cả buổi tối, và cha anh – lúc ấy đã ho ra những đờm đen – đã cười và nói rằng con nhà than không cần ma pháp, con nhà than chỉ cần lửa, mà lửa thì nhà mình có thừa.
+Edran nhìn khối đá. Cậu nhận ra tim mình đang đập nhanh, như hồi chín tuổi, đứng ở rìa đám đông nhìn đứa con nhà lãnh chúa làm khối đá đỏ rực. Cậu đã muốn được đặt tay lên. Cậu đã về nhà và giận dỗi cả buổi tối, và cha cậu – lúc ấy đã ho ra những đờm đen – đã cười và nói rằng con nhà than không cần ma pháp, con nhà than chỉ cần lửa, mà lửa thì nhà mình có thừa.
 
-Anh đặt lòng bàn tay lên khối đá.
+Cậu đặt lòng bàn tay lên khối đá.
 
 Nó mát. Rồi ấm dần.
 
@@ -218,7 +218,7 @@ Edran nhìn nó. Rồi nhìn Vaelthar.
 
 Edran im lặng một lúc.
 
-Rồi anh bật cười. Lần này là cười thật, dù nó làm sườn anh đau.
+Rồi cậu bật cười. Lần này là cười thật, dù nó làm sườn cậu đau.
 
 "Thổi tắt một ngọn nến."
 
@@ -238,7 +238,7 @@ Edran nhớ lại khe núi. Mặt đất rung lên. Một áp lực như cả ng
 
 _Nham._
 
-Anh không hỏi thêm. Vaelthar cũng không nói thêm.
+Cậu không hỏi thêm. Vaelthar cũng không nói thêm.
 
 "Nhưng ta đã nhìn nhiều kiếm sĩ đánh nhau," ông nói tiếp, như chưa có gì. "Đủ để biết khi nào ngươi làm sai."
 
@@ -246,17 +246,17 @@ Anh không hỏi thêm. Vaelthar cũng không nói thêm.
 
 Đêm đó, bên lò sưởi, Edran kể về Brennock.
 
-Anh không định kể. Vaelthar không hỏi. Nhưng đêm dài, tuyết rơi, ổ bánh thứ năm đã cháy, và có những điều trong đầu một người cứ đầy lên cho đến khi chúng phải tràn ra đâu đó.
+Cậu không định kể. Vaelthar không hỏi. Nhưng đêm dài, tuyết rơi, ổ bánh thứ năm đã cháy, và có những điều trong đầu một người cứ đầy lên cho đến khi chúng phải tràn ra đâu đó.
 
-Anh kể về làng. Ba mươi nóc nhà trên một sườn đồi có rừng sồi, những lò than đắp đất bốc khói xanh suốt ngày đêm, mùi gỗ cháy âm ỉ ngấm vào tóc, vào áo, vào giấc ngủ. Anh kể về cha, người đã đốt than ba mươi năm và ho ra đen trước khi chết, năm Edran mười lăm tuổi. Anh kể về mẹ – Hedda, cứng như gỗ sồi, chưa từng khóc trước mặt con cái, người đã gói cho anh hai cái bánh lúa mạch đen và một đôi tất len khi anh đi lính, và chỉ nói đúng một câu: _Viết thư về._ Anh kể về Lise, nhỏ hơn anh chín tuổi, đứa trẻ duy nhất trong làng học chữ được từ ông Người Giữ Giá già, đứa viết thư cho anh với những nét chữ nghiêng và những lời mắng ngắn gọn.
+Cậu kể về làng. Ba mươi nóc nhà trên một sườn đồi có rừng sồi, những lò than đắp đất bốc khói xanh suốt ngày đêm, mùi gỗ cháy âm ỉ ngấm vào tóc, vào áo, vào giấc ngủ. Cậu kể về cha, người đã đốt than ba mươi năm và ho ra đen trước khi chết, năm Edran mười lăm tuổi. Cậu kể về mẹ – Hedda, cứng như gỗ sồi, chưa từng khóc trước mặt con cái, người đã gói cho cậu hai cái bánh lúa mạch đen và một đôi tất len khi cậu đi lính, và chỉ nói đúng một câu: _Viết thư về._ Cậu kể về Lise, nhỏ hơn cậu chín tuổi, đứa trẻ duy nhất trong làng học chữ được từ ông Người Giữ Giá già, đứa viết thư cho cậu với những nét chữ nghiêng và những lời mắng ngắn gọn.
 
-"Lá thư cuối từ đầu mùa thu," anh nói. "Từ đó tới giờ không có gì nữa. Đường thư đã đứt từ tháng mười."
+"Lá thư cuối từ đầu mùa thu," cậu nói. "Từ đó tới giờ không có gì nữa. Đường thư đã đứt từ tháng mười."
 
 Vaelthar im lặng nghe. Ông không hỏi câu nào.
 
-"Brennock cách Hắc Thạch hai ngày đường," Edran nói. "Về phía nam. Đúng trên con đường mà Hắc Nha sẽ đi xuống, nếu chúng muốn tới Durnholm trước giữa đông." Anh nhìn ngọn lửa. "Và chúng sẽ muốn. Chúng không mang đủ lương qua núi trong mùa đông. Chúng sẽ phải lấy ở các làng."
+"Brennock cách Hắc Thạch hai ngày đường," Edran nói. "Về phía nam. Đúng trên con đường mà Hắc Nha sẽ đi xuống, nếu chúng muốn tới Durnholm trước giữa đông." Cậu nhìn ngọn lửa. "Và chúng sẽ muốn. Chúng không mang đủ lương qua núi trong mùa đông. Chúng sẽ phải lấy ở các làng."
 
-Anh không nói phần còn lại. Ai đi lính ở phương bắc cũng biết phần còn lại.
+Cậu không nói phần còn lại. Ai đi lính ở phương bắc cũng biết phần còn lại.
 
 Rất lâu sau, Vaelthar mới nói.
 
@@ -278,9 +278,9 @@ Sáng hôm sau, Vaelthar không có ở nhà.
 
 Edran tỉnh dậy, đếm – một – và nằm im nghe. Không có tiếng nhồi bột. Không có tiếng lật sách. Lò sưởi đã được thêm củi, đủ cho cả ngày. Trên bàn có nửa ổ bánh và một bình nước.
 
-Anh chờ.
+Cậu chờ.
 
-Buổi trưa, ông không về. Buổi chiều, ông không về. Edran tập đi quanh nhà – hai mươi hai bước tới lò sưởi, kỷ lục mới – rồi ngồi bên cửa sổ nhìn tuyết. Có lúc, rất xa về phía tây nam, nơi những đỉnh núi thấp dần xuống chân Hắc Vân, anh nghĩ mình thấy một vệt khói mảnh bốc lên. Có lẽ là mây.
+Buổi trưa, ông không về. Buổi chiều, ông không về. Edran tập đi quanh nhà – hai mươi hai bước tới lò sưởi, kỷ lục mới – rồi ngồi bên cửa sổ nhìn tuyết. Có lúc, rất xa về phía tây nam, nơi những đỉnh núi thấp dần xuống chân Hắc Vân, cậu nghĩ mình thấy một vệt khói mảnh bốc lên. Có lẽ là mây.
 
 Gần tối, cửa mở.
 
@@ -306,6 +306,6 @@ Edran ngồi thẳng dậy. Đầu gối nhói lên.
 
 Edran nhìn thanh kiếm trên bàn.
 
-Lần đầu tiên sau hai tuần, những đường vân vàng trên lưỡi kiếm khẽ sáng lên một nhịp – không phải vì anh gọi. Như một con chó ngẩng đầu lên khi nghe tiếng bước chân lạ ngoài cổng.
+Lần đầu tiên sau hai tuần, những đường vân vàng trên lưỡi kiếm khẽ sáng lên một nhịp – không phải vì cậu gọi. Như một con chó ngẩng đầu lên khi nghe tiếng bước chân lạ ngoài cổng.
 
 Rồi tắt.

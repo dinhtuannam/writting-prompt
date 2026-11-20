@@ -30,17 +30,17 @@ Một tiếng nổ bên trái. Bức tường rung lên dưới chân, những k
 
 Edran Veyl siết chuôi kiếm.
 
-Rồi, như mọi lần, anh đếm.
+Rồi, như mọi lần, cậu đếm.
 
-Sáu người bên trái anh. Bốn bên phải. Một người đang bò, không biết còn tính được hay không.
+Sáu người bên trái cậu. Bốn bên phải. Một người đang bò, không biết còn tính được hay không.
 
 Mười một.
 
 Sáng nay là bốn mươi.
 
-Anh đã đánh từ lúc trời còn tối. Găng tay trái rách toạc từ giữa trưa. Máu chảy dọc cổ tay, đông lại thành một lớp băng mỏng mỗi khi anh ngừng cử động quá lâu. Vai phải nhức buốt sau một cú đỡ rìu. Bên sườn có một vết thương anh chưa có thời gian nhìn xuống, chỉ biết nó ấm, và mỗi lần thở sâu thì ấm hơn.
+Cậu đã đánh từ lúc trời còn tối. Găng tay trái rách toạc từ giữa trưa. Máu chảy dọc cổ tay, đông lại thành một lớp băng mỏng mỗi khi cậu ngừng cử động quá lâu. Vai phải nhức buốt sau một cú đỡ rìu. Bên sườn có một vết thương cậu chưa có thời gian nhìn xuống, chỉ biết nó ấm, và mỗi lần thở sâu thì ấm hơn.
 
-Anh không phải anh hùng.
+Cậu không phải anh hùng.
 
 Không phải kiếm thánh.
 
@@ -48,13 +48,13 @@ Càng không phải một thiên tài kiếm thuật.
 
 Edran chỉ là một đội trưởng của quân biên phòng phương bắc Arvend. Hai mươi sáu tuổi. Sáu năm quân ngũ. Ba lần bị điều đến ba vùng chiến sự khác nhau. Một lần sống sót sau cuộc phục kích ở thung lũng Roven, nhờ nằm im dưới xác của những người cùng đội cho đến khi tiếng tù và ma tộc đi xa.
 
-Từ hôm đó, anh có thói quen đếm.
+Từ hôm đó, cậu có thói quen đếm.
 
-Và hôm nay, anh đang đứng ở nơi rất có thể sẽ thành nấm mồ của mình.
+Và hôm nay, cậu đang đứng ở nơi rất có thể sẽ thành nấm mồ của mình.
 
 "Đội trưởng!"
 
-Pell Hask chạy tới, khom người dưới lan can. Mặt cậu bê bết máu, không rõ của ai. Mười chín tuổi, mũi gãy từ một trận vật nhau hồi mùa hè. Giọng cậu vỡ ra như mỗi lần cậu sợ.
+Pell Hask chạy tới, khom người dưới lan can. Mặt nó bê bết máu, không rõ của ai. Mười chín tuổi, mũi gãy từ một trận vật nhau hồi mùa hè. Giọng nó vỡ ra như mỗi lần nó sợ.
 
 "Đại đội phía đông tan rồi! Ma tộc đang vào cổng phụ!"
 
@@ -64,11 +64,11 @@ Edran quay đầu.
 
 "Không còn đội dự bị nữa!"
 
-Pell gần như hét. Rồi cậu nuốt khan, như xấu hổ vì đã hét với đội trưởng của mình.
+Pell gần như hét. Rồi nó nuốt khan, như xấu hổ vì đã hét với đội trưởng của mình.
 
 Edran im lặng.
 
-Anh nhìn xuống chân thành.
+Cậu nhìn xuống chân thành.
 
 Qua những dải khói đen, hàng nghìn bóng người đang tiến lên theo từng lớp, chậm và đều, như nước dâng. Phía sau họ là những cỗ xe chiến tranh bọc sắt, bánh xe nghiến lên xác chết. Xa hơn nữa, trên sườn đồi phía đông, những bóng áo choàng đỏ đứng thành một vòng tròn rộng. Trên đầu họ, những lá cờ đen thêu đầu lâu có sừng lật phật trong gió.
 
@@ -108,17 +108,17 @@ Nó giẫm lên ngực một binh sĩ nhân tộc còn đang rên, rồi lao v�
 
 "TRÁNH RA!"
 
-Edran bước lên. Không phải vì can đảm. Vì nếu anh không bước, thanh đại kiếm kia sẽ chém ngang qua ba người phía sau anh, và anh đã đếm họ rồi.
+Edran bước lên. Không phải vì can đảm. Vì nếu cậu không bước, thanh đại kiếm kia sẽ chém ngang qua ba người phía sau cậu, và cậu đã đếm họ rồi.
 
-Đại kiếm vung xuống. Edran không đỡ. Không ai đỡ nổi thứ đó. Anh lách người, chém vào cổ tay đối phương, chỗ vảy mỏng nhất mà người ta dặn anh từ năm đầu tiên.
+Đại kiếm vung xuống. Edran không đỡ. Không ai đỡ nổi thứ đó. Cậu lách người, chém vào cổ tay đối phương, chỗ vảy mỏng nhất mà người ta dặn cậu từ năm đầu tiên.
 
 Lưỡi kiếm không cắt đứt được. Nhưng nó đủ để làm chệch đường chém. Thanh đại kiếm đập xuống lan can, đá văng như mảnh gốm.
 
 "Bụng nó!"
 
-Một người lính phía sau, Edran không kịp nhìn là ai, lập tức đâm giáo vào khe giữa hai tấm vảy ở bụng. Sinh vật gầm lên. Tiếng gầm vọng vào trong lồng ngực Edran, khiến răng anh đau.
+Một người lính phía sau, Edran không kịp nhìn là ai, lập tức đâm giáo vào khe giữa hai tấm vảy ở bụng. Sinh vật gầm lên. Tiếng gầm vọng vào trong lồng ngực Edran, khiến răng cậu đau.
 
-Anh xoay người, chém lần thứ hai vào khoeo gối.
+Cậu xoay người, chém lần thứ hai vào khoeo gối.
 
 Lần này nó khuỵu xuống.
 
@@ -130,7 +130,7 @@ Edran đứng đó, thở dốc. Hơi thở bốc thành khói trắng.
 
 Mười.
 
-Anh nhìn thanh kiếm trong tay.
+Cậu nhìn thanh kiếm trong tay.
 
 Giữa lưỡi kiếm đã có một vết nứt mảnh như sợi tóc.
 
@@ -142,9 +142,9 @@ Và một cuộc chiến không dành cho những người bình thường.
 
 "Đội trưởng."
 
-Pell lại gọi. Lần này cậu không hét. Giọng cậu run, nhỏ, gần như thì thầm.
+Pell lại gọi. Lần này nó không hét. Giọng nó run, nhỏ, gần như thì thầm.
 
-Edran nhìn theo hướng tay cậu.
+Edran nhìn theo hướng tay nó.
 
 Trên sườn đồi phía đông, vòng tròn áo choàng đỏ đã sáng lên. Không phải một ánh sáng. Là hàng chục đốm sáng nhỏ, mỗi người một đốm, như than hồng trong lò bị ai thổi vào. Rồi các đốm ấy nối với nhau bằng những đường đỏ mảnh, thành một hình vẽ khổng lồ trải trên tuyết – một trận đồ.
 
@@ -154,11 +154,11 @@ Ma pháp.
 
 Một trận pháp. Một pháp sư cấp cao đang dẫn nó, và hàng chục kẻ khác đang dồn sức vào.
 
-Edran đã thấy thứ này một lần, từ rất xa, ở Roven. Anh nhớ những gì còn lại sau đó.
+Edran đã thấy thứ này một lần, từ rất xa, ở Roven. Cậu nhớ những gì còn lại sau đó.
 
 "RÚT LUI!"
 
-Anh hét đến rát họng.
+Cậu hét đến rát họng.
 
 "RÚT KHỎI TƯỜNG ĐÔNG! XUỐNG SÂN! RÚT—"
 
@@ -172,75 +172,75 @@ Và bức tường đông nổ tung trong một biển lửa.
 
 Khi Edran tỉnh lại, bầu trời đã tối.
 
-Anh không biết mình đã nằm bao lâu. Tai trái không nghe thấy gì, chỉ có một tiếng rít mảnh, đều, như có con muỗi kẹt sâu trong đầu. Mọi thứ trước mắt nhòe đi thành những vệt sáng – những đám lửa nhỏ còn cháy rải rác giữa đá vỡ, đỏ, vàng, rồi lại đỏ.
+Cậu không biết mình đã nằm bao lâu. Tai trái không nghe thấy gì, chỉ có một tiếng rít mảnh, đều, như có con muỗi kẹt sâu trong đầu. Mọi thứ trước mắt nhòe đi thành những vệt sáng – những đám lửa nhỏ còn cháy rải rác giữa đá vỡ, đỏ, vàng, rồi lại đỏ.
 
-Anh cố ngồi dậy.
+Cậu cố ngồi dậy.
 
-Một cơn đau xuyên thẳng qua lồng ngực, sắc đến mức trong một thoáng anh không thở được.
+Một cơn đau xuyên thẳng qua lồng ngực, sắc đến mức trong một thoáng cậu không thở được.
 
 Máu.
 
 Rất nhiều máu.
 
-Anh nhìn xuống. Một mảnh đá dài bằng bàn tay đã xuyên qua lớp giáp lưới, cắm sâu vào bên sườn, đúng chỗ vết thương cũ. Mép đá đen, nhẵn, nóng.
+Cậu nhìn xuống. Một mảnh đá dài bằng bàn tay đã xuyên qua lớp giáp lưới, cắm sâu vào bên sườn, đúng chỗ vết thương cũ. Mép đá đen, nhẵn, nóng.
 
-Edran cắn chặt răng. Anh đặt tay lên mảnh đá, đếm đến ba, rồi giật mạnh.
+Edran cắn chặt răng. Cậu đặt tay lên mảnh đá, đếm đến ba, rồi giật mạnh.
 
-Anh hét.
+Cậu hét.
 
 Tiếng hét chỉ kéo dài một hơi rồi tan trong gió, và không có ai nghe thấy để đáp lại.
 
-Anh xé một mảnh áo độn, nhét vào vết thương, ép bằng cả bàn tay. Rồi anh cố đứng.
+Cậu xé một mảnh áo độn, nhét vào vết thương, ép bằng cả bàn tay. Rồi cậu cố đứng.
 
 Một lần. Ngã.
 
 Hai lần. Ngã.
 
-Đến lần thứ ba, anh mới đứng được, chống thanh kiếm nứt xuống đá như chống một cây gậy.
+Đến lần thứ ba, cậu mới đứng được, chống thanh kiếm nứt xuống đá như chống một cây gậy.
 
 Phòng tuyến đã thất thủ.
 
 Không còn tiếng tù và nhân tộc. Không còn tiếng sĩ quan hô hàng ngũ. Không còn tiếng chuông. Chỉ còn tiếng lửa tí tách, tiếng gió lùa qua những lỗ hổng trên tường, và ở đâu đó phía sân trong, tiếng bước chân của ma tộc đang đi lùng những kẻ sống sót. Thỉnh thoảng có tiếng ai đó van xin, rồi im.
 
-Edran nhìn quanh. Theo thói quen, anh đếm.
+Edran nhìn quanh. Theo thói quen, cậu đếm.
 
-Những người lính từng uống rượu với anh đêm qua – cái đêm cuối mà ai cũng biết là đêm cuối – giờ nằm bất động dưới lớp tuyết lẫn tro. Có người anh nhận ra qua chiếc áo choàng vá. Có người chỉ nhận ra qua con dao găm khắc tên ở thắt lưng.
+Những người lính từng uống rượu với cậu đêm qua – cái đêm cuối mà ai cũng biết là đêm cuối – giờ nằm bất động dưới lớp tuyết lẫn tro. Có người cậu nhận ra qua chiếc áo choàng vá. Có người chỉ nhận ra qua con dao găm khắc tên ở thắt lưng.
 
 Không thấy Pell.
 
-Trên đoạn tường còn đứng được ở phía xa, anh thấy một bóng người. Gerrit Moll. Ông già vẫn đứng đó, lưng dựa vào lỗ châu mai, một chân bị khối đá đè nát đến tận đùi, thanh kiếm vẫn cầm trong tay. Ông không cử động. Edran không biết ông đã chết hay chỉ đang đứng đó chờ chết.
+Trên đoạn tường còn đứng được ở phía xa, cậu thấy một bóng người. Gerrit Moll. Ông già vẫn đứng đó, lưng dựa vào lỗ châu mai, một chân bị khối đá đè nát đến tận đùi, thanh kiếm vẫn cầm trong tay. Ông không cử động. Edran không biết ông đã chết hay chỉ đang đứng đó chờ chết.
 
-Vài người vẫn còn sống. Anh nghe thấy họ. Một tiếng rên. Một tiếng gọi tên ai đó. Họ không còn đứng dậy được nữa.
+Vài người vẫn còn sống. Cậu nghe thấy họ. Một tiếng rên. Một tiếng gọi tên ai đó. Họ không còn đứng dậy được nữa.
 
-Anh muốn giúp họ.
+Cậu muốn giúp họ.
 
 Thật sự muốn.
 
-Nhưng đôi chân anh không nghe lời. Và tiếng bước chân ma tộc đang đến gần, từng nhóm ba, bốn đứa, có đuốc, có chó.
+Nhưng đôi chân cậu không nghe lời. Và tiếng bước chân ma tộc đang đến gần, từng nhóm ba, bốn đứa, có đuốc, có chó.
 
 Edran quay lưng.
 
-Anh chạy.
+Cậu chạy.
 
-Không phải vì hèn nhát, anh tự nhủ. Anh nói điều đó với chính mình bằng giọng của một người đội trưởng ra lệnh cho lính. Không phải vì hèn nhát. Mà vì nếu tất cả đều chết ở đây, sẽ không còn ai mang tin Hắc Thạch thất thủ về phía nam. Không ai báo cho Durnholm rằng cánh cửa phương bắc đã mở toang trước mùa đông. Không ai báo cho những ngôi làng trên đường.
+Không phải vì hèn nhát, cậu tự nhủ. Cậu nói điều đó với chính mình bằng giọng của một người đội trưởng ra lệnh cho lính. Không phải vì hèn nhát. Mà vì nếu tất cả đều chết ở đây, sẽ không còn ai mang tin Hắc Thạch thất thủ về phía nam. Không ai báo cho Durnholm rằng cánh cửa phương bắc đã mở toang trước mùa đông. Không ai báo cho những ngôi làng trên đường.
 
 Không ai báo cho Brennock.
 
 Đó là lý do. Nó đúng.
 
-Nó vẫn không làm tiếng rên phía sau lưng anh nhỏ đi.
+Nó vẫn không làm tiếng rên phía sau lưng cậu nhỏ đi.
 
 ***
 
-Anh không chạy về phía nam được. Phía nam là cổng chính, là sân trong, là đuốc. Anh chạy về phía duy nhất còn tối – qua lỗ hổng phía bắc tường, xuống con dốc đá, về phía rừng.
+Cậu không chạy về phía nam được. Phía nam là cổng chính, là sân trong, là đuốc. Cậu chạy về phía duy nhất còn tối – qua lỗ hổng phía bắc tường, xuống con dốc đá, về phía rừng.
 
 Rừng Hắc Tùng nằm cách pháo đài chừng hai dặm về phía bắc. Đó là một khu rừng già mọc trên đất đá cằn cỗi, nơi tuyết phủ quanh năm, nơi thông mọc thẳng và đen đến mức ban đêm trông như những cột khói đông cứng. Lính biên phòng vào đó lấy củi. Không ai vào sâu.
 
 Edran lao qua những thân cây.
 
-Mỗi bước chân khiến vết thương ở sườn rách rộng hơn. Anh cảm thấy máu ấm thấm qua nắm vải độn, chảy xuống hông, rồi lạnh đi. Hơi thở của anh có vị sắt.
+Mỗi bước chân khiến vết thương ở sườn rách rộng hơn. Cậu cảm thấy máu ấm thấm qua nắm vải độn, chảy xuống hông, rồi lạnh đi. Hơi thở của cậu có vị sắt.
 
-Anh nghe thấy tiếng chó.
+Cậu nghe thấy tiếng chó.
 
 Không phải chó nhà. Chó săn tro – loài chó lớn lông xám đen mà ma tộc nuôi để lùng người trong tuyết. Tiếng sủa của chúng ngắn, khàn, không giống tiếng chó nhân tộc, giống tiếng ho của người già.
 
@@ -250,35 +250,35 @@ Sau đó là tiếng người. Tiếng ma tộc.
 
 "Đừng để nó chạy thoát! Có máu đây!"
 
-Máu. Anh đang để lại một con đường máu trên tuyết, rõ ràng như mực trên giấy.
+Máu. Cậu đang để lại một con đường máu trên tuyết, rõ ràng như mực trên giấy.
 
-Edran không nghĩ nữa. Anh chỉ chạy.
+Edran không nghĩ nữa. Cậu chỉ chạy.
 
-Rừng thưa dần. Mặt đất dốc lên. Rồi trước mặt anh hiện ra hai vách đá dựng đứng, và giữa chúng là một khe núi tối như họng giếng.
+Rừng thưa dần. Mặt đất dốc lên. Rồi trước mặt cậu hiện ra hai vách đá dựng đứng, và giữa chúng là một khe núi tối như họng giếng.
 
-Không có lối ra. Anh biết điều đó ngay khi nhìn thấy nó. Những khe núi như thế này ở chân Hắc Vân đều cụt.
+Không có lối ra. Cậu biết điều đó ngay khi nhìn thấy nó. Những khe núi như thế này ở chân Hắc Vân đều cụt.
 
 Nhưng phía sau là chó. Là đuốc. Là tiếng cười.
 
-Anh không có lựa chọn nào khác.
+Cậu không có lựa chọn nào khác.
 
-Anh lao vào.
+Cậu lao vào.
 
-Khe núi hẹp dần. Ánh sáng của tuyết nhạt đi. Hai vách đá cao đến mức khi ngẩng đầu, Edran chỉ thấy một dải trời đen mảnh như vết dao rạch. Tiếng chó sủa vọng vào, dội đi dội lại giữa hai vách đá, khiến anh không biết chúng còn ở xa hay đã ngay sau lưng.
+Khe núi hẹp dần. Ánh sáng của tuyết nhạt đi. Hai vách đá cao đến mức khi ngẩng đầu, Edran chỉ thấy một dải trời đen mảnh như vết dao rạch. Tiếng chó sủa vọng vào, dội đi dội lại giữa hai vách đá, khiến cậu không biết chúng còn ở xa hay đã ngay sau lưng.
 
-Rồi chân anh vấp phải thứ gì đó.
+Rồi chân cậu vấp phải thứ gì đó.
 
-Anh ngã.
+Cậu ngã.
 
 Thanh kiếm nứt tuột khỏi tay, trượt đi trên nền đá, rơi vào bóng tối ở đâu đó với một tiếng leng keng nhỏ, rất xa.
 
-Edran nằm sấp trên nền đá lạnh, má áp vào tuyết. Anh thở từng hơi ngắn. Mỗi hơi thở đều có tiếng lục khục.
+Edran nằm sấp trên nền đá lạnh, má áp vào tuyết. Cậu thở từng hơi ngắn. Mỗi hơi thở đều có tiếng lục khục.
 
-Anh biết mình sắp chết.
+Cậu biết mình sắp chết.
 
-Anh đã tưởng tượng cái chết của mình nhiều lần. Lính nào cũng vậy. Trong một trận đánh lớn, giữa hàng ngũ. Trên tường thành, quay mặt về phía kẻ thù. Hoặc trong một trận đấu tay đôi với một chiến binh mạnh hơn, đủ mạnh để cái chết của anh có chút ý nghĩa.
+Cậu đã tưởng tượng cái chết của mình nhiều lần. Lính nào cũng vậy. Trong một trận đánh lớn, giữa hàng ngũ. Trên tường thành, quay mặt về phía kẻ thù. Hoặc trong một trận đấu tay đôi với một chiến binh mạnh hơn, đủ mạnh để cái chết của cậu có chút ý nghĩa.
 
-Anh chưa từng nghĩ mình sẽ chết ở một nơi như thế này.
+Cậu chưa từng nghĩ mình sẽ chết ở một nơi như thế này.
 
 Một khe núi vô danh.
 
@@ -288,13 +288,13 @@ Không có người đưa tiễn.
 
 Không có ai nhớ tên.
 
-Con dao găm khắc tên vẫn ở thắt lưng anh. Sẽ không ai mang nó về nhà.
+Con dao găm khắc tên vẫn ở thắt lưng cậu. Sẽ không ai mang nó về nhà.
 
 Mẹ sẽ không biết. Lise sẽ không biết. Họ sẽ chờ một lá thư, rồi một lá nữa, rồi thôi.
 
 Edran nhắm mắt.
 
-Rồi anh nghe thấy tiếng động.
+Rồi cậu nghe thấy tiếng động.
 
 Không phải tiếng chó. Không phải tiếng bước chân.
 
@@ -302,11 +302,11 @@ Một âm thanh rất nhỏ, trong và đơn độc.
 
 Như tiếng kim loại khẽ chạm vào đá.
 
-Anh mở mắt.
+Cậu mở mắt.
 
-Thanh kiếm của anh đã rơi về phía sau. Âm thanh này đến từ phía trước – từ sâu hơn trong khe núi, nơi đáng lẽ chỉ có đá.
+Thanh kiếm của cậu đã rơi về phía sau. Âm thanh này đến từ phía trước – từ sâu hơn trong khe núi, nơi đáng lẽ chỉ có đá.
 
-Anh không biết vì sao mình lại bò về phía nó. Có lẽ vì đó là thứ duy nhất còn lại để làm.
+Cậu không biết vì sao mình lại bò về phía nó. Có lẽ vì đó là thứ duy nhất còn lại để làm.
 
 Cuối khe núi có một khoảng đất lõm xuống, bị phủ kín bởi những dây leo khô đã chết từ mùa nào không biết và một lớp tuyết dày, phẳng, chưa từng có dấu chân. Ánh sáng ở đây lẽ ra phải tối hơn cả lối vào. Nhưng không. Có một thứ ánh sáng rất mờ, không có nguồn, như ánh trời trước khi rạng đông, khi bầu trời chưa sáng mà đã không còn đen.
 
@@ -320,13 +320,13 @@ Lưỡi kiếm màu bạc nhạt, nhưng không phản chiếu chút ánh sáng 
 
 Edran nhìn nó rất lâu.
 
-Anh không biết vì sao mình thấy quen.
+Cậu không biết vì sao mình thấy quen.
 
-Như thể đã từng thấy thanh kiếm này. Không phải trong đền Giá Bảy Chỗ Trống ở làng, nơi những chiếc giá gỗ luôn trống. Không phải trong bài hát của lính. Mà trong một giấc mơ, một giấc mơ anh đã quên khi tỉnh dậy, chỉ còn lại cảm giác.
+Như thể đã từng thấy thanh kiếm này. Không phải trong đền Giá Bảy Chỗ Trống ở làng, nơi những chiếc giá gỗ luôn trống. Không phải trong bài hát của lính. Mà trong một giấc mơ, một giấc mơ cậu đã quên khi tỉnh dậy, chỉ còn lại cảm giác.
 
-Anh bò đến gần. Từng chút một. Tay trái kéo lê, tay phải ép vào sườn.
+Cậu bò đến gần. Từng chút một. Tay trái kéo lê, tay phải ép vào sườn.
 
-Khi bàn tay anh chạm vào chuôi kiếm, một giọng nói vang lên trong đầu.
+Khi bàn tay cậu chạm vào chuôi kiếm, một giọng nói vang lên trong đầu.
 
 Không phải tiếng người.
 
@@ -338,13 +338,13 @@ _Ngươi tìm kiếm điều gì?_
 
 Edran không trả lời.
 
-Anh đã quá mệt.
+Cậu đã quá mệt.
 
 Giọng nói lại vang lên.
 
 _Quyền lực?_
 
-Anh lắc đầu. Một cử động nhỏ đến mức chỉ có tuyết dưới má anh biết.
+Cậu lắc đầu. Một cử động nhỏ đến mức chỉ có tuyết dưới má cậu biết.
 
 _Danh vọng?_
 
@@ -354,7 +354,7 @@ _Chiến thắng?_
 
 Edran im lặng.
 
-Anh nhớ đến Hắc Thạch.
+Cậu nhớ đến Hắc Thạch.
 
 Nhớ đến những người lính đã chết. Mười một. Mười. Rồi không ai đếm nữa.
 
@@ -364,15 +364,15 @@ Nhớ đến Pell, mặt đầy máu, hỏi đội dự bị ở đâu.
 
 Nhớ đến những ngôi làng phía sau phòng tuyến. Brennock, với những lò than bốc khói trên đồi. Những đứa trẻ sẽ không còn nhà nếu quân ma tộc tiến xuống phía nam trước khi tuyết dày.
 
-Anh không biết mình có cứu được ai không.
+Cậu không biết mình có cứu được ai không.
 
-Nhưng anh biết một điều.
+Nhưng cậu biết một điều.
 
-"Ta không muốn..." Môi anh nứt, máu lẫn vào lời. "...phải nhìn thấy thêm những người chết nữa."
+"Ta không muốn..." Môi cậu nứt, máu lẫn vào lời. "...phải nhìn thấy thêm những người chết nữa."
 
 Thanh kiếm rung lên.
 
-Một luồng sáng nhợt nhạt lan ra từ chuôi kiếm, chạy dọc cánh tay anh như nước ấm.
+Một luồng sáng nhợt nhạt lan ra từ chuôi kiếm, chạy dọc cánh tay cậu như nước ấm.
 
 _Ngươi không có sức mạnh._
 
@@ -384,7 +384,7 @@ _Ngươi không có tài năng._
 
 _Ngươi không thể chiến thắng kẻ thù đang truy đuổi mình._
 
-Edran cười khẽ. Nụ cười làm sườn anh đau.
+Edran cười khẽ. Nụ cười làm sườn cậu đau.
 
 "Ta cũng biết."
 
@@ -400,25 +400,25 @@ Edran nhìn bàn tay mình trên chuôi kiếm.
 
 Nó đang run.
 
-Anh sợ. Sợ chết. Sợ đau. Sợ rằng tất cả những gì mình đã làm trong sáu năm qua đều vô nghĩa, rằng Hắc Thạch rồi cũng chỉ là một cái tên trong danh sách những pháo đài đã mất, và rằng không ai nhớ.
+Cậu sợ. Sợ chết. Sợ đau. Sợ rằng tất cả những gì mình đã làm trong sáu năm qua đều vô nghĩa, rằng Hắc Thạch rồi cũng chỉ là một cái tên trong danh sách những pháo đài đã mất, và rằng không ai nhớ.
 
-Nhưng cuối cùng, anh vẫn trả lời.
+Nhưng cuối cùng, cậu vẫn trả lời.
 
-"Bởi vì nếu tất cả chúng ta đều nằm xuống..." Anh thở. "...thì ai sẽ bảo vệ những người còn lại?"
+"Bởi vì nếu tất cả chúng ta đều nằm xuống..." Cậu thở. "...thì ai sẽ bảo vệ những người còn lại?"
 
 Trong khoảnh khắc ấy, ánh sáng bùng lên.
 
-Tuyết quanh anh tan chảy thành nước, rồi bốc thành hơi. Những đường vân vàng trên lưỡi kiếm sáng rực, chạy dọc thân kiếm như những mạch máu sống vừa được bơm đầy.
+Tuyết quanh cậu tan chảy thành nước, rồi bốc thành hơi. Những đường vân vàng trên lưỡi kiếm sáng rực, chạy dọc thân kiếm như những mạch máu sống vừa được bơm đầy.
 
 Một luồng sức mạnh khổng lồ tràn vào cơ thể Edran – không phải sức mạnh của cơ bắp, mà giống như ai đó vừa thắp một ngọn đèn trong căn nhà đã tối từ lâu.
 
-Anh cảm thấy có thứ gì đó đang quan sát mình.
+Cậu cảm thấy có thứ gì đó đang quan sát mình.
 
 Không phải một sinh vật.
 
-Mà là một ý chí, già đến mức đã tồn tại từ trước cả khi những vương quốc đầu tiên được dựng lên. Nó nhìn anh, không phán xét, không thương xót. Nó chỉ nhìn, như người ta nhìn một hạt giống vừa nảy mầm.
+Mà là một ý chí, già đến mức đã tồn tại từ trước cả khi những vương quốc đầu tiên được dựng lên. Nó nhìn cậu, không phán xét, không thương xót. Nó chỉ nhìn, như người ta nhìn một hạt giống vừa nảy mầm.
 
-Và cùng với ánh nhìn ấy, một cái tên chảy vào đầu anh – không thành chữ, chỉ thành cảm giác, giống như người ta biết tên của mặt trời mà không cần ai dạy.
+Và cùng với ánh nhìn ấy, một cái tên chảy vào đầu cậu – không thành chữ, chỉ thành cảm giác, giống như người ta biết tên của mặt trời mà không cần ai dạy.
 
 **Bình Minh.**
 
@@ -426,7 +426,7 @@ Thanh kiếm đầu tiên trong Thất Kiếm.
 
 Thanh kiếm của phẩm giá mang tên **Dũng Khí**.
 
-Thanh kiếm đã chấp nhận anh.
+Thanh kiếm đã chấp nhận cậu.
 
 Nhưng được công nhận không đồng nghĩa với có được sức mạnh.
 
@@ -448,7 +448,7 @@ Rồi hắn bật cười.
 
 Edran cố đứng dậy.
 
-Đôi chân run rẩy dưới anh như chân của con nai mới đẻ. Anh chống mũi kiếm xuống đất, kéo người lên, đứng được một nửa.
+Đôi chân run rẩy dưới cậu như chân của con nai mới đẻ. Cậu chống mũi kiếm xuống đất, kéo người lên, đứng được một nửa.
 
 Tên ma tộc bước tới, rìu trong tay.
 
@@ -458,7 +458,7 @@ Edran giơ kiếm.
 
 Lưỡi Bình Minh phát sáng. Ánh sáng của nó đẩy bóng tối trong khe núi lùi lại như đẩy một tấm màn.
 
-Nhưng anh không biết dùng nó.
+Nhưng cậu không biết dùng nó.
 
 Không có kiếm thức nào hiện ra trong đầu. Không có kỹ năng nào chảy vào tay. Không có ký ức nào về những trận đánh mà bảy anh hùng từng trải qua. Chỉ có một thanh kiếm phát sáng, nằm trong tay một người sắp chết.
 
@@ -466,19 +466,19 @@ Tên ma tộc biến mất khỏi tầm mắt.
 
 Không, không phải biến mất. Hắn chỉ nhanh hơn mắt Edran đang nhòe đi.
 
-Một cú đấm giáng thẳng vào bụng anh, ngay dưới vết thương. Khoảnh khắc nắm đấm chạm vào, Edran cảm thấy một vệt nóng rát kỳ lạ trên da, ngắn và sắc như bị dí một cục than. Rồi cơn đau thật sự ập đến và nuốt mất mọi thứ khác.
+Một cú đấm giáng thẳng vào bụng cậu, ngay dưới vết thương. Khoảnh khắc nắm đấm chạm vào, Edran cảm thấy một vệt nóng rát kỳ lạ trên da, ngắn và sắc như bị dí một cục than. Rồi cơn đau thật sự ập đến và nuốt mất mọi thứ khác.
 
-Anh bay ngược vào vách đá.
+Cậu bay ngược vào vách đá.
 
-Thanh kiếm suýt tuột khỏi tay. Không tuột. Anh không biết vì sao.
+Thanh kiếm suýt tuột khỏi tay. Không tuột. Cậu không biết vì sao.
 
-Anh cố vung kiếm. Đường kiếm chậm chạp, không có lực, như vung một cành cây trong nước.
+Cậu cố vung kiếm. Đường kiếm chậm chạp, không có lực, như vung một cành cây trong nước.
 
-Tên ma tộc lách sang một bên gần như uể oải, rồi đá mạnh vào đầu gối phải của anh.
+Tên ma tộc lách sang một bên gần như uể oải, rồi đá mạnh vào đầu gối phải của cậu.
 
 Có tiếng xương vỡ. Edran nghe thấy nó trước cả khi cảm thấy nó.
 
-Anh quỳ xuống.
+Cậu quỳ xuống.
 
 "Vậy mà ta tưởng mình vừa tìm được một chiến binh." Tên ma tộc lắc đầu, gần như thất vọng thật. Hai kẻ phía sau cười.
 
@@ -488,13 +488,13 @@ Hắn giơ cao chiếc rìu.
 
 Edran nhìn lưỡi rìu đang hạ xuống.
 
-Anh không thể né.
+Cậu không thể né.
 
 Không thể đỡ.
 
 Không thể làm gì.
 
-Nhưng bàn tay anh vẫn không buông chuôi kiếm.
+Nhưng bàn tay cậu vẫn không buông chuôi kiếm.
 
 Một tiếng gió rít qua khe núi, lạnh và dài, như có thứ gì rất lớn vừa lướt qua phía trên hai vách đá.
 
@@ -574,7 +574,7 @@ Edran cố mở mắt.
 
 "...Nó đã chọn tôi."
 
-Người đàn ông nhìn anh.
+Người đàn ông nhìn cậu.
 
 Một lúc lâu sau, ông bật cười. Không phải tiếng cười chế giễu. Tiếng cười của một người đã nghe một câu đùa rất cũ, và vẫn thấy nó buồn cười.
 
@@ -582,7 +582,7 @@ Một lúc lâu sau, ông bật cười. Không phải tiếng cười chế gi�
 
 Ông đặt bàn tay lên ngực Edran.
 
-Một luồng hơi ấm lan khắp cơ thể anh. Không phải hơi ấm của lửa. Hơi ấm của đá sau một ngày nắng, nặng và chậm, thấm từ ngoài vào trong. Cơn đau dịu đi đôi chút. Máu ở sườn chảy chậm lại.
+Một luồng hơi ấm lan khắp cơ thể cậu. Không phải hơi ấm của lửa. Hơi ấm của đá sau một ngày nắng, nặng và chậm, thấm từ ngoài vào trong. Cơn đau dịu đi đôi chút. Máu ở sườn chảy chậm lại.
 
 Nhưng vết thương không biến mất.
 
@@ -606,9 +606,9 @@ Edran sững sờ.
 
 Long tộc.
 
-Anh từng nghe chuyện về họ. Mọi đứa trẻ Arvend đều nghe. Năm con rồng còn sống trên thế giới. Năm tồn tại mà ngay cả vua chúa cũng không dám tùy tiện xúc phạm, không dám triệu tập, không dám gọi tên khi giận.
+Cậu từng nghe chuyện về họ. Mọi đứa trẻ Arvend đều nghe. Năm con rồng còn sống trên thế giới. Năm tồn tại mà ngay cả vua chúa cũng không dám tùy tiện xúc phạm, không dám triệu tập, không dám gọi tên khi giận.
 
-Người đàn ông trước mặt anh...
+Người đàn ông trước mặt cậu...
 
 Là một con rồng?
 

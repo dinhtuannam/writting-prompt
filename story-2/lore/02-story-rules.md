@@ -12,6 +12,7 @@
   - Cảm quan cụ thể: lạnh, mùi máu và tro, sức nặng của giáp và thương tích.
   - Chiến trận viết rõ không gian, ai ở đâu, chiến thuật gì.
 - **Độ dài chương mục tiêu:** 3.000–4.500 từ tiếng Việt.
+- **Đại từ người kể dùng cho nhân vật chính (chỉ dẫn tác giả 2026-11-21):** Người kể gọi Edran là **"cậu"** hoặc gọi tên **"Edran"**, không dùng "anh". Các nhân vật trẻ hơn bên cạnh Edran trong cùng cảnh (ví dụ Pell) được người kể gọi bằng tên hoặc "nó" để không lẫn với Edran. Trong lời thoại, nhân vật vẫn xưng hô tự nhiên (Lise gọi Edran là "anh").
 - **Quy tắc hội thoại/xưng hô:**
   - Nhân tộc lính tráng: tôi/anh/cậu/mày-tao khi thô.
   - Vaelthar xưng "ta", gọi Edran "ngươi" (giai đoạn đầu), giọng khô, hơi châm biếm.

@@ -4,17 +4,17 @@ Ba ngày sau.
 
 Edran tỉnh dậy vì mùi khói thông.
 
-Không phải mùi khói của Hắc Thạch – thứ khói đặc, ngọt lợm mùi dầu cháy và thịt cháy. Đây là khói của một lò sưởi được đốt đúng cách, khô và sạch, thứ mùi mà anh chưa ngửi thấy từ mùa đông năm ngoái, khi anh về phép bảy ngày ở Brennock.
+Không phải mùi khói của Hắc Thạch – thứ khói đặc, ngọt lợm mùi dầu cháy và thịt cháy. Đây là khói của một lò sưởi được đốt đúng cách, khô và sạch, thứ mùi mà cậu chưa ngửi thấy từ mùa đông năm ngoái, khi cậu về phép bảy ngày ở Brennock.
 
-Anh mở mắt. Trần nhà bằng đá, đen bóng khói. Không phải vải lều. Không phải trời.
+Cậu mở mắt. Trần nhà bằng đá, đen bóng khói. Không phải vải lều. Không phải trời.
 
-Theo thói quen, anh đếm.
+Theo thói quen, cậu đếm.
 
-Một người, ngồi bên lò sưởi. Một người, nằm trên giường – chính anh.
+Một người, ngồi bên lò sưởi. Một người, nằm trên giường – chính cậu.
 
 Hai.
 
-Anh nằm trên một chiếc giường gỗ thô, đệm rơm, phủ một tấm chăn lông dày đến mức đè nặng lên ngực. Thân anh quấn những lớp vải trắng từ nách đến hông. Chân phải bị nẹp giữa hai thanh gỗ, buộc bằng dây da, và khi anh thử cử động ngón chân, một tia đau chạy thẳng từ đầu gối lên tận răng.
+Cậu nằm trên một chiếc giường gỗ thô, đệm rơm, phủ một tấm chăn lông dày đến mức đè nặng lên ngực. Thân cậu quấn những lớp vải trắng từ nách đến hông. Chân phải bị nẹp giữa hai thanh gỗ, buộc bằng dây da, và khi cậu thử cử động ngón chân, một tia đau chạy thẳng từ đầu gối lên tận răng.
 
 Bên cạnh giường có một chiếc ghế đẩu, trên đó là một bát súp đã nguội, mặt súp đóng một lớp mỡ trắng mỏng.
 
@@ -24,7 +24,7 @@ Không ai đặt nó vào vỏ – có lẽ vì nó không có vỏ. Nó chỉ n
 
 Edran nhìn nó.
 
-Rồi nhìn hai bàn tay mình. Tay trái quấn băng. Tay phải đầy những vết rách nhỏ đã khô. Đó vẫn là tay của anh. Không có gì thay đổi. Không có vết sáng nào, không có dấu ấn nào. Không có gì cho thấy ba đêm trước, những bàn tay này đã rút một thanh kiếm huyền thoại ra khỏi đá.
+Rồi nhìn hai bàn tay mình. Tay trái quấn băng. Tay phải đầy những vết rách nhỏ đã khô. Đó vẫn là tay của cậu. Không có gì thay đổi. Không có vết sáng nào, không có dấu ấn nào. Không có gì cho thấy ba đêm trước, những bàn tay này đã rút một thanh kiếm huyền thoại ra khỏi đá.
 
 "Ngươi tỉnh rồi."
 
@@ -42,7 +42,7 @@ Edran nằm xuống.
 
 Trần nhà. Mùi khói. Tiếng lửa tí tách. Ngoài cửa sổ, tuyết rơi thẳng, dày, không có gió – loại tuyết của núi cao, nơi gió đã ngủ đông trước cả con người.
 
-Một lúc lâu sau, anh hỏi:
+Một lúc lâu sau, cậu hỏi:
 
 "Pháo đài Hắc Thạch thế nào?"
 
@@ -56,9 +56,9 @@ Không chút do dự. Không chút mềm mỏng.
 
 Edran quay mặt về phía cửa sổ.
 
-Anh nghĩ đến Pell. Mặt đầy máu, giọng vỡ. _Không còn đội dự bị nữa._ Anh nghĩ đến Gerrit Moll, đứng dựa vào lỗ châu mai, không cử động. Anh nghĩ đến tiếng rên phía sau lưng mình khi anh quay đi.
+Cậu nghĩ đến Pell. Mặt đầy máu, giọng vỡ. _Không còn đội dự bị nữa._ Cậu nghĩ đến Gerrit Moll, đứng dựa vào lỗ châu mai, không cử động. Cậu nghĩ đến tiếng rên phía sau lưng mình khi cậu quay đi.
 
-Rồi anh nghĩ đến Brennock, hai ngày đường về phía nam pháo đài, trên con đường mà Hắc Nha sẽ dùng để tiến xuống. Mẹ anh. Lise. Lá thư cuối cùng anh nhận được là từ đầu mùa thu, nét chữ của Lise nghiêng và vội, kể rằng lò than nhà bác Joss đã sập, rằng mẹ ho nhiều hơn khi trời trở lạnh, rằng đền Giá Bảy Chỗ Trống trong làng vừa được sơn lại, rằng _anh đừng có chết, đồ ngốc_.
+Rồi cậu nghĩ đến Brennock, hai ngày đường về phía nam pháo đài, trên con đường mà Hắc Nha sẽ dùng để tiến xuống. Mẹ cậu. Lise. Lá thư cuối cùng cậu nhận được là từ đầu mùa thu, nét chữ của Lise nghiêng và vội, kể rằng lò than nhà bác Joss đã sập, rằng mẹ ho nhiều hơn khi trời trở lạnh, rằng đền Giá Bảy Chỗ Trống trong làng vừa được sơn lại, rằng _anh đừng có chết, đồ ngốc_.
 
 Ba ngày. Ba ngày đủ để một quân đoàn đi qua Brennock.
 
@@ -92,7 +92,7 @@ Vaelthar nhìn thanh kiếm trên bàn.
 
 ***
 
-Ông đứng dậy. Edran nhận ra lần đầu tiên rằng ông cao – cao hơn bất kỳ người đàn ông nào anh từng gặp, dù dáng ông hơi còng – và rằng ông cử động theo một cách không giống người già. Không chậm, không run. Mỗi bước chân của ông đặt xuống sàn đá đều như được tính trước, như thể ông đang cẩn thận để không làm vỡ thứ gì.
+Ông đứng dậy. Edran nhận ra lần đầu tiên rằng ông cao – cao hơn bất kỳ người đàn ông nào cậu từng gặp, dù dáng ông hơi còng – và rằng ông cử động theo một cách không giống người già. Không chậm, không run. Mỗi bước chân của ông đặt xuống sàn đá đều như được tính trước, như thể ông đang cẩn thận để không làm vỡ thứ gì.
 
 Ông lấy từ gầm bàn một chiếc hộp gỗ đen, nhỏ cỡ một hộp đựng nến. Gỗ đã bóng lên vì tay người cầm qua nhiều năm. Ông mở nắp.
 
@@ -106,7 +106,7 @@ Không phải da bò, cũng không phải giấy da dê mà các thầy ký tron
 
 Đó là một tấm bản đồ.
 
-Edran đã thấy bản đồ. Trong lều chỉ huy ở Hắc Thạch có một tấm, vẽ phương bắc Arvend, với những đường mực nâu là sông và những hình tam giác nhỏ là núi. Anh biết đọc đủ để tìm ra con đường từ pháo đài về Durnholm.
+Edran đã thấy bản đồ. Trong lều chỉ huy ở Hắc Thạch có một tấm, vẽ phương bắc Arvend, với những đường mực nâu là sông và những hình tam giác nhỏ là núi. Cậu biết đọc đủ để tìm ra con đường từ pháo đài về Durnholm.
 
 Tấm bản đồ này thì khác.
 
@@ -178,7 +178,7 @@ Vaelthar cuộn tấm bản đồ lại, đặt vào hộp, đóng nắp. Rồi 
 
 Ông nói câu ấy như một người đã nghĩ về nó rất nhiều lần, đến mức nó đã mòn nhẵn như đá cuội.
 
-Edran nhìn thanh kiếm trên bàn, rồi nhìn Vaelthar. Anh nhớ lại ba ngày trước, trong khe núi, hai ngón tay ông chỉ chạm vào lưỡi kiếm, không bao giờ chạm vào chuôi.
+Edran nhìn thanh kiếm trên bàn, rồi nhìn Vaelthar. Cậu nhớ lại ba ngày trước, trong khe núi, hai ngón tay ông chỉ chạm vào lưỡi kiếm, không bao giờ chạm vào chuôi.
 
 Bảy thanh kiếm không phải vũ khí của những vị vua.
 
@@ -190,7 +190,7 @@ Chúng chỉ công nhận những người mang trong mình phẩm giá tương 
 
 Và một khi bị từ chối, người cầm chúng sẽ chết.
 
-Những điều đó Edran đã nghe từ bé. Ai ở Arvend cũng nghe. Người Giữ Giá trong đền làng nói thế mỗi ngày giỗ chung các anh hùng, giọng ê a như đọc kinh, và bọn trẻ con thì thầm với nhau rằng có một ông vua ngày xưa đã cố cầm một thanh kiếm giả và chết vì hoảng sợ. Đó là chuyện cổ tích. Anh chưa từng nghĩ cổ tích lại có trọng lượng. Giờ nó đang nằm trên bàn, cách anh ba bước chân.
+Những điều đó Edran đã nghe từ bé. Ai ở Arvend cũng nghe. Người Giữ Giá trong đền làng nói thế mỗi ngày giỗ chung các anh hùng, giọng ê a như đọc kinh, và bọn trẻ con thì thầm với nhau rằng có một ông vua ngày xưa đã cố cầm một thanh kiếm giả và chết vì hoảng sợ. Đó là chuyện cổ tích. Cậu chưa từng nghĩ cổ tích lại có trọng lượng. Giờ nó đang nằm trên bàn, cách cậu ba bước chân.
 
 "Vậy sáu thanh kiếm còn lại đang chờ ai?"
 
@@ -210,9 +210,9 @@ Vaelthar im lặng một lúc. Ngọn lửa trong lò nổ lách tách. Một kh
 
 "Và ta đã nhìn thấy ngươi. Một kẻ không còn khả năng chiến đấu, vẫn cố gắng đứng dậy để bảo vệ những người phía sau."
 
-Edran không nói gì. Anh muốn nói rằng ông đã nhầm. Rằng anh không đứng dậy vì ai cả, anh chỉ không muốn chết nằm. Rằng ba ngày trước anh đã quay lưng với những người đang rên dưới tuyết.
+Edran không nói gì. Cậu muốn nói rằng ông đã nhầm. Rằng cậu không đứng dậy vì ai cả, cậu chỉ không muốn chết nằm. Rằng ba ngày trước cậu đã quay lưng với những người đang rên dưới tuyết.
 
-Nhưng anh nhớ giọng nói trong khe núi. _Vậy tại sao ngươi vẫn muốn đứng dậy?_ Và anh nhớ mình đã trả lời thế nào. Câu trả lời ấy không phải nói dối. Nó chỉ không phải toàn bộ sự thật.
+Nhưng cậu nhớ giọng nói trong khe núi. _Vậy tại sao ngươi vẫn muốn đứng dậy?_ Và cậu nhớ mình đã trả lời thế nào. Câu trả lời ấy không phải nói dối. Nó chỉ không phải toàn bộ sự thật.
 
 "Ta không biết liệu ngươi có thể kết thúc cuộc chiến này hay không," Vaelthar nói tiếp. "Có lẽ là không. Nhưng Bình Minh đã công nhận ngươi. Đó là lý do duy nhất ta cần."
 
@@ -228,7 +228,7 @@ Một cuộc chiến đang lan khắp thế giới.
 
 Và một Ma thần đã trở lại sau bảy trăm năm.
 
-Rồi anh chợt nhận ra có điều gì đó không ổn trong câu chuyện này. Nó cứ như một hòn sỏi trong ủng, nhỏ nhưng không thể lờ đi.
+Rồi cậu chợt nhận ra có điều gì đó không ổn trong câu chuyện này. Nó cứ như một hòn sỏi trong ủng, nhỏ nhưng không thể lờ đi.
 
 "Ông nói Ma thần đã trở lại."
 
@@ -252,11 +252,11 @@ Edran nhìn ông.
 
 Một câu trả lời ngắn.
 
-Nhưng nó khiến căn phòng lạnh hơn cả mùa đông bên ngoài. Edran thấy ngọn lửa trong lò như co lại một chút, dù anh biết điều đó là không thể.
+Nhưng nó khiến căn phòng lạnh hơn cả mùa đông bên ngoài. Edran thấy ngọn lửa trong lò như co lại một chút, dù cậu biết điều đó là không thể.
 
 Một con rồng đã thua.
 
-Anh nghĩ đến những câu chuyện. Rồng là thiên tai biết nghĩ. Khi một con rồng nổi giận, người ta không đánh lại nó, người ta chạy. Vậy mà con rồng này đã đối mặt Ma thần, và thua, và vẫn ngồi đây đọc sách bên lò sưởi như chưa có gì xảy ra.
+Cậu nghĩ đến những câu chuyện. Rồng là thiên tai biết nghĩ. Khi một con rồng nổi giận, người ta không đánh lại nó, người ta chạy. Vậy mà con rồng này đã đối mặt Ma thần, và thua, và vẫn ngồi đây đọc sách bên lò sưởi như chưa có gì xảy ra.
 
 "Ma thần hiện tại không còn giống kẻ mà bảy anh hùng từng chiến đấu," Vaelthar nói, giọng thấp hơn. "Nghi thức hồi sinh đã làm biến dạng linh hồn hắn. Hắn có sức mạnh, nhiều hơn trước. Nhưng hắn không còn lý trí như trước. Kẻ ta biết bảy trăm năm trước là một kẻ thù có thể hiểu được. Kẻ bây giờ thì không."
 
@@ -292,9 +292,9 @@ Edran nếm một thìa.
 
 Nó dở thật.
 
-Anh ăn hết.
+Cậu ăn hết.
 
-"Ông mang tôi đến đây bằng cách nào?" anh hỏi, khi bát đã cạn. "Khe núi đó ở chân Hắc Vân. Chỗ này..." Anh nhìn ra cửa sổ, nơi chỉ thấy tuyết và những đỉnh đá đen. "Chỗ này là trong núi."
+"Ông mang tôi đến đây bằng cách nào?" cậu hỏi, khi bát đã cạn. "Khe núi đó ở chân Hắc Vân. Chỗ này..." Cậu nhìn ra cửa sổ, nơi chỉ thấy tuyết và những đỉnh đá đen. "Chỗ này là trong núi."
 
 "Ngươi nặng hơn vẻ ngoài," Vaelthar nói, và cầm lại cuốn sách.
 
@@ -304,33 +304,33 @@ Anh ăn hết.
 
 Đêm đó, Edran không ngủ.
 
-Anh nằm nhìn ánh lửa lò yếu dần trên trần đá. Vaelthar đã đi đâu đó – ra khỏi cửa từ lúc chập tối, không nói một lời, và không quay lại. Ngôi nhà đá im lặng, chỉ có tiếng gió bắt đầu nổi ở đâu đó rất cao trên đỉnh núi.
+Cậu nằm nhìn ánh lửa lò yếu dần trên trần đá. Vaelthar đã đi đâu đó – ra khỏi cửa từ lúc chập tối, không nói một lời, và không quay lại. Ngôi nhà đá im lặng, chỉ có tiếng gió bắt đầu nổi ở đâu đó rất cao trên đỉnh núi.
 
-Thanh kiếm Bình Minh nằm trên bàn, cách anh ba bước chân.
+Thanh kiếm Bình Minh nằm trên bàn, cách cậu ba bước chân.
 
-Anh chưa từng nghĩ cuộc đời mình sẽ dính líu đến những huyền thoại bảy trăm năm trước.
+Cậu chưa từng nghĩ cuộc đời mình sẽ dính líu đến những huyền thoại bảy trăm năm trước.
 
-Anh chỉ muốn trở thành một kiếm sĩ đủ giỏi để sống sót qua những trận đánh. Đủ giỏi để mỗi mùa thu, khi lá thư của Lise tới, anh còn sống để đọc nó.
+Cậu chỉ muốn trở thành một kiếm sĩ đủ giỏi để sống sót qua những trận đánh. Đủ giỏi để mỗi mùa thu, khi lá thư của Lise tới, cậu còn sống để đọc nó.
 
-Anh muốn có một căn nhà nhỏ. Không cần ở Brennock – ở đâu đó phía nam, nơi tuyết tan sớm hơn, nơi không có lò than làm phổi người ta đen lại như phổi của cha anh. Muốn trở về sau mỗi mùa đông. Muốn một ngày được ngủ mà không đếm.
+Cậu muốn có một căn nhà nhỏ. Không cần ở Brennock – ở đâu đó phía nam, nơi tuyết tan sớm hơn, nơi không có lò than làm phổi người ta đen lại như phổi của cha cậu. Muốn trở về sau mỗi mùa đông. Muốn một ngày được ngủ mà không đếm.
 
 Những điều ấy, giờ đây, đột nhiên trở nên rất xa.
 
-Ngoài kia, chiến tranh đang nuốt chửng thế giới. Và một thanh kiếm cổ vừa đặt lên vai anh một gánh nặng mà anh không hề xin.
+Ngoài kia, chiến tranh đang nuốt chửng thế giới. Và một thanh kiếm cổ vừa đặt lên vai cậu một gánh nặng mà cậu không hề xin.
 
 Edran nhắm mắt.
 
-Trong bóng tối, anh nghe thấy tiếng thì thầm.
+Trong bóng tối, cậu nghe thấy tiếng thì thầm.
 
 Không phải giọng của Vaelthar. Không phải giọng của ai trong căn phòng. Nó vọng tới từ xa, rất xa, cùng một chất giọng như trong khe núi – không phải người, không phải thần.
 
 _Dũng khí không phải là không biết sợ._
 
-Tim anh đập mạnh.
+Tim cậu đập mạnh.
 
 _Dũng khí là biết rõ điều gì đang chờ đợi mình, nhưng vẫn lựa chọn bước tiếp._
 
-Anh mở mắt.
+Cậu mở mắt.
 
 Thanh kiếm vẫn nằm im trên bàn.
 
