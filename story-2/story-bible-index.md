@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 13 (EVT-078)
-- **Chương tiếp theo cần viết:** 14
+- **Canon cập nhật đến:** Chương 14 (EVT-084)
+- **Chương tiếp theo cần viết:** 15
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -138,7 +138,8 @@ Không tái sử dụng ID đã retired.
 
 | Arc/Chapter | Trạng thái | Mục tiêu/biến cố | Plan | Summary | Canon đến |
 |---|---|---|---|---|---|
-| ARC-001 (Quyển I: Tàn Dưới Bình Minh) | PLANNED | Edran sống sót, học cách dùng Bình Minh, rời phương Bắc | `planning/arcs/arc-001.md` | `summaries/arcs/arc-001.md` | — |
+| ARC-001 (Quyển I: Tàn Dưới Bình Minh) | COMPLETE (ch.1–14) | Edran sống sót, học cách dùng Bình Minh, rời phương Bắc | `planning/arcs/arc-001.md` | `summaries/arcs/arc-001.md` | — |
+| ARC-002 (Quyển II: Rừng Không Ngủ) | IN_PROGRESS | Qua Caldrenne tới rừng elf; Sinh Mệnh; thợ săn Ma giới | `planning/arcs/arc-002.md` | — | — |
 | Chapter 001 | COMPLETE | Ngày Phòng Tuyến Phía Bắc Sụp Đổ | `planning/chapters/chapter-001.md` | `summaries/chapters/chapter-001.md` | EVT-016 |
 | Chapter 002 | COMPLETE | Bản Đồ Của Sáu Thanh Kiếm | `planning/chapters/chapter-002.md` | `summaries/chapters/chapter-002.md` | EVT-020 |
 | Chapter 003 | COMPLETE | Đá Thử Nguyên | `planning/chapters/chapter-003.md` | `summaries/chapters/chapter-003.md` | EVT-025 |
@@ -152,6 +153,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 011 | COMPLETE | Trận Đồ Đỏ | — | `summaries/chapters/chapter-011.md` | EVT-064 |
 | Chapter 012 | COMPLETE | Ánh Sáng Giữa Lửa | — | `summaries/chapters/chapter-012.md` | EVT-072 |
 | Chapter 013 | COMPLETE | Những Người Còn Lại | — | `summaries/chapters/chapter-013.md` | EVT-078 |
+| Chapter 014 | COMPLETE | Rời Phương Bắc | — | `summaries/chapters/chapter-014.md` | EVT-084 |
 
 ## Ranh giới sáng tạo
 

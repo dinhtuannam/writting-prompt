@@ -72,6 +72,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-076 | ~23/1/HC 703 | Edran từ chối về Velde; nói công khai các chủ nhân kiếm khác có thể không phải người Arvend, kể cả người có sừng; Ansgar cho 3 ngày trước khi báo Velde | CHAR-001, CHAR-007 | Trại thương binh | THREAD-015 | ch.13 |
 | EVT-077 | Đêm 25/1/HC 703 | Lise chọn ở lại Durnholm (bảo hộ nhà Tolle) để chôn mẹ; tặng Edran mẩu than | CHAR-001, CHAR-008 | Họ | ITEM-014 | ch.13 |
 | EVT-078 | Rạng sáng 26/1/HC 703 | Edran và Ysolde rời Durnholm qua cổng nam với một con lừa thồ | CHAR-001, CHAR-005 | Pell, Lise, Ansgar | Kết thúc phần Durnholm | ch.13 |
+| EVT-079 | Đêm 27/1/HC 703 | Edran viết thư đầu tiên cho Lise bằng mẩu than, để ở trạm ngựa bỏ hoang | CHAR-001 | CHAR-001, CHAR-005 | Thư có thể tới Durnholm | ch.14 |
+| EVT-080 | Đêm 30/1/HC 703 | Vaelthar đáp xuống chân đèo Ketten, gặp Ysolde | CHAR-002, CHAR-005 | Họ | Ysolde biết Vaelthar là rồng | ch.14 |
+| EVT-081 | Đêm 30/1/HC 703 | Vaelthar nói "Bảy anh hùng không phải ai cũng là người như ngươi nghĩ"; đã hứa với một người không kể; kể 700 năm trước một vua, hai hoàng tử, một pháp sư Vương cấp, ba hiệp sĩ chết vì cầm kiếm | CHAR-002 | CHAR-001, CHAR-005 | CLUE-009 | ch.14 |
+| EVT-082 | Đêm 30/1/HC 703 | Dấu Sinh Mệnh nháy lần thứ 11 từ đầu đông (mỗi lần một người chết khi nắm chuôi) | — | CHAR-001, 002, 005 | Có kẻ trong rừng elf gửi người thử kiếm | ch.14 |
+| EVT-083 | 31/1/HC 703, rạng sáng | Vết thương Vaelthar lan qua khuỷu sau khi ông đóng một đèo cao phía đông mà Ma giới được ai đó chỉ cho | CHAR-002 | CHAR-001 | THREAD-020 | ch.14 |
+| EVT-084 | 31/1/HC 703 | Edran, Ysolde, Vaelthar (dạng người) qua đèo Ketten sang Caldrenne – hết Quyển I | CHAR-001, 002, 005 | — | Bắt đầu ARC-002 | ch.14 |
 
 ## Cách ghi
 
