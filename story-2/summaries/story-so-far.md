@@ -20,6 +20,7 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của Ma thần
 - Ch.2 – Tỉnh ở nhà đá; bản đồ da với bảy dấu kiếm (dấu bắc sáng); nhiệm vụ tìm sáu chủ nhân; Vaelthar thừa nhận từng thua Ma thần; kiếm thì thầm về dũng khí (EVT-017→020).
 - Ch.3 – Hồi phục; tự gọi ánh sáng Bình Minh và ngất (phẩm lực lấy từ chủ nhân); đá thử nguyên: Phong rất yếu; Vaelthar lỡ lời là rồng Nham; Edran muốn xuống phía nam tìm gia đình; Hắc Nha lục soát khe núi (EVT-021→025).
 - Ch.4 – (POV Kesh) Pháp sư Hỏa Hắc Nha đọc dấu vết ở khe núi: rồng Nham vô chú, vòng đá không dấu ma pháp; lấy đá nanh truy vết từ xác Gorrun, chỉ vào Hắc Vân; thư Varkhaz đòi 'ánh sáng'; Dhurgal ép Kesh vào núi bằng gia đình làm con tin (EVT-026→029).
+- Ch.5 – Huấn luyện đứng/thở và tập Phong; vết bầm là dấu nanh Hỏa truy vết; Edran dùng Bình Minh bẻ vỡ dấu (kiếm 'hỏi lại' lần đầu); đá nanh của Kesh nứt, toán Hắc Nha rút xuống núi (EVT-030→032).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

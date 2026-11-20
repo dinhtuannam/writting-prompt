@@ -32,6 +32,8 @@
 | 26/11/HC 702 | EVT-017 → 020 | Bản đồ, nhiệm vụ, thất bại của Vaelthar; tiếng nói của kiếm | LOC-004 | CHAR-001, CHAR-002 | 1 ngày | ch.2 |
 | Đêm 25/11/HC 702 | EVT-028 | Thư của Varkhaz tới Dhurgal | LOC-001 | CHAR-011 | — | ch.4 (kể lại) |
 | ~13/12/HC 702 | EVT-026 → 029 | Kesh ở khe núi; đá nanh; báo Dhurgal; nhận lệnh vào núi (song song EVT-025) | LOC-003, LOC-001 | CHAR-006, CHAR-011 | 1 ngày | ch.4 |
+| 14 → 18/12/HC 702 | — | Toán Kesh leo núi theo đá nanh (mất 1 người ngày thứ 2) | Hắc Vân | CHAR-006 | 4 ngày | ch.5 |
+| ~17 → 19/12/HC 702 | EVT-030 → 032 | Huấn luyện; phá dấu nanh; Kesh rút | LOC-004; sườn tây nam | CHAR-001, CHAR-002, CHAR-006 | 3 ngày | ch.5 |
 | ~10 → 13/12/HC 702 | EVT-021 → 025 | Ngất vì phẩm lực; đá thử nguyên (Phong); Vaelthar là rồng Nham; Hắc Nha lục soát khe núi | LOC-004 (+ LOC-003) | CHAR-001, CHAR-002 | ~4 ngày | ch.3 |
 
 ## Các tuyến song song

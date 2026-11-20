@@ -23,6 +23,9 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-027 | ~13/12/HC 702 | Kesh lấy đá nanh từ xác Gorrun; đá chỉ hướng đông bắc vào Hắc Vân – kẻ bị đánh dấu còn sống | CHAR-006, CHAR-013 | CHAR-006 | Hắc Nha có cách truy vết Edran (~1 tháng) | ch.4 |
 | EVT-028 | Đêm 25/11/HC 702 (được kể lại ở ch.4) | Dhurgal nhận thư khắc lửa của Varkhaz: cảm thấy "ánh sáng thức dậy ở phương bắc", ra lệnh mang nó về | CHAR-003, CHAR-011 | CHAR-011, CHAR-006 | Ma thần cảm nhận được kiếm | ch.4 |
 | EVT-029 | ~13/12/HC 702, đêm | Dhurgal giao Kesh 10 người + chó vào núi; nhắc gia đình Kesh là con tin ở Kharrun | CHAR-006, CHAR-011 | CHAR-006, CHAR-011 | Toán Kesh lên đường sáng 14/12 | ch.4 |
+| EVT-030 | ~17/12/HC 702 | Edran đứng không nạng lần đầu; Vaelthar bắt đầu dạy đứng/thở/nguyên tắc sinh tồn; tập Phong (nến chỉ nghiêng) | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Huấn luyện | ch.5 |
+| EVT-031 | Đêm ~18/12/HC 702 | Edran dùng Bình Minh bẻ vỡ dấu nanh Hỏa trên bụng; còn lại sẹo trắng | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Hắc Nha mất dấu; Edran hiểu cách kiếm "trả lời" | ch.5 |
+| EVT-032 | Đêm ~18/12/HC 702 | Đá nanh của Kesh lạnh rồi nứt (cách 2 ngày đường); Kesh cho toán (9 người) xuống núi | CHAR-006 | CHAR-006, (CHAR-002 thấy dấu chân sáng 19/12) | Kesh báo cáo thất bại | ch.5 |
 
 ## Cách ghi
 
