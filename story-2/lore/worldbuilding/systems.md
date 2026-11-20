@@ -22,9 +22,8 @@
 | Nham | Bền vững, trọng lượng | Tường đất, gia cố, địa chấn, áp lực đè nén | Núi đá, hang động | Chậm; cần tiếp xúc mặt đất | Nâu đất |
 | Phong | Tự do, cắt xẻ | Lưỡi gió, tăng tốc tên, đẩy lùi, khuếch tán khói | Thảo nguyên, vách núi, biển | Sát thương thấp nếu kém kỹ thuật; khó thở, choáng | Xanh nhạt gần như trong suốt |
 | Mộc | Sinh trưởng, hồi phục | Chữa thương, trói bằng rễ, cảm nhận sinh vật | Rừng cổ, đồng ruộng | Rất chậm; vô dụng trên đất chết | Xanh lục |
-| Băng* | Đình trệ, phong tỏa | Đóng băng, làm chậm, bảo quản, cầu băng | Phương bắc, núi tuyết | Mất cảm giác nóng lạnh; thân nhiệt hạ vĩnh viễn | Trắng bạc |
+| Băng | Đình trệ, phong tỏa | Đóng băng, làm chậm, bảo quản, cầu băng | Phương bắc, núi tuyết | Mất cảm giác nóng lạnh; thân nhiệt hạ vĩnh viễn | Trắng bạc |
 
-\*Băng tạm thời – xem Q-001.
 
 **Tương tác (không có vòng tương khắc tuyệt đối):**
 

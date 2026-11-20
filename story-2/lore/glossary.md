@@ -10,7 +10,7 @@
 | TERM-006 | Đại chiến Nhân Ma lần thứ nhất/hai | Hai cuộc chiến lớn | "Đại chiến I/II" trong bible | Mọi người | CANON | seed |
 | TERM-007 | Ma lực | Năng lượng sống trong cơ thể | — | Pháp sư, người có học | CANON | seed IV |
 | TERM-008 | Nguyên khí | Năng lượng nguyên tố trong môi trường | — | Pháp sư | CANON | seed IV |
-| TERM-009 | Thất Nguyên Tố | Hỏa, Thủy, Lôi, Nham, Phong, Mộc, Băng* | Viết hoa tên nguyên tố | Pháp sư; dân thường biết sơ | CANON | seed IV |
+| TERM-009 | Thất Nguyên Tố | Hỏa, Thủy, Lôi, Nham, Phong, Mộc, Băng | Viết hoa tên nguyên tố | Pháp sư; dân thường biết sơ | CANON | seed IV |
 | TERM-010 | Cấp độ ma pháp | Cơ bản, Trung cấp, Cao cấp, Thánh cấp, Vương cấp, Đế cấp, Thần cấp | "pháp sư Thánh cấp", "phép cấp Đế" | Mọi người biết tên cấp | CANON | seed IV.6 |
 | TERM-011 | Ma pháp trận / niệm chú / vô chú | Ba cách thi triển | "trận", "trận đồ" | Pháp sư, lính | CANON | seed IV.5 |
 | TERM-012 | Kiệt lực / bỏng mạch | Cái giá của ma pháp | — | Pháp sư | CANON | seed IV.7 |

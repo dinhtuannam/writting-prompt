@@ -20,7 +20,7 @@
 - **Số chương hoàn chỉnh đã audit:** 0
 - **Chương đang soạn:** 1 (chưa bắt đầu)
 - **Mốc tiếp theo:** Viết chương 1 theo `planning/chapters/chapter-001.md`
-- **Quyết định đột phá đang chờ tác giả:** Q-001 (xác nhận nguyên tố thứ bảy) – không chặn tiến độ
+- **Quyết định đột phá đang chờ tác giả:** không có
 
 ## Logline
 
@@ -61,7 +61,7 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của một Ma 
 | ID | Quyết định | Ngày | Lý do | Có thể đổi? |
 |---|---|---|---|---|
 | DEC-001 | Sự kiện chương 1–2 trong seed là canon bắt buộc; manuscript viết lại văn bản (giữ diễn biến, lời thoại then chốt, có thể làm dày cảnh) | 2026-11-21 | Đây là bản phác của tác giả; cần văn bản hoàn chỉnh theo rules | Chỉ khi tác giả yêu cầu |
-| DEC-002 | Nguyên tố thứ bảy tạm là **Băng** | 2026-11-21 | Danh sách gốc ghi "Phong" hai lần; Băng hợp bối cảnh phương bắc | Có – chờ Q-001 |
+| DEC-002 | Nguyên tố thứ bảy là **Băng** – tác giả xác nhận bảy nguyên tố: Hỏa, Thủy, Lôi, Phong, Băng, Nham, Mộc | 2026-11-21 | Chỉ dẫn tác giả | Không |
 | DEC-003 | Vaelthar là long tộc **Nham** | 2026-11-21 | Cảnh áp lực đè nát ba ma tộc ở khe núi | Có (chưa xuất hiện chữ "Nham" trong chương) |
 | DEC-004 | Lịch **Hậu Chiến (HC)**: năm 0 = năm Ma thần ngã xuống; mở đầu truyện = 23/11/HC 702 | 2026-11-21 | "Bảy trăm năm" + "năm thứ ba của Đại chiến lần II" | Không sau khi xuất hiện trong chương |
 | DEC-005 | Thất Kiếm Anh Hùng **không hoàn toàn là nhân tộc**; biên niên sử nhân tộc đã xóa điều đó (REV-002) | 2026-11-21 | Khớp luật "chủ nhân không nhất thiết là nhân tộc" và "ma tộc không đồng nghĩa với ác độc"; là nền cho "sự thật về Đại chiến lần I" (Quyển VI) | Có, trước Quyển III |
@@ -75,4 +75,4 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của một Ma 
 
 | ID | Câu hỏi | Tác động nếu chưa chốt | Hạn cần quyết định | Trạng thái |
 |---|---|---|---|---|
-| Q-001 | Nguyên tố thứ bảy có đúng là Băng? | Ảnh hưởng hồ sơ long tộc đã mất (REV-003), một số pháp sư phương bắc | Trước khi một pháp sư Băng xuất hiện trong chương (dự kiến ARC-001 ch.8+) | OPEN – tạm dùng Băng |
+| Q-001 | Nguyên tố thứ bảy có đúng là Băng? | — | — | RESOLVED 2026-11-21: tác giả xác nhận Băng |

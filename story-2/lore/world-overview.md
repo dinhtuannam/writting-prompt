@@ -71,7 +71,7 @@ Aetherion là một đại lục bị chia cắt bởi dãy Hắc Vân. Phía t�
   - Vì sao kiếm biến mất.
   - Bản chất của nghi thức hồi sinh.
   - Vì sao chỉ còn 5 rồng.
-- **Điều tác giả chưa quyết:** Nguyên tố thứ bảy (Q-001; tạm Băng).
+- **Điều tác giả chưa quyết:** không có ở cấp nền (Q-001 đã đóng: nguyên tố thứ bảy là Băng).
 
 ## Nguyên tắc xây dựng thế giới
 

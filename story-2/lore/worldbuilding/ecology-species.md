@@ -28,7 +28,7 @@
 | (chưa đặt tên) | Phong | Bầu trời thảo nguyên phía nam | Thú tộc gọi là "Tiếng Gầm" | PLANNED (ARC-005) |
 | (chưa đặt tên) | Lôi | Đỉnh cao nhất Hắc Vân, phía nam | Ẩn dật, không ai thấy 200 năm | PLANNED |
 
-Hai nguyên tố không còn rồng: **Mộc** và **Băng\*** (REV-003). Rừng elf "không ngủ" một phần vì không còn rồng Mộc giữ nhịp sinh trưởng (PLANNED ARC-002).
+Hai nguyên tố không còn rồng: **Mộc** và **Băng** (REV-003). Rừng elf "không ngủ" một phần vì không còn rồng Mộc giữ nhịp sinh trưởng (PLANNED ARC-002).
 
 ## Sinh thái phương bắc
 

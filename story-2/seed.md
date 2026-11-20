@@ -29,9 +29,9 @@
 - Chủ nhân **không nhất thiết là nhân tộc** – chỉ cần phẩm chất được thanh kiếm chấp nhận.
 - Người **không được chấp nhận mà cầm kiếm sẽ bị quyền năng của nó giết chết ngay lập tức**.
 
-**Ma pháp:** Hệ Thất Nguyên Tố (Hỏa, Thủy, Lôi, Nham, Phong, Mộc, Băng*) và bảy cấp độ (Cơ bản → Thần cấp) – chi tiết ở mục IV cuối file.
+**Ma pháp:** Hệ Thất Nguyên Tố (Hỏa, Thủy, Lôi, Nham, Phong, Mộc, Băng) và bảy cấp độ (Cơ bản → Thần cấp) – chi tiết ở mục IV cuối file.
 
-_\*Nguyên tố thứ bảy tạm đặt là Băng, chờ tác giả xác nhận (danh sách gốc ghi "Phong" hai lần)._
+_Tác giả xác nhận bảy nguyên tố: Hỏa, Thủy, Lôi, Phong, Băng, Nham, Mộc (2026-11-21)._
 
 ## Quyền sáng tạo
 
@@ -1124,7 +1124,7 @@ Ma pháp được chia thành bảy nguyên tố cơ bản. Mọi phép thuật 
 | **Mộc**   | Sinh trưởng, kết nối, hồi phục    | Chữa thương, trói buộc bằng rễ cây, nuôi trồng, cảm nhận sinh vật xung quanh | Rừng cổ, đồng ruộng, lãnh thổ elf | Rất chậm trong chiến đấu; vô dụng trên đất chết – chiến trường bị tro tàn hóa   |
 | **Băng**  | Đình trệ, bảo tồn, phong tỏa      | Đóng băng, làm chậm, bảo quản xác và lương thực, tạo cầu băng qua sông    | Phương bắc, núi tuyết, mùa đông  | Pháp sư dần mất cảm giác nóng lạnh; thân nhiệt hạ thấp vĩnh viễn                |
 
-_Ghi chú của tác giả: Danh sách gốc của tác giả liệt kê "Phong" hai lần. Nguyên tố thứ bảy được tạm đặt là **Băng** vì phù hợp với bối cảnh phương bắc phủ tuyết (phòng tuyến Hắc Thạch, rừng Hắc Tùng). Có thể đổi sang nguyên tố khác mà không ảnh hưởng đến phần còn lại của hệ thống._
+_Tác giả đã xác nhận bảy nguyên tố: Hỏa, Thủy, Lôi, Phong, Băng, Nham, Mộc._
 
 ### **3. Tương tác giữa các nguyên tố**
 

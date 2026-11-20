@@ -35,7 +35,7 @@
 3. Thanh kiếm không trao kinh nghiệm chiến đấu; được công nhận ≠ dùng được toàn bộ quyền năng.
 4. Chủ nhân kiếm không nhất thiết là người tốt.
 5. Nhân tộc không thống nhất; ma tộc không đồng nghĩa với ác độc; chiến tranh có hậu quả lâu dài.
-6. Ma pháp: Thất Nguyên Tố (Hỏa, Thủy, Lôi, Nham, Phong, Mộc, Băng*), bảy cấp độ Cơ bản → Thần cấp. Phép cấp Đế/Thần cần ma pháp trận và nhiều pháp sư Thánh cấp trở lên. Không có nguyên tố thứ tám. Ma pháp luôn có giá (chi tiết: `worldbuilding/systems.md`).
+6. Ma pháp: Thất Nguyên Tố (Hỏa, Thủy, Lôi, Nham, Phong, Mộc, Băng), bảy cấp độ Cơ bản → Thần cấp. Phép cấp Đế/Thần cần ma pháp trận và nhiều pháp sư Thánh cấp trở lên. Không có nguyên tố thứ tám. Ma pháp luôn có giá (chi tiết: `worldbuilding/systems.md`).
 7. Edran không trở thành cứu tinh chỉ vì được chọn; anh phải học để xứng đáng.
 
 ## Thứ tự ưu tiên nguồn
