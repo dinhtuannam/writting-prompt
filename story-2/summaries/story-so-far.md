@@ -8,10 +8,12 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của Ma thần
 
 ## Hiện trạng
 
-- **Mốc thời gian:** Sáng 23/11/HC 702 (năm thứ ba Đại chiến lần II).
-- **Vị trí tuyến chính:** LOC-001 Pháo đài Hắc Thạch, vương quốc Arvend.
-- **Mục tiêu trước mắt:** Giữ tường thành.
-- **Mối nguy/xung đột:** Quân đoàn Hắc Nha công thành; tường đông đã thủng một phần ba.
+_Đồng bộ đến chương 10._
+
+- **Mốc thời gian:** Đêm 14/1/HC 703.
+- **Vị trí tuyến chính:** LOC-006 Durnholm (Edran trên tường bắc); Hắc Nha ở bờ bắc sông Lenne, trận Hỏa cấp Thánh đang vẽ trên đồi Kraehe.
+- **Mục tiêu trước mắt:** Edran giữ Durnholm như "ngọn cờ" Bình Minh; tìm mẹ (Hedda) và em (Lise) trong ngoại thành.
+- **Mối nguy/xung đột:** Băng sông Lenne đủ dày cho quân đoàn trong ~5–6 ngày; trận Hỏa đủ đốt cổng chính tới quảng trường; Ansgar muốn đưa Edran về kinh đô làm biểu tượng sau trận.
 
 ## Các sự kiện canon theo thứ tự
 
@@ -26,14 +28,22 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của Ma thần
 - Ch.8 – Qua cầu bị bắt vì nghi đào ngũ; Brandt thẩm vấn; quân y Ysolde Kramm xác nhận thương tích, thấy bao kiếm ấm mà không có ma pháp; Pell còn sống, sẽ làm chứng (lệnh rút lui cứu 7 người); lão giữ kho thấy chuôi kiếm, Người Giữ Giá Cả lên lâu đài Bá tước (EVT-046→050).
 - Ch.9 – Tội đào ngũ được bỏ; tại sảnh lớn thầy Aldric xác nhận Bình Minh thật; Lambert Tolle viện Luật Di Vật, nắm chuôi kiếm và chết ngay; Edran cầm kiếm trước mọi người để chứng minh, bị tống xuống ngục cùng thanh kiếm (EVT-051→055).
 - Ch.10 – Ysolde tin và thành đồng minh; Bá tước Ansgar mặc cả: Edran làm 'ngọn cờ' Bình Minh trên tường thành, nhận vì muốn bảo vệ dân, không hứa gì sau trận; lễ trước 3.000 người; Dhurgal lệnh Kesh dựng trận Hỏa cấp Thánh trên đồi Kraehe (EVT-056→060).
+- Ch.11 – Trận Hỏa trên đồi Kraehe có 30 điểm nút (Thánh cấp); Orsk gạt đi; Edran thuyết phục Bá tước cho 40 người xuất kích phá trận bằng Thủy; Edran biết mẹ đã chết 19/12, Lise còn sống ở ngoại thành; đêm 18/1 đội áo trắng vượt băng, leo đồi (EVT-061→064).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính
 
-- **CHAR-001 Edran:**
-  - Đội trưởng biên phòng, 26 tuổi, bị thương nhẹ, kiệt sức.
-  - Ghét ma tộc.
-  - Lo cho mẹ và em ở Brennock.
+- **CHAR-001 Edran (sau ch.10):**
+  - Chủ nhân Bình Minh, được ban bố công khai ở Durnholm; mặc áo choàng xanh sư tử bạc nhưng không coi mình là người của vương miện.
+  - Gối phải chưa lành (hỏng thêm 2 lần: ch.7, ch.9), đi khập khiễng; Phong Cơ bản (tắt nến, hất tuyết).
+  - Đã dùng phẩm lực hai lần có ý thức (ngất; phá dấu nanh). Biết kiếm "hỏi lại" khi làm đúng phẩm giá ở chỗ khó.
+  - Định kiến với ma tộc đã nứt (Bertil); gánh cái chết của Lambert.
+  - Giữ bí mật tấm bản đồ (ITEM-002) trong áo.
+- **CHAR-002 Vaelthar:** Ở đâu đó phía nam/đông; vết thương huyết thuật lan khi chiến đấu; hứa gặp khi Edran rời phương Bắc.
+- **CHAR-004 Pell:** Sống, tay trái gãy, lính chạy giấy, đi tìm Hedda/Lise.
+- **CHAR-005 Ysolde:** Quân y Thủy Trung cấp, điểm nút trong trận phòng thủ của Orsk; đã tin vào thanh kiếm.
+- **CHAR-006 Kesh:** Dẫn trận Hỏa cấp Thánh ở đồi Kraehe; gia đình là con tin; bị ám ảnh bởi kẻ đã bẻ đá nanh.
+- **CHAR-007 Ansgar:** Mất Lambert; dùng Edran làm ngọn cờ.
 
 ## Bí mật và kiến thức
 

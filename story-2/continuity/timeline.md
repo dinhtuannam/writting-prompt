@@ -41,6 +41,9 @@
 | 27/11/HC 702 | — | Pell tới Durnholm | LOC-006 | CHAR-004 | 4 ngày đi bộ | ch.8 |
 | ~5 → 9/1/HC 703 | EVT-040 → 045 | Brennock; đường cái; cứu gia đình Bertil; trại đầu cầu Lennmouth | LOC-007 → Lennmouth | CHAR-001 | 5 ngày | ch.7 |
 | 10/1/HC 703 | EVT-046 → 050 | Qua cầu, bị giữ, Brandt, Ysolde, Pell; chuôi kiếm bị nhận ra | LOC-006 | CHAR-001, 004, 005, 014 | 1 ngày | ch.8 |
+| 11/1/HC 703 | EVT-051 → 055 | Bỏ tội đào ngũ; sảnh lớn; Lambert chết; Edran xuống ngục | LOC-006 lâu đài | CHAR-001, 007, 010, 016 | 1 ngày | ch.9 |
+| 11/1 đêm → 13/1/HC 703 | EVT-056 → 058 | Ysolde; Ansgar mặc cả (12/1, sau khi chôn Lambert); lễ ngọn cờ (13/1) | LOC-006 | CHAR-001, 005, 007 | 2 ngày | ch.10 |
+| 14/1/HC 703 | EVT-059 → 060 | Dhurgal lệnh trận Thánh cấp; Kesh bắt đầu vẽ trên đồi Kraehe | Bờ bắc Lenne | CHAR-006, 011 | Trận cần ~4 ngày (xong ~18/1); băng đủ cho quân đoàn ~19–20/1 | ch.10 |
 | ~10 → 13/12/HC 702 | EVT-021 → 025 | Ngất vì phẩm lực; đá thử nguyên (Phong); Vaelthar là rồng Nham; Hắc Nha lục soát khe núi | LOC-004 (+ LOC-003) | CHAR-001, CHAR-002 | ~4 ngày | ch.3 |
 
 ## Các tuyến song song

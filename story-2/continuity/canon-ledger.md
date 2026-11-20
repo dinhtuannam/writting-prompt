@@ -54,6 +54,10 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-058 | 13/1/HC 703 | Lễ ban bố trên bậc đền trước ~3.000 người; Edran giơ Bình Minh; dân hát | CHAR-001, CHAR-007, CHAR-016 | Toàn Durnholm | Tin lan sang bờ bắc | ch.10 |
 | EVT-059 | 14/1/HC 703 | Chỉ điểm báo tin cho Dhurgal; Dhurgal ra lệnh Kesh dựng trận Hỏa cấp Thánh trên đồi Kraehe | CHAR-006, CHAR-011 | Hắc Nha | THREAD-013 | ch.10 |
 | EVT-060 | Đêm 14/1/HC 703 | Kesh bắt đầu vẽ trận đồ trên đồi Kraehe; Edran thấy vệt đỏ từ tường bắc | CHAR-001, CHAR-006 | CHAR-001 (thấy), CHAR-006 | Trận cần ~4 ngày | ch.10 |
+| EVT-061 | 15 → 17/1/HC 703 | Edran và Ysolde đếm được 30 điểm nút trận đồ (phép Thánh cấp); Orsk bác bỏ | CHAR-001, CHAR-005 | Họ; Orsk | — | ch.11 |
+| EVT-062 | 18/1/HC 703 | Hội đồng chiến tranh; Ansgar cho Edran dẫn 40 người + Ysolde xuất kích phá trận | CHAR-001, CHAR-007, CHAR-014 | Hội đồng | Đội xuất kích | ch.11 |
+| EVT-063 | 18/1/HC 703 | Edran biết mẹ chết ngày 19/12 ở ngoại thành (sổ điểm cháo 7), thấy xác bà; Lise đã nhận xác, sống nhưng chưa tìm thấy | CHAR-001, CHAR-012, CHAR-008 | CHAR-001, CHAR-004 | THREAD-005 | ch.11 |
+| EVT-064 | Đêm 18/1/HC 703 | 41 người vượt băng, tới chân sườn tây đồi Kraehe, bắt đầu leo | CHAR-001, CHAR-005 + 39 | Họ | — | ch.11 |
 
 ## Cách ghi
 
