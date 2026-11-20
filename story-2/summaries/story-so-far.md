@@ -32,6 +32,7 @@ _Đồng bộ đến chương 10._
 - Ch.12 – Đột kích đồi Kraehe: Ysolde làm rối trận đồ; Kesh bắn sớm; Edran đi xuyên lửa trong ánh sáng Bình Minh tới tâm; Kesh dưới mũi kiếm nghiêng cột lửa xuống sông Lenne (băng nổ, một dải ngoại thành cháy) và hứng phản phệ; Edran tha hắn; 41 đi 27 về; tỉnh dậy thấy Lise (EVT-065→072).
 - Ch.13 – Lise kể cái chết của mẹ; Hắc Nha rút, lửa giết 63 người, dân tin Bình Minh bẻ cột lửa (thật ra là Kesh); Ysolde bị Vòng Tháp tố, xin đi cùng; Edran từ chối về Velde, nói chủ nhân kiếm có thể là người có sừng; Ansgar cho 3 ngày trước khi báo phản nghịch; Lise ở lại chôn mẹ, tặng mẩu than; rời Durnholm (EVT-073→078).
 - Ch.14 – Thư đầu tiên cho Lise; Vaelthar gặp lại ở đèo Ketten, gặp Ysolde; gợi 'bảy anh hùng không phải ai cũng là người'; dấu Sinh Mệnh nháy lần thứ 11 (người thử kiếm chết); vết thương Vaelthar lan qua khuỷu; qua đèo sang Caldrenne – hết Quyển I (EVT-079→084).
+- Ch.15 – (Quyển II) Qua Caldrenne giàu có mà không ra trận; nhà thờ bảy anh hùng mặt người Caldrenne; mua kiếm lính để tập, lần đầu dùng nguyên kiếm gió cắt thừng; cầu thu thuế phân biệt người Arvend, Vaelthar trả bằng bạc cổ; Vaelthar rời đi, khắc lời nhắn 'rừng đã mất người giữ nhịp' (EVT-085→089).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

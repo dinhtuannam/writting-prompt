@@ -78,6 +78,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-082 | Đêm 30/1/HC 703 | Dấu Sinh Mệnh nháy lần thứ 11 từ đầu đông (mỗi lần một người chết khi nắm chuôi) | — | CHAR-001, 002, 005 | Có kẻ trong rừng elf gửi người thử kiếm | ch.14 |
 | EVT-083 | 31/1/HC 703, rạng sáng | Vết thương Vaelthar lan qua khuỷu sau khi ông đóng một đèo cao phía đông mà Ma giới được ai đó chỉ cho | CHAR-002 | CHAR-001 | THREAD-020 | ch.14 |
 | EVT-084 | 31/1/HC 703 | Edran, Ysolde, Vaelthar (dạng người) qua đèo Ketten sang Caldrenne – hết Quyển I | CHAR-001, 002, 005 | — | Bắt đầu ARC-002 | ch.14 |
+| EVT-085 | 31/1 → 2/2/HC 703 | Đi qua tây bắc Caldrenne; Vaelthar giải thích Caldrenne giữ quân chờ Arvend kiệt quệ | CHAR-001, 002, 005 | Họ | — | ch.15 |
+| EVT-086 | ~3/2/HC 703 | Ở Montcerf, Edran mua kiếm lính cũ để tập | CHAR-001 | — | ITEM-015 | ch.15 |
+| EVT-087 | Đêm ~3/2/HC 703 | Edran lần đầu dùng nguyên kiếm gió cắt đứt gọn sợi thừng (1/50 lần) | CHAR-001, CHAR-005 | Họ | Nguyên kiếm Phong sơ khai | ch.15 |
+| EVT-088 | 4/2/HC 703 | Tại cầu thu thuế, Edran đưa hết tiền, Vaelthar trả bằng 10 đồng bạc vua Aumery cho 5 người Arvend qua cầu | CHAR-001, CHAR-002 | Người thu thuế, nhóm tị nạn | Edran hết tiền; tin về "ông già trả bạc cổ" có thể lan | ch.15 |
+| EVT-089 | Đêm 4/2/HC 703 | Vaelthar rời đi về phía đông; khắc lời nhắn chữ cổ trên đá | CHAR-002 | CHAR-001, CHAR-005 | THREAD-017, 020 | ch.15 |
 
 ## Cách ghi
 

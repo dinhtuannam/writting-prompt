@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 14 (EVT-084)
-- **Chương tiếp theo cần viết:** 15
+- **Canon cập nhật đến:** Chương 15 (EVT-089)
+- **Chương tiếp theo cần viết:** 16
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -154,6 +154,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 012 | COMPLETE | Ánh Sáng Giữa Lửa | — | `summaries/chapters/chapter-012.md` | EVT-072 |
 | Chapter 013 | COMPLETE | Những Người Còn Lại | — | `summaries/chapters/chapter-013.md` | EVT-078 |
 | Chapter 014 | COMPLETE | Rời Phương Bắc | — | `summaries/chapters/chapter-014.md` | EVT-084 |
+| Chapter 015 | COMPLETE | Biên Giới Caldrenne | — | `summaries/chapters/chapter-015.md` | EVT-089 |
 
 ## Ranh giới sáng tạo
 
