@@ -89,6 +89,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-093 | Đêm ~8/2/HC 703 | Kesh diện kiến Varkhaz ở Sảnh Kính; Varkhaz có những vết nứt rỉ ánh sáng trắng; ngửi thấy "ánh sáng" trên tay Kesh | CHAR-003, CHAR-006 | Kesh, Vharra | — | ch.16 |
 | EVT-094 | Đêm ~8/2/HC 703 | Varkhaz nói đứt quãng về "bảy cái khóa", kẻ tóc như tro cầm Bình Minh, cảm nhận 11 người chết ở rừng; một khoảnh khắc tỉnh táo nhớ Selm và lý do cuộc chiến cũ | CHAR-003 | Kesh, Vharra | CLUE-011, THREAD-019 | ch.16 |
 | EVT-095 | Đêm ~8/2/HC 703 | Varkhaz giao Vharra Nanh Sét săn Bình Minh, Kesh đi cùng làm người nhận diện; Kesh thấy một nhân tộc đeo bảy nhẫn đá thử nguyên ra vào Sảnh Kính | CHAR-003, 006, 017 | Kesh, Vharra | CLUE-012; khởi hành rạng sáng 9/2 | ch.16 |
+| EVT-096 | 8/2 (Velde) → 16/2/HC 703 (Lisseuil) | Arvend tuyên Edran phản nghịch, Caldrenne phối hợp; thưởng 500 mark; Ysolde bị Vòng Tháp truy | CHAR-001, CHAR-005 | Công khai Arvend/Caldrenne | THREAD-018 | ch.17 |
+| EVT-097 | 16/2/HC 703, chiều | Tamsin Ruhl (Vòng Tháp) + 11 lính đánh thuê chặn Edran và Ysolde bên sông Aure | CHAR-018 | Họ | — | ch.17 |
+| EVT-098 | 16/2/HC 703 | Bình Minh (chưa rút khỏi bao) bẻ vỡ phép băng trói của Ruhl, không để lại dấu vết | CHAR-001, CHAR-018 | Ruhl, Ysolde | Vòng Tháp sẽ biết thêm về khả năng của kiếm | ch.17 |
+| EVT-099 | 16/2/HC 703 | Ysolde + nguyên kiếm của Edran làm gãy cầu băng; 5 lính đánh thuê trôi đi; Ruhl rơi xuống sông | CHAR-001, CHAR-005 | — | — | ch.17 |
+| EVT-100 | 16/2/HC 703 | Ysolde dừng dòng nước; Edran và Ysolde kéo Ruhl lên; lính đánh thuê bỏ đi; mất con lừa | CHAR-001, 005, 018 | Họ | Ruhl nợ mạng; cần ~1 tuần hồi phục | ch.17 |
+| EVT-101 | Đêm 16/2/HC 703 | Brunn mang thư của Ansgar và thư của Lise tới | CHAR-001, Brunn | Họ | THREAD-016 | ch.17 |
 
 ## Cách ghi
 
