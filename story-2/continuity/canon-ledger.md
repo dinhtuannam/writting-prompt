@@ -83,6 +83,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-087 | Đêm ~3/2/HC 703 | Edran lần đầu dùng nguyên kiếm gió cắt đứt gọn sợi thừng (1/50 lần) | CHAR-001, CHAR-005 | Họ | Nguyên kiếm Phong sơ khai | ch.15 |
 | EVT-088 | 4/2/HC 703 | Tại cầu thu thuế, Edran đưa hết tiền, Vaelthar trả bằng 10 đồng bạc vua Aumery cho 5 người Arvend qua cầu | CHAR-001, CHAR-002 | Người thu thuế, nhóm tị nạn | Edran hết tiền; tin về "ông già trả bạc cổ" có thể lan | ch.15 |
 | EVT-089 | Đêm 4/2/HC 703 | Vaelthar rời đi về phía đông; khắc lời nhắn chữ cổ trên đá | CHAR-002 | CHAR-001, CHAR-005 | THREAD-017, 020 | ch.15 |
+| EVT-090 | ~20/1/HC 703 | Kesh tỉnh trong lều quân y Hắc Nha; hai tay đen tới vai; thử thắp lửa thì đau dữ dội – gần như mất khả năng thi triển | CHAR-006 | Quân đoàn | Kesh không còn là pháp sư dẫn trận | ch.16 |
+| EVT-091 | ~21/1/HC 703 | Dhurgal tha Kesh, giấu chi tiết Kesh kéo phản phệ khỏi báo cáo, gửi Kesh về Kharrun qua đèo Ghur | CHAR-006, CHAR-011 | Họ | — | ch.16 |
+| EVT-092 | ~7/2/HC 703 | Kesh gặp Mira và Ysha qua song sắt khu gia đình ở Kharrun | CHAR-006 | Gia đình Kesh | Lời hứa trở về | ch.16 |
+| EVT-093 | Đêm ~8/2/HC 703 | Kesh diện kiến Varkhaz ở Sảnh Kính; Varkhaz có những vết nứt rỉ ánh sáng trắng; ngửi thấy "ánh sáng" trên tay Kesh | CHAR-003, CHAR-006 | Kesh, Vharra | — | ch.16 |
+| EVT-094 | Đêm ~8/2/HC 703 | Varkhaz nói đứt quãng về "bảy cái khóa", kẻ tóc như tro cầm Bình Minh, cảm nhận 11 người chết ở rừng; một khoảnh khắc tỉnh táo nhớ Selm và lý do cuộc chiến cũ | CHAR-003 | Kesh, Vharra | CLUE-011, THREAD-019 | ch.16 |
+| EVT-095 | Đêm ~8/2/HC 703 | Varkhaz giao Vharra Nanh Sét săn Bình Minh, Kesh đi cùng làm người nhận diện; Kesh thấy một nhân tộc đeo bảy nhẫn đá thử nguyên ra vào Sảnh Kính | CHAR-003, 006, 017 | Kesh, Vharra | CLUE-012; khởi hành rạng sáng 9/2 | ch.16 |
 
 ## Cách ghi
 
