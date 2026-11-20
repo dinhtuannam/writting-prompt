@@ -39,6 +39,16 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-043 | ~7/1/HC 703 | Edran đánh gãy cổ tay tên cầm đầu bằng bao kiếm, dùng gió nhỏ hất tuyết vào mắt hắn; không để ai nắm chuôi; đào ngũ bỏ chạy | CHAR-001 | Như trên | Gối phải Edran sưng nặng; 4 đào ngũ biết mặt Edran và cái tên Veyl | ch.7 |
 | EVT-044 | ~9/1/HC 703 | Tại cầu Lennmouth có lệnh cấm người cắt sừng qua cầu; Edran chỉ đường đò Kessel và cho Bertil nửa số mark bạc | CHAR-001, Bertil | CHAR-001, gia đình Bertil | THREAD-011 | ch.7 |
 | EVT-045 | Đêm ~9/1/HC 703 | Bà già làng Weiss xác nhận Hedda (bệnh) và Lise đi cùng dân Brennock, tách ở ngã ba Hollen, hướng Durnholm | CHAR-001 | CHAR-001 | — | ch.7 |
+| EVT-046 | 10/1/HC 703, sáng | Edran khai thật ở cầu Lennmouth, bị bắt vì nghi đào ngũ; bị tước dao, gậy, bao kiếm (không ai nắm chuôi) | CHAR-001 | Lính chốt cầu | Bao kiếm vào kho vũ khí tháp cổng | ch.8 |
+| EVT-047 | 10/1/HC 703 | Brandt thẩm vấn; Edran nói về "ông già pháp sư Vaelthar"; nói kiếm có thể giết người chạm vào | CHAR-001, CHAR-014 | CHAR-014, lính tháp cổng (lời đồn lan) | Chờ quân y | ch.8 |
+| EVT-048 | 10/1/HC 703, tối | Ysolde Kramm khám, xác nhận thương tích thật, giảm sưng gối bằng Thủy; nhận thấy bao kiếm ấm, không có ma pháp | CHAR-001, CHAR-005 | CHAR-005 | Ysolde tò mò | ch.8 |
+| EVT-049 | 10/1/HC 703, đêm | Pell gặp lại Edran; xác nhận Gerrit chết; 19 người tường đông sống sót (7 nhờ lệnh rút lui); Pell sẽ làm chứng | CHAR-001, CHAR-004 | CHAR-001, CHAR-004 | THREAD-004 ANSWERED | ch.8 |
+| EVT-050 | 10/1/HC 703, chiều | Lão giữ kho Dettmer lật vạt da thấy chuôi, báo đền; Người Giữ Giá Cả lên lâu đài Bá tước | Dettmer, CHAR-016 | Họ; CHAR-001 qua Pell | Bá tước biết | ch.8 |
+| EVT-051 | 11/1/HC 703, rạng sáng | Brandt bỏ tội đào ngũ dựa trên lời khai Pell và Ysolde | CHAR-001, CHAR-014 | CHAR-001, 004, 005, 014 | Edran không còn bị coi là đào ngũ | ch.9 |
+| EVT-052 | 11/1/HC 703 | Tại sảnh lớn, Edran kể hết (gồm "long tộc"), giấu bản đồ; thầy Aldric xác nhận Bình Minh thật | CHAR-001, CHAR-007, CHAR-016 | Toàn bộ triều thần Durnholm | Tin "Bình Minh trở về" sẽ lan | ch.9 |
+| EVT-053 | 11/1/HC 703 | Lambert Tolle nắm chuôi Bình Minh trái lệnh chú và chết ngay; lòng bàn tay in hình mặt trời mọc | CHAR-010 | Toàn bộ sảnh | Ansgar mất người thừa kế | ch.9 |
+| EVT-054 | 11/1/HC 703 | Theo lệnh Ansgar, Edran cầm kiếm bằng chuôi trước mọi người, không sao | CHAR-001, CHAR-007 | Toàn bộ sảnh | Bằng chứng công khai Edran là chủ nhân | ch.9 |
+| EVT-055 | 11/1/HC 703 | Edran bị tống xuống ngục dưới lâu đài cùng thanh kiếm | CHAR-001 | Triều thần | THREAD-012 | ch.9 |
 
 ## Cách ghi
 
