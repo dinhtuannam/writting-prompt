@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 3 (EVT-025)
-- **Chương tiếp theo cần viết:** 4
+- **Canon cập nhật đến:** Chương 4 (EVT-029)
+- **Chương tiếp theo cần viết:** 5
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -142,6 +142,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 001 | COMPLETE | Ngày Phòng Tuyến Phía Bắc Sụp Đổ | `planning/chapters/chapter-001.md` | `summaries/chapters/chapter-001.md` | EVT-016 |
 | Chapter 002 | COMPLETE | Bản Đồ Của Sáu Thanh Kiếm | `planning/chapters/chapter-002.md` | `summaries/chapters/chapter-002.md` | EVT-020 |
 | Chapter 003 | COMPLETE | Đá Thử Nguyên | `planning/chapters/chapter-003.md` | `summaries/chapters/chapter-003.md` | EVT-025 |
+| Chapter 004 | COMPLETE | Khe Núi Trống | — | `summaries/chapters/chapter-004.md` | EVT-029 |
 
 ## Ranh giới sáng tạo
 

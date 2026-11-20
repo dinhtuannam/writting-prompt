@@ -19,6 +19,10 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-023 | ~12/12/HC 702 | Vaelthar lỡ lời tự nhận là rồng Nham | CHAR-002 | CHAR-001 | FACT-011 | ch.3 |
 | EVT-024 | ~12/12/HC 702, đêm | Edran kể về gia đình; nói sẽ xuống phía nam khi đi được | CHAR-001, CHAR-002 | CHAR-002 | Xung đột hướng đi (ch.6) | ch.3 |
 | EVT-025 | ~13/12/HC 702 | Vaelthar phát hiện toán Hắc Nha (mười mấy tên, chó, một pháp sư áo đỏ) lục soát khe núi, đi thẳng tới chỗ kiếm | CHAR-002, (CHAR-006) | CHAR-001, CHAR-002 | THREAD-008 | ch.3 |
+| EVT-026 | ~13/12/HC 702 | Kesh đọc dấu vết ở khe núi: Nham vô chú cực lớn (rồng); vòng đá nứt không có dấu vết ma pháp | CHAR-006 | CHAR-006 | Kesh nghi có rồng Nham và thanh kiếm | ch.4 |
+| EVT-027 | ~13/12/HC 702 | Kesh lấy đá nanh từ xác Gorrun; đá chỉ hướng đông bắc vào Hắc Vân – kẻ bị đánh dấu còn sống | CHAR-006, CHAR-013 | CHAR-006 | Hắc Nha có cách truy vết Edran (~1 tháng) | ch.4 |
+| EVT-028 | Đêm 25/11/HC 702 (được kể lại ở ch.4) | Dhurgal nhận thư khắc lửa của Varkhaz: cảm thấy "ánh sáng thức dậy ở phương bắc", ra lệnh mang nó về | CHAR-003, CHAR-011 | CHAR-011, CHAR-006 | Ma thần cảm nhận được kiếm | ch.4 |
+| EVT-029 | ~13/12/HC 702, đêm | Dhurgal giao Kesh 10 người + chó vào núi; nhắc gia đình Kesh là con tin ở Kharrun | CHAR-006, CHAR-011 | CHAR-006, CHAR-011 | Toán Kesh lên đường sáng 14/12 | ch.4 |
 
 ## Cách ghi
 
