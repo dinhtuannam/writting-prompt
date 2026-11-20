@@ -66,6 +66,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-070 | Đêm 18/1/HC 703 | Trận vỡ; Kesh hứng phần lớn phản phệ (hai tay đen tới vai), sống; Edran tha hắn | CHAR-006, CHAR-001 | CHAR-001, CHAR-006 | THREAD-014 | ch.12 |
 | EVT-071 | Rạng sáng 19/1/HC 703 | Rút lui: 41 đi, 27 về; Harald chết; Edran kiệt sức, Brunn cõng; Ysolde kiệt lực | CHAR-001, CHAR-005 + đội | Durnholm | — | ch.12 |
 | EVT-072 | ~22/1/HC 703 | Edran tỉnh ở trại thương binh ngoại thành; Lise đang thay băng cho cậu | CHAR-001, CHAR-008 | Họ | Đoàn tụ | ch.12 |
+| EVT-073 | ~22/1/HC 703 | Lise kể về cái chết của mẹ; Pell đã tìm ra Lise ở điểm cháo 9 trước trận | CHAR-001, CHAR-008, CHAR-004 | Họ | — | ch.13 |
+| EVT-074 | 19 → 21/1/HC 703 (kể lại) | Hắc Nha đánh cầu Lennmouth 3 đợt thất bại, rút về bắc ngày 21/1; lửa ngoại thành giết 63 người | CHAR-011 | Toàn Durnholm | Durnholm an toàn tạm thời; dân tin "Bình Minh bẻ cột lửa" | ch.13 |
+| EVT-075 | ~23/1/HC 703 | Ysolde kể bị Orsk tố, sẽ bị Vòng Tháp triệu; tiết lộ trận thử nghiệm dùng sinh lực tù binh ma tộc ở Vòng Tháp | CHAR-005 | CHAR-001 | Ysolde xin đi cùng | ch.13 |
+| EVT-076 | ~23/1/HC 703 | Edran từ chối về Velde; nói công khai các chủ nhân kiếm khác có thể không phải người Arvend, kể cả người có sừng; Ansgar cho 3 ngày trước khi báo Velde | CHAR-001, CHAR-007 | Trại thương binh | THREAD-015 | ch.13 |
+| EVT-077 | Đêm 25/1/HC 703 | Lise chọn ở lại Durnholm (bảo hộ nhà Tolle) để chôn mẹ; tặng Edran mẩu than | CHAR-001, CHAR-008 | Họ | ITEM-014 | ch.13 |
+| EVT-078 | Rạng sáng 26/1/HC 703 | Edran và Ysolde rời Durnholm qua cổng nam với một con lừa thồ | CHAR-001, CHAR-005 | Pell, Lise, Ansgar | Kết thúc phần Durnholm | ch.13 |
 
 ## Cách ghi
 

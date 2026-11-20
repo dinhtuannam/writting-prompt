@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 12 (EVT-072)
-- **Chương tiếp theo cần viết:** 13
+- **Canon cập nhật đến:** Chương 13 (EVT-078)
+- **Chương tiếp theo cần viết:** 14
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -151,6 +151,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 010 | COMPLETE | Ngọn Cờ | — | `summaries/chapters/chapter-010.md` | EVT-060 |
 | Chapter 011 | COMPLETE | Trận Đồ Đỏ | — | `summaries/chapters/chapter-011.md` | EVT-064 |
 | Chapter 012 | COMPLETE | Ánh Sáng Giữa Lửa | — | `summaries/chapters/chapter-012.md` | EVT-072 |
+| Chapter 013 | COMPLETE | Những Người Còn Lại | — | `summaries/chapters/chapter-013.md` | EVT-078 |
 
 ## Ranh giới sáng tạo
 
