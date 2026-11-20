@@ -30,6 +30,7 @@
 | 23/11/HC 702, đêm | EVT-013 → 016 | Bình Minh; ba ma tộc; Vaelthar | LOC-003 | CHAR-001, CHAR-002, CHAR-013 | — | ch.1 |
 | 23→26/11/HC 702 | — | Edran bất tỉnh; Vaelthar mang anh tới nhà đá (cách thức chưa tiết lộ) | LOC-003 → LOC-004 | CHAR-001, CHAR-002 | 3 ngày | ch.2 |
 | 26/11/HC 702 | EVT-017 → 020 | Bản đồ, nhiệm vụ, thất bại của Vaelthar; tiếng nói của kiếm | LOC-004 | CHAR-001, CHAR-002 | 1 ngày | ch.2 |
+| ~10 → 13/12/HC 702 | EVT-021 → 025 | Ngất vì phẩm lực; đá thử nguyên (Phong); Vaelthar là rồng Nham; Hắc Nha lục soát khe núi | LOC-004 (+ LOC-003) | CHAR-001, CHAR-002 | ~4 ngày | ch.3 |
 
 ## Các tuyến song song
 

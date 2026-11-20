@@ -14,6 +14,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-018 | 26/11/HC 702 | Vaelthar giao nhiệm vụ tìm sáu kiếm và chủ nhân; giải thích ông sẽ chết nếu nắm chuôi | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Nhiệm vụ chính | ch.2 |
 | EVT-019 | 26/11/HC 702 | Vaelthar thừa nhận đã thử giết Ma thần và thất bại; nói Ma thần mất lý trí; hàm ý đã biết Ma thần từ Đại chiến I | CHAR-002 | CHAR-001 | THREAD-006 | ch.2 |
 | EVT-020 | Đêm 26/11/HC 702 | Vaelthar rời nhà không nói đi đâu; Bình Minh thì thầm với Edran về dũng khí | CHAR-001 | CHAR-001 | Kiếm có tiếng nói | ch.2 |
+| EVT-021 | ~10/12/HC 702, đêm | Edran tự gọi ánh sáng Bình Minh, bị rút cạn sức, ngất đến trưa hôm sau, ngã làm vết sườn rỉ máu | CHAR-001 | CHAR-001, CHAR-002 | Hồi phục chậm thêm ~1 tuần; Edran hiểu cái giá phẩm lực | ch.3 |
+| EVT-022 | ~12/12/HC 702 | Đá thử nguyên: Edran hợp Phong, rất yếu | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | FACT-012 | ch.3 |
+| EVT-023 | ~12/12/HC 702 | Vaelthar lỡ lời tự nhận là rồng Nham | CHAR-002 | CHAR-001 | FACT-011 | ch.3 |
+| EVT-024 | ~12/12/HC 702, đêm | Edran kể về gia đình; nói sẽ xuống phía nam khi đi được | CHAR-001, CHAR-002 | CHAR-002 | Xung đột hướng đi (ch.6) | ch.3 |
+| EVT-025 | ~13/12/HC 702 | Vaelthar phát hiện toán Hắc Nha (mười mấy tên, chó, một pháp sư áo đỏ) lục soát khe núi, đi thẳng tới chỗ kiếm | CHAR-002, (CHAR-006) | CHAR-001, CHAR-002 | THREAD-008 | ch.3 |
 
 ## Cách ghi
 
