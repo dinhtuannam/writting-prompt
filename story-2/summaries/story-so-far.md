@@ -22,6 +22,7 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của Ma thần
 - Ch.4 – (POV Kesh) Pháp sư Hỏa Hắc Nha đọc dấu vết ở khe núi: rồng Nham vô chú, vòng đá không dấu ma pháp; lấy đá nanh truy vết từ xác Gorrun, chỉ vào Hắc Vân; thư Varkhaz đòi 'ánh sáng'; Dhurgal ép Kesh vào núi bằng gia đình làm con tin (EVT-026→029).
 - Ch.5 – Huấn luyện đứng/thở và tập Phong; vết bầm là dấu nanh Hỏa truy vết; Edran dùng Bình Minh bẻ vỡ dấu (kiếm 'hỏi lại' lần đầu); đá nanh của Kesh nứt, toán Hắc Nha rút xuống núi (EVT-030→032).
 - Ch.6 – Tắt được ngọn nến; Edran chọn về Durnholm tìm mẹ và em; Vaelthar cảnh báo Luật Di Vật, kể Brennock bị đốt nửa, trao bản đồ và bao kiếm da xám, lộ vết thương do Varkhaz; hiện dạng rồng chở Edran ra khỏi núi (EVT-033→039).
+- Ch.7 – Lẻn vào Brennock bị đốt nửa, đọc lời nhắn than của Lise (đi Durnholm); trên đường tị nạn cứu gia đình người cắt sừng khỏi bốn lính đào ngũ bằng bao kiếm và một luồng gió nhỏ; cầu Lennmouth cấm người sừng cụt; tin mẹ bệnh nặng, Lise kéo mẹ về Durnholm (EVT-040→045).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

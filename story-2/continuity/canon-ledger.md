@@ -33,6 +33,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-037 | 3/1/HC 703 | Vaelthar cho Edran xem vết thương Varkhaz để lại: đá nứt rỉ chất đen, lan khi chiến đấu ở dạng rồng | CHAR-002 | CHAR-001 | Giới hạn của Vaelthar | ch.6 |
 | EVT-038 | 4/1/HC 703, rạng sáng | Vaelthar hiện dạng rồng, chở Edran bay qua Hắc Vân | CHAR-001, CHAR-002 | CHAR-001 | Edran thấy dạng rồng | ch.6 |
 | EVT-039 | 4/1/HC 703 | Edran được thả ở sườn đồi phía tây Hắc Thạch; Vaelthar báo Hắc Nha đóng rải rác ở làng phía bắc sông Lenne | CHAR-001, CHAR-002 | CHAR-001 | Edran đi bộ về nam | ch.6 |
+| EVT-040 | Đêm ~5/1/HC 703 | Edran lẻn vào Brennock (toán Hắc Nha đóng ở nửa trên); nhà Veyl cháy rụi, không xác | CHAR-001 | CHAR-001 | — | ch.7 |
+| EVT-041 | Đêm ~5/1/HC 703 | Edran dựng lại Giá Bảy Chỗ Trống; đọc lời nhắn than của Lise (2/12): mẹ và Lise đi Durnholm | CHAR-001, (CHAR-008) | CHAR-001 | THREAD-005 | ch.7 |
+| EVT-042 | ~7/1/HC 703 | Bốn lính đào ngũ trói cổ gia đình người cắt sừng (Bertil, Marta, Senn); Edran can thiệp | CHAR-001, Bertil | CHAR-001, gia đình Bertil, 4 đào ngũ | — | ch.7 |
+| EVT-043 | ~7/1/HC 703 | Edran đánh gãy cổ tay tên cầm đầu bằng bao kiếm, dùng gió nhỏ hất tuyết vào mắt hắn; không để ai nắm chuôi; đào ngũ bỏ chạy | CHAR-001 | Như trên | Gối phải Edran sưng nặng; 4 đào ngũ biết mặt Edran và cái tên Veyl | ch.7 |
+| EVT-044 | ~9/1/HC 703 | Tại cầu Lennmouth có lệnh cấm người cắt sừng qua cầu; Edran chỉ đường đò Kessel và cho Bertil nửa số mark bạc | CHAR-001, Bertil | CHAR-001, gia đình Bertil | THREAD-011 | ch.7 |
+| EVT-045 | Đêm ~9/1/HC 703 | Bà già làng Weiss xác nhận Hedda (bệnh) và Lise đi cùng dân Brennock, tách ở ngã ba Hollen, hướng Durnholm | CHAR-001 | CHAR-001 | — | ch.7 |
 
 ## Cách ghi
 

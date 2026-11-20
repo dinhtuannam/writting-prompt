@@ -26,6 +26,14 @@
 | LOC-007 | Làng Brennock | ~2 ngày phía nam Hắc Thạch, trên đường tới Durnholm | Quê Edran; làng đốt than và trồng lúa mạch đen | PLANNED |
 | LOC-008 | Thung lũng Roven | Phía đông Hắc Thạch | Nơi Edran sống sót sau một cuộc phục kích (HC 700) | CANON (seed) |
 
+**Địa danh xuất hiện thêm (CANON từ ch.7):**
+
+- **Cầu đá Lennmouth:** Cây cầu đá duy nhất qua sông Lenne gần Durnholm; Durnholm nằm trên đồi thấp ở bờ nam, nhìn xuống đầu cầu. Bờ bắc đầu cầu là trại tị nạn hàng nghìn người (tháng 1/HC 703). Lính Bá tước đóng chốt.
+- **Làng Hollen:** Phía bắc Lenne, gần Brennock. Lãnh chúa Hollen đã chết khi giữ kho thóc. Có ngã ba Hollen trên đường xuống Durnholm.
+- **Làng Weiss:** Bên kia đồi sồi so với Brennock.
+- **Bến đò Kessel:** ~2 ngày về phía thượng nguồn (tây) Lennmouth; chủ đò không hỏi tên, chỉ hỏi tiền.
+- **Sông Lenne (tháng 1/HC 703):** Đóng băng ven bờ, giữa dòng còn mỏng và đen; chưa đi bộ an toàn được.
+
 **Khí hậu phương bắc:**
 
 - Cuối tháng 11 đã vào đông thật sự. Tuyết dày trên núi; đường xuống phía nam lầy và đóng băng xen kẽ.
