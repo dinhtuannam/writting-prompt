@@ -26,6 +26,13 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-030 | ~17/12/HC 702 | Edran đứng không nạng lần đầu; Vaelthar bắt đầu dạy đứng/thở/nguyên tắc sinh tồn; tập Phong (nến chỉ nghiêng) | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Huấn luyện | ch.5 |
 | EVT-031 | Đêm ~18/12/HC 702 | Edran dùng Bình Minh bẻ vỡ dấu nanh Hỏa trên bụng; còn lại sẹo trắng | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | Hắc Nha mất dấu; Edran hiểu cách kiếm "trả lời" | ch.5 |
 | EVT-032 | Đêm ~18/12/HC 702 | Đá nanh của Kesh lạnh rồi nứt (cách 2 ngày đường); Kesh cho toán (9 người) xuống núi | CHAR-006 | CHAR-006, (CHAR-002 thấy dấu chân sáng 19/12) | Kesh báo cáo thất bại | ch.5 |
+| EVT-033 | ~31/12/HC 702 | Edran tắt ngọn nến bằng Phong lần đầu | CHAR-001 | CHAR-001, CHAR-002 | Phong Cơ bản có thể dùng (rất ít) | ch.6 |
+| EVT-034 | ~28/12/HC 702 (kể lại 31/12) | Vaelthar bay qua Brennock: nửa làng bị đốt, không người sống, ít xác | CHAR-002 | CHAR-001, CHAR-002 | Gia đình Edran có lẽ đã chạy | ch.6 |
+| EVT-035 | 31/12/HC 702 → 3/1/HC 703 | Vaelthar làm bao kiếm bằng da xám (cùng loại da bản đồ) có vạt trùm chuôi; dặn không ai được nắm chuôi | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | ITEM-013 | ch.6 |
+| EVT-036 | 3/1/HC 703 | Vaelthar trao bản đồ cho Edran | CHAR-001, CHAR-002 | CHAR-001, CHAR-002 | ITEM-002 ở Edran | ch.6 |
+| EVT-037 | 3/1/HC 703 | Vaelthar cho Edran xem vết thương Varkhaz để lại: đá nứt rỉ chất đen, lan khi chiến đấu ở dạng rồng | CHAR-002 | CHAR-001 | Giới hạn của Vaelthar | ch.6 |
+| EVT-038 | 4/1/HC 703, rạng sáng | Vaelthar hiện dạng rồng, chở Edran bay qua Hắc Vân | CHAR-001, CHAR-002 | CHAR-001 | Edran thấy dạng rồng | ch.6 |
+| EVT-039 | 4/1/HC 703 | Edran được thả ở sườn đồi phía tây Hắc Thạch; Vaelthar báo Hắc Nha đóng rải rác ở làng phía bắc sông Lenne | CHAR-001, CHAR-002 | CHAR-001 | Edran đi bộ về nam | ch.6 |
 
 ## Cách ghi
 

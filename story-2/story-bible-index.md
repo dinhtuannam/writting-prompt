@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 5 (EVT-032)
-- **Chương tiếp theo cần viết:** 6
+- **Canon cập nhật đến:** Chương 6 (EVT-039)
+- **Chương tiếp theo cần viết:** 7
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -144,6 +144,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 003 | COMPLETE | Đá Thử Nguyên | `planning/chapters/chapter-003.md` | `summaries/chapters/chapter-003.md` | EVT-025 |
 | Chapter 004 | COMPLETE | Khe Núi Trống | — | `summaries/chapters/chapter-004.md` | EVT-029 |
 | Chapter 005 | COMPLETE | Dấu Nanh | — | `summaries/chapters/chapter-005.md` | EVT-032 |
+| Chapter 006 | COMPLETE | Lựa Chọn Hướng Nam | — | `summaries/chapters/chapter-006.md` | EVT-039 |
 
 ## Ranh giới sáng tạo
 
