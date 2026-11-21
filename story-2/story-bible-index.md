@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 28 (EVT-158)
-- **Chương tiếp theo cần viết:** 29
+- **Canon cập nhật đến:** Chương 29 (EVT-163)
+- **Chương tiếp theo cần viết:** 30
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -168,6 +168,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 026 | COMPLETE | Tâm Rừng | — | `summaries/chapters/chapter-026.md` | EVT-144 |
 | Chapter 027 | COMPLETE | Lòng Trắc Ẩn | — | `summaries/chapters/chapter-027.md` | EVT-151 |
 | Chapter 028 | COMPLETE | Một Mùa Ngủ | — | `summaries/chapters/chapter-028.md` | EVT-158 |
+| Chapter 029 | COMPLETE | Hai Người Đếm | — | `summaries/chapters/chapter-029.md` | EVT-163 |
 
 ## Ranh giới sáng tạo
 

@@ -8,13 +8,12 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của Ma thần
 
 ## Hiện trạng
 
-_Đồng bộ đến chương 10._
+_Đồng bộ đến chương 28._
 
-- **Mốc thời gian:** Đêm 14/1/HC 703.
-- **Vị trí tuyến chính:** LOC-006 Durnholm (Edran trên tường bắc); Hắc Nha ở bờ bắc sông Lenne, trận Hỏa cấp Thánh đang vẽ trên đồi Kraehe.
-- **Mục tiêu trước mắt:** Edran giữ Durnholm như "ngọn cờ" Bình Minh; tìm mẹ (Hedda) và em (Lise) trong ngoại thành.
-- **Mối nguy/xung đột:** Băng sông Lenne đủ dày cho quân đoàn trong ~5–6 ngày; trận Hỏa đủ đốt cổng chính tới quảng trường; Ansgar muốn đưa Edran về kinh đô làm biểu tượng sau trận.
-
+- **Mốc thời gian:** Đêm 13/3/HC 703.
+- **Vị trí tuyến chính:** Tâm Rừng, rừng elf (Caldrenne đông nam).
+- **Mục tiêu trước mắt:** Rời rừng cùng Saerin (chủ nhân Sinh Mệnh) đi tìm kiếm thứ ba; quyết định làm gì với Kesh và mảnh kính đen.
+- **Mối nguy/xung đột:** Varkhaz có thể nhìn qua mảnh kính; Vharra sống sót; Arvend + Caldrenne truy nã; Vòng Tháp truy Ysolde và muốn nghiên cứu Edran; kẻ phản bội mở đường cho Ma giới (THREAD-020).
 ## Các sự kiện canon theo thứ tự
 
 - Nền: EVT-001 → EVT-010b (xem `continuity/canon-ledger.md`).
@@ -46,6 +45,7 @@ _Đồng bộ đến chương 10._
 - Ch.26 – Saerin hát ru mở lối rễ; Tâm Rừng – vòng rừng duy nhất còn ngủ, có tuyết và im lặng; Sinh Mệnh nằm trên rễ cây cổ nhất, mười một thi thể không mục; Saerin dừng lại vì thấy mình muốn lấy; Vharra tới, sét yếu trong vòng ngủ, Kesh nghe tiếng hát qua tay cháy; Vharra bước ra ngoài và đánh cột sét xuống cây cổ nhất (EVT-139→144).
 - Ch.27 – Sét xé cây cổ nhất, vòng ngủ co lại; Edran ra ngoài đối đầu Vharra, sét trượt khỏi ánh sáng Bình Minh; Kesh kéo xích hứng sét, tim ngừng; rễ ghim Vharra; Saerin nắm Sinh Mệnh để cứu hai kẻ thù – 'Vậy hãy đi, con' – được công nhận, bài hát của Mẹ Hát ru cả rừng ngủ, tuyết rơi; Kesh sống lại, tay hồi tới cổ tay (EVT-145→151).
 - Ch.28 – Rừng ngủ đến khi tuyết tan; Vharra bị thợ săn cuối cùng kéo đi, để lại mảnh kính đen; elf quỳ trước Saerin; Hội đồng mời cô làm người giữ nhịp, cô từ chối và hứa về hát mỗi mùa thu; Thalvane bỏ phiếu để cô đi; mười một người được trả về rễ; Edran thành khách của rừng; Kesh tỉnh, cảnh báo mảnh kính là mắt của Ma thần (EVT-152→158).
+- Ch.29 – Edran và Kesh nói chuyện thật bên lửa: một người đếm trận đồ, một người đếm người; Kesh kể về bảy vết nứt của Ma thần, xác nhận chuyện bà nội về anh hùng ma tộc và kẻ tóc tro cầm Bình Minh; Kesh thành pháp sư Cơ bản, quyết mang mảnh kính về đông làm mồi để cứu vợ con; nhận hạt cây cổ nhất từ Saerin và dao găm khắc tên của Edran, khắc vạch 28 hình xích mở rồi ra đi (EVT-159→163).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

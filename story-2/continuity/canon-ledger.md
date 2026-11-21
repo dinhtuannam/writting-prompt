@@ -152,6 +152,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-156 | Sáng 13/3/HC 703 | 11 người chết được trả về rễ theo nghi thức cổ | CHAR-019 | Elf, Edran | — | ch.28 |
 | EVT-157 | 13/3/HC 703 | Hội đồng: Edran, Ysolde là khách của rừng; Ghessa ở nhà Merewen; Kesh tự do rời đi | Hội đồng | Tất cả | — | ch.28 |
 | EVT-158 | Đêm 13/3/HC 703 | Bản đồ hai dấu sáng; Kesh tỉnh, cảnh báo mảnh kính là mắt của Varkhaz | CHAR-001, 006 | Họ | THREAD-026 | ch.28 |
+| EVT-159 | Đêm 13/3/HC 703 | Edran và Kesh nói chuyện thật; Kesh kể về Kharrun, Sảnh Kính, bảy vết nứt | CHAR-001, CHAR-006 | Họ | — | ch.29 |
+| EVT-160 | Rạng sáng 14/3/HC 703 | Edran kể vòng 31; Kesh xác nhận chuyện bà nội và lời Varkhaz về kẻ tóc tro cầm Bình Minh | CHAR-001, CHAR-006 | Họ | REV-002 gần trọn với Edran | ch.29 |
+| EVT-161 | Sáng 14/3/HC 703 | Kesh thắp lửa Cơ bản không đau; quyết định về Kharrun, mang mảnh kính làm mồi | CHAR-006 | CHAR-001, 005, 019 | THREAD-014, 026 | ch.29 |
+| EVT-162 | Sáng 14/3/HC 703 | Saerin tặng Kesh hạt cây cổ nhất; Edran trao mảnh kính và dao găm khắc tên; Kesh khắc vạch 28 hình xích mở | CHAR-001, 006, 019 | Họ | ITEM-016, 017 → Kesh | ch.29 |
+| EVT-163 | Trưa 14/3/HC 703 | Kesh rời đi về phía đông qua lối rễ, hẹn gặp ở Selm | CHAR-006 | Nhóm Edran, Ilen | THREAD-027 | ch.29 |
 
 ## Cách ghi
 
