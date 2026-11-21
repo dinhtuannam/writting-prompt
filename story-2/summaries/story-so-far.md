@@ -37,6 +37,7 @@ _Đồng bộ đến chương 10._
 - Ch.17 – Tuyên cáo ở Lisseuil: Edran thành kẻ phản nghịch, thưởng 500 mark; Người Thu Hồi Tamsin Ruhl (Băng) của Vòng Tháp chặn bắt; Bình Minh bẻ băng trói, cầu băng gãy, Ysolde suýt để Ruhl chết đuối rồi cùng Edran kéo bà ta lên; mất con lừa; Brunn mang thư của Bá tước và của Lise tới (EVT-096→101).
 - Ch.18 – Brunn về Durnholm; tới làng đốt than Charbonne bị rừng elf 'ăn' dần; rừng không ngủ, mạch sáng loạn nhịp; Người Tỉa bắn Lucien bằng mũi tên Mộc mọc rễ; Edran đứng giữa không rút kiếm; elf bị trục xuất Saerin rút mũi tên, chữa thằng bé, nhận ra mùi bao kiếm (EVT-102→106).
 - Ch.19 – Trạm lều của Saerin: ma tộc đào ngũ Ghessa hát bài Lửa Tổ ru đứa trẻ elf; Saerin kể vì sao bị trục xuất, về Mẹ Hát – người giữ nhịp đã hát rừng ngủ mỗi đông cho đến 700 năm trước – và Sinh Mệnh giữ vòng ngủ 50 bước; 11 elf đã chết khi thử kiếm; Saerin chưa thử vì 'lòng trắc ẩn không phải thứ để lấy' (EVT-107→110).
+- Ch.20 – Vharra Nanh Sét và Kesh theo đường buôn lậu tới; sét phá trạm lều; Saerin phá lệnh trục xuất dẫn mọi người vào rừng; Kesh chỉ sai hướng cho Edran một nhịp thở; sét đánh thức rừng, rễ quật chết thợ săn; Người Tỉa của Aelith bắt cả nhóm; Vharra chờ ở mép rừng (EVT-111→115).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

@@ -104,6 +104,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-108 | Đêm 1/3/HC 703 | Saerin kể lý do bị trục xuất (chữa 9 người ngoài trong rừng, HC 700) | CHAR-019 | CHAR-001, 005 | — | ch.19 |
 | EVT-109 | Đêm 1/3/HC 703 | Saerin kể về Mẹ Hát, vòng ngủ quanh Sinh Mệnh, 11 ứng viên chết, Hội đồng định chặt cây cổ nhất | CHAR-019 | CHAR-001, 005 | THREAD-022 | ch.19 |
 | EVT-110 | Đêm 1/3/HC 703 | Saerin nhận ra Bình Minh; giải thích vì sao chưa thử Sinh Mệnh; hứa sẽ nghĩ | CHAR-019, CHAR-001 | Họ | — | ch.19 |
+| EVT-111 | 9/2 → ~4/3/HC 703 | Vharra, 6 thợ săn, Kesh vượt Ghur và theo đường buôn lậu qua Caldrenne tới thung lũng Charbonne | CHAR-017, CHAR-006 | Họ | Có mạng lưới buôn lậu Ma giới | ch.20 |
+| EVT-112 | Đêm ~5/3/HC 703 | Sét của Vharra phá trạm lều Saerin | CHAR-017 | Tất cả | Trạm lều mất | ch.20 |
+| EVT-113 | Đêm ~5/3/HC 703 | Kesh chỉ sai hướng cho Vharra, cho Edran một nhịp thở; nhóm Edran vào rừng | CHAR-006 | Vharra, Edran, Saerin | — | ch.20 |
+| EVT-114 | Đêm ~5/3/HC 703 | Cột sét của Vharra đánh thức rừng; rễ quật bờ suối, 2 thợ săn chết, rừng mép nam cháy | CHAR-017 | Tất cả | Rừng thức dữ hơn | ch.20 |
+| EVT-115 | Đêm ~5/3/HC 703 | Aelith và Người Tỉa bắt Edran, Ysolde, Saerin, Ghessa; nhận đứa trẻ elf; cấm chạm bao kiếm | Aelith | Elf | Tù nhân của elf; THREAD-023 | ch.20 |
 
 ## Cách ghi
 
