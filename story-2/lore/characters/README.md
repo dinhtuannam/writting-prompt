@@ -19,6 +19,19 @@ Tạo file `CHAR-###-short-name.md` cho mỗi nhân vật trọng yếu, sao ch�
 | CHAR-014 | Henrik Brandt | Đại úy quân pháp Durnholm, gầy, tóc bạc cắt sát, mệt mỏi, theo luật | Không | CANON (ch.8) | (dòng này) |
 | CHAR-015 | Bertil (Marta, Senn) | Gia đình người cắt sừng làng Hollen; Edran cứu ở ch.7; đi đò Kessel | Không | CANON (ch.7) | (dòng này) |
 | CHAR-016 | Người Giữ Giá Cả | Người đứng đầu đền Giá Bảy Chỗ Trống Durnholm | Không | CANON (ch.8) | (dòng này) |
+| CHAR-017 | Vharra Nanh Sét | Thợ săn của Varkhaz, pháp sư Lôi Thánh cấp, nữ ma tộc; gãy hai chân ở Tâm Rừng, chạy về nam | Không | CANON (ch.16–28) | (dòng này) |
+| CHAR-018 | Tamsin Ruhl | Người Thu Hồi của Vòng Tháp, pháp sư Băng Cao cấp; nợ mạng Edran, trả bằng tin sổ xanh, rồi thề chống Albrecht | Không | CANON (ch.17, 37–40) | (dòng này) |
+| CHAR-019 | Saerin | Elf Người Giữ Vườn bị trục xuất; **chủ nhân Sinh Mệnh**; hứa về hát rừng ngủ mỗi thu | Có thể | CANON (ch.18+) | (dòng này) |
+| CHAR-020 | Orsola Venn | Thẩm Chính Sallenza, không bao giờ nói dối; con trai Matteo bị Phán Quyết oan; nắm Thiết Luật ở ch.40 | Không | CANON (ch.35+) | (dòng này) |
+| CHAR-021 | Seren Albrecht | Đại sư Thủy Vòng Tháp Velde, bảy nhẫn đá thử nguyên; đứng sau đường muối–sắt, liên hệ Varkhaz, mùi huyết thuật (nghi thủ lĩnh Giáo đoàn Bảy Vòng) | Không | CANON (ch.37+) | (dòng này) |
+| CHAR-022 | Ghessa | Nữ ma tộc trinh sát đào ngũ, hát bài Lửa Tổ; ở nhà Merewen trong Ithaelwen | Không | CANON (ch.19–28) | (dòng này) |
+| CHAR-023 | Ilen | Người Tỉa trẻ, ba bím tóc; dẫn đường lối rễ | Không | CANON (ch.21–32) | (dòng này) |
+| CHAR-024 | Gian | Người giữ Tòa Phán Quyết 40 năm; biết tên Thiết Luật | Không | CANON (ch.34+) | (dòng này) |
+| CHAR-025 | Cosimo Dandolo | Hội trưởng Hội Muối Sallenza | Không | CANON (ch.39+) | (dòng này) |
+| — | Elf: Oiren, Thalvane, Aelith, Merewen, Fenn, Seravel†, Taren† | Hội đồng Bảy Gốc, Người Tỉa, Người Giữ Vườn | Không | CANON (ch.18–32) | summaries ch.18–32 |
+| — | Charbonne: Gaspard Morel, Lucien | Làng đốt than | Không | CANON | summaries ch.18–31 |
+| — | Sallenza: Mirella Brac, Tiso Brac†, Piero Galli†, Ugo Ferri, Enzo Moro, Nando Brusca, Rocco Sarti, Matteo Venn† | | Không | CANON | summaries ch.34–40 |
+| — | Rồng: Yrsenne (Mộc, Mẹ Hát†→ kiếm), Hael (Băng†→ kiếm) | Chị/em của Vaelthar | — | CANON (ch.23, 30) | systems.md |
 | CHAR-013 | Gorrun Sừng Gãy (ma tộc sừng gãy) | Chỉ huy toán truy đuổi ba người ở khe núi; chết dưới tay Vaelthar | Không | CANON (seed) | (bên dưới) |
 
 ## Hồ sơ ngắn
