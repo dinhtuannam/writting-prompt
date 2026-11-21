@@ -117,6 +117,10 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-121 | 10/3/HC 703 | Oiren nhắc vòng gỗ ký ức 31 bị phong; Thalvane chặn | Oiren, Thalvane | Hội đồng, Edran, Ysolde, Saerin | — | ch.22 |
 | EVT-122 | 10/3/HC 703 | Phán quyết: trục xuất Edran/Ysolde ra mép tây; thả Ghessa ở mép đông; chặt cây cổ nhất sau 3 ngày; phán Saerin hòa 3–3, hoãn | Hội đồng | Elf, nhóm Edran | THREAD-022, 023 | ch.22 |
 | EVT-123 | Đêm 10/3/HC 703 | Oiren mở lồng rễ, dẫn Edran và Ysolde đi xem vòng 31 | Oiren | Họ | — | ch.22 |
+| EVT-124 | Đêm 10/3/HC 703 | Oiren cho Edran, Ysolde xem Đĩa Ký Ức (mặt cắt Cây Mẹ, 3.412 vòng) | Oiren | Họ | — | ch.23 |
+| EVT-125 | Đêm 10/3/HC 703 | Vòng 31 (do Mẹ Hát khắc): bảy rồng bảy nguyên tố, thứ bị cạo ở giữa, bảy anh hùng gồm elf Aenwe, hình có sừng, hình có bờm, người cầm Bình Minh tóc tro bị cào đầu | Oiren | CHAR-001, 005 | REV-002/003 hé | ch.23 |
+| EVT-126 | Đêm 10/3/HC 703 | Lời Mẹ Hát: bà và em gái "người lạnh" trở thành bảy câu hỏi; chấm dứt chiến tranh bằng quyết định ngày hôm sau; đừng ghét những người đến từ khắp nơi | Oiren | CHAR-001, 005 | Edran hiểu nguồn gốc kiếm | ch.23 |
+| EVT-127 | Rạng sáng 11/3/HC 703 | Ilen báo mép nam cháy do ma tộc ép dân Charbonne đốt; rừng thức dữ; Thalvane muốn giao Edran cho kẻ săn | Ilen | CHAR-001, 005, Oiren | — | ch.23 |
 
 ## Cách ghi
 
