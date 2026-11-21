@@ -132,6 +132,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-136 | Sáng 11/3/HC 703 | Rừng thức lan vào Ithaelwen, rễ ăn tầng 3–5; Hội đồng tan, mọi người xuống cắt tỉa | — | Elf | Ithaelwen nguy cấp | ch.25 |
 | EVT-137 | Sáng 11/3/HC 703 | Merewen nhận giữ Ghessa; Saerin tự rời phòng giam, đi cùng Edran, Ysolde, Ilen vào lối rễ hướng Tâm Rừng | CHAR-019, Merewen | Họ | — | ch.25 |
 | EVT-138 | Sáng 11/3/HC 703 | Tin qua rễ: Vharra đã vào rừng, đốt đường bằng sét về phía Tâm Rừng | CHAR-017 | Elf, nhóm Edran | Cuộc đua tới Tâm Rừng | ch.25 |
+| EVT-139 | 11/3/HC 703 | Saerin hát ru mở lối rễ lần thứ ba | CHAR-019, Ilen | Họ | — | ch.26 |
+| EVT-140 | Chiều 11/3/HC 703 | Tới Tâm Rừng (vòng ngủ có tuyết); thấy Sinh Mệnh trên rễ cây cổ nhất; Bình Minh và Sinh Mệnh rung đáp nhau | CHAR-001, 005, 019, Ilen | Họ | — | ch.26 |
+| EVT-141 | Chiều 11/3/HC 703 | Saerin chăm sóc 11 thi thể không mục; dừng cách kiếm 10 bước vì thấy mình muốn lấy | CHAR-019 | CHAR-001 | — | ch.26 |
+| EVT-142 | Chiều 11/3/HC 703 | Vharra vào Tâm Rừng với 3 thợ săn, Kesh bị xích; sét yếu trong vòng ngủ | CHAR-017, 006 | Tất cả | — | ch.26 |
+| EVT-143 | Chiều 11/3/HC 703 | Kesh chạm rễ, nghe "tiếng hát" qua tay cháy | CHAR-006 | Tất cả | — | ch.26 |
+| EVT-144 | Chiều 11/3/HC 703 | Vharra bước ra ngoài vòng ngủ, đánh cột sét xuống cây cổ nhất | CHAR-017 | Tất cả | Vòng ngủ bị tấn công | ch.26 |
 
 ## Cách ghi
 
