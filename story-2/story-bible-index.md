@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 34 (EVT-188)
-- **Chương tiếp theo cần viết:** 35
+- **Canon cập nhật đến:** Chương 35 (EVT-193)
+- **Chương tiếp theo cần viết:** 36
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -175,6 +175,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 032 | COMPLETE | Hai Dấu Sáng | — | `summaries/chapters/chapter-032.md` | EVT-179 |
 | Chapter 033 | COMPLETE | Đường Về Nam | — | `summaries/chapters/chapter-033.md` | EVT-183 |
 | Chapter 034 | COMPLETE | Sallenza | — | `summaries/chapters/chapter-034.md` | EVT-188 |
+| Chapter 035 | COMPLETE | Phán Quyết Của Kiếm | — | `summaries/chapters/chapter-035.md` | EVT-193 |
 
 ## Ranh giới sáng tạo
 

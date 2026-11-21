@@ -182,6 +182,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-186 | Chiều 10/4/HC 703 | Vào Tòa Phán Quyết, thấy Thiết Luật cắm trong mỏm đá | CHAR-001, 005, 019 | Gian | — | ch.34 |
 | EVT-187 | Chiều 10/4/HC 703 | Gian kể lịch sử Tòa, 412 tên, 3 người vô tội; biết tên Thiết Luật; báo Phán Quyết của Tiso Brac ngày 12/4, vụ ở nhà kho số 7 | Gian | CHAR-001, 005, 019 | THREAD-028 | ch.34 |
 | EVT-188 | Hoàng hôn 10/4/HC 703 | Bóng người ở cửa sổ tầng ba Dinh Thẩm Chính nhìn xuống | (Orsola?) | CHAR-001 | — | ch.34 |
+| EVT-189 | Chiều 11/4/HC 703 | Mirella Brac kể Tiso thấy sắt Vurr, Bruno Calla bị giết trước khi kịp thề, ba nhân chứng giả | Mirella | CHAR-001, 005, 019 | THREAD-029 | ch.35 |
+| EVT-190 | Nửa đêm 11/4/HC 703 | Cỗ xe mang dấu Hội đồng Đại sư Vòng Tháp giao hòm tại nhà kho số 7 | (Albrecht?) | CHAR-001, 005 | — | ch.35 |
+| EVT-191 | 12/4/HC 703 | Orsola Venn chủ trì Phán Quyết của Tiso Brac | CHAR-020, Tiso | Cả thành | — | ch.35 |
+| EVT-192 | 12/4/HC 703 | Tiso Brac nắm Thiết Luật và chết; Orsola một mình cúi trán bên xác; Gian khắc tội danh "Không biết" | Tiso, CHAR-020, Gian | Cả thành; CHAR-001 | Edran đứng nhìn không can thiệp | ch.35 |
+| EVT-193 | Chiều 12/4/HC 703 | Thẩm Chính mời Edran tới Dinh | CHAR-020 | CHAR-001 | — | ch.35 |
 
 ## Cách ghi
 

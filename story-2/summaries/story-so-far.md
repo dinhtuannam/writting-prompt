@@ -51,6 +51,7 @@ _Đồng bộ đến chương 28._
 - Ch.32 – Sinh Mệnh không chữa được vết thương huyết thuật của Vaelthar – chất đen muốn chính thanh kiếm; Ysolde nhận ra kẻ đeo bảy nhẫn là Magister Albrecht của Vòng Tháp; Vaelthar tách đi nghỉ rồi tìm rồng Phong; quà chia tay của elf và Ghessa; hướng Sallenza – nơi dùng Thiết Luật làm 'Phán Quyết của Kiếm' để xử tử suốt 300 năm – hết Quyển II (EVT-175→179).
 - Ch.33 – (Quyển III) Ba tuần đi về nam: Saerin lần đầu ra thế giới nhân tộc; bị nhận ra ở Belcastre; đồng muối không mọc gì; Edran thấy biển lần đầu; tới Sallenza – thành đá trắng có bia luật ở cổng và Thẩm Chính chưa từng nói dối; hai thanh kiếm cảm thấy tiếng gọi (EVT-180→183).
 - Ch.34 – Thành phố của cột thề, nơi mọi giao dịch đều thề trước luật; Ysolde phát hiện sắt Vurr của Ma giới bán dưới lời thề giả; Tòa Phán Quyết với Thiết Luật cắm trong đá và 412 cái tên trên tường; người giữ Tòa Gian biết tên kiếm và kể ba người vô tội đã chết; Phán Quyết tiếp theo – một thợ bến tàu bị kết án vì vụ giết người ở nhà kho số 7 (EVT-184→188).
+- Ch.35 – Vợ của Tiso Brac kể chồng thấy sắt Ma giới và bạn hắn bị giết trước khi kịp thề; đêm đó một cỗ xe mang dấu Vòng Tháp tới nhà kho số 7; Phán Quyết: Thẩm Chính Orsola Venn thi hành luật 'ba lời thề chống một', Tiso nắm Thiết Luật và chết; Edran đứng nhìn không bước ra; Orsola cúi trán bên xác, Gian khắc tội danh 'Không biết'; Thẩm Chính mời Edran tới Dinh (EVT-189→193).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính
