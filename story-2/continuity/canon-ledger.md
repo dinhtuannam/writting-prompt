@@ -163,6 +163,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-167 | 15/3/HC 703 | Vaelthar gọi Sinh Mệnh là Yrsenne; kể bảy rồng một tổ, em gái Băng tên Hael | CHAR-002, CHAR-019 | CHAR-001, 019 | — | ch.30 |
 | EVT-168 | 15/3/HC 703 | Vaelthar thừa nhận bản đồ là da Yrsenne, bao kiếm là da Hael, giữ theo lời nhờ của họ | CHAR-002 | CHAR-001, 019 | REV-003 gần trọn | ch.30 |
 | EVT-169 | Chiều 15/3/HC 703 | Vaelthar kể đường buôn lậu muối Vessaro–sắt Ma giới, người trả tiền ở nhà kho muối Sallenza đeo nhẫn đá thử nguyên; chỉ dấu Thiết Luật ở Sallenza | CHAR-002 | CHAR-001, 005 | Hướng ARC-003 | ch.30 |
+| EVT-170 | 17/3/HC 703 | Edran và Gaspard đắp một lò than từ cành cháy rụng | CHAR-001, Gaspard | Làng | — | ch.31 |
+| EVT-171 | Chiều 17/3/HC 703 | Họp giữa Người Tỉa và dân Charbonne ở dải đất cháy | Aelith, Gaspard, CHAR-001, 019 | Họ | — | ch.31 |
+| EVT-172 | Chiều 17/3/HC 703 | Thỏa thuận: elf giao cành tỉa cho lò than, dân không đốt mép rừng, Người Tỉa cắt rễ khi được gọi; Gaspard và Aelith bắt tay | Aelith, Gaspard | Làng, Người Tỉa | THREAD-021 | ch.31 |
+| EVT-173 | 18/3/HC 703 | Dân làng và Người Tỉa cùng xếp đá ranh giới | — | Làng, Người Tỉa | — | ch.31 |
+| EVT-174 | Đêm 18/3/HC 703 | Edran viết thư thứ ba cho Lise bằng than mới, gửi qua thương nhân | CHAR-001, Gaspard | — | Thư tới sau 2–3 tháng | ch.31 |
 
 ## Cách ghi
 

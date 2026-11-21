@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 30 (EVT-169)
-- **Chương tiếp theo cần viết:** 31
+- **Canon cập nhật đến:** Chương 31 (EVT-174)
+- **Chương tiếp theo cần viết:** 32
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -170,6 +170,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 028 | COMPLETE | Một Mùa Ngủ | — | `summaries/chapters/chapter-028.md` | EVT-158 |
 | Chapter 029 | COMPLETE | Hai Người Đếm | — | `summaries/chapters/chapter-029.md` | EVT-163 |
 | Chapter 030 | COMPLETE | Vaelthar Trở Lại | — | `summaries/chapters/chapter-030.md` | EVT-169 |
+| Chapter 031 | COMPLETE | Gỗ Tỉa | — | `summaries/chapters/chapter-031.md` | EVT-174 |
 
 ## Ranh giới sáng tạo
 
