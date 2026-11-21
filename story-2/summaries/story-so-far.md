@@ -50,6 +50,7 @@ _Đồng bộ đến chương 28._
 - Ch.31 – Edran đắp lò than với Gaspard, hiểu lời cha 'lửa không phải để đốt, lửa là để nấu'; đề xuất elf giao cành tỉa cho lò than Charbonne thay vì dân đốt mép rừng; Aelith và Gaspard bắt tay, cùng xếp đá ranh giới; Edran viết thư thứ ba cho Lise bằng than mới (EVT-170→174).
 - Ch.32 – Sinh Mệnh không chữa được vết thương huyết thuật của Vaelthar – chất đen muốn chính thanh kiếm; Ysolde nhận ra kẻ đeo bảy nhẫn là Magister Albrecht của Vòng Tháp; Vaelthar tách đi nghỉ rồi tìm rồng Phong; quà chia tay của elf và Ghessa; hướng Sallenza – nơi dùng Thiết Luật làm 'Phán Quyết của Kiếm' để xử tử suốt 300 năm – hết Quyển II (EVT-175→179).
 - Ch.33 – (Quyển III) Ba tuần đi về nam: Saerin lần đầu ra thế giới nhân tộc; bị nhận ra ở Belcastre; đồng muối không mọc gì; Edran thấy biển lần đầu; tới Sallenza – thành đá trắng có bia luật ở cổng và Thẩm Chính chưa từng nói dối; hai thanh kiếm cảm thấy tiếng gọi (EVT-180→183).
+- Ch.34 – Thành phố của cột thề, nơi mọi giao dịch đều thề trước luật; Ysolde phát hiện sắt Vurr của Ma giới bán dưới lời thề giả; Tòa Phán Quyết với Thiết Luật cắm trong đá và 412 cái tên trên tường; người giữ Tòa Gian biết tên kiếm và kể ba người vô tội đã chết; Phán Quyết tiếp theo – một thợ bến tàu bị kết án vì vụ giết người ở nhà kho số 7 (EVT-184→188).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

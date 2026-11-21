@@ -177,6 +177,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-181 | ~29/3/HC 703 | Bị một bà bán hành ở Belcastre nhận ra (chưa báo) | CHAR-001 | Bà bán hành | Nguy cơ bị lần ra | ch.33 |
 | EVT-182 | ~5/4/HC 703 | Edran thấy biển lần đầu | CHAR-001 | Ysolde, Saerin | — | ch.33 |
 | EVT-183 | Chiều 8/4/HC 703 | Tới Sallenza; bia luật ở cổng; hai kiếm phản ứng | CHAR-001, 005, 019 | — | Bắt đầu phần Sallenza | ch.33 |
+| EVT-184 | 9/4/HC 703 | Ở quán Mỏ Neo Muối, cả ba thề trước cột thề | CHAR-001, 005, 019 | Chủ quán | — | ch.34 |
+| EVT-185 | 10/4/HC 703 | Ysolde phát hiện sắt Vurr bán dưới lời thề "sắt Caldrenne" | CHAR-005 | CHAR-001, 019 | THREAD-020 | ch.34 |
+| EVT-186 | Chiều 10/4/HC 703 | Vào Tòa Phán Quyết, thấy Thiết Luật cắm trong mỏm đá | CHAR-001, 005, 019 | Gian | — | ch.34 |
+| EVT-187 | Chiều 10/4/HC 703 | Gian kể lịch sử Tòa, 412 tên, 3 người vô tội; biết tên Thiết Luật; báo Phán Quyết của Tiso Brac ngày 12/4, vụ ở nhà kho số 7 | Gian | CHAR-001, 005, 019 | THREAD-028 | ch.34 |
+| EVT-188 | Hoàng hôn 10/4/HC 703 | Bóng người ở cửa sổ tầng ba Dinh Thẩm Chính nhìn xuống | (Orsola?) | CHAR-001 | — | ch.34 |
 
 ## Cách ghi
 
