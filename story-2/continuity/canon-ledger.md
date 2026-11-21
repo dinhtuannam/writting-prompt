@@ -173,6 +173,10 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-177 | Trưa 19/3/HC 703 | Vaelthar tách đoàn để nghỉ rồi đi gặp rồng Phong ở thảo nguyên | CHAR-002 | Họ | — | ch.32 |
 | EVT-178 | 19/3/HC 703 | Aelith trao Saerin cành sồi non; Hội đồng phê chuẩn thỏa thuận gỗ tỉa; Ilen trao Edran hạt Lửa Tổ của Ghessa | Aelith, Ilen | Họ | ITEM-018, 019 | ch.32 |
 | EVT-179 | Đêm 19/3/HC 703 | Ysolde kể về Tòa Phán Quyết và Phán Quyết của Kiếm ở Sallenza – hết Quyển II | CHAR-005 | CHAR-001, 019 | THREAD-028 | ch.32 |
+| EVT-180 | 22/3/HC 703 | Ngủ quán trọ ở Vaurel; Saerin lần đầu ra thế giới nhân tộc | CHAR-001, 005, 019 | — | — | ch.33 |
+| EVT-181 | ~29/3/HC 703 | Bị một bà bán hành ở Belcastre nhận ra (chưa báo) | CHAR-001 | Bà bán hành | Nguy cơ bị lần ra | ch.33 |
+| EVT-182 | ~5/4/HC 703 | Edran thấy biển lần đầu | CHAR-001 | Ysolde, Saerin | — | ch.33 |
+| EVT-183 | Chiều 8/4/HC 703 | Tới Sallenza; bia luật ở cổng; hai kiếm phản ứng | CHAR-001, 005, 019 | — | Bắt đầu phần Sallenza | ch.33 |
 
 ## Cách ghi
 
