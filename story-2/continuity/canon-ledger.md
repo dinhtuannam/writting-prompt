@@ -113,6 +113,10 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-117 | 7/3/HC 703, chiều | Tới Ithaelwen; thấy tầng thấp bị rễ nuốt và những đống gỗ tỉa không được đốt | CHAR-001 | — | Ý tưởng gỗ tỉa → than | ch.21 |
 | EVT-118 | 7/3/HC 703 | Saerin lên thân cây phía đông; Ghessa tới thân cây phía tây; Edran và Ysolde bị nhốt trong lồng rễ | — | — | Chờ Hội đồng | ch.21 |
 | EVT-119 | Đêm 7/3/HC 703 | Mẹ của Fenn mang nước, báo Fenn khỏi sốt nhờ Saerin | Mẹ Fenn | CHAR-001 | Mầm thiện cảm trong elf | ch.21 |
+| EVT-120 | 10/3/HC 703 | Edran, Ysolde bị đưa lên Phòng Hội đồng Bảy Gốc (ghế thứ bảy trống) | CHAR-001, 005, 019 | Hội đồng | — | ch.22 |
+| EVT-121 | 10/3/HC 703 | Oiren nhắc vòng gỗ ký ức 31 bị phong; Thalvane chặn | Oiren, Thalvane | Hội đồng, Edran, Ysolde, Saerin | — | ch.22 |
+| EVT-122 | 10/3/HC 703 | Phán quyết: trục xuất Edran/Ysolde ra mép tây; thả Ghessa ở mép đông; chặt cây cổ nhất sau 3 ngày; phán Saerin hòa 3–3, hoãn | Hội đồng | Elf, nhóm Edran | THREAD-022, 023 | ch.22 |
+| EVT-123 | Đêm 10/3/HC 703 | Oiren mở lồng rễ, dẫn Edran và Ysolde đi xem vòng 31 | Oiren | Họ | — | ch.22 |
 
 ## Cách ghi
 

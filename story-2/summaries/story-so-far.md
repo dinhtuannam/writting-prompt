@@ -39,6 +39,7 @@ _Đồng bộ đến chương 10._
 - Ch.19 – Trạm lều của Saerin: ma tộc đào ngũ Ghessa hát bài Lửa Tổ ru đứa trẻ elf; Saerin kể vì sao bị trục xuất, về Mẹ Hát – người giữ nhịp đã hát rừng ngủ mỗi đông cho đến 700 năm trước – và Sinh Mệnh giữ vòng ngủ 50 bước; 11 elf đã chết khi thử kiếm; Saerin chưa thử vì 'lòng trắc ẩn không phải thứ để lấy' (EVT-107→110).
 - Ch.20 – Vharra Nanh Sét và Kesh theo đường buôn lậu tới; sét phá trạm lều; Saerin phá lệnh trục xuất dẫn mọi người vào rừng; Kesh chỉ sai hướng cho Edran một nhịp thở; sét đánh thức rừng, rễ quật chết thợ săn; Người Tỉa của Aelith bắt cả nhóm; Vharra chờ ở mép rừng (EVT-111→115).
 - Ch.21 – Bị giải xuyên rừng sâu tới Ithaelwen – thành phố mọc trong bảy thân cây, tầng thấp bị rễ nuốt, quanh chân là đồi gỗ tỉa không được đốt; elf cắt tỉa ngày đêm và trả giá bằng thân thể; Edran, Ysolde bị nhốt lồng rễ; Ysolde: cả khu rừng đang sốt bảy trăm năm; mẹ của Fenn mang nước cảm ơn (EVT-116→119).
+- Ch.22 – Hội đồng Bảy Gốc với ghế thứ bảy trống (Seravel chết khi thử kiếm); Thalvane buộc tội; Oiren nhắc vòng gỗ ký ức thứ 31 bị phong; phán: trục xuất Edran, thả Ghessa về phía Vharra, chặt cây cổ nhất sau 3 ngày, phán Saerin 'trả về rễ' hòa 3–3 nên hoãn; nửa đêm Oiren mở lồng dẫn đi xem vòng 31 (EVT-120→123).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính
