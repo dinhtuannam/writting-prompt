@@ -48,6 +48,7 @@ _Đồng bộ đến chương 28._
 - Ch.29 – Edran và Kesh nói chuyện thật bên lửa: một người đếm trận đồ, một người đếm người; Kesh kể về bảy vết nứt của Ma thần, xác nhận chuyện bà nội về anh hùng ma tộc và kẻ tóc tro cầm Bình Minh; Kesh thành pháp sư Cơ bản, quyết mang mảnh kính về đông làm mồi để cứu vợ con; nhận hạt cây cổ nhất từ Saerin và dao găm khắc tên của Edran, khắc vạch 28 hình xích mở rồi ra đi (EVT-159→163).
 - Ch.30 – Về Charbonne chữa người bị bỏng; Vaelthar tới, vết thương đã lên cổ sau khi đóng ba đèo cho Ma giới; gọi Sinh Mệnh là Yrsenne – chị rồng của ông; thừa nhận tấm bản đồ là da Yrsenne, bao kiếm là da Hael – em gái Băng; kể đường buôn lậu muối Vessaro đổi sắt Ma giới do người đeo nhẫn đá thử nguyên trả tiền ở Sallenza – nơi có kiếm Thiết Luật (EVT-164→169).
 - Ch.31 – Edran đắp lò than với Gaspard, hiểu lời cha 'lửa không phải để đốt, lửa là để nấu'; đề xuất elf giao cành tỉa cho lò than Charbonne thay vì dân đốt mép rừng; Aelith và Gaspard bắt tay, cùng xếp đá ranh giới; Edran viết thư thứ ba cho Lise bằng than mới (EVT-170→174).
+- Ch.32 – Sinh Mệnh không chữa được vết thương huyết thuật của Vaelthar – chất đen muốn chính thanh kiếm; Ysolde nhận ra kẻ đeo bảy nhẫn là Magister Albrecht của Vòng Tháp; Vaelthar tách đi nghỉ rồi tìm rồng Phong; quà chia tay của elf và Ghessa; hướng Sallenza – nơi dùng Thiết Luật làm 'Phán Quyết của Kiếm' để xử tử suốt 300 năm – hết Quyển II (EVT-175→179).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

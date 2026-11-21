@@ -168,6 +168,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-172 | Chiều 17/3/HC 703 | Thỏa thuận: elf giao cành tỉa cho lò than, dân không đốt mép rừng, Người Tỉa cắt rễ khi được gọi; Gaspard và Aelith bắt tay | Aelith, Gaspard | Làng, Người Tỉa | THREAD-021 | ch.31 |
 | EVT-173 | 18/3/HC 703 | Dân làng và Người Tỉa cùng xếp đá ranh giới | — | Làng, Người Tỉa | — | ch.31 |
 | EVT-174 | Đêm 18/3/HC 703 | Edran viết thư thứ ba cho Lise bằng than mới, gửi qua thương nhân | CHAR-001, Gaspard | — | Thư tới sau 2–3 tháng | ch.31 |
+| EVT-175 | Sáng 19/3/HC 703 | Saerin không chữa được vết thương Vaelthar; chất đen muốn thanh kiếm | CHAR-019, CHAR-002 | CHAR-001, 005 | — | ch.32 |
+| EVT-176 | 19/3/HC 703 | Ysolde xác định người trả tiền khả nghi là Magister Seren Albrecht (Vòng Tháp) | CHAR-005 | CHAR-001, 002 | THREAD-020 | ch.32 |
+| EVT-177 | Trưa 19/3/HC 703 | Vaelthar tách đoàn để nghỉ rồi đi gặp rồng Phong ở thảo nguyên | CHAR-002 | Họ | — | ch.32 |
+| EVT-178 | 19/3/HC 703 | Aelith trao Saerin cành sồi non; Hội đồng phê chuẩn thỏa thuận gỗ tỉa; Ilen trao Edran hạt Lửa Tổ của Ghessa | Aelith, Ilen | Họ | ITEM-018, 019 | ch.32 |
+| EVT-179 | Đêm 19/3/HC 703 | Ysolde kể về Tòa Phán Quyết và Phán Quyết của Kiếm ở Sallenza – hết Quyển II | CHAR-005 | CHAR-001, 019 | THREAD-028 | ch.32 |
 
 ## Cách ghi
 

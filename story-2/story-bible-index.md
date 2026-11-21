@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 31 (EVT-174)
-- **Chương tiếp theo cần viết:** 32
+- **Canon cập nhật đến:** Chương 32 (EVT-179)
+- **Chương tiếp theo cần viết:** 33
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -139,7 +139,8 @@ Không tái sử dụng ID đã retired.
 | Arc/Chapter | Trạng thái | Mục tiêu/biến cố | Plan | Summary | Canon đến |
 |---|---|---|---|---|---|
 | ARC-001 (Quyển I: Tàn Dưới Bình Minh) | COMPLETE (ch.1–14) | Edran sống sót, học cách dùng Bình Minh, rời phương Bắc | `planning/arcs/arc-001.md` | `summaries/arcs/arc-001.md` | — |
-| ARC-002 (Quyển II: Rừng Không Ngủ) | IN_PROGRESS | Qua Caldrenne tới rừng elf; Sinh Mệnh; thợ săn Ma giới | `planning/arcs/arc-002.md` | — | — |
+| ARC-002 (Quyển II: Rừng Không Ngủ) | COMPLETE (ch.15–32) | Qua Caldrenne tới rừng elf; Sinh Mệnh; thợ săn Ma giới | `planning/arcs/arc-002.md` | `summaries/arcs/arc-002.md` | — |
+| ARC-003 (Quyển III: Vương Miện Tro Tàn) | IN_PROGRESS | Sallenza, Thiết Luật, Phán Quyết của Kiếm, Albrecht | `planning/arcs/arc-003.md` | — | — |
 | Chapter 001 | COMPLETE | Ngày Phòng Tuyến Phía Bắc Sụp Đổ | `planning/chapters/chapter-001.md` | `summaries/chapters/chapter-001.md` | EVT-016 |
 | Chapter 002 | COMPLETE | Bản Đồ Của Sáu Thanh Kiếm | `planning/chapters/chapter-002.md` | `summaries/chapters/chapter-002.md` | EVT-020 |
 | Chapter 003 | COMPLETE | Đá Thử Nguyên | `planning/chapters/chapter-003.md` | `summaries/chapters/chapter-003.md` | EVT-025 |
@@ -171,6 +172,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 029 | COMPLETE | Hai Người Đếm | — | `summaries/chapters/chapter-029.md` | EVT-163 |
 | Chapter 030 | COMPLETE | Vaelthar Trở Lại | — | `summaries/chapters/chapter-030.md` | EVT-169 |
 | Chapter 031 | COMPLETE | Gỗ Tỉa | — | `summaries/chapters/chapter-031.md` | EVT-174 |
+| Chapter 032 | COMPLETE | Hai Dấu Sáng | — | `summaries/chapters/chapter-032.md` | EVT-179 |
 
 ## Ranh giới sáng tạo
 

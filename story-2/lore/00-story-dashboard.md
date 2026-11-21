@@ -16,10 +16,10 @@
 ## Trạng thái dự án
 
 - **Trạng thái:** DRAFTING
-- **Arc hiện tại:** ARC-002 – Quyển II: Rừng Không Ngủ (ARC-001 COMPLETE)
-- **Số chương hoàn chỉnh đã audit:** 31
-- **Chương đang soạn:** 32
-- **Mốc tiếp theo:** Viết chương 32
+- **Arc hiện tại:** ARC-003 – Quyển III: Vương Miện Tro Tàn (ARC-001, ARC-002 COMPLETE)
+- **Số chương hoàn chỉnh đã audit:** 32
+- **Chương đang soạn:** 33
+- **Mốc tiếp theo:** Viết chương 33
 - **Quyết định đột phá đang chờ tác giả:** không có
 
 ## Logline
