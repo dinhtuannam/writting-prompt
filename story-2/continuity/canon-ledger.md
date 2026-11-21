@@ -204,6 +204,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-208 | Đêm 15/4/HC 703 | Ysolde và Saerin lấy sổ bìa da xanh từ nhà kho số 7 | CHAR-005, 019 | Họ, Edran | ITEM-020 | ch.38 |
 | EVT-209 | Rạng sáng 16/4/HC 703 | Sổ ghi đường muối–sắt, ba đèo, các vụ Matteo/Bruno/Tiso; dấu bảy nhẫn của một bàn tay | — | CHAR-001, 005, 019 | Bằng chứng (không phải lời thề) | ch.38 |
 | EVT-210 | Sáng 16/4/HC 703 | Piero Galli bị giết; ba người thề Edran là thủ phạm; Edran bị đưa tới cột thề | CHAR-001 | Cả thành | THREAD-032 | ch.38 |
+| EVT-211 | Sáng 16/4/HC 703 | Ba lính gác riêng của Hội Muối thề Edran giết Piero | Hội Muối | Cả thành | — | ch.39 |
+| EVT-212 | Sáng 16/4/HC 703 | Edran thề vô tội; chủ quán Enzo Moro thề cùng | CHAR-001, Enzo Moro | Cả thành | 2 lời thề | ch.39 |
+| EVT-213 | Sáng 16/4/HC 703 | Orsola phán 3 > 2: Edran bị kết án, Phán Quyết của Kiếm ngày 23/4 | CHAR-020 | Cả thành | Edran vào ngục dưới Dinh | ch.39 |
+| EVT-214 | Chiều 16/4/HC 703 | Saerin báo điều luật ba lời thề mới trong 7 ngày; dấu ủng trên ban công; nghi Ruhl biết | CHAR-019, 005 | CHAR-001 | THREAD-033 | ch.39 |
+| EVT-215 | Hoàng hôn 16/4/HC 703 | Albrecht đề nghị ba lời thề dối đổi lấy Edran tới Vòng Tháp; Edran từ chối | CHAR-021, CHAR-001 | Họ | — | ch.39 |
 
 ## Cách ghi
 

@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 38 (EVT-210)
-- **Chương tiếp theo cần viết:** 39
+- **Canon cập nhật đến:** Chương 39 (EVT-215)
+- **Chương tiếp theo cần viết:** 40
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -179,6 +179,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 036 | COMPLETE | Thẩm Chính | — | `summaries/chapters/chapter-036.md` | EVT-199 |
 | Chapter 037 | COMPLETE | Bảy Nhẫn | — | `summaries/chapters/chapter-037.md` | EVT-204 |
 | Chapter 038 | COMPLETE | Muối Và Sắt | — | `summaries/chapters/chapter-038.md` | EVT-210 |
+| Chapter 039 | COMPLETE | Kẻ Bị Kết Án | — | `summaries/chapters/chapter-039.md` | EVT-215 |
 
 ## Ranh giới sáng tạo
 
