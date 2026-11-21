@@ -157,6 +157,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-161 | Sáng 14/3/HC 703 | Kesh thắp lửa Cơ bản không đau; quyết định về Kharrun, mang mảnh kính làm mồi | CHAR-006 | CHAR-001, 005, 019 | THREAD-014, 026 | ch.29 |
 | EVT-162 | Sáng 14/3/HC 703 | Saerin tặng Kesh hạt cây cổ nhất; Edran trao mảnh kính và dao găm khắc tên; Kesh khắc vạch 28 hình xích mở | CHAR-001, 006, 019 | Họ | ITEM-016, 017 → Kesh | ch.29 |
 | EVT-163 | Trưa 14/3/HC 703 | Kesh rời đi về phía đông qua lối rễ, hẹn gặp ở Selm | CHAR-006 | Nhóm Edran, Ilen | THREAD-027 | ch.29 |
+| EVT-164 | 14/3/HC 703 | Nhóm Edran ra mép nam; 3 Người Tỉa đã chết giữ rễ | CHAR-001, 005, 019 | Họ | — | ch.30 |
+| EVT-165 | Đêm 14/3/HC 703 | Saerin, Ysolde chữa người bỏng ở Charbonne; Aelith cho dân lấy cành cháy | CHAR-019, 005, Aelith, Gaspard | Làng | Mầm hòa giải | ch.30 |
+| EVT-166 | Sáng 15/3/HC 703 | Vaelthar tới; đã đóng ba đèo cao phía nam Hắc Vân; vết thương lên cổ | CHAR-002 | Họ | Vaelthar suy yếu nặng | ch.30 |
+| EVT-167 | 15/3/HC 703 | Vaelthar gọi Sinh Mệnh là Yrsenne; kể bảy rồng một tổ, em gái Băng tên Hael | CHAR-002, CHAR-019 | CHAR-001, 019 | — | ch.30 |
+| EVT-168 | 15/3/HC 703 | Vaelthar thừa nhận bản đồ là da Yrsenne, bao kiếm là da Hael, giữ theo lời nhờ của họ | CHAR-002 | CHAR-001, 019 | REV-003 gần trọn | ch.30 |
+| EVT-169 | Chiều 15/3/HC 703 | Vaelthar kể đường buôn lậu muối Vessaro–sắt Ma giới, người trả tiền ở nhà kho muối Sallenza đeo nhẫn đá thử nguyên; chỉ dấu Thiết Luật ở Sallenza | CHAR-002 | CHAR-001, 005 | Hướng ARC-003 | ch.30 |
 
 ## Cách ghi
 
