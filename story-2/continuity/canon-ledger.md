@@ -193,6 +193,17 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-197 | Tối 12/4/HC 703 | Orsola kể số phận ba nhân chứng (một là quản kho số 7) và đường muối–sắt | CHAR-020 | CHAR-001 | THREAD-029 | ch.36 |
 | EVT-198 | Tối 12/4/HC 703 | Edran thề, nhận luật khách 30 ngày | CHAR-001, CHAR-020 | — | Bảo vệ đến ~12/5 | ch.36 |
 | EVT-199 | Tối 12/4/HC 703 | Orsola báo Albrecht đang ở Sallenza, đã hỏi về Edran và Kramm | CHAR-020 | CHAR-001 | — | ch.36 |
+| EVT-200 | Sáng 14/4/HC 703 | Albrecht (cùng Ruhl) chờ Edran ở quán Mỏ Neo Muối | CHAR-021, CHAR-018 | CHAR-001, 005, 019 | — | ch.37 |
+| EVT-201 | Sáng 14/4/HC 703 | Albrecht đề nghị xóa tội nếu Edran tới Vòng Tháp; Edran lỡ nói "nó hỏi" | CHAR-021, CHAR-001 | Họ | Albrecht biết kiếm hỏi | ch.37 |
+| EVT-202 | Sáng 14/4/HC 703 | Ysolde đối chất trận tù binh; Albrecht thừa nhận lý thuyết; Saerin phát hiện nhẫn đá Mộc chết, mùi huyết thuật | CHAR-005, 019, 021 | Họ | REV-006 gợi | ch.37 |
+| EVT-203 | Sáng 14/4/HC 703 | Ruhl chỉ chỗ sổ bìa da xanh ở nhà kho số 7, tuyên bố hết nợ | CHAR-018 | CHAR-005, 001, 019 | THREAD-031 | ch.37 |
+| EVT-204 | Đêm 14 → sáng 15/4/HC 703 | Edran quyết không phá lời thề luật khách, nghĩ cách khác | CHAR-001 | — | — | ch.37 |
+| EVT-205 | Sáng 15/4/HC 703 | Edran đề xuất ba lời thề; Orsola chỉ có thể buộc tội người bán sắt | CHAR-001, CHAR-020 | Họ | — | ch.38 |
+| EVT-206 | Trưa 15/4/HC 703 | Ugo Ferri khai mua sắt từ quản kho Piero Galli; Orsola gọi Piero thề sáng 16/4 | CHAR-020, CHAR-005, Ugo | Đám đông chợ | — | ch.38 |
+| EVT-207 | Hoàng hôn → nửa đêm 15/4/HC 703 | Piero Galli thú nhận với Edran đã thề dối chống Matteo, hứa sẽ thề thật | CHAR-001, Piero | Họ (và kẻ rình) | — | ch.38 |
+| EVT-208 | Đêm 15/4/HC 703 | Ysolde và Saerin lấy sổ bìa da xanh từ nhà kho số 7 | CHAR-005, 019 | Họ, Edran | ITEM-020 | ch.38 |
+| EVT-209 | Rạng sáng 16/4/HC 703 | Sổ ghi đường muối–sắt, ba đèo, các vụ Matteo/Bruno/Tiso; dấu bảy nhẫn của một bàn tay | — | CHAR-001, 005, 019 | Bằng chứng (không phải lời thề) | ch.38 |
+| EVT-210 | Sáng 16/4/HC 703 | Piero Galli bị giết; ba người thề Edran là thủ phạm; Edran bị đưa tới cột thề | CHAR-001 | Cả thành | THREAD-032 | ch.38 |
 
 ## Cách ghi
 
