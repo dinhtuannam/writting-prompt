@@ -187,6 +187,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-191 | 12/4/HC 703 | Orsola Venn chủ trì Phán Quyết của Tiso Brac | CHAR-020, Tiso | Cả thành | — | ch.35 |
 | EVT-192 | 12/4/HC 703 | Tiso Brac nắm Thiết Luật và chết; Orsola một mình cúi trán bên xác; Gian khắc tội danh "Không biết" | Tiso, CHAR-020, Gian | Cả thành; CHAR-001 | Edran đứng nhìn không can thiệp | ch.35 |
 | EVT-193 | Chiều 12/4/HC 703 | Thẩm Chính mời Edran tới Dinh | CHAR-020 | CHAR-001 | — | ch.35 |
+| EVT-194 | Tối 12/4/HC 703 | Orsola nói Sallenza không bắt cũng không che chở Edran | CHAR-020, CHAR-001 | Họ | — | ch.36 |
+| EVT-195 | Tối 12/4/HC 703 | Edran cho Orsola xem chuôi Bình Minh, kể về câu hỏi của kiếm | CHAR-001, CHAR-020 | Họ | Orsola biết kiếm hỏi | ch.36 |
+| EVT-196 | Tối 12/4/HC 703 | Orsola kể về Matteo – con trai bị Phán Quyết oan 6 năm trước | CHAR-020 | CHAR-001 | — | ch.36 |
+| EVT-197 | Tối 12/4/HC 703 | Orsola kể số phận ba nhân chứng (một là quản kho số 7) và đường muối–sắt | CHAR-020 | CHAR-001 | THREAD-029 | ch.36 |
+| EVT-198 | Tối 12/4/HC 703 | Edran thề, nhận luật khách 30 ngày | CHAR-001, CHAR-020 | — | Bảo vệ đến ~12/5 | ch.36 |
+| EVT-199 | Tối 12/4/HC 703 | Orsola báo Albrecht đang ở Sallenza, đã hỏi về Edran và Kramm | CHAR-020 | CHAR-001 | — | ch.36 |
 
 ## Cách ghi
 
