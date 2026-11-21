@@ -8,12 +8,12 @@ Khi phòng tuyến phía bắc sụp đổ trước đạo quân của Ma thần
 
 ## Hiện trạng
 
-_Đồng bộ đến chương 28._
+_Đồng bộ đến chương 40._
 
-- **Mốc thời gian:** Đêm 13/3/HC 703.
-- **Vị trí tuyến chính:** Tâm Rừng, rừng elf (Caldrenne đông nam).
-- **Mục tiêu trước mắt:** Rời rừng cùng Saerin (chủ nhân Sinh Mệnh) đi tìm kiếm thứ ba; quyết định làm gì với Kesh và mảnh kính đen.
-- **Mối nguy/xung đột:** Varkhaz có thể nhìn qua mảnh kính; Vharra sống sót; Arvend + Caldrenne truy nã; Vòng Tháp truy Ysolde và muốn nghiên cứu Edran; kẻ phản bội mở đường cho Ma giới (THREAD-020).
+- **Mốc thời gian:** 23/4/HC 703, giữa ngày.
+- **Vị trí tuyến chính:** Trong Tòa Phán Quyết, Sallenza (Vessaro).
+- **Mục tiêu trước mắt:** Kết quả câu hỏi của Thiết Luật với Orsola Venn; minh oan cho Edran (bị kết án giết Piero Galli bằng 8 lời thề dối); vạch trần Albrecht + Hội Muối (sổ bìa da xanh).
+- **Mối nguy/xung đột:** Nếu Orsola chết, Hội Muối chọn Thẩm Chính mới và Edran bị đưa vào Tòa; Albrecht muốn lấy Bình Minh bằng lưới/hộp; Varkhaz có thể đã nhận ra mảnh kính đi về đông với Kesh; Vharra sống; vết thương Vaelthar lên cổ.
 ## Các sự kiện canon theo thứ tự
 
 - Nền: EVT-001 → EVT-010b (xem `continuity/canon-ledger.md`).
@@ -56,6 +56,7 @@ _Đồng bộ đến chương 28._
 - Ch.37 – Magister Seren Albrecht cùng Ruhl đợi sẵn ở quán: đề nghị xóa tội nếu Edran mang kiếm tới Vòng Tháp để 'nghiên cứu'; thản nhiên thừa nhận sinh lực tù binh có thể thay ma lực; Saerin nhận ra nhẫn đá Mộc chết và mùi huyết thuật như tay Vaelthar; Ruhl lén chỉ chỗ cuốn sổ bìa da xanh ở nhà kho số 7 để trả nợ; Edran không chịu phá lời thề luật khách (EVT-200→204).
 - Ch.38 – Edran tìm đường hợp luật: Ysolde chứng minh sắt ở chợ là sắt Ma giới, người bán khai nguồn từ quản kho Piero Galli; Piero thú nhận với Edran từng thề dối hại Matteo Venn và hứa sáng mai thề thật; Ysolde và Saerin lẻn vào nhà kho lấy cuốn sổ ghi đường muối–sắt và các vụ giết người, đóng dấu bảy nhẫn; sáng ra Piero bị cắt cổ và ba người thề rằng Edran là kẻ giết (EVT-205→210).
 - Ch.39 – Trước cột thề lớn: ba người của Hội Muối thề Edran giết Piero Galli; Edran và chủ quán Enzo Moro thề ngược lại; Edran ngăn Ysolde đưa cuốn sổ ra; Orsola phán ba hơn hai – Phán Quyết của Kiếm sau bảy ngày; Saerin biết điều luật ba lời thề mới có thể lật án và nghi Ruhl biết kẻ giết thật; Albrecht vào ngục đề nghị ba lời thề dối đổi lấy Edran, Edran từ chối (EVT-211→215).
+- Ch.40 – Ruhl quyết định nói thật, nhân chứng giả Nando thú nhận và nộp lại bạc; bốn lời thề chống hai – rồi Hội Muối tung tám lời thề phản lại; Orsola tuyên luật đã thành cân của kẻ nhiều bạc, tự bước vào Tòa thay Edran và nắm chuôi Thiết Luật; không có ánh sáng – kiếm hỏi bằng giọng lạnh như băng nứt: 'Ngươi tìm kiếm điều gì?' (EVT-216→222).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

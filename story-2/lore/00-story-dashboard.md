@@ -17,9 +17,9 @@
 
 - **Trạng thái:** DRAFTING
 - **Arc hiện tại:** ARC-003 – Quyển III: Vương Miện Tro Tàn (ARC-001, ARC-002 COMPLETE)
-- **Số chương hoàn chỉnh đã audit:** 39
-- **Chương đang soạn:** 40
-- **Mốc tiếp theo:** Viết chương 40
+- **Số chương hoàn chỉnh đã audit:** 40
+- **Chương đang soạn:** 41
+- **Mốc tiếp theo:** Viết chương 41
 - **Quyết định đột phá đang chờ tác giả:** không có
 
 ## Logline

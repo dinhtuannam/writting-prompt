@@ -209,6 +209,13 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-213 | Sáng 16/4/HC 703 | Orsola phán 3 > 2: Edran bị kết án, Phán Quyết của Kiếm ngày 23/4 | CHAR-020 | Cả thành | Edran vào ngục dưới Dinh | ch.39 |
 | EVT-214 | Chiều 16/4/HC 703 | Saerin báo điều luật ba lời thề mới trong 7 ngày; dấu ủng trên ban công; nghi Ruhl biết | CHAR-019, 005 | CHAR-001 | THREAD-033 | ch.39 |
 | EVT-215 | Hoàng hôn 16/4/HC 703 | Albrecht đề nghị ba lời thề dối đổi lấy Edran tới Vòng Tháp; Edran từ chối | CHAR-021, CHAR-001 | Họ | — | ch.39 |
+| EVT-216 | 17 → 19/4/HC 703 | Ysolde nhiều lần tới hỏi Ruhl có chịu nói thật không | CHAR-005, CHAR-018 | Họ | — | ch.40 |
+| EVT-217 | 20 → 21/4/HC 703 | Nhân chứng giả Nando Brusca tìm Saerin; xem sổ, biết mình sẽ bị thủ tiêu; nêu tên Rocco Sarti | CHAR-019, 005, Nando | Họ, Mirella | — | ch.40 |
+| EVT-218 | Đêm 22/4/HC 703 | Ruhl xuống ngục kể với Edran những gì thấy đêm 15/4, quyết định sẽ thề | CHAR-018, CHAR-001 | Họ | — | ch.40 |
+| EVT-219 | 23/4/HC 703 | Ruhl thề nêu tên Albrecht và Rocco; Nando thề đã nói dối, nộp 10 bạc Velde | CHAR-018, Nando | Cả thành | 4 chống 2 | ch.40 |
+| EVT-220 | 23/4/HC 703 | Dandolo, 4 thương nhân, Rocco, 2 lính gác thề phản lại | CHAR-025, Rocco, Hội Muối | Cả thành | 8 chống 4 | ch.40 |
+| EVT-221 | 23/4/HC 703 | Orsola tuyên luật đã thành "cân của kẻ nhiều bạc", tự bước vào Tòa thay vì đưa Edran vào | CHAR-020 | Cả thành | — | ch.40 |
+| EVT-222 | 23/4/HC 703 | Orsola nắm chuôi Thiết Luật; không có ánh sáng; kiếm hỏi bằng giọng lạnh như băng nứt (kết quả chưa rõ) | CHAR-020 | CHAR-001 (nghe câu hỏi qua Bình Minh), đám đông thấy | Cliffhanger | ch.40 |
 
 ## Cách ghi
 
