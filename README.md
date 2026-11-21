@@ -7,6 +7,7 @@ Repo này dùng để phát triển novel dài kỳ và lưu website tĩnh đọ
 - `story-template/`: bộ mẫu tạo story bible cho mỗi novel. Tên này không khớp `story-*`, nên web không liệt kê nhầm template thành truyện.
 - `story-<id>/`: thư mục của một novel cụ thể, tạo bằng cách sao chép `story-template/`.
 - `web/`: website đọc truyện tĩnh và Vercel serverless proxy gọi GitHub API.
+- `mobile/`: app Android (Flutter) đọc truyện giống web, có nghe truyện khi tắt màn hình. Xem `mobile/README.md`.
 - `AGENTS.md`: quy tắc khởi động bắt buộc cho AI agent làm việc trong repo.
 
 Website chỉ tìm thư mục `story-*` ở gốc repo và chỉ đọc file `story-<id>/chapters/chapter-N.md`.
