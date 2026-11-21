@@ -138,6 +138,13 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-142 | Chiều 11/3/HC 703 | Vharra vào Tâm Rừng với 3 thợ săn, Kesh bị xích; sét yếu trong vòng ngủ | CHAR-017, 006 | Tất cả | — | ch.26 |
 | EVT-143 | Chiều 11/3/HC 703 | Kesh chạm rễ, nghe "tiếng hát" qua tay cháy | CHAR-006 | Tất cả | — | ch.26 |
 | EVT-144 | Chiều 11/3/HC 703 | Vharra bước ra ngoài vòng ngủ, đánh cột sét xuống cây cổ nhất | CHAR-017 | Tất cả | Vòng ngủ bị tấn công | ch.26 |
+| EVT-145 | Chiều 11/3/HC 703 | Cây cổ nhất bị xé một thân; vòng ngủ co lại, rễ trong vòng thức dậy | — | Tất cả | — | ch.27 |
+| EVT-146 | Chiều 11/3/HC 703 | Edran ra khỏi vòng ngủ đối đầu Vharra; Bình Minh làm sét trượt; Edran bị rạch sườn trái, tay trái, đá gối | CHAR-001, CHAR-017 | Tất cả | Thương tích mới | ch.27 |
+| EVT-147 | Chiều 11/3/HC 703 | Kesh quàng xích kéo tay Vharra, hứng sét của chính cô; tim ngừng | CHAR-006, CHAR-017 | Tất cả | — | ch.27 |
+| EVT-148 | Chiều 11/3/HC 703 | Rễ thức quật gãy hai chân Vharra, bắt đầu "lấy" cô | CHAR-017 | Tất cả | — | ch.27 |
+| EVT-149 | Chiều 11/3/HC 703 | Saerin nắm Sinh Mệnh để cứu hai người đang chết; giọng Mẹ Hát: "Vậy hãy đi, con." | CHAR-019 | CHAR-019 | — | ch.27 |
+| EVT-150 | Chiều 11/3/HC 703 | Saerin được Sinh Mệnh công nhận; bài hát Mẹ Hát làm cả rừng ngủ, tuyết rơi, tiếng kéo dừng | CHAR-019 | Mọi elf, Varkhaz (cảm nhận) | Rừng ngủ; ITEM-003 có chủ | ch.27 |
+| EVT-151 | Tối 11/3/HC 703 | Saerin hồi sinh Kesh (vân đen rút tới cổ tay), chữa chân Vharra; Edran kiệt sức ngã | CHAR-019, 006, 017, 001 | Họ | — | ch.27 |
 
 ## Cách ghi
 

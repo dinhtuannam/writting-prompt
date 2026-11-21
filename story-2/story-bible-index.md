@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 26 (EVT-144)
-- **Chương tiếp theo cần viết:** 27
+- **Canon cập nhật đến:** Chương 27 (EVT-151)
+- **Chương tiếp theo cần viết:** 28
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -166,6 +166,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 024 | COMPLETE | Lửa Và Sét | — | `summaries/chapters/chapter-024.md` | EVT-132 |
 | Chapter 025 | COMPLETE | Rừng Thức | — | `summaries/chapters/chapter-025.md` | EVT-138 |
 | Chapter 026 | COMPLETE | Tâm Rừng | — | `summaries/chapters/chapter-026.md` | EVT-144 |
+| Chapter 027 | COMPLETE | Lòng Trắc Ẩn | — | `summaries/chapters/chapter-027.md` | EVT-151 |
 
 ## Ranh giới sáng tạo
 

@@ -44,6 +44,7 @@ _Đồng bộ đến chương 10._
 - Ch.24 – (POV Kesh) Vharra bắt Lucien làm con tin, ép dân Charbonne đốt cả mép nam; Kesh mở xích thả thằng bé; rừng thức dữ, rễ quật làng; Người Tỉa giữ rễ bằng thân mình, Vharra giết một người, Kesh hét bắt dừng; Vharra xích Kesh và ra tối hậu thư: kẻ cầm kiếm phải ra trước khi trời sáng hai lần (EVT-128→132).
 - Ch.25 – Oiren đọc vòng 31 cho cả Hội đồng; Thalvane thừa nhận đã giữ thù hận để elf tiếp tục cắt tỉa; Merewen phản bác và nhận giữ Ghessa; rừng thức lan vào ăn Ithaelwen; Saerin tự ra khỏi phòng giam, cùng Edran, Ysolde, Ilen theo lối rễ tới Tâm Rừng; Vharra đã vào rừng, đốt đường về phía Tâm Rừng (EVT-133→138).
 - Ch.26 – Saerin hát ru mở lối rễ; Tâm Rừng – vòng rừng duy nhất còn ngủ, có tuyết và im lặng; Sinh Mệnh nằm trên rễ cây cổ nhất, mười một thi thể không mục; Saerin dừng lại vì thấy mình muốn lấy; Vharra tới, sét yếu trong vòng ngủ, Kesh nghe tiếng hát qua tay cháy; Vharra bước ra ngoài và đánh cột sét xuống cây cổ nhất (EVT-139→144).
+- Ch.27 – Sét xé cây cổ nhất, vòng ngủ co lại; Edran ra ngoài đối đầu Vharra, sét trượt khỏi ánh sáng Bình Minh; Kesh kéo xích hứng sét, tim ngừng; rễ ghim Vharra; Saerin nắm Sinh Mệnh để cứu hai kẻ thù – 'Vậy hãy đi, con' – được công nhận, bài hát của Mẹ Hát ru cả rừng ngủ, tuyết rơi; Kesh sống lại, tay hồi tới cổ tay (EVT-145→151).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính
