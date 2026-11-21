@@ -126,6 +126,12 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-130 | Khuya 10/3/HC 703 | Sét đốt mép nam; rừng thức, rễ quật Charbonne: 5 nhà đổ, 3 lò than nổ, nhiều người chết | CHAR-017 | Tất cả | Charbonne tàn phá một nửa | ch.24 |
 | EVT-131 | Khuya 10/3/HC 703 | Người Tỉa giữ rễ bằng thân mình; Vharra giết một Người Tỉa; Kesh hét, Vharra dừng | Người Tỉa, CHAR-017, CHAR-006 | Họ | — | ch.24 |
 | EVT-132 | Khuya 10/3/HC 703 | Vharra xích Kesh; ra tối hậu thư: kẻ cầm kiếm phải ra trước khi trời sáng hai lần | CHAR-017, Aelith | Elf | THREAD-025 | ch.24 |
+| EVT-133 | Rạng sáng 11/3/HC 703 | Elf cảm thấy rừng đau qua rễ; Người Tỉa tới mép nam qua lối rễ | — | Elf | — | ch.25 |
+| EVT-134 | Sáng 11/3/HC 703 | Hội đồng khẩn; Thalvane muốn giao Edran; Edran phản đối | CHAR-001, Thalvane | Hội đồng | — | ch.25 |
+| EVT-135 | Sáng 11/3/HC 703 | Oiren đọc vòng 31 công khai; Thalvane thừa nhận giữ thù hận có chủ đích | Oiren, Thalvane | Mọi elf Ithaelwen | Elf biết sự thật về Mẹ Hát | ch.25 |
+| EVT-136 | Sáng 11/3/HC 703 | Rừng thức lan vào Ithaelwen, rễ ăn tầng 3–5; Hội đồng tan, mọi người xuống cắt tỉa | — | Elf | Ithaelwen nguy cấp | ch.25 |
+| EVT-137 | Sáng 11/3/HC 703 | Merewen nhận giữ Ghessa; Saerin tự rời phòng giam, đi cùng Edran, Ysolde, Ilen vào lối rễ hướng Tâm Rừng | CHAR-019, Merewen | Họ | — | ch.25 |
+| EVT-138 | Sáng 11/3/HC 703 | Tin qua rễ: Vharra đã vào rừng, đốt đường bằng sét về phía Tâm Rừng | CHAR-017 | Elf, nhóm Edran | Cuộc đua tới Tâm Rừng | ch.25 |
 
 ## Cách ghi
 
