@@ -95,6 +95,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-099 | 16/2/HC 703 | Ysolde + nguyên kiếm của Edran làm gãy cầu băng; 5 lính đánh thuê trôi đi; Ruhl rơi xuống sông | CHAR-001, CHAR-005 | — | — | ch.17 |
 | EVT-100 | 16/2/HC 703 | Ysolde dừng dòng nước; Edran và Ysolde kéo Ruhl lên; lính đánh thuê bỏ đi; mất con lừa | CHAR-001, 005, 018 | Họ | Ruhl nợ mạng; cần ~1 tuần hồi phục | ch.17 |
 | EVT-101 | Đêm 16/2/HC 703 | Brunn mang thư của Ansgar và thư của Lise tới | CHAR-001, Brunn | Họ | THREAD-016 | ch.17 |
+| EVT-102 | 17/2/HC 703 | Brunn đưa túi tiền rồi về Durnholm mang thư thứ hai của Edran cho Lise | CHAR-001, Brunn | Họ | Edran có tiền | ch.18 |
+| EVT-103 | ~27/2/HC 703 | Tới làng Charbonne; mép rừng elf đang "ăn" làng; dân đốt mép rừng | CHAR-001, CHAR-005 | — | — | ch.18 |
+| EVT-104 | ~28/2/HC 703 | Người Tỉa bắn Lucien bằng mũi tên Mộc mọc rễ | Aelith, Lucien | Làng, CHAR-001, 005 | — | ch.18 |
+| EVT-105 | ~28/2/HC 703 | Edran đứng giữa dân làng và Người Tỉa, không rút kiếm | CHAR-001 | Họ | — | ch.18 |
+| EVT-106 | ~28/2/HC 703 | Saerin rút mũi tên Mộc, chữa cho Lucien; bị gọi là kẻ bị trục xuất; nhận ra mùi bao kiếm; mời tới trạm lều | CHAR-019 | Làng, CHAR-001, 005, Người Tỉa | Gặp ứng viên Sinh Mệnh | ch.18 |
 
 ## Cách ghi
 

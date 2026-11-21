@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 17 (EVT-101)
-- **Chương tiếp theo cần viết:** 18
+- **Canon cập nhật đến:** Chương 18 (EVT-106)
+- **Chương tiếp theo cần viết:** 19
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -157,6 +157,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 015 | COMPLETE | Biên Giới Caldrenne | — | `summaries/chapters/chapter-015.md` | EVT-089 |
 | Chapter 016 | COMPLETE | Kharrun | — | `summaries/chapters/chapter-016.md` | EVT-095 |
 | Chapter 017 | COMPLETE | Lệnh Truy Nã | — | `summaries/chapters/chapter-017.md` | EVT-101 |
+| Chapter 018 | COMPLETE | Mép Rừng | — | `summaries/chapters/chapter-018.md` | EVT-106 |
 
 ## Ranh giới sáng tạo
 

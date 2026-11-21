@@ -35,6 +35,7 @@ _Đồng bộ đến chương 10._
 - Ch.15 – (Quyển II) Qua Caldrenne giàu có mà không ra trận; nhà thờ bảy anh hùng mặt người Caldrenne; mua kiếm lính để tập, lần đầu dùng nguyên kiếm gió cắt thừng; cầu thu thuế phân biệt người Arvend, Vaelthar trả bằng bạc cổ; Vaelthar rời đi, khắc lời nhắn 'rừng đã mất người giữ nhịp' (EVT-085→089).
 - Ch.16 – (POV Kesh) Hai tay cháy đen, gần mất phép; Dhurgal tha và giấu việc Kesh kéo phản phệ; về Kharrun gặp vợ con qua song sắt; diện kiến Varkhaz – thân đầy vết nứt rỉ sáng, nói về 'bảy cái khóa', nhớ Selm; giao Vharra Nanh Sét săn Bình Minh, Kesh đi cùng; một nhân tộc đeo bảy nhẫn đá thử nguyên ra vào Sảnh Kính (EVT-090→095).
 - Ch.17 – Tuyên cáo ở Lisseuil: Edran thành kẻ phản nghịch, thưởng 500 mark; Người Thu Hồi Tamsin Ruhl (Băng) của Vòng Tháp chặn bắt; Bình Minh bẻ băng trói, cầu băng gãy, Ysolde suýt để Ruhl chết đuối rồi cùng Edran kéo bà ta lên; mất con lừa; Brunn mang thư của Bá tước và của Lise tới (EVT-096→101).
+- Ch.18 – Brunn về Durnholm; tới làng đốt than Charbonne bị rừng elf 'ăn' dần; rừng không ngủ, mạch sáng loạn nhịp; Người Tỉa bắn Lucien bằng mũi tên Mộc mọc rễ; Edran đứng giữa không rút kiếm; elf bị trục xuất Saerin rút mũi tên, chữa thằng bé, nhận ra mùi bao kiếm (EVT-102→106).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính
