@@ -145,6 +145,13 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-149 | Chiều 11/3/HC 703 | Saerin nắm Sinh Mệnh để cứu hai người đang chết; giọng Mẹ Hát: "Vậy hãy đi, con." | CHAR-019 | CHAR-019 | — | ch.27 |
 | EVT-150 | Chiều 11/3/HC 703 | Saerin được Sinh Mệnh công nhận; bài hát Mẹ Hát làm cả rừng ngủ, tuyết rơi, tiếng kéo dừng | CHAR-019 | Mọi elf, Varkhaz (cảm nhận) | Rừng ngủ; ITEM-003 có chủ | ch.27 |
 | EVT-151 | Tối 11/3/HC 703 | Saerin hồi sinh Kesh (vân đen rút tới cổ tay), chữa chân Vharra; Edran kiệt sức ngã | CHAR-019, 006, 017, 001 | Họ | — | ch.27 |
+| EVT-152 | Đêm 11 → sáng 12/3/HC 703 | Thợ săn cuối cùng kéo Vharra (đã được chữa một phần) ra khỏi Tâm Rừng về phía nam | CHAR-017 | Phát hiện sáng 12/3 | Vharra sống | ch.28 |
+| EVT-153 | 12/3/HC 703 | Edran nhặt mảnh kính đen; Thalvane và hàng chục elf đi bộ tới Tâm Rừng, quỳ trước Saerin | CHAR-001, Thalvane | Elf | ITEM-016 | ch.28 |
+| EVT-154 | Tối 12/3/HC 703 | Hội đồng mời Saerin ngồi ghế thứ bảy làm người giữ nhịp; Saerin từ chối, hứa về hát mỗi mùa thu | CHAR-019 | Hội đồng | — | ch.28 |
+| EVT-155 | Tối 12/3/HC 703 | Hội đồng 4–2 để Saerin đi; Thalvane bỏ phiếu cuối | Hội đồng | Elf | Saerin đi cùng Edran | ch.28 |
+| EVT-156 | Sáng 13/3/HC 703 | 11 người chết được trả về rễ theo nghi thức cổ | CHAR-019 | Elf, Edran | — | ch.28 |
+| EVT-157 | 13/3/HC 703 | Hội đồng: Edran, Ysolde là khách của rừng; Ghessa ở nhà Merewen; Kesh tự do rời đi | Hội đồng | Tất cả | — | ch.28 |
+| EVT-158 | Đêm 13/3/HC 703 | Bản đồ hai dấu sáng; Kesh tỉnh, cảnh báo mảnh kính là mắt của Varkhaz | CHAR-001, 006 | Họ | THREAD-026 | ch.28 |
 
 ## Cách ghi
 

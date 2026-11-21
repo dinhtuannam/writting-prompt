@@ -45,6 +45,7 @@ _Đồng bộ đến chương 10._
 - Ch.25 – Oiren đọc vòng 31 cho cả Hội đồng; Thalvane thừa nhận đã giữ thù hận để elf tiếp tục cắt tỉa; Merewen phản bác và nhận giữ Ghessa; rừng thức lan vào ăn Ithaelwen; Saerin tự ra khỏi phòng giam, cùng Edran, Ysolde, Ilen theo lối rễ tới Tâm Rừng; Vharra đã vào rừng, đốt đường về phía Tâm Rừng (EVT-133→138).
 - Ch.26 – Saerin hát ru mở lối rễ; Tâm Rừng – vòng rừng duy nhất còn ngủ, có tuyết và im lặng; Sinh Mệnh nằm trên rễ cây cổ nhất, mười một thi thể không mục; Saerin dừng lại vì thấy mình muốn lấy; Vharra tới, sét yếu trong vòng ngủ, Kesh nghe tiếng hát qua tay cháy; Vharra bước ra ngoài và đánh cột sét xuống cây cổ nhất (EVT-139→144).
 - Ch.27 – Sét xé cây cổ nhất, vòng ngủ co lại; Edran ra ngoài đối đầu Vharra, sét trượt khỏi ánh sáng Bình Minh; Kesh kéo xích hứng sét, tim ngừng; rễ ghim Vharra; Saerin nắm Sinh Mệnh để cứu hai kẻ thù – 'Vậy hãy đi, con' – được công nhận, bài hát của Mẹ Hát ru cả rừng ngủ, tuyết rơi; Kesh sống lại, tay hồi tới cổ tay (EVT-145→151).
+- Ch.28 – Rừng ngủ đến khi tuyết tan; Vharra bị thợ săn cuối cùng kéo đi, để lại mảnh kính đen; elf quỳ trước Saerin; Hội đồng mời cô làm người giữ nhịp, cô từ chối và hứa về hát mỗi mùa thu; Thalvane bỏ phiếu để cô đi; mười một người được trả về rễ; Edran thành khách của rừng; Kesh tỉnh, cảnh báo mảnh kính là mắt của Ma thần (EVT-152→158).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính
