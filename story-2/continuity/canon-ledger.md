@@ -109,6 +109,10 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-113 | Đêm ~5/3/HC 703 | Kesh chỉ sai hướng cho Vharra, cho Edran một nhịp thở; nhóm Edran vào rừng | CHAR-006 | Vharra, Edran, Saerin | — | ch.20 |
 | EVT-114 | Đêm ~5/3/HC 703 | Cột sét của Vharra đánh thức rừng; rễ quật bờ suối, 2 thợ săn chết, rừng mép nam cháy | CHAR-017 | Tất cả | Rừng thức dữ hơn | ch.20 |
 | EVT-115 | Đêm ~5/3/HC 703 | Aelith và Người Tỉa bắt Edran, Ysolde, Saerin, Ghessa; nhận đứa trẻ elf; cấm chạm bao kiếm | Aelith | Elf | Tù nhân của elf; THREAD-023 | ch.20 |
+| EVT-116 | 6 → 7/3/HC 703 | Bị giải xuyên rừng hai ngày, trói bằng dây leo; Ilen giúp Edran | CHAR-001, 005, 019, 022, Ilen | Họ | — | ch.21 |
+| EVT-117 | 7/3/HC 703, chiều | Tới Ithaelwen; thấy tầng thấp bị rễ nuốt và những đống gỗ tỉa không được đốt | CHAR-001 | — | Ý tưởng gỗ tỉa → than | ch.21 |
+| EVT-118 | 7/3/HC 703 | Saerin lên thân cây phía đông; Ghessa tới thân cây phía tây; Edran và Ysolde bị nhốt trong lồng rễ | — | — | Chờ Hội đồng | ch.21 |
+| EVT-119 | Đêm 7/3/HC 703 | Mẹ của Fenn mang nước, báo Fenn khỏi sốt nhờ Saerin | Mẹ Fenn | CHAR-001 | Mầm thiện cảm trong elf | ch.21 |
 
 ## Cách ghi
 

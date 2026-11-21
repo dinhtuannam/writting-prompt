@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 20 (EVT-115)
-- **Chương tiếp theo cần viết:** 21
+- **Canon cập nhật đến:** Chương 21 (EVT-119)
+- **Chương tiếp theo cần viết:** 22
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -160,6 +160,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 018 | COMPLETE | Mép Rừng | — | `summaries/chapters/chapter-018.md` | EVT-106 |
 | Chapter 019 | COMPLETE | Saerin | — | `summaries/chapters/chapter-019.md` | EVT-110 |
 | Chapter 020 | COMPLETE | Kẻ Săn Sét | — | `summaries/chapters/chapter-020.md` | EVT-115 |
+| Chapter 021 | COMPLETE | Thành Rễ | — | `summaries/chapters/chapter-021.md` | EVT-119 |
 
 ## Ranh giới sáng tạo
 
