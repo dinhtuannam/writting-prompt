@@ -11,8 +11,8 @@
 - **Bản sao seed trong novel:** `seed.md` (giữ nguyên, không chỉnh sửa; diễn giải phát triển ghi ở premise/decision log)
 - **AI creative authority:** FULL_WITHIN_SEED_AND_HARD_CONSTRAINTS
 - **Trạng thái dự án:** DRAFTING
-- **Canon cập nhật đến:** Chương 23 (EVT-127)
-- **Chương tiếp theo cần viết:** 24
+- **Canon cập nhật đến:** Chương 24 (EVT-132)
+- **Chương tiếp theo cần viết:** 25
 - **Index cập nhật lần cuối:** 2026-11-21
 - **Conflict đang chặn tiến độ:** không có
 
@@ -163,6 +163,7 @@ Không tái sử dụng ID đã retired.
 | Chapter 021 | COMPLETE | Thành Rễ | — | `summaries/chapters/chapter-021.md` | EVT-119 |
 | Chapter 022 | COMPLETE | Hội Đồng Rễ | — | `summaries/chapters/chapter-022.md` | EVT-123 |
 | Chapter 023 | COMPLETE | Kho Ký Ức | — | `summaries/chapters/chapter-023.md` | EVT-127 |
+| Chapter 024 | COMPLETE | Lửa Và Sét | — | `summaries/chapters/chapter-024.md` | EVT-132 |
 
 ## Ranh giới sáng tạo
 

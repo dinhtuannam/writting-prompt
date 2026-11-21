@@ -41,6 +41,7 @@ _Đồng bộ đến chương 10._
 - Ch.21 – Bị giải xuyên rừng sâu tới Ithaelwen – thành phố mọc trong bảy thân cây, tầng thấp bị rễ nuốt, quanh chân là đồi gỗ tỉa không được đốt; elf cắt tỉa ngày đêm và trả giá bằng thân thể; Edran, Ysolde bị nhốt lồng rễ; Ysolde: cả khu rừng đang sốt bảy trăm năm; mẹ của Fenn mang nước cảm ơn (EVT-116→119).
 - Ch.22 – Hội đồng Bảy Gốc với ghế thứ bảy trống (Seravel chết khi thử kiếm); Thalvane buộc tội; Oiren nhắc vòng gỗ ký ức thứ 31 bị phong; phán: trục xuất Edran, thả Ghessa về phía Vharra, chặt cây cổ nhất sau 3 ngày, phán Saerin 'trả về rễ' hòa 3–3 nên hoãn; nửa đêm Oiren mở lồng dẫn đi xem vòng 31 (EVT-120→123).
 - Ch.23 – Oiren dẫn xuống Đĩa Ký Ức; vòng 31 do chính Mẹ Hát khắc: bà là rồng Mộc, bảy rồng bảy nguyên tố, bảy anh hùng gồm elf Aenwe và những hình có sừng; lời cuối của Mẹ Hát – bà và em gái 'người lạnh' trở thành bảy câu hỏi; tin mép nam đang cháy do ma tộc ép dân Charbonne đốt (EVT-124→127).
+- Ch.24 – (POV Kesh) Vharra bắt Lucien làm con tin, ép dân Charbonne đốt cả mép nam; Kesh mở xích thả thằng bé; rừng thức dữ, rễ quật làng; Người Tỉa giữ rễ bằng thân mình, Vharra giết một người, Kesh hét bắt dừng; Vharra xích Kesh và ra tối hậu thư: kẻ cầm kiếm phải ra trước khi trời sáng hai lần (EVT-128→132).
 <!-- events-end -->
 
 ## Trạng thái nhân vật chính

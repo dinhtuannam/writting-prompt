@@ -121,6 +121,11 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-125 | Đêm 10/3/HC 703 | Vòng 31 (do Mẹ Hát khắc): bảy rồng bảy nguyên tố, thứ bị cạo ở giữa, bảy anh hùng gồm elf Aenwe, hình có sừng, hình có bờm, người cầm Bình Minh tóc tro bị cào đầu | Oiren | CHAR-001, 005 | REV-002/003 hé | ch.23 |
 | EVT-126 | Đêm 10/3/HC 703 | Lời Mẹ Hát: bà và em gái "người lạnh" trở thành bảy câu hỏi; chấm dứt chiến tranh bằng quyết định ngày hôm sau; đừng ghét những người đến từ khắp nơi | Oiren | CHAR-001, 005 | Edran hiểu nguồn gốc kiếm | ch.23 |
 | EVT-127 | Rạng sáng 11/3/HC 703 | Ilen báo mép nam cháy do ma tộc ép dân Charbonne đốt; rừng thức dữ; Thalvane muốn giao Edran cho kẻ săn | Ilen | CHAR-001, 005, Oiren | — | ch.23 |
+| EVT-128 | Chiều 10/3/HC 703 | Vharra chiếm Charbonne, bắt Lucien làm con tin, ép dân đốt toàn bộ mép nam | CHAR-017, Gaspard | Làng, Kesh | — | ch.24 |
+| EVT-129 | Khuya 10/3/HC 703 | Kesh thả Lucien chạy vào rừng báo tin | CHAR-006, Lucien | Lucien, (Vharra biết sau) | — | ch.24 |
+| EVT-130 | Khuya 10/3/HC 703 | Sét đốt mép nam; rừng thức, rễ quật Charbonne: 5 nhà đổ, 3 lò than nổ, nhiều người chết | CHAR-017 | Tất cả | Charbonne tàn phá một nửa | ch.24 |
+| EVT-131 | Khuya 10/3/HC 703 | Người Tỉa giữ rễ bằng thân mình; Vharra giết một Người Tỉa; Kesh hét, Vharra dừng | Người Tỉa, CHAR-017, CHAR-006 | Họ | — | ch.24 |
+| EVT-132 | Khuya 10/3/HC 703 | Vharra xích Kesh; ra tối hậu thư: kẻ cầm kiếm phải ra trước khi trời sáng hai lần | CHAR-017, Aelith | Elf | THREAD-025 | ch.24 |
 
 ## Cách ghi
 
