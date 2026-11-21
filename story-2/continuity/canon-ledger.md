@@ -100,6 +100,10 @@ Danh sách các thay đổi quan trọng đã thành sự thật; mỗi dòng c�
 | EVT-104 | ~28/2/HC 703 | Người Tỉa bắn Lucien bằng mũi tên Mộc mọc rễ | Aelith, Lucien | Làng, CHAR-001, 005 | — | ch.18 |
 | EVT-105 | ~28/2/HC 703 | Edran đứng giữa dân làng và Người Tỉa, không rút kiếm | CHAR-001 | Họ | — | ch.18 |
 | EVT-106 | ~28/2/HC 703 | Saerin rút mũi tên Mộc, chữa cho Lucien; bị gọi là kẻ bị trục xuất; nhận ra mùi bao kiếm; mời tới trạm lều | CHAR-019 | Làng, CHAR-001, 005, Người Tỉa | Gặp ứng viên Sinh Mệnh | ch.18 |
+| EVT-107 | 28/2/HC 703 | Tại trạm lều Saerin: Edran gặp Ghessa (ma tộc đào ngũ); Ghessa hát bài Lửa Tổ ru đứa trẻ elf | CHAR-001, CHAR-022 | Họ | — | ch.19 |
+| EVT-108 | Đêm 1/3/HC 703 | Saerin kể lý do bị trục xuất (chữa 9 người ngoài trong rừng, HC 700) | CHAR-019 | CHAR-001, 005 | — | ch.19 |
+| EVT-109 | Đêm 1/3/HC 703 | Saerin kể về Mẹ Hát, vòng ngủ quanh Sinh Mệnh, 11 ứng viên chết, Hội đồng định chặt cây cổ nhất | CHAR-019 | CHAR-001, 005 | THREAD-022 | ch.19 |
+| EVT-110 | Đêm 1/3/HC 703 | Saerin nhận ra Bình Minh; giải thích vì sao chưa thử Sinh Mệnh; hứa sẽ nghĩ | CHAR-019, CHAR-001 | Họ | — | ch.19 |
 
 ## Cách ghi
 

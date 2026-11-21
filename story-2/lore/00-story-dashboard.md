@@ -17,9 +17,9 @@
 
 - **Trạng thái:** DRAFTING
 - **Arc hiện tại:** ARC-002 – Quyển II: Rừng Không Ngủ (ARC-001 COMPLETE)
-- **Số chương hoàn chỉnh đã audit:** 18
-- **Chương đang soạn:** 19
-- **Mốc tiếp theo:** Viết chương 19
+- **Số chương hoàn chỉnh đã audit:** 19
+- **Chương đang soạn:** 20
+- **Mốc tiếp theo:** Viết chương 20
 - **Quyết định đột phá đang chờ tác giả:** không có
 
 ## Logline
